@@ -1,0 +1,179 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1157",
+  "title": "establish a task force for the purpose of studying aquatic invasive species infestations, to make an appropriation therefor, and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation",
+    "Emergency Clause",
+    "Environmental Protection",
+    "Fishing",
+    "Legislative Study",
+    "Reports",
+    "Uncodified Acts"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-hb1157"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in House and referred to House Agriculture and Natural Resources H.J. 163",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing H.J. 1",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Agriculture and Natural Resources Do Pass , Passed, YEAS 4, NAYS 9 H.J. 13",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Agriculture and Natural Resources Deferred to the 41st legislative day , Passed, YEAS 9, NAYS 4 H.J. 13",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Goodwin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Goodwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeGroot",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"DeGroot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Roby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Uhre-Balk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Uhre-Balk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Van Diepen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Van Diepen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zikmund",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zikmund\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26555/298161",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/298161.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26555",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26555",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:04Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 346 Amendment 1062A",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26957",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26957",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1062"
+}

@@ -1,0 +1,583 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1082",
+  "title": "establish parameters for the reimbursement of school districts that provide free or reduced-price meals to students.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education",
+    "School Districts",
+    "State Aid to Education",
+    "Students"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-hb1082"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in House and referred to House Education H.J. 42",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Referred to , Passed, House Committee on Appropriations YEAS 13, NAYS 1 H.J. 4",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing H.J. 1",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Fiscal Note Requested , Passed,",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing H.J. 1",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Committee on Appropriations Motion to amend , Passed, Amendment 1082B",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Committee on Appropriations Do Pass Amended , Passed, YEAS 7, NAYS 2",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass Amended , Passed, YEAS 46, NAYS 20 H.J. 427",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "First read in Senate and referred to Senate Education S.J. 398",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Education Do Pass , Passed, YEAS 5, NAYS 2",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Referred to , Passed, Senate Committee on Appropriations S.J. 443",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing S.J. 1",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Committee on Appropriations Tabled , Passed, YEAS 5, NAYS 4 S.J. 9",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Recalled from committee (Rule 7-7) , Passed, S.J. 480",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Committee on Appropriations Report out of committee without recommendation , Passed,",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 20, NAYS 14 S.J. 489",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass Amended , Passed, YEAS 20, NAYS 14 S.J. 490",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 553",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 526",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-03-12 H.J. 562",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-03-30 H.J. 580",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wipf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Wipf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wittman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wittman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andera",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Andera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bahmuller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bahmuller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeGroot",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"DeGroot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emery",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emery\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Goodwin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Goodwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Healy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Healy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heermann",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heermann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hughes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hughes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kull",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kull\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Muckey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Muckey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Perry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Perry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pourier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pourier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rohl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rohl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schoenfish",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schoenfish\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stevens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stevens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Uhre-Balk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Uhre-Balk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vilhauer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Vilhauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walburg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Walburg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zikmund",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zikmund\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26516/294942",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/294942.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-16",
+      "classification": ""
+    },
+    {
+      "note": "House Appropriations Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26516/304613",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/304613.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26516/306549",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306549.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-10",
+      "classification": ""
+    },
+    {
+      "note": "1082B",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/304487.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26516",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26516",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:04Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 28, NAYS 6 S.J. 310",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27075",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27075",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 175"
+}

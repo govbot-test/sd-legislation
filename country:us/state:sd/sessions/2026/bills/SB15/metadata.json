@@ -1,0 +1,412 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 15",
+  "title": "create the Developmental Disability Service Delivery Committee.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Developmentally Disabled Persons",
+    "Interim Legislative Committee Bill",
+    "Legislative Oversight",
+    "Legislative Study",
+    "Legislature and Statutes",
+    "Sunset Clause"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb15"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate Health and Human Services S.J. 13",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing S.J. 1",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Health and Human Services Motion to amend , Passed, S.J. 7 Amendment 15B",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Health and Human Services Do Pass Amended , Passed, YEAS 7, NAYS 0 S.J. 7",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass Amended , Passed, YEAS 33, NAYS 1 S.J. 182",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "First Reading House H.J. 238",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Referred to House Health and Human Services H.J. 247",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Health and Human Services Do Pass , Passed, YEAS 11, NAYS 0",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Certified uncontested, placed on consent , Passed,",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Remove from Consent Calendar H.J. 470",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "House of Representatives Motion to amend , Passed, H.J. 486 Amendment 15C",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass Amended , Passed, YEAS 67, NAYS 0 H.J. 487",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Senate Concurred in amendments , Passed, YEAS 33, NAYS 1 S.J. 478",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 505",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 553",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-03-11 S.J. 520",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-03-30 S.J. 549",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Heinemann",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heinemann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Karr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baxter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Baxter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mulder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mulder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Uhre-Balk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Uhre-Balk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Voita",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Voita\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26429/292090",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/292090.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-01",
+      "classification": ""
+    },
+    {
+      "note": "Senate Health and Human Services Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26429/299999",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/299999.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    },
+    {
+      "note": "House Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26429/306119",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306119.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26429/306426",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306426.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
+    },
+    {
+      "note": "15B",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/299302.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "15C",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/305842.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26429",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26429",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:04Z"
+  }
+}

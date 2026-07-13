@@ -1,0 +1,392 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 175",
+  "title": "require that an individual provide proof of citizenship when registering to vote and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections",
+    "Emergency Clause",
+    "Residency",
+    "Voting"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb175"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate State Affairs S.J. 141",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "State Affairs Motion to amend , Passed, S.J. 23 Amendment 175C",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 3 S.J. 23",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Recalled from committee (Rule 7-7) , Passed, S.J. 269",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "State Affairs Report out of committee without recommendation as amended , Passed,",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 28, NAYS 6 S.J. 310",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Senate Motion to amend , Passed, S.J. 315 Amendment 175D",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass Amended , Passed, YEAS 28, NAYS 6 S.J. 315",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "First read in House and referred to House State Affairs H.J. 387",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "State Affairs Do Pass , Passed, YEAS 11, NAYS 1",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass Amended , Passed, YEAS 64, NAYS 3 H.J. 513",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 485",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 543",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-03-10 S.J. 510",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-03-30 S.J. 550",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baxter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Baxter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ismay",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ismay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jensen (Phil)",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jensen (Phil)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Perry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Perry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sjaarda",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sjaarda\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/27075/299323",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/299323.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-29",
+      "classification": ""
+    },
+    {
+      "note": "Senate State Affairs Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/27075/303627",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/303627.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": ""
+    },
+    {
+      "note": "Senate Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/27075/304148",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/304148.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/27075/306296",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306296.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "175C",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/302621.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "175D",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/303751.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/27075",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/27075",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:04Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "b7c31672-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 90",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Rehfeldt",
+      "voter_id": "~{\"name\": \"Rehfeldt\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Fosness",
+      "voter_id": "~{\"name\": \"Fosness\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Halverson",
+      "voter_id": "~{\"name\": \"Halverson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jordan",
+      "voter_id": "~{\"name\": \"Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emery",
+      "voter_id": "~{\"name\": \"Emery\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Andera",
+      "voter_id": "~{\"name\": \"Andera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kayser",
+      "voter_id": "~{\"name\": \"Kayser\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schaefbauer",
+      "voter_id": "~{\"name\": \"Schaefbauer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manhart",
+      "voter_id": "~{\"name\": \"Manhart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Baxter",
+      "voter_id": "~{\"name\": \"Baxter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heinemann",
+      "voter_id": "~{\"name\": \"Heinemann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mulder",
+      "voter_id": "~{\"name\": \"Mulder\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 3
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84307",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84307"
+}

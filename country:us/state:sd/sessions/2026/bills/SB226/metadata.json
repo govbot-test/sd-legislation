@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 226",
+  "title": "increase a limit on video lottery gaming, and to deposit moneys into a new fund.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fund",
+    "Gambling",
+    "Lottery",
+    "Property Tax",
+    "Tax Exemptions and Refunds",
+    "Taxation",
+    "Transfer of Moneys"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb226"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate Commerce and Energy S.J. 179",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Motion to amend , Passed, Amendment 226A",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Deferred to the 41st legislative day , Passed, YEAS 8, NAYS 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schoenfish",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schoenfish\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weisgram",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Weisgram\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/27194/301156",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/301156.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    },
+    {
+      "note": "226A",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/303832.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/27194",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/27194",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:04Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Judiciary Motion to amend , Passed, S.J. 17 Amendment 139A",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26440",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26440",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 139"
+}

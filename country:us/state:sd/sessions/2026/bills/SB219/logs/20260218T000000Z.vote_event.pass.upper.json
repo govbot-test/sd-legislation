@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "8dee4ef6-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 219",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hohn",
+      "voter_id": "~{\"name\": \"Hohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larson",
+      "voter_id": "~{\"name\": \"Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nelson",
+      "voter_id": "~{\"name\": \"Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rohl",
+      "voter_id": "~{\"name\": \"Rohl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schoenfish",
+      "voter_id": "~{\"name\": \"Schoenfish\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sauder",
+      "voter_id": "~{\"name\": \"Sauder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deibert",
+      "voter_id": "~{\"name\": \"Deibert\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83804",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83804"
+}

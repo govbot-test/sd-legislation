@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass Amended , Passed, YEAS 3, NAYS 10 H.J. 15",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26847",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26847",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1122"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Remove from Consent Calendar S.J. 67",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26677",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26677",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 24"
+}

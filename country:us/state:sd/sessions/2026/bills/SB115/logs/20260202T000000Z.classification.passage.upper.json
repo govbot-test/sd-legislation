@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 19, NAYS 15 S.J. 163",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26431",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 115"
+}

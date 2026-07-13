@@ -1,0 +1,326 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1038",
+  "title": "allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Procedure",
+    "Court Costs",
+    "Data Centers",
+    "Executive/Judiciary Request",
+    "Fund",
+    "Public Utilities and Carriers"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-hb1038"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in House and referred to House Commerce and Energy H.J. 11",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Motion to amend , Passed, H.J. 11 Amendment 1038A",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Do Pass Amended , Passed, YEAS 12, NAYS 0 H.J. 11",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass Amended , Passed, YEAS 60, NAYS 5 H.J. 196",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "First read in Senate and referred to Senate Commerce and Energy S.J. 170",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing S.J. 1",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Motion to amend , Passed, Amendment 1038C",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Commerce and Energy Do Pass Amended , Passed, YEAS 7, NAYS 2",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass Amended , Passed, YEAS 32, NAYS 2 S.J. 494",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "House of Representatives Concurred in amendments , Passed, YEAS 67, NAYS 0 H.J. 548",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 560",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 528",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2026-03-12 H.J. 574",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2026-03-30 H.J. 579",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Commerce and Energy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"Commerce and Energy\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26923/293025",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/293025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-07",
+      "classification": ""
+    },
+    {
+      "note": "House Commerce and Energy Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26923/298812",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/298812.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    },
+    {
+      "note": "Senate Commerce and Energy Engrossed",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26923/306396",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306396.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26923/306633",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/306633.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-11",
+      "classification": ""
+    },
+    {
+      "note": "1038A",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/297052.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "1038C",
+      "links": [
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/305117.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26923",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26923",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:03Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Commerce and Energy Do Pass , Passed, YEAS 9, NAYS 3 H.J. 11",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26690",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26690",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 64"
+}

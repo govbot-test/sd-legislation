@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Commerce and Energy Motion to amend , Passed, H.J. 13 Amendment 1231A",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26843",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26843",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1231"
+}

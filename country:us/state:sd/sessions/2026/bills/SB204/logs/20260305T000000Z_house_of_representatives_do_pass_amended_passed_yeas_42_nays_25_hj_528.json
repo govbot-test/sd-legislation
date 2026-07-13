@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 42, NAYS 25 H.J. 528",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27131",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27131",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 204"
+}

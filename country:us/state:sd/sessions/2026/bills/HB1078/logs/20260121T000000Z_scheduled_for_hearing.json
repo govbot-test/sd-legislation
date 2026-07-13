@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Scheduled for hearing",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27033",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27033",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1078"
+}

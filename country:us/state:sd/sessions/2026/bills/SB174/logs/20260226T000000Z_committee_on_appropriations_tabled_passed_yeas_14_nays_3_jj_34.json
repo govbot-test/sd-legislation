@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Tabled , Passed, YEAS 14, NAYS 3 J.J. 34",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27138",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27138",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 174"
+}

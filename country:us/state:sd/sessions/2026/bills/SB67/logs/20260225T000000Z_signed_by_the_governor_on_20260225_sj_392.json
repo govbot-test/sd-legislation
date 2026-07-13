@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-02-25 S.J. 392",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26694",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26694",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 67"
+}

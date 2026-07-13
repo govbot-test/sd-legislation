@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 315 Amendment 175D",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27075",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27075",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 175"
+}

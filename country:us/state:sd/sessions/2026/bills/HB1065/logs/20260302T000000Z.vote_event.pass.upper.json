@@ -1,0 +1,82 @@
+{
+  "identifier": "",
+  "motion_text": "Deferred to the 41st legislative day",
+  "motion_classification": [],
+  "start_date": "2026-03-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "654d42f8-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1065",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Grove",
+      "voter_id": "~{\"name\": \"Grove\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Perry",
+      "voter_id": "~{\"name\": \"Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reed",
+      "voter_id": "~{\"name\": \"Reed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jensen (Kevin)",
+      "voter_id": "~{\"name\": \"Jensen (Kevin)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84387",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84387"
+}

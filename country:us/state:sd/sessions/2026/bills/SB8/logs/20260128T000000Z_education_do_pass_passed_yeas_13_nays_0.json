@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Education Do Pass , Passed, YEAS 13, NAYS 0",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26666",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26666",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 8"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 58, NAYS 6 H.J. 433",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26608",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26608",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 31"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 67, NAYS 2 H.J. 541",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27120",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27120",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 219"
+}

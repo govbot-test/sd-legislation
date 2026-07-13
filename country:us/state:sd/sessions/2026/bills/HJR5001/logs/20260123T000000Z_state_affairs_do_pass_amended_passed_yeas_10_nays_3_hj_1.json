@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "State Affairs Do Pass Amended , Passed, YEAS 10, NAYS 3 H.J. 1",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26741",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26741",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 5001"
+}

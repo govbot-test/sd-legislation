@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed by the President S.J. 486",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27085",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27085",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 151"
+}

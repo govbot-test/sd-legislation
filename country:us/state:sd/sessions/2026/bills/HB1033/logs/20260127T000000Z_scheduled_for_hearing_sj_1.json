@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Scheduled for hearing S.J. 1",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26855",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26855",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1033"
+}

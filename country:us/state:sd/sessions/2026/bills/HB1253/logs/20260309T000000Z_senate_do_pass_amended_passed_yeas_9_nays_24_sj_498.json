@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 9, NAYS 24 S.J. 498",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26727",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26727",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1253"
+}

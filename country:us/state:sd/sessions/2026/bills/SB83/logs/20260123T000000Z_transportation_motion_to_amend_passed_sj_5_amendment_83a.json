@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, S.J. 5 Amendment 83A",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26344",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26344",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 83"
+}

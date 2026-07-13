@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to House Judiciary H.J. 194",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26554",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26554",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 82"
+}

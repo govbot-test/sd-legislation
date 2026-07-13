@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, S.J. 7 Amendment 101A",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26912",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26912",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 101"
+}

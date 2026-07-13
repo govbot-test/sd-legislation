@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Adopt Resolution , Passed, YEAS 10, NAYS 3 H.J. 29",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27270",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27270",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6016"
+}

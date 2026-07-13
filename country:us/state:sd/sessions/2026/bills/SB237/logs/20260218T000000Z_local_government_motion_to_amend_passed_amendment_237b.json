@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Local Government Motion to amend , Passed, Amendment 237B",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27218",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27218",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 237"
+}

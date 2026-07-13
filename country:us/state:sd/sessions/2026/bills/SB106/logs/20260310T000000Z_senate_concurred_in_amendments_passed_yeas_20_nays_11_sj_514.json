@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in amendments , Passed, YEAS 20, NAYS 11 S.J. 514",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26733",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26733",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 106"
+}

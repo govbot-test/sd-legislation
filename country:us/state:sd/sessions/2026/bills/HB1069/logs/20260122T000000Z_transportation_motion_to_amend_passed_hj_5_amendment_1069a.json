@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, H.J. 5 Amendment 1069A",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26804",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26804",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1069"
+}

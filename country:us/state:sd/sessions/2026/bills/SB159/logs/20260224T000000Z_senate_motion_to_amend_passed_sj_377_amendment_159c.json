@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 377 Amendment 159C",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26940",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 159"
+}

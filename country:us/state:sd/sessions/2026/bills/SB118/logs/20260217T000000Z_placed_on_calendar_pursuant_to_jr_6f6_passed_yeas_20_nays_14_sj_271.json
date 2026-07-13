@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 20, NAYS 14 S.J. 271",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26494",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26494",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 118"
+}

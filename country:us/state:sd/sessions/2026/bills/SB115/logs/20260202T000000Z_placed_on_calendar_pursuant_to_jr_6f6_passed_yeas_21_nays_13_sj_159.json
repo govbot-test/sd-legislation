@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 21, NAYS 13 S.J. 159",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26431",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 115"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 30, NAYS 3 S.J. 403",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26976",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26976",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1188"
+}

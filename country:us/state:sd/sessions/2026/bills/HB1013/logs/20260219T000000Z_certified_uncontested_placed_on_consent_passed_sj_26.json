@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Certified uncontested, placed on consent , Passed, S.J. 26",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26588",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26588",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1013"
+}

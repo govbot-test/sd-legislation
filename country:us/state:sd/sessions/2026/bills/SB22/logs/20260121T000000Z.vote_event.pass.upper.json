@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-01-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "3ea93a64-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 22",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nelson",
+      "voter_id": "~{\"name\": \"Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Rohl",
+      "voter_id": "~{\"name\": \"Rohl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schoenfish",
+      "voter_id": "~{\"name\": \"Schoenfish\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wipf",
+      "voter_id": "~{\"name\": \"Wipf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duhamel",
+      "voter_id": "~{\"name\": \"Duhamel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reed",
+      "voter_id": "~{\"name\": \"Reed\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/82769",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/82769"
+}

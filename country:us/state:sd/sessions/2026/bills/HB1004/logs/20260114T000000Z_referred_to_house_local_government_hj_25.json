@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to House Local Government H.J. 25",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26722",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26722",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1004"
+}

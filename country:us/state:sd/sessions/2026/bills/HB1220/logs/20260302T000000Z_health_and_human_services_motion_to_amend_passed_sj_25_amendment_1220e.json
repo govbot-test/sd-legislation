@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Health and Human Services Motion to amend , Passed, S.J. 25 Amendment 1220E",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26654",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26654",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1220"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Commerce and Energy Do Pass , Passed, YEAS 5, NAYS 3",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26863",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26863",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 193"
+}

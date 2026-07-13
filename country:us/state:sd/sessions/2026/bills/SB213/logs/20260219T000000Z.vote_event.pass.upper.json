@@ -1,0 +1,82 @@
+{
+  "identifier": "",
+  "motion_text": "Referred to",
+  "motion_classification": [],
+  "start_date": "2026-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "80fb2d04-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 213",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Marty",
+      "voter_id": "~{\"name\": \"Marty\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nelson",
+      "voter_id": "~{\"name\": \"Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Peterson (Sue)",
+      "voter_id": "~{\"name\": \"Peterson (Sue)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sauder",
+      "voter_id": "~{\"name\": \"Sauder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schoenfish",
+      "voter_id": "~{\"name\": \"Schoenfish\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83889",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83889"
+}

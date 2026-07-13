@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "fa7e2a7e-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 124",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Duhamel",
+      "voter_id": "~{\"name\": \"Duhamel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marty",
+      "voter_id": "~{\"name\": \"Marty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wipf",
+      "voter_id": "~{\"name\": \"Wipf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jensen (Kevin)",
+      "voter_id": "~{\"name\": \"Jensen (Kevin)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pischke",
+      "voter_id": "~{\"name\": \"Pischke\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83911",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83911"
+}

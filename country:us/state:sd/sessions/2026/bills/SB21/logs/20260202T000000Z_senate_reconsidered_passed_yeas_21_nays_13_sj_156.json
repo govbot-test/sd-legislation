@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Reconsidered , Passed, YEAS 21, NAYS 13 S.J. 156",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26674",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26674",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 21"
+}

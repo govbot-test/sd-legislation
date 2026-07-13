@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 447 Amendment 111E",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26364",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26364",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 111"
+}

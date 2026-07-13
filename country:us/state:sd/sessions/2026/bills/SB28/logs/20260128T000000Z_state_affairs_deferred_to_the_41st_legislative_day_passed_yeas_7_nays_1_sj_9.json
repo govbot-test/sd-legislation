@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 7, NAYS 1 S.J. 9",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26604",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26604",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 28"
+}

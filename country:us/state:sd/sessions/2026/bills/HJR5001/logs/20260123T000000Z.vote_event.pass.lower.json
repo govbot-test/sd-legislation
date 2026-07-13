@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-01-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "293bbba8-75d8-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HJR 5001",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Soye",
+      "voter_id": "~{\"name\": \"Soye\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bahmuller",
+      "voter_id": "~{\"name\": \"Bahmuller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emery",
+      "voter_id": "~{\"name\": \"Emery\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gosch",
+      "voter_id": "~{\"name\": \"Gosch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hansen",
+      "voter_id": "~{\"name\": \"Hansen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Healy",
+      "voter_id": "~{\"name\": \"Healy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heinemann",
+      "voter_id": "~{\"name\": \"Heinemann\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamison",
+      "voter_id": "~{\"name\": \"Jamison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lems",
+      "voter_id": "~{\"name\": \"Lems\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Reisch",
+      "voter_id": "~{\"name\": \"Reisch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schaefbauer",
+      "voter_id": "~{\"name\": \"Schaefbauer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Overweg",
+      "voter_id": "~{\"name\": \"Overweg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Odenbach",
+      "voter_id": "~{\"name\": \"Odenbach\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/82861",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/82861"
+}

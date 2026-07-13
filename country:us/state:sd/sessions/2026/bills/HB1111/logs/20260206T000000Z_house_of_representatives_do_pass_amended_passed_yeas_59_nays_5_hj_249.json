@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 59, NAYS 5 H.J. 249",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26560",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26560",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1111"
+}

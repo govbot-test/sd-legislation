@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass , Passed, YEAS 3, NAYS 3 S.J. 7",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26431",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 115"
+}

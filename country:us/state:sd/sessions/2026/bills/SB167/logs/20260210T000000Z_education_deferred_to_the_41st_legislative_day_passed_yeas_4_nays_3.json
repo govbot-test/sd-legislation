@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Education Deferred to the 41st legislative day , Passed, YEAS 4, NAYS 3",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26908",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26908",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 167"
+}

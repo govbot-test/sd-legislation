@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Health and Human Services Report out of committee without recommendation as amended , Passed, YEAS 7, NAYS 0 S.J. 4",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26625",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26625",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 61"
+}

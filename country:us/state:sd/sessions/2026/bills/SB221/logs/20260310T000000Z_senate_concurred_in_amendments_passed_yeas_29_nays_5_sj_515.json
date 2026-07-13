@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in amendments , Passed, YEAS 29, NAYS 5 S.J. 515",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27278",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27278",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 221"
+}

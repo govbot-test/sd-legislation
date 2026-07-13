@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 65, NAYS 1 H.J. 486",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26622",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26622",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 90"
+}

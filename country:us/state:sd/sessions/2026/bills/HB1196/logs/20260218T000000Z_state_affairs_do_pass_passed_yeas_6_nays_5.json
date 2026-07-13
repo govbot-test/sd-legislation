@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "State Affairs Do Pass , Passed, YEAS 6, NAYS 5",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26952",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26952",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1196"
+}

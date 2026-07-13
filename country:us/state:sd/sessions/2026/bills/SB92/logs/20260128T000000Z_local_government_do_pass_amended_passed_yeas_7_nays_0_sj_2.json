@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Local Government Do Pass Amended , Passed, YEAS 7, NAYS 0 S.J. 2",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26859",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26859",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 92"
+}

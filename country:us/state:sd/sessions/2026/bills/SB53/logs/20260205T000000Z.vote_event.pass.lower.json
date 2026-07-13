@@ -1,0 +1,72 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "74d5e498-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 53",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Arlint",
+      "voter_id": "~{\"name\": \"Arlint\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kull",
+      "voter_id": "~{\"name\": \"Kull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muckey",
+      "voter_id": "~{\"name\": \"Muckey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heinemann",
+      "voter_id": "~{\"name\": \"Heinemann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weisgram",
+      "voter_id": "~{\"name\": \"Weisgram\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83348",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83348"
+}

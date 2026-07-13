@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Reconsidered , Passed, YEAS 30, NAYS 36 H.J. 484",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27012",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27012",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 190"
+}

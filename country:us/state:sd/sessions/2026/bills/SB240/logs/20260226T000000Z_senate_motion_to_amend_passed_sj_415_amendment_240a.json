@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 415 Amendment 240A",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27224",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27224",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 240"
+}

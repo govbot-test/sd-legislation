@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "a91341c8-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 236",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andera",
+      "voter_id": "~{\"name\": \"Andera\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Bathke",
+      "voter_id": "~{\"name\": \"Bathke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeGroot",
+      "voter_id": "~{\"name\": \"DeGroot\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Fitzgerald",
+      "voter_id": "~{\"name\": \"Fitzgerald\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heermann",
+      "voter_id": "~{\"name\": \"Heermann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jensen (Phil)",
+      "voter_id": "~{\"name\": \"Jensen (Phil)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kull",
+      "voter_id": "~{\"name\": \"Kull\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mulally",
+      "voter_id": "~{\"name\": \"Mulally\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roby",
+      "voter_id": "~{\"name\": \"Roby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Van Diepen",
+      "voter_id": "~{\"name\": \"Van Diepen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weisgram",
+      "voter_id": "~{\"name\": \"Weisgram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ladner",
+      "voter_id": "~{\"name\": \"Ladner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamison",
+      "voter_id": "~{\"name\": \"Jamison\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "excused",
+      "value": 2
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84334",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84334"
+}

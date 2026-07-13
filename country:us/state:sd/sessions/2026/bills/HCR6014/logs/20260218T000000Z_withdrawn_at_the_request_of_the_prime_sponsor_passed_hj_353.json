@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Withdrawn at the Request of the Prime Sponsor , Passed, H.J. 353",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27253",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27253",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6014"
+}

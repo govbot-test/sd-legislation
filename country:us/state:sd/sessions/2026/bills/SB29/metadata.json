@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 29",
+  "title": "amend provisions pertaining to the tabulation of ballots and permit the release of any cast vote record and collection of ballot images produced by automatic tabulating equipment and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administrative Procedure",
+    "Election Verification",
+    "Elections",
+    "Emergency Clause",
+    "Executive/Judiciary Request",
+    "Public Records and Files",
+    "Voting"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sd-2026-sb29"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to Senate State Affairs S.J. 15",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:05Z"
+      }
+    },
+    {
+      "description": "Scheduled for hearing",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:05Z"
+      }
+    },
+    {
+      "description": "State Affairs Tabled , Passed, YEAS 8, NAYS 0 S.J. 9",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "State Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"State Affairs\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26605/292264",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/292264.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26605",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26605",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:05Z"
+  }
+}

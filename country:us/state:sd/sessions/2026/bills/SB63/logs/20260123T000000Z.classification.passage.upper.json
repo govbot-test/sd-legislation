@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 31, NAYS 3 S.J. 95",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26689",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26689",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 63"
+}

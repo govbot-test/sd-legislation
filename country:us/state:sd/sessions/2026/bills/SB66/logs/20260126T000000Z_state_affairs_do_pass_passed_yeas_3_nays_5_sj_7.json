@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "State Affairs Do Pass , Passed, YEAS 3, NAYS 5 S.J. 7",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26620",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26620",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 66"
+}

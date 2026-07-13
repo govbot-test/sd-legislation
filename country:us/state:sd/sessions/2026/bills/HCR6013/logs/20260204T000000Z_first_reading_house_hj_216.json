@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "First Reading House H.J. 216",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27300",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27300",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6013"
+}

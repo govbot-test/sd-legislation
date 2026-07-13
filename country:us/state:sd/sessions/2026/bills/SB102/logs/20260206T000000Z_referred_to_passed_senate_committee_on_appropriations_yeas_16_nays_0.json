@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to , Passed, Senate Committee on Appropriations YEAS 16, NAYS 0",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26841",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26841",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 102"
+}

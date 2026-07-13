@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 29, NAYS 4 S.J. 427",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26840",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26840",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 69"
+}

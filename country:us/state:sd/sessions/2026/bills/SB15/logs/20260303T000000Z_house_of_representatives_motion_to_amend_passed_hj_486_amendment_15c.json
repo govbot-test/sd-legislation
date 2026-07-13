@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 486 Amendment 15C",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26429",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26429",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 15"
+}

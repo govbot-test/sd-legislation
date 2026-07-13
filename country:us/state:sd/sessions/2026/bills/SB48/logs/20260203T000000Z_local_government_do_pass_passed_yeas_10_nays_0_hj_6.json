@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Local Government Do Pass , Passed, YEAS 10, NAYS 0 H.J. 6",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26762",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26762",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 48"
+}

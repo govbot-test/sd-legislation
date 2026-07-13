@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 52, NAYS 15 H.J. 512",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26758",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26758",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 44"
+}

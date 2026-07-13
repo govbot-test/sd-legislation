@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Taxation Motion to amend , Passed, S.J. 13 Amendment 183A",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26915",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26915",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 183"
+}

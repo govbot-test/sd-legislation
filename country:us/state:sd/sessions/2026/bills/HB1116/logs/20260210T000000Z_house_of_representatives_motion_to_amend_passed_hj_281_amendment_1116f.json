@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 281 Amendment 1116F",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26720",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26720",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1116"
+}

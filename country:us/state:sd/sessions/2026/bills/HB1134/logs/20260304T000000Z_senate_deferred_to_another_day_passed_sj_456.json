@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Deferred to another day , Passed, S.J. 456",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27135",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27135",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1134"
+}

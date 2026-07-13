@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Remove from Consent Calendar H.J. 137",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26692",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26692",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1096"
+}

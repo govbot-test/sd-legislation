@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed by the President S.J. 485",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26680",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26680",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 37"
+}

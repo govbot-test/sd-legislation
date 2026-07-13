@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "29de425e-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 156",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Blanc",
+      "voter_id": "~{\"name\": \"Blanc\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Duhamel",
+      "voter_id": "~{\"name\": \"Duhamel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Grove",
+      "voter_id": "~{\"name\": \"Grove\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mehlhaff",
+      "voter_id": "~{\"name\": \"Mehlhaff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pischke",
+      "voter_id": "~{\"name\": \"Pischke\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hulse",
+      "voter_id": "~{\"name\": \"Hulse\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Steve)",
+      "voter_id": "~{\"name\": \"Kolbeck (Steve)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83491",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83491"
+}

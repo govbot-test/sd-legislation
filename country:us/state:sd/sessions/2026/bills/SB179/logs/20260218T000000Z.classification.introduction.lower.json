@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in House and referred to House Judiciary H.J. 356",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27015",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27015",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 179"
+}

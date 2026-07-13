@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 25, NAYS 41 H.J. 283",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26812",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26812",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1153"
+}

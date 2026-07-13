@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, S.J. 1 Amendment 10A",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26696",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26696",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 10"
+}

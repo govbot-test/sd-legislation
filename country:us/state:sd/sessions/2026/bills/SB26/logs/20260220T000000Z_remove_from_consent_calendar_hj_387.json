@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Remove from Consent Calendar H.J. 387",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26777",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26777",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 26"
+}

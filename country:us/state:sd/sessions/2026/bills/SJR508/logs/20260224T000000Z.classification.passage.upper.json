@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 19, NAYS 14 S.J. 385",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27169",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27169",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 508"
+}

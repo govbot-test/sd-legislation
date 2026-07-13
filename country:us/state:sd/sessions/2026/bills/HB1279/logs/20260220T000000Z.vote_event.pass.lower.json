@@ -1,0 +1,130 @@
+{
+  "identifier": "",
+  "motion_text": "Referred as Amended to",
+  "motion_classification": [],
+  "start_date": "2026-02-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "b6496488-75d7-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1279",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeGroot",
+      "voter_id": "~{\"name\": \"DeGroot\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Halverson",
+      "voter_id": "~{\"name\": \"Halverson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rice",
+      "voter_id": "~{\"name\": \"Rice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schwans",
+      "voter_id": "~{\"name\": \"Schwans\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Baxter",
+      "voter_id": "~{\"name\": \"Baxter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Heermann",
+      "voter_id": "~{\"name\": \"Heermann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismay",
+      "voter_id": "~{\"name\": \"Ismay\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Arlint",
+      "voter_id": "~{\"name\": \"Arlint\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jordan",
+      "voter_id": "~{\"name\": \"Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Uhre-Balk",
+      "voter_id": "~{\"name\": \"Uhre-Balk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nolz",
+      "voter_id": "~{\"name\": \"Nolz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manhart",
+      "voter_id": "~{\"name\": \"Manhart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greenfield",
+      "voter_id": "~{\"name\": \"Greenfield\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83956",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83956"
+}

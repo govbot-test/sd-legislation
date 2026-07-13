@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, YEAS 8, NAYS 4 Amendment 93B",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26880",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26880",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 93"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Health and Human Services Motion to amend , Passed, H.J. 15 Amendment 1182A",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26653",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26653",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1182"
+}

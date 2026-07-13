@@ -1,0 +1,250 @@
+{
+  "identifier": "",
+  "motion_text": "Concurred in Resolution",
+  "motion_classification": [],
+  "start_date": "2026-01-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "155c63a8-75d8-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HCR 6005",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Beal",
+      "voter_id": "~{\"name\": \"Beal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blanc",
+      "voter_id": "~{\"name\": \"Blanc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carley",
+      "voter_id": "~{\"name\": \"Carley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crabtree",
+      "voter_id": "~{\"name\": \"Crabtree\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deibert",
+      "voter_id": "~{\"name\": \"Deibert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duhamel",
+      "voter_id": "~{\"name\": \"Duhamel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Foster",
+      "voter_id": "~{\"name\": \"Foster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grove",
+      "voter_id": "~{\"name\": \"Grove\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hohn",
+      "voter_id": "~{\"name\": \"Hohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hulse",
+      "voter_id": "~{\"name\": \"Hulse\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jensen (Kevin)",
+      "voter_id": "~{\"name\": \"Jensen (Kevin)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karr",
+      "voter_id": "~{\"name\": \"Karr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Steve)",
+      "voter_id": "~{\"name\": \"Kolbeck (Steve)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lapka",
+      "voter_id": "~{\"name\": \"Lapka\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larson",
+      "voter_id": "~{\"name\": \"Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marty",
+      "voter_id": "~{\"name\": \"Marty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mehlhaff",
+      "voter_id": "~{\"name\": \"Mehlhaff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miskimins",
+      "voter_id": "~{\"name\": \"Miskimins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nelson",
+      "voter_id": "~{\"name\": \"Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Otten",
+      "voter_id": "~{\"name\": \"Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry",
+      "voter_id": "~{\"name\": \"Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterson (Sue)",
+      "voter_id": "~{\"name\": \"Peterson (Sue)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pischke",
+      "voter_id": "~{\"name\": \"Pischke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reed",
+      "voter_id": "~{\"name\": \"Reed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rohl",
+      "voter_id": "~{\"name\": \"Rohl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sauder",
+      "voter_id": "~{\"name\": \"Sauder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schoenfish",
+      "voter_id": "~{\"name\": \"Schoenfish\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vilhauer",
+      "voter_id": "~{\"name\": \"Vilhauer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voita",
+      "voter_id": "~{\"name\": \"Voita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wipf",
+      "voter_id": "~{\"name\": \"Wipf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zikmund",
+      "voter_id": "~{\"name\": \"Zikmund\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/82944",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/82944"
+}

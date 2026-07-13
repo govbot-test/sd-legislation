@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, Amendment 180A",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27170",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27170",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 180"
+}

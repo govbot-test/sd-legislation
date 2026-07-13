@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in amendments , Passed, YEAS 31, NAYS 3 S.J. 512",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26940",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 159"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 29, NAYS 38 H.J. 354",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26775",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26775",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 503"
+}

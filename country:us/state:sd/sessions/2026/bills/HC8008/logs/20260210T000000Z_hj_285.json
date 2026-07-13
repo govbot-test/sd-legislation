@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "H.J. 285",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27314",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27314",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HC 8008"
+}

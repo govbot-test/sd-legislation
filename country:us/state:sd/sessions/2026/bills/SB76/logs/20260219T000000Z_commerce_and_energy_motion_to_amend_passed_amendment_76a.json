@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Commerce and Energy Motion to amend , Passed, Amendment 76A",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26866",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26866",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 76"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, S.J. 13 Amendment 142A",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27104",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 142"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Report out of committee without recommendation , Passed, YEAS 5, NAYS 1 S.J. 7",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26431",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 115"
+}

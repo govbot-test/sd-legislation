@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Adopt Resolution as amended , Passed, YEAS 30, NAYS 3 S.J. 246",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27293",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27293",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 608"
+}

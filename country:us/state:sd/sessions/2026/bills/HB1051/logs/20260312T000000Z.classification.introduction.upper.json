@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "First read in Senate and referral to committee waived pursuant to JR 6D-1 S.J. 542",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26836",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26836",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1051"
+}

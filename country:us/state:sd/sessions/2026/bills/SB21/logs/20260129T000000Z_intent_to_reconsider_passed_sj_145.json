@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Intent to reconsider , Passed, S.J. 145",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26674",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26674",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 21"
+}

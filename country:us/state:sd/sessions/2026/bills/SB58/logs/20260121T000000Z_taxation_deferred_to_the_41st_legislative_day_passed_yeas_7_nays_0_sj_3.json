@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Taxation Deferred to the 41st legislative day , Passed, YEAS 7, NAYS 0 S.J. 3",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26601",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26601",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 58"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in amendments , Passed, YEAS 32, NAYS 2 S.J. 457",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27154",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27154",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 164"
+}

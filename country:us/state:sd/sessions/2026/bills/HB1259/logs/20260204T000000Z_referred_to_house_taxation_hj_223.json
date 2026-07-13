@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to House Taxation H.J. 223",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26452",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26452",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1259"
+}

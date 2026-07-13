@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 17, NAYS 16 S.J. 263",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27012",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27012",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 190"
+}

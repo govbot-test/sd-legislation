@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, YEAS 20, NAYS 14 S.J. 341 Amendment 110C",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26810",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26810",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 110"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Motion to amend , Passed, J.J. 37 Amendment 1200C",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27113",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27113",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1200"
+}

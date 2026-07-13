@@ -1,0 +1,94 @@
+{
+  "identifier": "",
+  "motion_text": "Tabled",
+  "motion_classification": [],
+  "start_date": "2026-02-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "3d7e0158-75d7-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1205",
+  "votes": [
+    {
+      "option": "absent",
+      "voter_name": "Auch",
+      "voter_id": "~{\"name\": \"Auch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kassin",
+      "voter_id": "~{\"name\": \"Kassin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Jack)",
+      "voter_id": "~{\"name\": \"Kolbeck (Jack)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muckey",
+      "voter_id": "~{\"name\": \"Muckey\"}",
+      "note": ""
+    },
+    {
+      "option": "absent",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sjaarda",
+      "voter_id": "~{\"name\": \"Sjaarda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jorgenson",
+      "voter_id": "~{\"name\": \"Jorgenson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Novstrup",
+      "voter_id": "~{\"name\": \"Novstrup\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derby",
+      "voter_id": "~{\"name\": \"Derby\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83970",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83970"
+}

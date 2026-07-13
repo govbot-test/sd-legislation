@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Reconsidered , Passed, YEAS 25, NAYS 8 S.J. 423",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27229",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27229",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 220"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Judiciary Motion to amend , Passed, S.J. 23 Amendment 208C",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26916",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26916",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 208"
+}

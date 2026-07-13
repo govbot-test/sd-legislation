@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 31, NAYS 2 S.J. 404",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26526",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26526",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1260"
+}

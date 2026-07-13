@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 499 Amendment 1323G",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26534",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26534",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1323"
+}

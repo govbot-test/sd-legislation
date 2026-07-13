@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 50, NAYS 15 H.J. 198",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26683",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26683",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 38"
+}

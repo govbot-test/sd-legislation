@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 24, NAYS 10 S.J. 458",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26865",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26865",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1048"
+}

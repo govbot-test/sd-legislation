@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in Senate and referred to Senate State Affairs S.J. 15",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26404",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26404",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 57"
+}

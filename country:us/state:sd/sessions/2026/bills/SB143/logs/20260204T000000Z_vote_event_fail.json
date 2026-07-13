@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-04",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "1be28dae-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 143",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Grove",
+      "voter_id": "~{\"name\": \"Grove\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Perry",
+      "voter_id": "~{\"name\": \"Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reed",
+      "voter_id": "~{\"name\": \"Reed\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jensen (Kevin)",
+      "voter_id": "~{\"name\": \"Jensen (Kevin)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83220",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83220"
+}

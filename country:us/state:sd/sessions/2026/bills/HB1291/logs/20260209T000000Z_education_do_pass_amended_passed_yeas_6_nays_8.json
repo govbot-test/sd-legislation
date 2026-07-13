@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Education Do Pass Amended , Passed, YEAS 6, NAYS 8",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27190",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27190",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1291"
+}

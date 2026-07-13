@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 32, NAYS 1 S.J. 387",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27156",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27156",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 244"
+}

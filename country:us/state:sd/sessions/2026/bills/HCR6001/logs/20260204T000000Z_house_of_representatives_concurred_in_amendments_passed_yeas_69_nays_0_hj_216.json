@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in amendments , Passed, YEAS 69, NAYS 0 H.J. 216",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26511",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26511",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6001"
+}

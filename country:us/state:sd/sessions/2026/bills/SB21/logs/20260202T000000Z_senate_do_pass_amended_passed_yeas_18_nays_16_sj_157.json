@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 18, NAYS 16 S.J. 157",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26674",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26674",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 21"
+}

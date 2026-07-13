@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in House and referred to House Taxation H.J. 114",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26403",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26403",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 12"
+}

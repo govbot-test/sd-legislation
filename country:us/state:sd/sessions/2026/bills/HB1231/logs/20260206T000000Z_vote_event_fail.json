@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-06",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "65eaf4f2-75d7-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1231",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Aylward",
+      "voter_id": "~{\"name\": \"Aylward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duffy",
+      "voter_id": "~{\"name\": \"Duffy\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Greenfield",
+      "voter_id": "~{\"name\": \"Greenfield\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kayser",
+      "voter_id": "~{\"name\": \"Kayser\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mulally",
+      "voter_id": "~{\"name\": \"Mulally\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nolz",
+      "voter_id": "~{\"name\": \"Nolz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterson (Drew)",
+      "voter_id": "~{\"name\": \"Peterson (Drew)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Schwans",
+      "voter_id": "~{\"name\": \"Schwans\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shorma",
+      "voter_id": "~{\"name\": \"Shorma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Uhre-Balk",
+      "voter_id": "~{\"name\": \"Uhre-Balk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weisgram",
+      "voter_id": "~{\"name\": \"Weisgram\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Bahmuller",
+      "voter_id": "~{\"name\": \"Bahmuller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lems",
+      "voter_id": "~{\"name\": \"Lems\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83397",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83397"
+}

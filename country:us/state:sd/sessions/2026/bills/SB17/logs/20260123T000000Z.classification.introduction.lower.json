@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in House and referred to House State Affairs H.J. 125",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26795",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26795",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 17"
+}

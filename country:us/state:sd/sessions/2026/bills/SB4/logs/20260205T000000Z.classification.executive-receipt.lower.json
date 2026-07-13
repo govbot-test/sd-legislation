@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Delivered to the Governor on 2026-02-05 S.J. 197",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26321",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26321",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 4"
+}

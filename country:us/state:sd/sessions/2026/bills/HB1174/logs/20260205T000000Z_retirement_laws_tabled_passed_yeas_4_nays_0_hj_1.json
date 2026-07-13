@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Retirement Laws Tabled , Passed, YEAS 4, NAYS 0 H.J. 1",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27176",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27176",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1174"
+}

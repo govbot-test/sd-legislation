@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 297 Amendment 1194A",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26648",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26648",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1194"
+}

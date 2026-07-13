@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 30, NAYS 4 S.J. 95",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26684",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26684",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 39"
+}

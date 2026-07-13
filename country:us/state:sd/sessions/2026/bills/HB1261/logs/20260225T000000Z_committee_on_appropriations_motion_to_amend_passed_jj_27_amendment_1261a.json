@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Motion to amend , Passed, J.J. 27 Amendment 1261A",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26598",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26598",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1261"
+}

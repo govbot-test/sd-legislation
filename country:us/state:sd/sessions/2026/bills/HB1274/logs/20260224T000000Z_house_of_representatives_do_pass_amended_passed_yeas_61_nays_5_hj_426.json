@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 61, NAYS 5 H.J. 426",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26881",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26881",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1274"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, S.J. 23 Amendment 110B",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26810",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26810",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 110"
+}

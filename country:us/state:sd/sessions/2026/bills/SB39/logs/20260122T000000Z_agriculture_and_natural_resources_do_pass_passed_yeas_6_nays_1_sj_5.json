@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass , Passed, YEAS 6, NAYS 1 S.J. 5",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26684",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26684",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 39"
+}

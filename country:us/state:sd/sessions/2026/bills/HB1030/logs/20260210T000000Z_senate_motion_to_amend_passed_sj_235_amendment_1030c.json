@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 235 Amendment 1030C",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26520",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26520",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1030"
+}

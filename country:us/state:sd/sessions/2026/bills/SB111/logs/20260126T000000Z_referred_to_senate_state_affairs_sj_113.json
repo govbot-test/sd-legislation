@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to Senate State Affairs S.J. 113",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26364",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26364",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 111"
+}

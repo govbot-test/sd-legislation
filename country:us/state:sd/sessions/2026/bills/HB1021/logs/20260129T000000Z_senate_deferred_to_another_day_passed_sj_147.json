@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Deferred to another day , Passed, S.J. 147",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26740",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26740",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1021"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Tabled , Passed, YEAS 16, NAYS 0 J.J. 36",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27298",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27298",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 217"
+}

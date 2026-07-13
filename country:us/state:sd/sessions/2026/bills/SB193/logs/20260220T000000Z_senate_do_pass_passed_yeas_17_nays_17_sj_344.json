@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 17, NAYS 17 S.J. 344",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26863",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26863",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 193"
+}

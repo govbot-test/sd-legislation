@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass Amended , Passed, YEAS 5, NAYS 1 S.J. 19",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27110",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27110",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 124"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 65, NAYS 0 H.J. 262",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26849",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26849",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 50"
+}

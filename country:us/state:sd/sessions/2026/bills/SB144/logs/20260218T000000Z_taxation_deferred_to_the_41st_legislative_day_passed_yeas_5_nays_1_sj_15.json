@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Taxation Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 1 S.J. 15",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26931",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26931",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 144"
+}

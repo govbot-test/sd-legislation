@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 18, NAYS 16 S.J. 84",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26698",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26698",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 9"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 34, NAYS 0 S.J. 83",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26762",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26762",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 48"
+}

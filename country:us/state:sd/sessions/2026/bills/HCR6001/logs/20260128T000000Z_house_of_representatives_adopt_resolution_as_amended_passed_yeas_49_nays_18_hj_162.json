@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Adopt Resolution as amended , Passed, YEAS 49, NAYS 18 H.J. 162",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26511",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26511",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6001"
+}

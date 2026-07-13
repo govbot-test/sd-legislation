@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-03-12 S.J. 529",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26848",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26848",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 60"
+}

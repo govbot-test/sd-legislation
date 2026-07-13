@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Certified uncontested, placed on consent , Passed,",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26440",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26440",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 139"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 65, NAYS 1 H.J. 367",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27147",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27147",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1311"
+}

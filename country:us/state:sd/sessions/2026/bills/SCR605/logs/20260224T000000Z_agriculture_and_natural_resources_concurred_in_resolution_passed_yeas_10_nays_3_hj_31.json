@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Concurred in Resolution , Passed, YEAS 10, NAYS 3 H.J. 31",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27115",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 605"
+}

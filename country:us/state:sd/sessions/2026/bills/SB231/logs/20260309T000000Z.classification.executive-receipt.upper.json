@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Delivered to the Governor on 2026-03-09 S.J. 488",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27265",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27265",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 231"
+}

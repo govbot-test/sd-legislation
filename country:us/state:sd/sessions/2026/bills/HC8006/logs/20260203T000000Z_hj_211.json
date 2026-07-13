@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "H.J. 211",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27165",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27165",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HC 8006"
+}

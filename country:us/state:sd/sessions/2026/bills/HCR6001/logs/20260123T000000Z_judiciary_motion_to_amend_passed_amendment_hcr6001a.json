@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Judiciary Motion to amend , Passed, Amendment HCR6001A",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26511",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26511",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6001"
+}

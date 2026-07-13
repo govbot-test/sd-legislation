@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in amendments , Passed, YEAS 67, NAYS 0 H.J. 548",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26923",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26923",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1038"
+}

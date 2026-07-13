@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 40, NAYS 27 H.J. 407",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27182",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27182",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1160"
+}

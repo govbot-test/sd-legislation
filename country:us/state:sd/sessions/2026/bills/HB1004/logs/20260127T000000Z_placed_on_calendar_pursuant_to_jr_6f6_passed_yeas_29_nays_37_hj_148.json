@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 29, NAYS 37 H.J. 148",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26722",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26722",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1004"
+}

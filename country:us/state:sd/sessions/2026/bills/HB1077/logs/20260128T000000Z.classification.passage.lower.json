@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 45, NAYS 22 H.J. 168",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26999",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26999",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1077"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 62, NAYS 5 H.J. 153",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26907",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26907",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1102"
+}

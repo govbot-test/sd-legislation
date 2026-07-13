@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Do Pass Amended , Passed, YEAS 8, NAYS 0",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26838",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26838",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 75"
+}

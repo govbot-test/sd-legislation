@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Withdrawn at the Request of the Prime Sponsor , Passed, H.J. 163",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26901",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26901",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1166"
+}

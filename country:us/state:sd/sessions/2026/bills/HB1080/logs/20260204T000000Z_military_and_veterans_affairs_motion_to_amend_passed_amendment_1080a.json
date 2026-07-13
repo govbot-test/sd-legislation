@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Military and Veterans Affairs Motion to amend , Passed, Amendment 1080A",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26525",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26525",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1080"
+}

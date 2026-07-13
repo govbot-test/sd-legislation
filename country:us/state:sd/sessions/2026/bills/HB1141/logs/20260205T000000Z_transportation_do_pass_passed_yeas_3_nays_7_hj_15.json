@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Transportation Do Pass , Passed, YEAS 3, NAYS 7 H.J. 15",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26398",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26398",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1141"
+}

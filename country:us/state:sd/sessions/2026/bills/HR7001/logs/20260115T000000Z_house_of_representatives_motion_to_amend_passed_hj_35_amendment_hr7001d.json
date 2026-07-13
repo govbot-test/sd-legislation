@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 35 Amendment HR7001D",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26432",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26432",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 7001"
+}

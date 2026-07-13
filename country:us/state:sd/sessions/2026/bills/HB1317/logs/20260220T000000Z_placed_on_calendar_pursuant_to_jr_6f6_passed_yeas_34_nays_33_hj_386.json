@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 34, NAYS 33 H.J. 386",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27251",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27251",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1317"
+}

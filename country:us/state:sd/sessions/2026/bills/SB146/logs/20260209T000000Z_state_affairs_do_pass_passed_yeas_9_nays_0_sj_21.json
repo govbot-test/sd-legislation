@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "State Affairs Do Pass , Passed, YEAS 9, NAYS 0 S.J. 21",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27049",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27049",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 146"
+}

@@ -1,0 +1,94 @@
+{
+  "identifier": "",
+  "motion_text": "Deferred to the 41st legislative day",
+  "motion_classification": [],
+  "start_date": "2026-02-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "9b120360-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1098",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Auch",
+      "voter_id": "~{\"name\": \"Auch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kassin",
+      "voter_id": "~{\"name\": \"Kassin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Jack)",
+      "voter_id": "~{\"name\": \"Kolbeck (Jack)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Muckey",
+      "voter_id": "~{\"name\": \"Muckey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sjaarda",
+      "voter_id": "~{\"name\": \"Sjaarda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jorgenson",
+      "voter_id": "~{\"name\": \"Jorgenson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Novstrup",
+      "voter_id": "~{\"name\": \"Novstrup\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derby",
+      "voter_id": "~{\"name\": \"Derby\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84092",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84092"
+}

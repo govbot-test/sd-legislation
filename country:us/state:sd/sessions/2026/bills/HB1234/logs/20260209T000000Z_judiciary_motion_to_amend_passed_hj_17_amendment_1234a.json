@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Judiciary Motion to amend , Passed, H.J. 17 Amendment 1234A",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27121",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1234"
+}

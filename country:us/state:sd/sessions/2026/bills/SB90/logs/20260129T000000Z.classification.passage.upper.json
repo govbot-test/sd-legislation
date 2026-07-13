@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 20, NAYS 12 S.J. 147",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26622",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26622",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 90"
+}

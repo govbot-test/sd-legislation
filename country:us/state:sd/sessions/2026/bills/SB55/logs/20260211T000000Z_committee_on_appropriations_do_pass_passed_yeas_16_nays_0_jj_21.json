@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Do Pass , Passed, YEAS 16, NAYS 0 J.J. 21",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26902",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26902",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 55"
+}

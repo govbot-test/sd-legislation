@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Health and Human Services Motion to amend , Passed, H.J. 5 Amendment 1143A",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26425",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26425",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1143"
+}

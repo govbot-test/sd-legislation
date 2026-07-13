@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Delivered to the Governor on 2026-03-12 H.J. 562",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26388",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26388",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1148"
+}

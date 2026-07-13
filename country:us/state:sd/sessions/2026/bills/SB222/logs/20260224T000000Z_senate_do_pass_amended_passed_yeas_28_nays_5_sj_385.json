@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 28, NAYS 5 S.J. 385",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27281",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27281",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 222"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to House Judiciary H.J. 191",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26463",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26463",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6010"
+}

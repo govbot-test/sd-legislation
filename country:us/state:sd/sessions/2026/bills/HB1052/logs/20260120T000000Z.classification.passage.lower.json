@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 60, NAYS 9 H.J. 54",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26868",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26868",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1052"
+}

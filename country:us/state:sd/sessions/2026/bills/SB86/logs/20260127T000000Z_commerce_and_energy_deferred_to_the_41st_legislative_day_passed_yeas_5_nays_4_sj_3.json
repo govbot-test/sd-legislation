@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Commerce and Energy Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 4 S.J. 3",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26905",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26905",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 86"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 65, NAYS 0 H.J. 470",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26316",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26316",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 87"
+}

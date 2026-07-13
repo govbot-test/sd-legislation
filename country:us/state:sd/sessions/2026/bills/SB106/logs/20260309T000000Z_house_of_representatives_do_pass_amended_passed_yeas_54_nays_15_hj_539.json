@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 54, NAYS 15 H.J. 539",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26733",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26733",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 106"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "State Affairs Do Pass , Passed, YEAS 8, NAYS 1 S.J. 5",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26493",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26493",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 502"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 22, NAYS 11 S.J. 384",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27278",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27278",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 221"
+}

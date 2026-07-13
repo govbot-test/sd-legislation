@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "State Affairs Tabled , Passed, YEAS 11, NAYS 1",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26903",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26903",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1221"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Transportation Do Pass Amended , Passed, YEAS 8, NAYS 2",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26815",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26815",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1010"
+}

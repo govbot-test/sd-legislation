@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in Resolution , Passed, YEAS 45, NAYS 20 H.J. 443",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27115",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 605"
+}

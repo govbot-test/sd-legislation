@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "S.J. 165",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27164",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27164",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SC 803"
+}

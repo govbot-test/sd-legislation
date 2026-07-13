@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 167 Amendment 1007A",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26513",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26513",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1007"
+}

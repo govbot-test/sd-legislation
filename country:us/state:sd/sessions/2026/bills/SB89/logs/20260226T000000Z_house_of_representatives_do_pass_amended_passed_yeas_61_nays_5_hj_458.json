@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 61, NAYS 5 H.J. 458",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26703",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26703",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 89"
+}

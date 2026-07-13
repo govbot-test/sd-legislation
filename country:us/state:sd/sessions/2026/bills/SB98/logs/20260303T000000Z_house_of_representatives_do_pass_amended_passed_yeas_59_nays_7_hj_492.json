@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 59, NAYS 7 H.J. 492",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26656",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26656",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 98"
+}

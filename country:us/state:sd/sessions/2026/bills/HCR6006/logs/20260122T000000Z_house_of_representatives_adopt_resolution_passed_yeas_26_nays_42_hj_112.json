@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Adopt Resolution , Passed, YEAS 26, NAYS 42 H.J. 112",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26514",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26514",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6006"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Judiciary Do Pass , Passed, YEAS 3, NAYS 4 S.J. 34",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27280",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27280",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6015"
+}

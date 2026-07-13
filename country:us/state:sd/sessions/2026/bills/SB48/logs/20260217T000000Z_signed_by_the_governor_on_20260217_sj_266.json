@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-02-17 S.J. 266",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26762",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26762",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 48"
+}

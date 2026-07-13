@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 48, NAYS 18 H.J. 183",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26577",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26577",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1064"
+}

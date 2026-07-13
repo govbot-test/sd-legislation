@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to Senate Education S.J. 198",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27273",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27273",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 242"
+}

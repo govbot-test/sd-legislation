@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Remove from Consent Calendar H.J. 470",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26429",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26429",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 15"
+}

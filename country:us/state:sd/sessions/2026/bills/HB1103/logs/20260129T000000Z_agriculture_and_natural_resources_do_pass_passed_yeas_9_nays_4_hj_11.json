@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass , Passed, YEAS 9, NAYS 4 H.J. 11",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26783",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26783",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1103"
+}

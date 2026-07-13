@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Certified uncontested, placed on consent , Passed, H.J. 19",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26779",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26779",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 27"
+}

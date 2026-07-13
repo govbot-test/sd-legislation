@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, Amendment 1010A",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26815",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26815",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1010"
+}

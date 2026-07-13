@@ -1,0 +1,118 @@
+{
+  "identifier": "",
+  "motion_text": "Tabled",
+  "motion_classification": [],
+  "start_date": "2026-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "28f0e14c-75d7-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1192",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Soye",
+      "voter_id": "~{\"name\": \"Soye\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Mortenson",
+      "voter_id": "~{\"name\": \"Mortenson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reisch",
+      "voter_id": "~{\"name\": \"Reisch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walburg",
+      "voter_id": "~{\"name\": \"Walburg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roby",
+      "voter_id": "~{\"name\": \"Roby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fitzgerald",
+      "voter_id": "~{\"name\": \"Fitzgerald\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reimer",
+      "voter_id": "~{\"name\": \"Reimer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Massie",
+      "voter_id": "~{\"name\": \"Massie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kull",
+      "voter_id": "~{\"name\": \"Kull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pourier",
+      "voter_id": "~{\"name\": \"Pourier\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hunt",
+      "voter_id": "~{\"name\": \"Hunt\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Hughes",
+      "voter_id": "~{\"name\": \"Hughes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 3
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83580",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83580"
+}

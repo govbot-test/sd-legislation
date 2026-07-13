@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Taxation Do Pass Amended , Passed, YEAS 5, NAYS 2 S.J. 19",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27146",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27146",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1241"
+}

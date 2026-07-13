@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Taxation Motion to amend , Passed, S.J. 9 Amendment 125B",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26433",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26433",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 125"
+}

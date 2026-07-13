@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 21, NAYS 12 S.J. 376",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27132",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27132",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 119"
+}

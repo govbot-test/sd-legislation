@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to Senate Judiciary S.J. 67",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26652",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26652",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 95"
+}

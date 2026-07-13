@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 14, NAYS 20 S.J. 114",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26688",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26688",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 62"
+}

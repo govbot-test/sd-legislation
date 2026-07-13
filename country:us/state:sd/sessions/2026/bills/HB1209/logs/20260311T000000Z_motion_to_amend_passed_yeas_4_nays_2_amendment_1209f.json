@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Motion to amend , Passed, YEAS 4, NAYS 2 Amendment 1209F",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27064",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27064",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1209"
+}

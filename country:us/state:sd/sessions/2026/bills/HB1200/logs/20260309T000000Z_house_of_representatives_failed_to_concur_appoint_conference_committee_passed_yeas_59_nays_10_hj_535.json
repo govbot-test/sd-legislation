@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Failed to concur, appoint Conference Committee , Passed, YEAS 59, NAYS 10 H.J. 535",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27113",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27113",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1200"
+}

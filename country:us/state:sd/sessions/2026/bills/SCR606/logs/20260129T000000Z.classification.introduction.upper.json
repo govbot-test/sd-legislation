@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "First read in Senate and referral to committee waived pursuant to JR 6D-1 S.J. 137",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27171",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27171",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 606"
+}

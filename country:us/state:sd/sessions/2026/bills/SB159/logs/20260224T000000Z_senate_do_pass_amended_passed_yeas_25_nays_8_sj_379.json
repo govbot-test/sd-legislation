@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 25, NAYS 8 S.J. 379",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26940",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 159"
+}

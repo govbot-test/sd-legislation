@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Commerce and Energy Tabled , Passed, YEAS 11, NAYS 0",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26602",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26602",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1309"
+}

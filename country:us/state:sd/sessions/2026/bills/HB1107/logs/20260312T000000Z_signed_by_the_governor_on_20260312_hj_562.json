@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-03-12 H.J. 562",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26913",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26913",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1107"
+}

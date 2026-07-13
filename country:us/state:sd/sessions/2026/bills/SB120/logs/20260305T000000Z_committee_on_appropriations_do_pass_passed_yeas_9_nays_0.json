@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Do Pass , Passed, YEAS 9, NAYS 0",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27133",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27133",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 120"
+}

@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Education Referred as Amended to , Passed, YEAS 15, NAYS 0",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27261",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27261",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1262"
+}

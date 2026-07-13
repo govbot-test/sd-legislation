@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 17, NAYS 17 S.J. 280",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27010",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27010",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 195"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 30, NAYS 3 S.J. 145",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26608",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26608",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 31"
+}

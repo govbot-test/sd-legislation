@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Health and Human Services Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 2 S.J. 9",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26719",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26719",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 104"
+}

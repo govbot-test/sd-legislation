@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Failed to concur, appoint Conference Committee , Passed, S.J. 370",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26320",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26320",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 3"
+}

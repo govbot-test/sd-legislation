@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in House and referred to House Commerce and Energy H.J. 218",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26466",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26466",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1292"
+}

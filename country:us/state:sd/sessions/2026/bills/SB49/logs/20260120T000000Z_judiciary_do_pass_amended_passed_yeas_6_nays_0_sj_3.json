@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Judiciary Do Pass Amended , Passed, YEAS 6, NAYS 0 S.J. 3",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26832",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26832",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 49"
+}

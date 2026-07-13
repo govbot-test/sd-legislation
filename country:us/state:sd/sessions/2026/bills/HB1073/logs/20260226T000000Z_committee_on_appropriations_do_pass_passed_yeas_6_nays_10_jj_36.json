@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Do Pass , Passed, YEAS 6, NAYS 10 J.J. 36",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26657",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26657",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1073"
+}

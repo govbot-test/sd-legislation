@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 7, NAYS 5",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26775",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26775",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 503"
+}

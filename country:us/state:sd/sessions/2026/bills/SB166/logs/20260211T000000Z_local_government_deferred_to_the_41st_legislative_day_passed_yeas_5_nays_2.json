@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Local Government Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 2",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26600",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 166"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 15, NAYS 19 S.J. 312",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26746",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26746",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 150"
+}

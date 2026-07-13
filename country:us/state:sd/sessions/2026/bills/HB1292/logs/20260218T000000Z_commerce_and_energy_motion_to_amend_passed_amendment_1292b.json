@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Commerce and Energy Motion to amend , Passed, Amendment 1292B",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26466",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26466",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1292"
+}

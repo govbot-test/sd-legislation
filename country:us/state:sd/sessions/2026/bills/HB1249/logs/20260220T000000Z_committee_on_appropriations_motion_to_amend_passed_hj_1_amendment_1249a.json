@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Motion to amend , Passed, H.J. 1 Amendment 1249A",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26809",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26809",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1249"
+}

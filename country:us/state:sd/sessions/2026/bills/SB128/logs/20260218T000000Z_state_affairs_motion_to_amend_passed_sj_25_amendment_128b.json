@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, S.J. 25 Amendment 128B",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26547",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26547",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 128"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "State Affairs Motion to amend , Passed, Amendment 159E",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26940",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 159"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Education Do Pass Amended , Passed, YEAS 15, NAYS 0",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26667",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26667",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1017"
+}

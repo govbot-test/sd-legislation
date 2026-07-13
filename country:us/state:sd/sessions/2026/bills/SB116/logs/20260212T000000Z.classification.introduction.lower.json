@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "First read in House and referral to committee waived pursuant to JR 6D-1 H.J. 316",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26872",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26872",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 116"
+}

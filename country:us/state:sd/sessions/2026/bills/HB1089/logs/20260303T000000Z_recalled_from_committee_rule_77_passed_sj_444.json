@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Recalled from committee (Rule 7-7) , Passed, S.J. 444",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26874",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26874",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1089"
+}

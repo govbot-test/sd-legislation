@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "First Reading Senate S.J. 113",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26520",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26520",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1030"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 32, NAYS 0 S.J. 67",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26394",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26394",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 56"
+}

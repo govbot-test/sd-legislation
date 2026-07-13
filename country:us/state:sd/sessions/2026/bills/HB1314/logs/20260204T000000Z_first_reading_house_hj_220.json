@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "First Reading House H.J. 220",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27076",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27076",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1314"
+}

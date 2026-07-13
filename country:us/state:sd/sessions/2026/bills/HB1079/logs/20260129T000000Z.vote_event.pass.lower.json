@@ -1,0 +1,118 @@
+{
+  "identifier": "",
+  "motion_text": "Deferred to the 41st legislative day",
+  "motion_classification": [],
+  "start_date": "2026-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "79b08caa-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1079",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arlint",
+      "voter_id": "~{\"name\": \"Arlint\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Bathke",
+      "voter_id": "~{\"name\": \"Bathke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duffy",
+      "voter_id": "~{\"name\": \"Duffy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fosness",
+      "voter_id": "~{\"name\": \"Fosness\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mulder",
+      "voter_id": "~{\"name\": \"Mulder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rehfeldt",
+      "voter_id": "~{\"name\": \"Rehfeldt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Shorma",
+      "voter_id": "~{\"name\": \"Shorma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shubeck",
+      "voter_id": "~{\"name\": \"Shubeck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weems",
+      "voter_id": "~{\"name\": \"Weems\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Czmowski",
+      "voter_id": "~{\"name\": \"Czmowski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Randolph",
+      "voter_id": "~{\"name\": \"Randolph\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "excused",
+      "value": 3
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83078",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83078"
+}

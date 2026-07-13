@@ -1,0 +1,96 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "96752776-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 73",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Auch",
+      "voter_id": "~{\"name\": \"Auch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kassin",
+      "voter_id": "~{\"name\": \"Kassin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Jack)",
+      "voter_id": "~{\"name\": \"Kolbeck (Jack)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muckey",
+      "voter_id": "~{\"name\": \"Muckey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sjaarda",
+      "voter_id": "~{\"name\": \"Sjaarda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jorgenson",
+      "voter_id": "~{\"name\": \"Jorgenson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Novstrup",
+      "voter_id": "~{\"name\": \"Novstrup\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derby",
+      "voter_id": "~{\"name\": \"Derby\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83825",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83825"
+}

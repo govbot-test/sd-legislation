@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 44, NAYS 20 H.J. 250",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26696",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26696",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 10"
+}

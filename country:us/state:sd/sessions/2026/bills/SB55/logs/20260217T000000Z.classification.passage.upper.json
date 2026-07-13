@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 34, NAYS 0 S.J. 274",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26902",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26902",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 55"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 63, NAYS 4 H.J. 516",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27110",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27110",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 124"
+}

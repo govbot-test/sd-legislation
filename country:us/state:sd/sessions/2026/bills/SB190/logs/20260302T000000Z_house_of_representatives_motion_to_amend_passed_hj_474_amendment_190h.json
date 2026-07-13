@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 474 Amendment 190H",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27012",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27012",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 190"
+}

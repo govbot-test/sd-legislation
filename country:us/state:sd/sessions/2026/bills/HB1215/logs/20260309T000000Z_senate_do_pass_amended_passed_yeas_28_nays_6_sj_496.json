@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 28, NAYS 6 S.J. 496",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26396",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26396",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1215"
+}

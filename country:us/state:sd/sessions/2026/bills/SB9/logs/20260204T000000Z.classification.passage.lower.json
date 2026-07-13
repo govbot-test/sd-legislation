@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed by the Speaker H.J. 229",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26698",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26698",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 9"
+}

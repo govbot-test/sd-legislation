@@ -1,0 +1,96 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "362fc48c-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1038",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Mehlhaff",
+      "voter_id": "~{\"name\": \"Mehlhaff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deibert",
+      "voter_id": "~{\"name\": \"Deibert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hohn",
+      "voter_id": "~{\"name\": \"Hohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karr",
+      "voter_id": "~{\"name\": \"Karr\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kolbeck (Steve)",
+      "voter_id": "~{\"name\": \"Kolbeck (Steve)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larson",
+      "voter_id": "~{\"name\": \"Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry",
+      "voter_id": "~{\"name\": \"Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterson (Sue)",
+      "voter_id": "~{\"name\": \"Peterson (Sue)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crabtree",
+      "voter_id": "~{\"name\": \"Crabtree\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84652",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84652"
+}

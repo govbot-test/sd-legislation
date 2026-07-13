@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Judiciary Do Pass , Passed, YEAS 6, NAYS 0 S.J. 27",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26589",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26589",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1014"
+}

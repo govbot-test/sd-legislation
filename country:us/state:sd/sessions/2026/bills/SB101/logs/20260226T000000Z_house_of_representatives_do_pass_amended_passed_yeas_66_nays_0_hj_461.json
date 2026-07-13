@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 66, NAYS 0 H.J. 461",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26912",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26912",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 101"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "First read in Senate and referral to committee waived pursuant to JR 6D-1 S.J. 229",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27254",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27254",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6012"
+}

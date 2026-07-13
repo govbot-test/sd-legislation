@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee referral waived pursuant to JR 6D-1 S.J. 119",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27115",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 605"
+}

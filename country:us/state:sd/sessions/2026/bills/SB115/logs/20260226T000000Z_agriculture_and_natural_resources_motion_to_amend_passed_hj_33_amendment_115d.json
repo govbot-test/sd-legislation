@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Motion to amend , Passed, H.J. 33 Amendment 115D",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26431",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 115"
+}

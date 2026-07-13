@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Reconsidered , Passed, YEAS 31, NAYS 34 H.J. 468",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26500",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26500",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 223"
+}

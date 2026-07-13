@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Deferred to the 41st legislative day , Passed, YEAS 8, NAYS 1",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26736",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1251"
+}

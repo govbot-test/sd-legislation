@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Health and Human Services Do Pass Amended , Passed, YEAS 12, NAYS 0 H.J. 6",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26425",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26425",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1143"
+}

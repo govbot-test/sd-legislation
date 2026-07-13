@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-02-06 S.J. 206",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26690",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26690",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 64"
+}

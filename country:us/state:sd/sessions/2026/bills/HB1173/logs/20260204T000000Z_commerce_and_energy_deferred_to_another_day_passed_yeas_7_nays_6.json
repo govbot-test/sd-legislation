@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Commerce and Energy Deferred to another day , Passed, YEAS 7, NAYS 6",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27024",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27024",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1173"
+}

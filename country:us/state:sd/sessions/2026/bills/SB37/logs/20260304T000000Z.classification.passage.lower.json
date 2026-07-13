@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 66, NAYS 1 H.J. 510",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26680",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26680",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 37"
+}

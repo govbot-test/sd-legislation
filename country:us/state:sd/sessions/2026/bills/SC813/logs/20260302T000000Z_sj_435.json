@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "S.J. 435",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27333",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27333",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SC 813"
+}

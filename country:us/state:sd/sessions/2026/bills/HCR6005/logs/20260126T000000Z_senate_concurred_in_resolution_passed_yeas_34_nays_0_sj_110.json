@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in Resolution , Passed, YEAS 34, NAYS 0 S.J. 110",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26599",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26599",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6005"
+}

@@ -1,0 +1,132 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-01-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "ca65537e-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1130",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "DeGroot",
+      "voter_id": "~{\"name\": \"DeGroot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Halverson",
+      "voter_id": "~{\"name\": \"Halverson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rice",
+      "voter_id": "~{\"name\": \"Rice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schwans",
+      "voter_id": "~{\"name\": \"Schwans\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Baxter",
+      "voter_id": "~{\"name\": \"Baxter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heermann",
+      "voter_id": "~{\"name\": \"Heermann\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ismay",
+      "voter_id": "~{\"name\": \"Ismay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arlint",
+      "voter_id": "~{\"name\": \"Arlint\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jordan",
+      "voter_id": "~{\"name\": \"Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Uhre-Balk",
+      "voter_id": "~{\"name\": \"Uhre-Balk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Manhart",
+      "voter_id": "~{\"name\": \"Manhart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greenfield",
+      "voter_id": "~{\"name\": \"Greenfield\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "excused",
+      "value": 2
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83015",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83015"
+}

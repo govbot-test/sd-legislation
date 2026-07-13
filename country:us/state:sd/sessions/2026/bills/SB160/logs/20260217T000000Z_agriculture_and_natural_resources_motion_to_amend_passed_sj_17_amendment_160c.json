@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Motion to amend , Passed, S.J. 17 Amendment 160C",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26725",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26725",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 160"
+}

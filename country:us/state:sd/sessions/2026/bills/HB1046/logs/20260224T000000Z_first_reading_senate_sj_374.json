@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "First Reading Senate S.J. 374",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26858",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26858",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1046"
+}

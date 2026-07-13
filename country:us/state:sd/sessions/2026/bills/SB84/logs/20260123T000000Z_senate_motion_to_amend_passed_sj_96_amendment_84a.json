@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 96 Amendment 84A",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26424",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26424",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 84"
+}

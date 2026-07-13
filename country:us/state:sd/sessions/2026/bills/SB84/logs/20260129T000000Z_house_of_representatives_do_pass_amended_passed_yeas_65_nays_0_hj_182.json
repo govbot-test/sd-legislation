@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 65, NAYS 0 H.J. 182",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26424",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26424",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 84"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Taxation Do Pass , Passed, YEAS 4, NAYS 8 H.J. 11",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26916",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26916",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 208"
+}

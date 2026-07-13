@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Joint Committee on Appropriations H.J. 37",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26928",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26928",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1043"
+}

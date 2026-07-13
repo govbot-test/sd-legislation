@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "First read in Senate and referred to Joint Committee on Appropriations S.J. 111",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26872",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26872",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 116"
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "ecc46e88-75d5-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SJR 508",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Deibert",
+      "voter_id": "~{\"name\": \"Deibert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jensen (Kevin)",
+      "voter_id": "~{\"name\": \"Jensen (Kevin)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karr",
+      "voter_id": "~{\"name\": \"Karr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Steve)",
+      "voter_id": "~{\"name\": \"Kolbeck (Steve)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larson",
+      "voter_id": "~{\"name\": \"Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pischke",
+      "voter_id": "~{\"name\": \"Pischke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voight",
+      "voter_id": "~{\"name\": \"Voight\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry",
+      "voter_id": "~{\"name\": \"Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mehlhaff",
+      "voter_id": "~{\"name\": \"Mehlhaff\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/84069",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/84069"
+}

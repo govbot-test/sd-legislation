@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "S.J. 148",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26969",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26969",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SC 802"
+}

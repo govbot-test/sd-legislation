@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in Resolution as Amended , Passed, YEAS 56, NAYS 9 H.J. 444",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27293",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27293",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 608"
+}

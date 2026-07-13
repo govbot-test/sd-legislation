@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-03-09 H.J. 534",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26716",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26716",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1146"
+}

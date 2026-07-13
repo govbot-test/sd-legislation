@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on calendar pursuant to JR 6F-6 , Passed, YEAS 31, NAYS 36 H.J. 355",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26557",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26557",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1240"
+}

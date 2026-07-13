@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Scheduled for hearing J.J. 1",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26950",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26950",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 78"
+}

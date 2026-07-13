@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Judiciary Motion to amend , Passed, Amendment 1045F",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26882",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26882",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1045"
+}

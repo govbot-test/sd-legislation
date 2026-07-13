@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Transportation Deferred to the 41st legislative day , Passed, YEAS 9, NAYS 1 H.J. 5",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26804",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26804",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1069"
+}

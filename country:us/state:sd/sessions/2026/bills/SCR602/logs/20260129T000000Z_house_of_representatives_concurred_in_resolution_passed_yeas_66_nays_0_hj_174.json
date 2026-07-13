@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in Resolution , Passed, YEAS 66, NAYS 0 H.J. 174",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27018",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27018",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 602"
+}

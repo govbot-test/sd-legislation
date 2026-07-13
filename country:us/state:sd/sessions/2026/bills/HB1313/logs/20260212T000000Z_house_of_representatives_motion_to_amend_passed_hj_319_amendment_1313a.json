@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, H.J. 319 Amendment 1313A",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26293",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26293",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1313"
+}

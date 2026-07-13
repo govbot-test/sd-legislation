@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 16, NAYS 17 S.J. 375",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26494",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26494",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 118"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass , Passed, YEAS 69, NAYS 0 H.J. 223",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26403",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26403",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 12"
+}

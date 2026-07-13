@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 381 Amendment 221B",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27278",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27278",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 221"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Do Pass , Passed, YEAS 11, NAYS 23 S.J. 280",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27097",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27097",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 187"
+}

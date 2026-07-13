@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Deferred to another day , Passed, H.J. 372",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26902",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26902",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 55"
+}

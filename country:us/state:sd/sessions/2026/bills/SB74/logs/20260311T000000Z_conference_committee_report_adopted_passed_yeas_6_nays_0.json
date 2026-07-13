@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Conference Committee Report adopted , Passed, YEAS 6, NAYS 0",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26837",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26837",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 74"
+}

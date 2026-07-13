@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 3 S.J. 23",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26810",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26810",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 110"
+}

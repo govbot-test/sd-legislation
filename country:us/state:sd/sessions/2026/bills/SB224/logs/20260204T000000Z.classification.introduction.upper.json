@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "First read in Senate and referred to Senate Judiciary S.J. 179",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26565",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26565",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 224"
+}

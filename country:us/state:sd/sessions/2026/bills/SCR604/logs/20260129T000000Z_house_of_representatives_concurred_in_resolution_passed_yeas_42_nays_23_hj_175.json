@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Concurred in Resolution , Passed, YEAS 42, NAYS 23 H.J. 175",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26975",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26975",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 604"
+}

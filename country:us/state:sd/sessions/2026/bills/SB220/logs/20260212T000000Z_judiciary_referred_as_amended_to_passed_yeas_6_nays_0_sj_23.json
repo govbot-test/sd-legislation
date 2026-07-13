@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Judiciary Referred as Amended to , Passed, YEAS 6, NAYS 0 S.J. 23",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27229",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27229",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 220"
+}

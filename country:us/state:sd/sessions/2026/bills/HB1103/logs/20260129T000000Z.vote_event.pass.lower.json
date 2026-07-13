@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "a20f5ab4-75d6-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "HB 1103",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hunt",
+      "voter_id": "~{\"name\": \"Hunt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismay",
+      "voter_id": "~{\"name\": \"Ismay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ladner",
+      "voter_id": "~{\"name\": \"Ladner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nolz",
+      "voter_id": "~{\"name\": \"Nolz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Peterson (Drew)",
+      "voter_id": "~{\"name\": \"Peterson (Drew)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rice",
+      "voter_id": "~{\"name\": \"Rice\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Van Diepen",
+      "voter_id": "~{\"name\": \"Van Diepen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wittman",
+      "voter_id": "~{\"name\": \"Wittman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Shubeck",
+      "voter_id": "~{\"name\": \"Shubeck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gosch",
+      "voter_id": "~{\"name\": \"Gosch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Overweg",
+      "voter_id": "~{\"name\": \"Overweg\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83066",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83066"
+}

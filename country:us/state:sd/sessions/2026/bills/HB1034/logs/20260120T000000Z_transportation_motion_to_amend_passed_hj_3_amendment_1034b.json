@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transportation Motion to amend , Passed, H.J. 3 Amendment 1034B",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26509",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26509",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1034"
+}

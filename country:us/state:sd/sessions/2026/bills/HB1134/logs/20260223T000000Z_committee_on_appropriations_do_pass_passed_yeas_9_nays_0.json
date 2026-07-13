@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Do Pass , Passed, YEAS 9, NAYS 0",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27135",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27135",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1134"
+}

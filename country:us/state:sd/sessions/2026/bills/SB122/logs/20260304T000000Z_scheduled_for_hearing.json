@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Scheduled for hearing",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26732",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26732",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 122"
+}

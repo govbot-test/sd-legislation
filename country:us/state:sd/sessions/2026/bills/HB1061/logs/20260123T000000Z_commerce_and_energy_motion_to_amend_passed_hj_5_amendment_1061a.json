@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Commerce and Energy Motion to amend , Passed, H.J. 5 Amendment 1061A",
+    "occurred_at": "2026-01-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26806",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26806",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1061"
+}

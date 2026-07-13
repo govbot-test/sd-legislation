@@ -1,0 +1,150 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"legislature\"}",
+  "legislative_session": "2026",
+  "bill": "7b2b5f94-75d4-11f1-abda-e227e47b00f9",
+  "bill_action": null,
+  "bill_identifier": "SB 55",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Miskimins",
+      "voter_id": "~{\"name\": \"Miskimins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Auch",
+      "voter_id": "~{\"name\": \"Auch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kassin",
+      "voter_id": "~{\"name\": \"Kassin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vilhauer",
+      "voter_id": "~{\"name\": \"Vilhauer\"}",
+      "note": ""
+    },
+    {
+      "option": "absent",
+      "voter_name": "Carley",
+      "voter_id": "~{\"name\": \"Carley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Voita",
+      "voter_id": "~{\"name\": \"Voita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jorgenson",
+      "voter_id": "~{\"name\": \"Jorgenson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "absent",
+      "voter_name": "Foster",
+      "voter_id": "~{\"name\": \"Foster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sjaarda",
+      "voter_id": "~{\"name\": \"Sjaarda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muckey",
+      "voter_id": "~{\"name\": \"Muckey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zikmund",
+      "voter_id": "~{\"name\": \"Zikmund\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Jack)",
+      "voter_id": "~{\"name\": \"Kolbeck (Jack)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Novstrup",
+      "voter_id": "~{\"name\": \"Novstrup\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lapka",
+      "voter_id": "~{\"name\": \"Lapka\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Otten",
+      "voter_id": "~{\"name\": \"Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derby",
+      "voter_id": "~{\"name\": \"Derby\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/83596",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/83596"
+}

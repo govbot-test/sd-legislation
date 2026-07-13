@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "House of Representatives Motion to amend , Passed, YEAS 42, NAYS 26 H.J. 238 Amendment 1112A",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26349",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26349",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1112"
+}

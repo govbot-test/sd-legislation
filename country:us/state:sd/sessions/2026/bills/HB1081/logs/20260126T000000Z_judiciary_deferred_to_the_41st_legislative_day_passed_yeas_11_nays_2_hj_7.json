@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Judiciary Deferred to the 41st legislative day , Passed, YEAS 11, NAYS 2 H.J. 7",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26988",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26988",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1081"
+}

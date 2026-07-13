@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Committee on Appropriations Motion to amend , Passed, Amendment 222B",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27281",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27281",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 222"
+}

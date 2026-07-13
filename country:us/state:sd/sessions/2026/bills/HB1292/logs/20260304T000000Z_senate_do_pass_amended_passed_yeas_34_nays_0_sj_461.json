@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Do Pass Amended , Passed, YEAS 34, NAYS 0 S.J. 461",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26466",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26466",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1292"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Education Do Pass Amended , Passed, YEAS 4, NAYS 3 S.J. 3",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26439",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26439",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 85"
+}

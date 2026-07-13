@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 2026-03-09 S.J. 488",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26288",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26288",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 81"
+}

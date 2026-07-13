@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Remove from Consent Calendar H.J. 457",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27154",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27154",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 164"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Concurred in Resolution as Amended , Passed, YEAS 32, NAYS 2 S.J. 158",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26511",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26511",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6001"
+}

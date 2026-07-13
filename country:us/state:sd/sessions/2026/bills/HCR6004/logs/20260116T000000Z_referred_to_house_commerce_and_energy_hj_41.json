@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to House Commerce and Energy H.J. 41",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26713",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26713",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6004"
+}

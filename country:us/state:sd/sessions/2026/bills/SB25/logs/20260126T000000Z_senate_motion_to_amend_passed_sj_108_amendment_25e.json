@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Senate Motion to amend , Passed, S.J. 108 Amendment 25E",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26693",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26693",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 25"
+}

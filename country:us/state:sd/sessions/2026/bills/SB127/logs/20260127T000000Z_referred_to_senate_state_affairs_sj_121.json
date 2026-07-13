@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to Senate State Affairs S.J. 121",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/26300",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/26300",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 127"
+}

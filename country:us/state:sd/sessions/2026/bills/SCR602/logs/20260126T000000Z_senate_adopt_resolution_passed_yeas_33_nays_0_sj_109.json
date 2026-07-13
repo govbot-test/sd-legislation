@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Adopt Resolution , Passed, YEAS 33, NAYS 0 S.J. 109",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27018",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27018",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 602"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Do Pass Amended , Passed, YEAS 64, NAYS 2 H.J. 431",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27282",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27282",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1298"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Agriculture and Natural Resources Do Pass Amended , Passed, YEAS 6, NAYS 0 S.J. 21",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27040",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27040",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1265"
+}

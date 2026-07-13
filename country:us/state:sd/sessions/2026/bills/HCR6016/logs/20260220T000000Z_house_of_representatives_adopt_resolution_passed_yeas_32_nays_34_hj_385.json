@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House of Representatives Adopt Resolution , Passed, YEAS 32, NAYS 34 H.J. 385",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sdlegislature.gov/Session/Bill/27270",
+        "note": ""
+      },
+      {
+        "url": "https://sdlegislature.gov/api/Bills/27270",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6016"
+}
