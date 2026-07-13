@@ -1,0 +1,59 @@
+Title: Senate Bill 198
+Official Title: Senate Bill 198
+Number of Sections: 1
+Source: versions - 198A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+198A 101st Legislative Session 198
+2026 South Dakota Legislature
+AMENDME NT 198A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Karr
+1 An Act to restrict the use of a cell phone by a student during instructional time the
+2 school day.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-32:
+5 Except as otherwise provided in this section, a student may not use a cell phone
+6 during the school day, as set by the board of the school district pursuant to § 13-26-1.
+7 A student may use a cell phone during the school day if:
+8 (1) The use of a cell phone is required or permitted as part of an approved medical or
+9 educational accommodation; or
+10 (2) The use of a cell phone is required during an emergency affecting the health,
+11 safety, or well-being of a student or staff member.
+12 The board of each school district shall adopt a policy that sets forth disciplinary
+13 actions for student noncompliance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A sLSSD: E T O A S E d A ( T e ( T s T a]
+
+
+================================================================================
+
+Raw Text:
+198A 101st Legislative Session 198
+2026 South Dakota Legislature
+Senate Bill 198
+AMENDME NT 198A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Karr
+1 An Act to restrict the use of a cell phone by a student during instructional time the
+2 school day.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-32:
+5 Except as otherwise provided in this section, a student may not use a cell phone
+6 during the school day, as set by the board of the school district pursuant to § 13-26-1.
+7 A student may use a cell phone during the school day if:
+8 (1) The use of a cell phone is required or permitted as part of an approved medical or
+9 educational accommodation; or
+10 (2) The use of a cell phone is required during an emergency affecting the health,
+11 safety, or well-being of a student or staff member.
+12 The board of each school district shall adopt a policy that sets forth disciplinary
+13 actions for student noncompliance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A sLSSD: E T O A S E d A ( T e ( T s T a]

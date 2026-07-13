@@ -1,0 +1,104 @@
+Title: Senate Bill 204
+Official Title: Senate Bill 204
+Number of Sections: 1
+Source: versions - 204A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+204A 101st Legislative Session 204
+2026 South Dakota Legislature
+AMENDME NT 204A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to revise certain criteria for loans from the South Dakota housing
+2 infrastructure fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-15-1 be AMENDED:
+5 11-15-1. Terms used in this chapter mean:
+6 (1) "Authority," the South Dakota Housing Development Authority;
+7 (2) "Housing infrastructure," the installation, replacement, upgrade, or improvement
+8 of public infrastructure for the support of a single-family or multi-family housing
+9 project; and
+10 (3) "Public infrastructure," a right of way, water distribution system, sanitary sewer
+11 system, storm sewer system, lift station, street, road, bridge, curb, gutter,
+12 sidewalk, traffic signal, or streetlight, which is or will be located in the state and is
+13 or will be owned, maintained, or provided by a political subdivision of this state or
+14 federally recognized Indian tribe; or excavation, necessary site work, compaction,
+15 or acquisition of land for such purposes support of a single family or multi-family
+16 housing project.
+17 Section 2. That § 11-15-3 be AMENDED:
+18 11-15-3. The authority shall distribute monies moneys from the South Dakota housing
+19 infrastructure fund, created in § 11-15-2, as follows:
+20 (1) Thirty Fifty percent for housing infrastructure in municipalities having a population of fifty
+21 thousand or more; and
+22 (2) Seventy Fifty percent for housing infrastructure in all other areas of the state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+204A 2 204
+1 The authority may not provide both a grant and a loan from the South Dakota housing
+2 infrastructure fund for the same housing infrastructure project located in a municipality having
+3 a population of fifty thousand or more.
+4 Section 2. That § 11-15-4 be AMENDED:
+5 11-15-4. The authority may make loans from the South Dakota housing
+6 infrastructure fund, created in § 11-15-2, for housing infrastructure projects. The principal
+7 amount of a loan may not exceed one-third one-half of the total cost of the housing
+8 infrastructure project. The authority may use up to one percent of the principal amount of
+9 a loan to offset the authority's expenses in administering the loan.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A A t r c c f l f t S D h iLSSD: E T O A S 1 ( " ( " o p ( " s s s s l s s r b c g s o f o h S 1 T a s d m m f t S D h i ( t (]
+[DELETED:  2 2 U  T a n p b a g a a l f t S D h i a S 1 T a m m l f t S D h i a i a]
+
+
+================================================================================
+
+Raw Text:
+204A 101st Legislative Session 204
+2026 South Dakota Legislature
+Senate Bill 204
+AMENDME NT 204A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to revise certain criteria for loans from the South Dakota housing
+2 infrastructure fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-15-1 be AMENDED:
+5 11-15-1. Terms used in this chapter mean:
+6 (1) "Authority," the South Dakota Housing Development Authority;
+7 (2) "Housing infrastructure," the installation, replacement, upgrade, or improvement
+8 of public infrastructure for the support of a single-family or multi-family housing
+9 project; and
+10 (3) "Public infrastructure," a right of way, water distribution system, sanitary sewer
+11 system, storm sewer system, lift station, street, road, bridge, curb, gutter,
+12 sidewalk, traffic signal, or streetlight, which is or will be located in the state and is
+13 or will be owned, maintained, or provided by a political subdivision of this state or
+14 federally recognized Indian tribe; or excavation, necessary site work, compaction,
+15 or acquisition of land for such purposes support of a single family or multi-family
+16 housing project.
+17 Section 2. That § 11-15-3 be AMENDED:
+18 11-15-3. The authority shall distribute monies moneys from the South Dakota housing
+19 infrastructure fund, created in § 11-15-2, as follows:
+20 (1) Thirty Fifty percent for housing infrastructure in municipalities having a population of fifty
+21 thousand or more; and
+22 (2) Seventy Fifty percent for housing infrastructure in all other areas of the state.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+204A 2 204
+1 The authority may not provide both a grant and a loan from the South Dakota housing
+2 infrastructure fund for the same housing infrastructure project located in a municipality having
+3 a population of fifty thousand or more.
+4 Section 2. That § 11-15-4 be AMENDED:
+5 11-15-4. The authority may make loans from the South Dakota housing
+6 infrastructure fund, created in § 11-15-2, for housing infrastructure projects. The principal
+7 amount of a loan may not exceed one-third one-half of the total cost of the housing
+8 infrastructure project. The authority may use up to one percent of the principal amount of
+9 a loan to offset the authority's expenses in administering the loan.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A A t r c c f l f t S D h iLSSD: E T O A S 1 ( " ( " o p ( " s s s s l s s r b c g s o f o h S 1 T a s d m m f t S D h i ( t (]
+[DELETED:  2 2 U  T a n p b a g a a l f t S D h i a S 1 T a m m l f t S D h i a i a]

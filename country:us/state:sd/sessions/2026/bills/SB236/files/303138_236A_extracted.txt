@@ -1,0 +1,114 @@
+Title: Senate Bill 236
+Official Title: Senate Bill 236
+Number of Sections: 1
+Source: versions - 236A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+236A 101st Legislative Session 236
+2026 South Dakota Legislature
+AMENDME NT 236A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Rohl
+1 An Act to create the county and township infrastructure fund for the accounting,
+2 safekeeping, and allocation of unobligated rural access infrastructure fund
+3 moneys.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 31-34-3 be AMENDED:
+6 31-34-3. Each county shall establish a rural access infrastructure fund for the
+7 deposit of moneys received pursuant to this chapter. The board of county commissioners
+8 may only distribute fund moneys for the following expenses:
+9 (1) Engineering, hydrological studies, planning, materials, and other costs as
+10 necessary to plan for and complete the projects;
+11 (2) Construction, rehabilitation, or replacement of small structures located in
+12 townships complying with the requirements of this chapter; and
+13 (3) Construction, rehabilitation, or replacement of small structures described in a
+14 county highway and bridge improvement plan that, which are located on county
+15 secondary highways.
+16 The moneys may not be used on a no maintenance no-maintenance road.
+17 Moneys received under this chapter must be obligated or spent by the county
+18 before the end of the 2029 fiscal year. All other unobligated or unspent moneys may be
+19 used for expenses until reverted pursuant to § 4-8-21. Moneys may only be used for the
+20 expenses of those small structures inventoried with the department, as referenced in § 31-
+21 34-2 On June thirtieth of each odd-numbered third year, beginning in 2029, the county
+22 auditor shall transfer any unexpended moneys, not contractually obligated and approved
+23 under this chapter, to the state treasurer for deposit in the county and township
+24 infrastructure fund, created in section 2 of this Act.
+25 Section 2. That a NEW SECTION be added to chapter 32-11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+236A 2 236
+1 There is created in the state treasury the county and township infrastructure fund.
+2 The fund consists of unobligated moneys transferred pursuant to § 31-34-3. Expenditures
+3 from the fund must be budgeted through the general appropriation bill. The Department
+4 of Revenue shall administer the fund. The purpose of the fund is to:
+5 (1) Provide for the distribution of moneys to counties, in accordance with § 31-34-2,
+6 for:
+7 (a) Allocation to rural access distribution funds; and
+8 (b) Payment of expenses associated with the small structures inventoried with the
+9 department; and
+10 (2) Provide for the accounting and safekeeping of unobligated or unspent moneys
+11 distributed to rural access distribution funds, as provided in chapter 31-34.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A s mLSSD: E T O A S 3 d m ( E h s p m a o c a n ( C r o r o s s l i t ( C r o r o s s d i a c s T M r o b u e 3 a u t c t t s t f d i t c a t i S]
+[DELETED:  2 2 U  T T f o ( P f ( A ( P d ( P f t a a s o o u m d]
+
+
+================================================================================
+
+Raw Text:
+236A 101st Legislative Session 236
+2026 South Dakota Legislature
+Senate Bill 236
+AMENDME NT 236A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Rohl
+1 An Act to create the county and township infrastructure fund for the accounting,
+2 safekeeping, and allocation of unobligated rural access infrastructure fund
+3 moneys.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 31-34-3 be AMENDED:
+6 31-34-3. Each county shall establish a rural access infrastructure fund for the
+7 deposit of moneys received pursuant to this chapter. The board of county commissioners
+8 may only distribute fund moneys for the following expenses:
+9 (1) Engineering, hydrological studies, planning, materials, and other costs as
+10 necessary to plan for and complete the projects;
+11 (2) Construction, rehabilitation, or replacement of small structures located in
+12 townships complying with the requirements of this chapter; and
+13 (3) Construction, rehabilitation, or replacement of small structures described in a
+14 county highway and bridge improvement plan that, which are located on county
+15 secondary highways.
+16 The moneys may not be used on a no maintenance no-maintenance road.
+17 Moneys received under this chapter must be obligated or spent by the county
+18 before the end of the 2029 fiscal year. All other unobligated or unspent moneys may be
+19 used for expenses until reverted pursuant to § 4-8-21. Moneys may only be used for the
+20 expenses of those small structures inventoried with the department, as referenced in § 31-
+21 34-2 On June thirtieth of each odd-numbered third year, beginning in 2029, the county
+22 auditor shall transfer any unexpended moneys, not contractually obligated and approved
+23 under this chapter, to the state treasurer for deposit in the county and township
+24 infrastructure fund, created in section 2 of this Act.
+25 Section 2. That a NEW SECTION be added to chapter 32-11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+236A 2 236
+1 There is created in the state treasury the county and township infrastructure fund.
+2 The fund consists of unobligated moneys transferred pursuant to § 31-34-3. Expenditures
+3 from the fund must be budgeted through the general appropriation bill. The Department
+4 of Revenue shall administer the fund. The purpose of the fund is to:
+5 (1) Provide for the distribution of moneys to counties, in accordance with § 31-34-2,
+6 for:
+7 (a) Allocation to rural access distribution funds; and
+8 (b) Payment of expenses associated with the small structures inventoried with the
+9 department; and
+10 (2) Provide for the accounting and safekeeping of unobligated or unspent moneys
+11 distributed to rural access distribution funds, as provided in chapter 31-34.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A s mLSSD: E T O A S 3 d m ( E h s p m a o c a n ( C r o r o s s l i t ( C r o r o s s d i a c s T M r o b u e 3 a u t c t t s t f d i t c a t i S]
+[DELETED:  2 2 U  T T f o ( P f ( A ( P d ( P f t a a s o o u m d]

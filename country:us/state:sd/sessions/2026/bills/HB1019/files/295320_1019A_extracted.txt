@@ -1,0 +1,114 @@
+Title: House Bill 1019
+Official Title: House Bill 1019
+Number of Sections: 1
+Source: versions - 1019A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1019A 101st Legislative Session 1019
+2026 South Dakota Legislature
+AMENDME NT 1019A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Agriculture and Natural Resources
+1 An Act to remove knowledge and intent from certain actions involving pesticide laws
+2 revise provisions regarding pesticide laws.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 38-20A-13 be AMENDED:
+5 38-20A-13. If The secretary may cancel the registration of a pesticide, subject to
+6 a hearing under the provisions of chapter 1-26, if the secretary determines, based on the
+7 preponderance of evidence, that a that the registered pesticide or its labeling does:
+8 (1) Does not comply with the provisions of this chapter or rules promulgated under
+9 this chapter,
+10 the secretary may cancel the registration of that pesticide, subject to a hearing
+11 under the provisions of chapter 1-26; or
+12 (2) Is adulterated or misbranded.
+13 Section 2. That § 38-20A-26 be AMENDED:
+14 38-20A-26. No person may knowingly or willfully distribute, sell, or offer for sale
+15 within this state any pesticide which that is adulterated or misbranded, or any device
+16 which that is misbranded.
+17 Section 3. That § 38-20A-27 be AMENDED:
+18 38-20A-27. No person may knowingly or willfully distribute, sell, or offer for sale
+19 within this state any:
+20 (1) Any pesticide which that is not registered under the provisions of §§ 38-20A-4 to
+21 38-20A-13, inclusive; or any
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1019A 2 1019
+1 (2) Any pesticide, if any of the claims made or any of the directions for the pesticide's
+2 use differ in substance from the representations made in connection with its
+3 registration; or any
+4 (3) Any pesticide, if the composition of the pesticide differs from the composition
+5 represented in its registration.
+6 The secretary may allow a change in the labeling or formula of a pesticide within a
+7 registration period without requiring reregistration of the pesticide.
+8 Section 4. That § 38-20A-28 be AMENDED:
+9 38-20A-28. No person may knowingly or willfully distribute, sell, or offer for sale
+10 within this state any pesticide, unless it is in the registrant's or the manufacturer's
+11 unbroken immediate container and there is affixed to the container, and to the outside
+12 container or wrapper, if one exists, through which the ingredient statement on the
+13 immediate container cannot be clearly read, a label bearing clearly and plainly the
+14 information required in this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A rLSSD: E T O A S 3 a p ( D t   u ( I S 3 w w S 3 w ( A 3]
+[DELETED:  2 1 U  ( A u d i s f t r m i c w i r ( A p i t c o t p d f t c r T r S 3 w t s a p u i i i t r o t m u c o w i o e t w t i s o t i c c b c r a l b c a p t i]
+
+
+================================================================================
+
+Raw Text:
+1019A 101st Legislative Session 1019
+2026 South Dakota Legislature
+House Bill 1019
+AMENDME NT 1019A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Agriculture and Natural Resources at the request of the Department
+of Agriculture and Natural Resources
+1 An Act to remove knowledge and intent from certain actions involving pesticide laws
+2 revise provisions regarding pesticide laws.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 38-20A-13 be AMENDED:
+5 38-20A-13. If The secretary may cancel the registration of a pesticide, subject to
+6 a hearing under the provisions of chapter 1-26, if the secretary determines, based on the
+7 preponderance of evidence, that a that the registered pesticide or its labeling does:
+8 (1) Does not comply with the provisions of this chapter or rules promulgated under
+9 this chapter,
+10 the secretary may cancel the registration of that pesticide, subject to a hearing
+11 under the provisions of chapter 1-26; or
+12 (2) Is adulterated or misbranded.
+13 Section 2. That § 38-20A-26 be AMENDED:
+14 38-20A-26. No person may knowingly or willfully distribute, sell, or offer for sale
+15 within this state any pesticide which that is adulterated or misbranded, or any device
+16 which that is misbranded.
+17 Section 3. That § 38-20A-27 be AMENDED:
+18 38-20A-27. No person may knowingly or willfully distribute, sell, or offer for sale
+19 within this state any:
+20 (1) Any pesticide which that is not registered under the provisions of §§ 38-20A-4 to
+21 38-20A-13, inclusive; or any
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1019A 2 1019
+1 (2) Any pesticide, if any of the claims made or any of the directions for the pesticide's
+2 use differ in substance from the representations made in connection with its
+3 registration; or any
+4 (3) Any pesticide, if the composition of the pesticide differs from the composition
+5 represented in its registration.
+6 The secretary may allow a change in the labeling or formula of a pesticide within a
+7 registration period without requiring reregistration of the pesticide.
+8 Section 4. That § 38-20A-28 be AMENDED:
+9 38-20A-28. No person may knowingly or willfully distribute, sell, or offer for sale
+10 within this state any pesticide, unless it is in the registrant's or the manufacturer's
+11 unbroken immediate container and there is affixed to the container, and to the outside
+12 container or wrapper, if one exists, through which the ingredient statement on the
+13 immediate container cannot be clearly read, a label bearing clearly and plainly the
+14 information required in this chapter.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A rLSSD: E T O A S 3 a p ( D t   u ( I S 3 w w S 3 w ( A 3]
+[DELETED:  2 1 U  ( A u d i s f t r m i c w i r ( A p i t c o t p d f t c r T r S 3 w t s a p u i i i t r o t m u c o w i o e t w t i s o t i c c b c r a l b c a p t i]

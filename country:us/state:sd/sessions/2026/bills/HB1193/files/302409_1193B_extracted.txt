@@ -1,0 +1,207 @@
+Title: House Bill 1193
+Official Title: House Bill 1193
+Number of Sections: 1
+Source: versions - 1193B
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1193B 101st Legislative Session 1193
+2026 South Dakota Legislature
+AMENDME NT 1193B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Randolph
+1 An Act to require authorize that a county provide a refund of taxes to disabled
+2 veterans and surviving spouses under certain property tax relief programs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-4-40 be AMENDED:
+5 10-4-40. Two hundred thousand dollars of the full and true value of the total
+6 amount of a dwelling or portion thereof classified as owner-occupied pursuant to §§ 10-
+7 13-39 to 10-13-40.4, inclusive, that which is owned and occupied by a veteran who is
+8 rated as permanently and totally disabled from a service-connected disability, is exempt
+9 from property taxation. The veteran shall apply for this partial exemption on a form
+10 prescribed by the secretary of revenue. Any application or supporting document for this
+11 exemption is confidential.
+12 Any veteran who would otherwise qualify for this exemption but fails to comply
+13 with the application deadline for the owner-occupied classification or the deadline for
+14 application for this exemption may petition the board of county commissioners to
+15 recalculate the taxes based upon the owner-occupied classification and this exemption
+16 and. If the veteran meets all eligibility requirements for this exemption except for the
+17 application deadline, the board must may abate or refund the difference in taxes
+18 accumulated over a period not exceeding the previous four years, pursuant to chapter 10-
+19 18.
+20 If the director of equalization determines that the veteran receives an exemption
+21 for the veteran's dwelling pursuant to this section, the veteran retains that exemption
+22 until the property ownership is transferred, the veteran does not occupy the dwelling, or
+23 the property has a change in use. If the legal description of property is changed or
+24 amended and the veteran continues to reside in the dwelling, the veteran retains the
+25 exemption provided by this section.
+26 Section 2. That § 10-4-41 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1193B 2 1193
+1 10-4-41. Two hundred thousand dollars of the full and true value of the total
+2 amount of a dwelling, or portion thereof, classified as owner-occupied pursuant to §§ 10-
+3 13-39 to 10-13-40.4, inclusive, is exempt from property taxation if owned and occupied
+4 by:
+5 (1) The surviving spouse of a veteran who was rated as permanently and totally
+6 disabled from a service-connected disability; or
+7 (2) The surviving spouse of a veteran, who receives dependency and indemnity
+8 compensation from the United States Department of Veterans Affairs as a result of
+9 the veteran's service-connected death.
+10 The surviving spouse shall apply for this partial exemption on a form prescribed by
+11 the secretary of revenue. Any application or supporting document for this exemption is
+12 confidential.
+13 Any surviving spouse who would otherwise qualify for this exemption but fails to
+14 comply with the application deadline for the owner-occupied classification or the deadline
+15 for application for this exemption may petition the board of county commissioners to
+16 recalculate the taxes based upon the owner-occupied classification and this exemption
+17 and. If the surviving spouse meets all eligibility requirements for this exemption except
+18 for the application deadline, the board must may abate or refund the difference in taxes
+19 accumulated over a period not exceeding the previous four years, pursuant to chapter 10-
+20 18.
+21 If the director of equalization determines that the surviving spouse receives an
+22 exemption for the dwelling pursuant to this section, the surviving spouse retains that
+23 exemption until the property ownership is transferred, the surviving spouse does not
+24 occupy the dwelling, the surviving spouse remarries, or the property has a change in use.
+25 If the legal description of property is changed or amended and the surviving spouse
+26 continues to reside in the dwelling, the surviving spouse retains the exemption provided
+27 by this section.
+28 Section 3. That § 10-18-1 be AMENDED:
+29 10-18-1. Unless otherwise expressly provided, if a person, against whom an
+30 assessment has been made or a tax levied, claims that the assessment or tax or any part
+31 of the assessment or tax is invalid for any reason provided in subdivisions (1) to (6),
+32 inclusive, this section, the assessment or tax may be abated, or the tax refunded if paid.
+33 The board of county commissioners may abate or refund, in whole or in part, the invalid
+34 assessment or tax in the following cases only:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1193B 3 1193
+1 (1) If an error has been made in any identifying entry or description of the real
+2 property, in entering the valuation of the real property or in the extension of the
+3 tax, to the injury of the complainant;
+4 (2) If improvements on any real property were considered or included in the valuation
+5 of the real property, which did not exist on the real property at the time fixed by
+6 law for making the assessment;
+7 (3) If the complainant or the property is exempt from the tax;
+8 (4) If the complainant had no taxable interest in the property assessed against the
+9 complainant at the time fixed by law for making the assessments;
+10 (5) If taxes have been erroneously paid or error made in noting payment or issuing
+11 receipt for the taxes paid;
+12 (6) If the same property has been assessed against the complainant more than once
+13 in the same year, and the complainant produces satisfactory evidence that the tax
+14 for the year has been paid; or
+15 (7) A person qualifies for the property tax exemption under § 10-4-40 or 10-4-41, but
+16 failed to comply with the application deadline.
+17 However, no No tax may be abated on any real property which that has been sold
+18 for taxes, while a tax certificate is outstanding.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A a vLSSD: E T O A S 1 a 1 r f p t T v s a f t p e o a f p e A w o o a f t e m p t b o c c t r a a d t b m m a o r t d i t a 1 I f u t p h a c i u I t l d o p i c o a e S]
+[DELETED:  2 1 U  1 a 1 b ( T s s o a v w w r a p a t d ( T s s o a v w r d a i c t T t c A c f r a f a 1 I e e o I l d o p i c o a a t s s c b S 1 U o e p i a p a w a a o i T a]
+[DELETED:  3 1 U  ( I a e h b m i a i e o d o t r p t ( I o l ( I ( I c ( I r ( I i f ( A f H f]
+
+
+================================================================================
+
+Raw Text:
+1193B 101st Legislative Session 1193
+2026 South Dakota Legislature
+House Bill 1193
+AMENDME NT 1193B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Randolph
+1 An Act to require authorize that a county provide a refund of taxes to disabled
+2 veterans and surviving spouses under certain property tax relief programs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-4-40 be AMENDED:
+5 10-4-40. Two hundred thousand dollars of the full and true value of the total
+6 amount of a dwelling or portion thereof classified as owner-occupied pursuant to §§ 10-
+7 13-39 to 10-13-40.4, inclusive, that which is owned and occupied by a veteran who is
+8 rated as permanently and totally disabled from a service-connected disability, is exempt
+9 from property taxation. The veteran shall apply for this partial exemption on a form
+10 prescribed by the secretary of revenue. Any application or supporting document for this
+11 exemption is confidential.
+12 Any veteran who would otherwise qualify for this exemption but fails to comply
+13 with the application deadline for the owner-occupied classification or the deadline for
+14 application for this exemption may petition the board of county commissioners to
+15 recalculate the taxes based upon the owner-occupied classification and this exemption
+16 and. If the veteran meets all eligibility requirements for this exemption except for the
+17 application deadline, the board must may abate or refund the difference in taxes
+18 accumulated over a period not exceeding the previous four years, pursuant to chapter 10-
+19 18.
+20 If the director of equalization determines that the veteran receives an exemption
+21 for the veteran's dwelling pursuant to this section, the veteran retains that exemption
+22 until the property ownership is transferred, the veteran does not occupy the dwelling, or
+23 the property has a change in use. If the legal description of property is changed or
+24 amended and the veteran continues to reside in the dwelling, the veteran retains the
+25 exemption provided by this section.
+26 Section 2. That § 10-4-41 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1193B 2 1193
+1 10-4-41. Two hundred thousand dollars of the full and true value of the total
+2 amount of a dwelling, or portion thereof, classified as owner-occupied pursuant to §§ 10-
+3 13-39 to 10-13-40.4, inclusive, is exempt from property taxation if owned and occupied
+4 by:
+5 (1) The surviving spouse of a veteran who was rated as permanently and totally
+6 disabled from a service-connected disability; or
+7 (2) The surviving spouse of a veteran, who receives dependency and indemnity
+8 compensation from the United States Department of Veterans Affairs as a result of
+9 the veteran's service-connected death.
+10 The surviving spouse shall apply for this partial exemption on a form prescribed by
+11 the secretary of revenue. Any application or supporting document for this exemption is
+12 confidential.
+13 Any surviving spouse who would otherwise qualify for this exemption but fails to
+14 comply with the application deadline for the owner-occupied classification or the deadline
+15 for application for this exemption may petition the board of county commissioners to
+16 recalculate the taxes based upon the owner-occupied classification and this exemption
+17 and. If the surviving spouse meets all eligibility requirements for this exemption except
+18 for the application deadline, the board must may abate or refund the difference in taxes
+19 accumulated over a period not exceeding the previous four years, pursuant to chapter 10-
+20 18.
+21 If the director of equalization determines that the surviving spouse receives an
+22 exemption for the dwelling pursuant to this section, the surviving spouse retains that
+23 exemption until the property ownership is transferred, the surviving spouse does not
+24 occupy the dwelling, the surviving spouse remarries, or the property has a change in use.
+25 If the legal description of property is changed or amended and the surviving spouse
+26 continues to reside in the dwelling, the surviving spouse retains the exemption provided
+27 by this section.
+28 Section 3. That § 10-18-1 be AMENDED:
+29 10-18-1. Unless otherwise expressly provided, if a person, against whom an
+30 assessment has been made or a tax levied, claims that the assessment or tax or any part
+31 of the assessment or tax is invalid for any reason provided in subdivisions (1) to (6),
+32 inclusive, this section, the assessment or tax may be abated, or the tax refunded if paid.
+33 The board of county commissioners may abate or refund, in whole or in part, the invalid
+34 assessment or tax in the following cases only:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1193B 3 1193
+1 (1) If an error has been made in any identifying entry or description of the real
+2 property, in entering the valuation of the real property or in the extension of the
+3 tax, to the injury of the complainant;
+4 (2) If improvements on any real property were considered or included in the valuation
+5 of the real property, which did not exist on the real property at the time fixed by
+6 law for making the assessment;
+7 (3) If the complainant or the property is exempt from the tax;
+8 (4) If the complainant had no taxable interest in the property assessed against the
+9 complainant at the time fixed by law for making the assessments;
+10 (5) If taxes have been erroneously paid or error made in noting payment or issuing
+11 receipt for the taxes paid;
+12 (6) If the same property has been assessed against the complainant more than once
+13 in the same year, and the complainant produces satisfactory evidence that the tax
+14 for the year has been paid; or
+15 (7) A person qualifies for the property tax exemption under § 10-4-40 or 10-4-41, but
+16 failed to comply with the application deadline.
+17 However, no No tax may be abated on any real property which that has been sold
+18 for taxes, while a tax certificate is outstanding.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A a vLSSD: E T O A S 1 a 1 r f p t T v s a f t p e o a f p e A w o o a f t e m p t b o c c t r a a d t b m m a o r t d i t a 1 I f u t p h a c i u I t l d o p i c o a e S]
+[DELETED:  2 1 U  1 a 1 b ( T s s o a v w w r a p a t d ( T s s o a v w r d a i c t T t c A c f r a f a 1 I e e o I l d o p i c o a a t s s c b S 1 U o e p i a p a w a a o i T a]
+[DELETED:  3 1 U  ( I a e h b m i a i e o d o t r p t ( I o l ( I ( I c ( I r ( I i f ( A f H f]

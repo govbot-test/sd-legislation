@@ -1,0 +1,750 @@
+Title: Senate Bill 78
+Official Title: Senate Bill 78
+Number of Sections: 1
+Source: versions - 78A
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+78A 101st Legislative Session 78
+2026 South Dakota Legislature
+AMENDM ENT 78A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Senate Committee on Appropriations at the request of the Bureau of Finance and
+Management
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to revise the General Appropriations Act for fiscal year 2026.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That 2025 Session Laws, chapter 216, § 2 be AMENDED:
+4 OFFICE OF THE GOVERNOR
+5 (3) Governor's Office of Economic Development
+6 Operating Expenses, General Funds, delete "$1,368,614" and insert "$1,668,614"
+7 Operating Expenses, Federal Funds, delete "$28,675,155" and insert "$44,050,155"
+8 Section 2. That 2025 Session Laws, chapter 216, § 3 be AMENDED:
+9 BUREAU OF FINANCE AND MANAGEMENT (BFM)
+10 (5) Employee Compensation and Billing Pools
+11 Operating Expenses, General Funds, delete "$1,803,149" and insert "$2,545,044"
+12 Operating Expenses, Federal Funds, delete "$1,201,447" and insert "$1,903,073"
+13 Operating Expenses, Other Funds, delete "$3,265,623" and insert "$4,712,303"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 2 78
+1 Section 3. That 2025 Session Laws, chapter 216, § 4 be AMENDED:
+2 BUREAU OF HUMAN RESOURCES AND ADMINISTRATION (BHRA)
+3 (2) Central Services
+4 Operating Expenses, Other Funds, delete "$20,094,513" and insert "$20,488,796"
+5 (3) State Engineer
+6 Operating Expenses, Other Funds, delete "$385,946" and insert "$419,954"
+7 (4) Statewide Maintenance and Repair
+8 Operating Expenses, General Funds, delete "$13,498,276" and insert "$24,707,545"
+9 (5) Office of Hearing Examiners
+10 Operating Expenses, General Funds, delete "$90,886" and insert "$97,263"
+11 (7) Risk Management Administration - Informational
+12 Operating Expenses, Other Funds, delete "$9,324,175" and insert "$9,341,180"
+13 (10) Personnel Management/Employee Benefits
+14 Operating Expenses, Other Funds, delete "$3,602,112" and insert "$3,966,736"
+15 Section 4. That 2025 Session Laws, chapter 216, § 5 be AMENDED:
+16 BUREAU OF INFORMATION AND TELECOMMUNICATIONS (BIT)
+17 (1) Data Centers
+18 Operating Expenses, Other Funds, delete "$8,681,679" and insert "$10,624,565"
+19 (2) Development
+20 Operating Expenses, Other Funds, delete "$2,494,796" and insert "$2,717,820"
+21 (3) Telecommunications Services
+22 Operating Expenses, Other Funds, delete "$20,704,510" and insert "$20,803,629"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 3 78
+1 (4) South Dakota Public Broadcasting
+2 Personal Services, General Funds, delete "$3,987,654" and insert "$4,245,278"
+3 Personal Services, Other Funds, delete "$1,597,615" and insert "$1,339,991"
+4 Operating Expenses, General Funds, delete "$1,583,294" and insert "$1,625,568"
+5 Operating Expenses, Federal Funds, delete "$272,484" and insert "$3,641,933"
+6 Operating Expenses, Other Funds, delete "$2,959,669" and insert "$2,921,240"
+7 (5) BIT Administration
+8 Operating Expenses, Other Funds, delete "$4,596,024" and insert "$5,696,024"
+9 (6) State Radio Engineering
+10 Operating Expenses, General Funds, delete "$3,659,509" and insert "$3,672,327"
+11 Section 5. That 2025 Session Laws, chapter 216, § 6 be AMENDED:
+12 DEPARTMENT OF REVENUE
+13 (2) Business Tax
+14 Operating Expenses, General Funds, delete "$0" and insert "$292,000"
+15 (3) Motor Vehicles
+16 Operating Expenses, Other Funds, delete "$9,024,503" and insert "$9,204,503"
+17 (4) Property Taxes
+18 Operating Expenses, General Funds, delete "$270,493" and insert "$418,813"
+19 Section 6. That 2025 Session Laws, chapter 216, § 7 be AMENDED:
+20 DEPARTMENT OF AGRICULTURE AND NATURAL RESOURCES
+21 (1) Administration, Secretary of Agriculture
+22 Operating Expenses, Federal Funds, delete "$1,266,780" and insert "$2,266,780"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 4 78
+1 (2) Agricultural and Environmental Services
+2 Personal Services, Other Funds, delete "$3,644,571" and insert "$3,094,571"
+3 Operating Expenses, Federal Funds, delete "$3,883,169" and insert "$4,283,169"
+4 Operating Expenses, Other Funds, delete "$1,828,201" and insert "$2,078,201"
+5 (3) Resource Conservation & Forestry
+6 Operating Expenses, General Funds, delete "$427,967" and insert "$402,967"
+7 Operating Expenses, Other Funds, delete "$1,810,288" and insert "$1,560,288"
+8 (13) State Fair
+9 Personal Services, Other Funds, delete "$1,540,939" and insert "$1,715,939"
+10 Operating Expenses, Other Funds, delete "$3,359,908" and insert "$3,184,908"
+11 (15) Office of Water
+12 Personal Services, Other Funds, delete "$1,191,526" and insert "$1,741,526"
+13 Operating Expenses, General Funds, delete "$449,048" and insert "$474,048"
+14 Section 7. That 2025 Session Laws, chapter 216, § 8 be AMENDED:
+15 DEPARTMENT OF TOURISM
+16 (1) Tourism
+17 Personal Services, Other Funds, delete "$2,758,978" and insert "$2,898,978"
+18 Operating Expenses, Other Funds, delete "$21,416,353" and insert "$21,276,353"
+19 Section 8. That 2025 Session Laws, chapter 216, § 9 be AMENDED:
+20 DEPARTMENT OF GAME, FISH AND PARKS
+21 (5) State Parks and Recreation - Development and Improvement
+22 Operating Expenses, Other Funds, delete "$9,595,000" and insert "$12,095,000"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 5 78
+1 Section 9. That 2025 Session Laws, chapter 216, § 11 be AMENDED:
+2 DEPARTMENT OF SOCIAL SERVICES
+3 (1) Administration, Secretary of Social Services
+4 Personal Services, General Funds, delete "$7,294,857" and insert "$7,649,630"
+5 Personal Services, Federal Funds, delete "$8,747,179" and insert "$9,149,283"
+6 Operating Expenses, General Funds, delete "$7,867,851" and insert "$9,811,526"
+7 Operating Expenses, Federal Funds, delete "$14,433,904" and insert "$14,874,349"
+8 F.T.E, delete "201.2" and insert "205.2"
+9 (2) Economic Assistance
+10 Operating Expenses, General Funds, delete "$20,761,945" and insert "$21,602,053"
+11 Operating Expenses, Federal Funds, delete "$112,859,123" and insert "$116,909,123"
+12 (3) Medical Services
+13 Operating Expenses, General Funds, delete "$391,703,409" and insert "$384,746,020"
+14 Operating Expenses, Federal Funds, delete "$896,903,270" and insert "$889,461,347"
+15 (4) Children's Services
+16 Personal Services, Federal Funds, delete "$12,334,869" and insert "$12,285,366"
+17 Operating Expenses, General Funds, delete "$52,957,529" and insert "$52,605,318"
+18 Operating Expenses, Federal Funds, delete "$41,939,948" and insert "$41,146,902"
+19 (5) Behavioral Health
+20 Personal Services, General Funds, delete "$42,849,948" and insert "$42,495,175"
+21 Operating Expenses, General Funds, delete "$96,506,062" and insert "$94,495,249"
+22 Operating Expenses, Other Funds, delete "$4,052,611" and insert "$13,052,611"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 6 78
+1 F.T.E, delete "554.0" and insert "550.0"
+2 Section 10. That 2025 Session Laws, chapter 216, § 12 be AMENDED:
+3 DEPARTMENT OF HEALTH
+4 (1) Administration, Secretary of Health
+5 Personal Services, General Funds, delete "$1,693,045" and insert "$2,353,374"
+6 Operating Expenses, General Funds, delete "$1,922,621" and insert "$2,222,621"
+7 (5) Tobacco Prevention
+8 Operating Expenses, Other Funds, delete "$2,020,174" and insert "$2,220,174"
+9 Section 11. That 2025 Session Laws, chapter 216, § 13 be AMENDED:
+10 DEPARTMENT OF LABOR AND REGULATION
+11 (1) Administration, Secretary of Labor
+12 Operating Expenses, Federal Funds, delete "$9,814,053" and insert "$8,947,053"
+13 Section 12. That 2025 Session Laws, chapter 216, § 14 be AMENDED:
+14 DEPARTMENT OF TRANSPORTATION
+15 (1) General Operations
+16 Personal Services, Other Funds, delete "$88,242,123" and insert "$89,058,569"
+17 Operating Expenses, Other Funds, delete "$117,959,372" and insert "$117,142,926"
+18 F.T.E, delete "1,014.3" and insert "1,025.3"
+19 Section 13. That 2025 Session Laws, chapter 216, § 15 be AMENDED:
+20 DEPARTMENT OF EDUCATION
+21 (3) State Aid to General Education
+22 Operating Expenses, General Funds, delete "$619,833,511" and insert "$604,270,797"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 7 78
+1 (5) Sparsity Payments
+2 Operating Expenses, General Funds, delete "$2,615,722" and insert "$2,630,545"
+3 (8) Technical Colleges
+4 Operating Expenses, General Funds, delete "$41,906,050" and insert "$49,284,202"
+5 (9) Education Resources
+6 Operating Expenses, Federal Funds, delete "$229,682,768" and insert "$230,064,221"
+7 Section 14. That 2025 Session Laws, chapter 216, § 16 be AMENDED:
+8 DEPARTMENT OF PUBLIC SAFETY
+9 (2) Highway Patrol
+10 Personal Services, Federal Funds, delete "$1,794,743" and insert "$2,052,593"
+11 Operating Expenses, Federal Funds, delete "$2,521,370" and insert "$2,395,520"
+12 (4) Criminal Justice Services
+13 Operating Expenses, Other Funds, delete "$2,616,011" and insert "$2,779,194"
+14 (5) 911 Coordination Board - Informational
+15 Operating Expenses, Other Funds, delete "$4,399,301" and insert "$6,140,470"
+16 Section 15. That 2025 Session Laws, chapter 216, § 17 be AMENDED:
+17 BOARD OF REGENTS
+18 (1) Board of Regents Central Office
+19 Operating Expenses, General Funds, delete "$20,173,327" and insert "$39,619,891"
+20 (3) South Dakota Scholarships
+21 Operating Expenses, General Funds, delete "$6,572,724" and insert "$6,510,440"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 8 78
+1 (4) University of South Dakota
+2 Personal Services, Other Funds, delete "$59,924,736" and insert "$60,274,736"
+3 Operating Expenses, General Funds, delete "$4,432,804" and insert "$4,124,410"
+4 Operating Expenses, Other Funds, delete "$44,444,324" and insert "$47,536,869"
+5 (6) University of South Dakota School of Medicine
+6 Personal Services, General Funds, delete "$27,468,658" and insert "$27,416,225"
+7 Operating Expenses, General Funds, delete "$4,351,824" and insert "$4,404,257"
+8 (7) South Dakota State University
+9 Personal Services, Other Funds, delete "$102,639,971" and insert "$104,229,971"
+10 Operating Expenses, General Funds, delete "$7,029,724" and insert "$7,599,067"
+11 Operating Expenses, Other Funds, delete "$84,368,609" and insert "$90,528,609"
+12 F.T.E, delete "1,580.7" and insert "1,599.7"
+13 (8) SDSU Extension
+14 Personal Services, Federal Funds, delete "$4,533,880" and insert "$6,033,880"
+15 Personal Services, Other Funds, delete "$1,408,209" and insert "$1,608,209"
+16 Operating Expenses, Federal Funds, delete "$3,846,012" and insert "$4,846,012"
+17 (9) Agricultural Experiment Station
+18 Operating Expenses, Federal Funds, delete "$15,371,274" and insert "$16,671,274"
+19 Operating Expenses, Other Funds, delete "$13,338,378" and insert "$14,838,378"
+20 (10) SD School of Mines and Technology
+21 Operating Expenses, General Funds, delete "$1,562,628" and insert "$1,766,779"
+22 Operating Expenses, Other Funds, delete "$19,646,298" and insert "$20,646,298"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 9 78
+1 (11) Northern State University
+2 Personal Services, Other Funds, delete "$13,477,454" and insert "$13,904,454"
+3 Operating Expenses, General Funds, delete "$1,303,552" and insert "$1,292,378"
+4 Operating Expenses, Other Funds, delete "$13,079,479" and insert "$13,379,479"
+5 (13) Black Hills State University
+6 Personal Services, Other Funds, delete "$15,050,469" and insert "$15,975,469"
+7 Operating Expenses, General Funds, delete "$1,063,429" and insert "$1,035,818"
+8 Operating Expenses, Other Funds, delete "$13,867,559" and insert "$15,842,559"
+9 (14) Dakota State University
+10 Operating Expenses, General Funds, delete "$1,051,143" and insert "$1,283,803"
+11 Operating Expenses, Other Funds, delete "$20,393,289" and insert "$20,718,289"
+12 (15) SD Services for the Deaf
+13 Personal Services, Other Funds, delete "$3,912" and insert "$28,912"
+14 Operating Expenses, General Funds, delete "$728,996" and insert "$732,634"
+15 Operating Expenses, Other Funds, delete "$464,711" and insert "$964,711"
+16 (16) SD School for the Blind and Visually Impaired
+17 Operating Expenses, General Funds, delete "$643,611" and insert "$649,659"
+18 Operating Expenses, Other Funds, delete "$163,108" and insert "$263,108"
+19 Section 16. That 2025 Session Laws, chapter 216, § 18 be AMENDED:
+20 DEPARTMENT OF THE MILITARY
+21 (2) Army Guard
+22 Operating Expenses, General Funds, delete "$2,625,125" and insert "$3,770,303"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 10 78
+1 Operating Expenses, Federal Funds, delete "$13,828,194" and insert "$17,571,839"
+2 (3) Air Guard
+3 Operating Expenses, General Funds, delete "$335,697" and insert "$342,242"
+4 Operating Expenses, Federal Funds, delete "$4,117,564" and insert "$4,137,199"
+5 Section 17. That 2025 Session Laws, chapter 216, § 19 be AMENDED:
+6 DEPARTMENT OF VETERANS' AFFAIRS
+7 (2) State Veterans' Home
+8 Operating Expenses, General Funds, delete "$0" and insert "$936,814"
+9 Operating Expenses, Other Funds, delete "$3,740,127" and insert "$3,927,365"
+10 (3) State Veterans' Cemetery
+11 Operating Expenses, Other Funds, delete "$10,000" and insert "$100,475"
+12 Section 18. That 2025 Session Laws, chapter 216, § 20 be AMENDED:
+13 DEPARTMENT OF CORRECTIONS
+14 (2) Mike Durfee State Prison
+15 Operating Expenses, General Funds, delete "$11,797,776" and insert "$12,275,117"
+16 (3) State Penitentiary
+17 Personal Services, General Funds, delete "$28,207,728" and insert "$28,971,447"
+18 Operating Expenses, General Funds, delete "$9,785,217" and insert "$9,903,322"
+19 F.T.E, delete "317.0" and insert "327.0"
+20 (4) Women's Prison
+21 Personal Services, General Funds, delete "$7,709,343" and insert "$9,332,184"
+22 Operating Expenses, General Funds, delete "$3,222,260" and insert "$3,756,737"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 11 78
+1 F.T.E, delete "89.0" and insert "105.4"
+2 (6) Inmate Services
+3 Personal Services, General Funds, delete "$20,606,830" and insert "$18,952,437"
+4 Operating Expenses, General Funds, delete "$24,530,357" and insert "$26,529,196"
+5 F.T.E, delete "197.9" and insert "177.9"
+6 (8) Juvenile Community Corrections
+7 Operating Expenses, General Funds, delete "$12,516,593" and insert "$11,098,985"
+8 Operating Expenses, Federal Funds, delete "$1,766,879" and insert "$1,438,997"
+9 Section 19. That 2025 Session Laws, chapter 216, § 21 be AMENDED:
+10 DEPARTMENT OF HUMAN SERVICES
+11 (1) Administration, Secretary of Human Services
+12 Personal Services, General Funds, delete "$1,608,320" and insert "$1,662,373"
+13 Personal Services, Federal Funds, delete "$1,473,781" and insert "$1,527,834"
+14 Operating Expenses, General Funds, delete "$259,057" and insert "$265,894"
+15 Operating Expenses, Federal Funds, delete "$212,326" and insert "$219,163"
+16 F.T.E, delete "30.0" and insert "31.0"
+17 (2) Developmental Disabilities
+18 Operating Expenses, General Funds, delete "$134,885,529" and insert "$143,443,918"
+19 Operating Expenses, Federal Funds, delete "$152,836,987" and insert "$163,354,836"
+20 Operating Expenses, Other Funds, delete "$10,085,783" and insert "$11,433,373"
+21 (3) South Dakota Developmental Center - Redfield
+22 Operating Expenses, General Funds, delete "$2,799,351" and insert "$2,801,306"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 12 78
+1 Operating Expenses, Federal Funds, delete "$2,864,141" and insert "$2,866,219"
+2 Operating Expenses, Other Funds, delete "$857,224" and insert "$1,117,488"
+3 (4) Long Term Services and Supports
+4 Personal Services, General Funds, delete "$3,506,641" and insert "$3,486,141"
+5 Personal Services, Other Funds, delete "$33,081" and insert "$53,581"
+6 Operating Expenses, General Funds, delete "$159,340,307" and insert "$161,113,836"
+7 Operating Expenses, Federal Funds, delete "$192,548,183" and insert "$193,879,869"
+8 Operating Expenses, Other Funds, delete "$948,923" and insert "$1,332,243"
+9 (7) Service to the Blind and Visually Impaired
+10 Personal Services, General Funds, delete "$702,551" and insert "$648,498"
+11 Personal Services, Federal Funds, delete "$1,706,699" and insert "$1,652,646"
+12 Operating Expenses, General Funds, delete "$485,274" and insert "$478,437"
+13 Operating Expenses, Federal Funds, delete "$1,469,148" and insert "$1,462,311"
+14 F.T.E, delete "29.2" and insert "28.2"
+15 Section 20. That 2025 Session Laws, chapter 216, § 24 be AMENDED:
+16 UNIFIED JUDICIAL SYSTEM
+17 (2) Unified Judicial System
+18 Operating Expenses, General Funds, delete "$6,948,534" and insert "$6,690,682"
+19 Section 21. That 2025 Session Laws, chapter 216, § 25 be AMENDED:
+20 LEGISLATIVE BRANCH
+21 (1) Legislative Operations
+22 SLE, General Funds, delete "$9,458,352" and insert "$9,493,373"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 13 78
+1 Section 22. That 2025 Session Laws, chapter 216, § 26 be AMENDED:
+2 OFFICE OF THE ATTORNEY GENERAL
+3 (1) Legal Services Program
+4 Personal Services, Federal Funds, delete "$468,327" and insert "$708,009"
+5 Personal Services, Other Funds, delete "$2,530,126" and insert "$2,290,444"
+6 (2) Criminal Investigation
+7 Personal Services, Federal Funds, delete "$1,247,335" and insert "$1,706,321"
+8 Personal Services, Other Funds, delete "$4,042,263" and insert "$3,583,277"
+9 Operating Expenses, Federal Funds, delete "$3,401,358" and insert "$4,269,294"
+10 Operating Expenses, Other Funds, delete "$3,434,633" and insert "$3,378,787"
+11 (3) Law Enforcement Training
+12 Operating Expenses, Federal Funds, delete "$0" and insert "$499,793"
+13 Section 23. That 2025 Session Laws, chapter 216, § 28 be AMENDED:
+14 SECRETARY OF STATE
+15 (1) Secretary of State
+16 Operating Expenses, General Funds, delete "$577,781" and insert "$602,581"
+17 Section 24. That 2025 Session Laws, chapter 216, § 29 be AMENDED:
+18 STATE TREASURER
+19 (3) Unclaimed Property Operations
+20 Operating Expenses, General Funds, delete "$801,675" and insert "$914,175"
+21 Section 25. Adjust all totals accordingly in sections 1 to 25, inclusive, of this Act.
+22 Section 26. That 2025 Session Laws, chapter 216, § 34 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+78A 14 78
+1 Section 34. The state treasurer shall transfer to the general fund, from the health
+2 care trust fund dakota cement trust fund, moneys in the amount identified by notice of
+3 the state investment officer pursuant to S.D. Const., Art. XIII, § 21, for the Department
+4 of Education - state aid to education.
+5 Section 27. That a NEW SECTION be added to 2025 Session Laws, chapter 216:
+6 Section 37. The state treasurer shall transfer $10,000,000 from the state general fund
+7 to the IT modernization fund.
+8 Section 38. The state treasurer shall transfer $3,100,000 from the state general fund to
+9 the reemployment assistance modernization fund.
+10 Section 39. The state treasurer shall transfer $1,500,000 from the state general fund to
+11 the court security fund.
+12 Section 40. Up to $11,209,269 in general funds appropriated in subsection 4 of section
+13 4 of this Act which are unspent may be carried over until June 30, 2028.
+14 Section 41. Up to $16,696,564 in general funds appropriated in subsection 1 of section
+15 17 of this Act which are unspent may be carried over until June 30, 2028.
+16 Section 42. Up to $1,128,394 in general funds and $3,690,279 in federal fund
+17 expenditure authority appropriated in subsection 2 of section 18 of this Act which are unspent
+18 may be carried over until June 30, 2028.
+19 Section 28. Funds appropriated by this Act, which are unspent at the end of fiscal year 2026,
+20 may be carried over to fiscal year 2027.
+21 Section 29. This Act is effective beginning June 29, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 7 U  ALSSD: E T O A S O (  O  O S B (  O  O  O]
+[DELETED:  2 7 U  S B (  O (  O (  O (  O (  O (  O S B (  O (  O (  O]
+[DELETED:  3 7 U  (  P  P  O  O  O (  O (  O S D (  O (  O (  O S D (  O]
+[DELETED:  4 7 U  (  P  O  O (  O  O (  P  O (  P  O S D (  P  O S D (  O]
+[DELETED:  5 7 U  S D (  P  P  O  O  F (  O  O (  O  O (  P  O  O (  P  O  O]
+[DELETED:  6 7 U   F S D (  P  O (  O S D (  O S D (  P  O  F S D (  O]
+[DELETED:  7 7 U  (  O (  O (  O S D (  P  O (  O (  O S B (  O (  O]
+[DELETED:  8 7 U  (  P  O  O (  P  O (  P  O  O  F (  P  P  O (  O  O (  O  O]
+[DELETED:  9 7 U  (  P  O  O (  P  O  O (  O  O (  P  O  O (  O  O S D (  O]
+[DELETED:  1 7 U   O (  O  O S D (  O  O (  O S D (  O (  P  O  F (  P  O]
+[DELETED:  1 7 U   F (  P  O  F (  O  O S D (  P  P  O  O  F (  O  O  O (  O]
+[DELETED:  1 7 U   O  O (  P  P  O  O  O (  P  P  O  O  F S U (  O S L (  S]
+[DELETED:  1 7 U  S O (  P  P (  P  P  O  O (  O S S (  O S S (  O S S]
+[DELETED:  1 7 U  S c t o S  S t  S t  S t  S 4  S 1  S 4 U t $ i g f a $ i f f e m S m S]
+
+
+================================================================================
+
+Raw Text:
+78A 101st Legislative Session 78
+2026 South Dakota Legislature
+Senate Bill 78
+AMENDM ENT 78A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Senate Committee on Appropriations at the request of the Bureau of Finance and
+Management
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to revise the General Appropriations Act for fiscal year 2026.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That 2025 Session Laws, chapter 216, § 2 be AMENDED:
+4 OFFICE OF THE GOVERNOR
+5 (3) Governor's Office of Economic Development
+6 Operating Expenses, General Funds, delete "$1,368,614" and insert "$1,668,614"
+7 Operating Expenses, Federal Funds, delete "$28,675,155" and insert "$44,050,155"
+8 Section 2. That 2025 Session Laws, chapter 216, § 3 be AMENDED:
+9 BUREAU OF FINANCE AND MANAGEMENT (BFM)
+10 (5) Employee Compensation and Billing Pools
+11 Operating Expenses, General Funds, delete "$1,803,149" and insert "$2,545,044"
+12 Operating Expenses, Federal Funds, delete "$1,201,447" and insert "$1,903,073"
+13 Operating Expenses, Other Funds, delete "$3,265,623" and insert "$4,712,303"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 2 78
+1 Section 3. That 2025 Session Laws, chapter 216, § 4 be AMENDED:
+2 BUREAU OF HUMAN RESOURCES AND ADMINISTRATION (BHRA)
+3 (2) Central Services
+4 Operating Expenses, Other Funds, delete "$20,094,513" and insert "$20,488,796"
+5 (3) State Engineer
+6 Operating Expenses, Other Funds, delete "$385,946" and insert "$419,954"
+7 (4) Statewide Maintenance and Repair
+8 Operating Expenses, General Funds, delete "$13,498,276" and insert "$24,707,545"
+9 (5) Office of Hearing Examiners
+10 Operating Expenses, General Funds, delete "$90,886" and insert "$97,263"
+11 (7) Risk Management Administration - Informational
+12 Operating Expenses, Other Funds, delete "$9,324,175" and insert "$9,341,180"
+13 (10) Personnel Management/Employee Benefits
+14 Operating Expenses, Other Funds, delete "$3,602,112" and insert "$3,966,736"
+15 Section 4. That 2025 Session Laws, chapter 216, § 5 be AMENDED:
+16 BUREAU OF INFORMATION AND TELECOMMUNICATIONS (BIT)
+17 (1) Data Centers
+18 Operating Expenses, Other Funds, delete "$8,681,679" and insert "$10,624,565"
+19 (2) Development
+20 Operating Expenses, Other Funds, delete "$2,494,796" and insert "$2,717,820"
+21 (3) Telecommunications Services
+22 Operating Expenses, Other Funds, delete "$20,704,510" and insert "$20,803,629"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 3 78
+1 (4) South Dakota Public Broadcasting
+2 Personal Services, General Funds, delete "$3,987,654" and insert "$4,245,278"
+3 Personal Services, Other Funds, delete "$1,597,615" and insert "$1,339,991"
+4 Operating Expenses, General Funds, delete "$1,583,294" and insert "$1,625,568"
+5 Operating Expenses, Federal Funds, delete "$272,484" and insert "$3,641,933"
+6 Operating Expenses, Other Funds, delete "$2,959,669" and insert "$2,921,240"
+7 (5) BIT Administration
+8 Operating Expenses, Other Funds, delete "$4,596,024" and insert "$5,696,024"
+9 (6) State Radio Engineering
+10 Operating Expenses, General Funds, delete "$3,659,509" and insert "$3,672,327"
+11 Section 5. That 2025 Session Laws, chapter 216, § 6 be AMENDED:
+12 DEPARTMENT OF REVENUE
+13 (2) Business Tax
+14 Operating Expenses, General Funds, delete "$0" and insert "$292,000"
+15 (3) Motor Vehicles
+16 Operating Expenses, Other Funds, delete "$9,024,503" and insert "$9,204,503"
+17 (4) Property Taxes
+18 Operating Expenses, General Funds, delete "$270,493" and insert "$418,813"
+19 Section 6. That 2025 Session Laws, chapter 216, § 7 be AMENDED:
+20 DEPARTMENT OF AGRICULTURE AND NATURAL RESOURCES
+21 (1) Administration, Secretary of Agriculture
+22 Operating Expenses, Federal Funds, delete "$1,266,780" and insert "$2,266,780"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 4 78
+1 (2) Agricultural and Environmental Services
+2 Personal Services, Other Funds, delete "$3,644,571" and insert "$3,094,571"
+3 Operating Expenses, Federal Funds, delete "$3,883,169" and insert "$4,283,169"
+4 Operating Expenses, Other Funds, delete "$1,828,201" and insert "$2,078,201"
+5 (3) Resource Conservation & Forestry
+6 Operating Expenses, General Funds, delete "$427,967" and insert "$402,967"
+7 Operating Expenses, Other Funds, delete "$1,810,288" and insert "$1,560,288"
+8 (13) State Fair
+9 Personal Services, Other Funds, delete "$1,540,939" and insert "$1,715,939"
+10 Operating Expenses, Other Funds, delete "$3,359,908" and insert "$3,184,908"
+11 (15) Office of Water
+12 Personal Services, Other Funds, delete "$1,191,526" and insert "$1,741,526"
+13 Operating Expenses, General Funds, delete "$449,048" and insert "$474,048"
+14 Section 7. That 2025 Session Laws, chapter 216, § 8 be AMENDED:
+15 DEPARTMENT OF TOURISM
+16 (1) Tourism
+17 Personal Services, Other Funds, delete "$2,758,978" and insert "$2,898,978"
+18 Operating Expenses, Other Funds, delete "$21,416,353" and insert "$21,276,353"
+19 Section 8. That 2025 Session Laws, chapter 216, § 9 be AMENDED:
+20 DEPARTMENT OF GAME, FISH AND PARKS
+21 (5) State Parks and Recreation - Development and Improvement
+22 Operating Expenses, Other Funds, delete "$9,595,000" and insert "$12,095,000"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 5 78
+1 Section 9. That 2025 Session Laws, chapter 216, § 11 be AMENDED:
+2 DEPARTMENT OF SOCIAL SERVICES
+3 (1) Administration, Secretary of Social Services
+4 Personal Services, General Funds, delete "$7,294,857" and insert "$7,649,630"
+5 Personal Services, Federal Funds, delete "$8,747,179" and insert "$9,149,283"
+6 Operating Expenses, General Funds, delete "$7,867,851" and insert "$9,811,526"
+7 Operating Expenses, Federal Funds, delete "$14,433,904" and insert "$14,874,349"
+8 F.T.E, delete "201.2" and insert "205.2"
+9 (2) Economic Assistance
+10 Operating Expenses, General Funds, delete "$20,761,945" and insert "$21,602,053"
+11 Operating Expenses, Federal Funds, delete "$112,859,123" and insert "$116,909,123"
+12 (3) Medical Services
+13 Operating Expenses, General Funds, delete "$391,703,409" and insert "$384,746,020"
+14 Operating Expenses, Federal Funds, delete "$896,903,270" and insert "$889,461,347"
+15 (4) Children's Services
+16 Personal Services, Federal Funds, delete "$12,334,869" and insert "$12,285,366"
+17 Operating Expenses, General Funds, delete "$52,957,529" and insert "$52,605,318"
+18 Operating Expenses, Federal Funds, delete "$41,939,948" and insert "$41,146,902"
+19 (5) Behavioral Health
+20 Personal Services, General Funds, delete "$42,849,948" and insert "$42,495,175"
+21 Operating Expenses, General Funds, delete "$96,506,062" and insert "$94,495,249"
+22 Operating Expenses, Other Funds, delete "$4,052,611" and insert "$13,052,611"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 6 78
+1 F.T.E, delete "554.0" and insert "550.0"
+2 Section 10. That 2025 Session Laws, chapter 216, § 12 be AMENDED:
+3 DEPARTMENT OF HEALTH
+4 (1) Administration, Secretary of Health
+5 Personal Services, General Funds, delete "$1,693,045" and insert "$2,353,374"
+6 Operating Expenses, General Funds, delete "$1,922,621" and insert "$2,222,621"
+7 (5) Tobacco Prevention
+8 Operating Expenses, Other Funds, delete "$2,020,174" and insert "$2,220,174"
+9 Section 11. That 2025 Session Laws, chapter 216, § 13 be AMENDED:
+10 DEPARTMENT OF LABOR AND REGULATION
+11 (1) Administration, Secretary of Labor
+12 Operating Expenses, Federal Funds, delete "$9,814,053" and insert "$8,947,053"
+13 Section 12. That 2025 Session Laws, chapter 216, § 14 be AMENDED:
+14 DEPARTMENT OF TRANSPORTATION
+15 (1) General Operations
+16 Personal Services, Other Funds, delete "$88,242,123" and insert "$89,058,569"
+17 Operating Expenses, Other Funds, delete "$117,959,372" and insert "$117,142,926"
+18 F.T.E, delete "1,014.3" and insert "1,025.3"
+19 Section 13. That 2025 Session Laws, chapter 216, § 15 be AMENDED:
+20 DEPARTMENT OF EDUCATION
+21 (3) State Aid to General Education
+22 Operating Expenses, General Funds, delete "$619,833,511" and insert "$604,270,797"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 7 78
+1 (5) Sparsity Payments
+2 Operating Expenses, General Funds, delete "$2,615,722" and insert "$2,630,545"
+3 (8) Technical Colleges
+4 Operating Expenses, General Funds, delete "$41,906,050" and insert "$49,284,202"
+5 (9) Education Resources
+6 Operating Expenses, Federal Funds, delete "$229,682,768" and insert "$230,064,221"
+7 Section 14. That 2025 Session Laws, chapter 216, § 16 be AMENDED:
+8 DEPARTMENT OF PUBLIC SAFETY
+9 (2) Highway Patrol
+10 Personal Services, Federal Funds, delete "$1,794,743" and insert "$2,052,593"
+11 Operating Expenses, Federal Funds, delete "$2,521,370" and insert "$2,395,520"
+12 (4) Criminal Justice Services
+13 Operating Expenses, Other Funds, delete "$2,616,011" and insert "$2,779,194"
+14 (5) 911 Coordination Board - Informational
+15 Operating Expenses, Other Funds, delete "$4,399,301" and insert "$6,140,470"
+16 Section 15. That 2025 Session Laws, chapter 216, § 17 be AMENDED:
+17 BOARD OF REGENTS
+18 (1) Board of Regents Central Office
+19 Operating Expenses, General Funds, delete "$20,173,327" and insert "$39,619,891"
+20 (3) South Dakota Scholarships
+21 Operating Expenses, General Funds, delete "$6,572,724" and insert "$6,510,440"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 8 78
+1 (4) University of South Dakota
+2 Personal Services, Other Funds, delete "$59,924,736" and insert "$60,274,736"
+3 Operating Expenses, General Funds, delete "$4,432,804" and insert "$4,124,410"
+4 Operating Expenses, Other Funds, delete "$44,444,324" and insert "$47,536,869"
+5 (6) University of South Dakota School of Medicine
+6 Personal Services, General Funds, delete "$27,468,658" and insert "$27,416,225"
+7 Operating Expenses, General Funds, delete "$4,351,824" and insert "$4,404,257"
+8 (7) South Dakota State University
+9 Personal Services, Other Funds, delete "$102,639,971" and insert "$104,229,971"
+10 Operating Expenses, General Funds, delete "$7,029,724" and insert "$7,599,067"
+11 Operating Expenses, Other Funds, delete "$84,368,609" and insert "$90,528,609"
+12 F.T.E, delete "1,580.7" and insert "1,599.7"
+13 (8) SDSU Extension
+14 Personal Services, Federal Funds, delete "$4,533,880" and insert "$6,033,880"
+15 Personal Services, Other Funds, delete "$1,408,209" and insert "$1,608,209"
+16 Operating Expenses, Federal Funds, delete "$3,846,012" and insert "$4,846,012"
+17 (9) Agricultural Experiment Station
+18 Operating Expenses, Federal Funds, delete "$15,371,274" and insert "$16,671,274"
+19 Operating Expenses, Other Funds, delete "$13,338,378" and insert "$14,838,378"
+20 (10) SD School of Mines and Technology
+21 Operating Expenses, General Funds, delete "$1,562,628" and insert "$1,766,779"
+22 Operating Expenses, Other Funds, delete "$19,646,298" and insert "$20,646,298"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 9 78
+1 (11) Northern State University
+2 Personal Services, Other Funds, delete "$13,477,454" and insert "$13,904,454"
+3 Operating Expenses, General Funds, delete "$1,303,552" and insert "$1,292,378"
+4 Operating Expenses, Other Funds, delete "$13,079,479" and insert "$13,379,479"
+5 (13) Black Hills State University
+6 Personal Services, Other Funds, delete "$15,050,469" and insert "$15,975,469"
+7 Operating Expenses, General Funds, delete "$1,063,429" and insert "$1,035,818"
+8 Operating Expenses, Other Funds, delete "$13,867,559" and insert "$15,842,559"
+9 (14) Dakota State University
+10 Operating Expenses, General Funds, delete "$1,051,143" and insert "$1,283,803"
+11 Operating Expenses, Other Funds, delete "$20,393,289" and insert "$20,718,289"
+12 (15) SD Services for the Deaf
+13 Personal Services, Other Funds, delete "$3,912" and insert "$28,912"
+14 Operating Expenses, General Funds, delete "$728,996" and insert "$732,634"
+15 Operating Expenses, Other Funds, delete "$464,711" and insert "$964,711"
+16 (16) SD School for the Blind and Visually Impaired
+17 Operating Expenses, General Funds, delete "$643,611" and insert "$649,659"
+18 Operating Expenses, Other Funds, delete "$163,108" and insert "$263,108"
+19 Section 16. That 2025 Session Laws, chapter 216, § 18 be AMENDED:
+20 DEPARTMENT OF THE MILITARY
+21 (2) Army Guard
+22 Operating Expenses, General Funds, delete "$2,625,125" and insert "$3,770,303"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 10 78
+1 Operating Expenses, Federal Funds, delete "$13,828,194" and insert "$17,571,839"
+2 (3) Air Guard
+3 Operating Expenses, General Funds, delete "$335,697" and insert "$342,242"
+4 Operating Expenses, Federal Funds, delete "$4,117,564" and insert "$4,137,199"
+5 Section 17. That 2025 Session Laws, chapter 216, § 19 be AMENDED:
+6 DEPARTMENT OF VETERANS' AFFAIRS
+7 (2) State Veterans' Home
+8 Operating Expenses, General Funds, delete "$0" and insert "$936,814"
+9 Operating Expenses, Other Funds, delete "$3,740,127" and insert "$3,927,365"
+10 (3) State Veterans' Cemetery
+11 Operating Expenses, Other Funds, delete "$10,000" and insert "$100,475"
+12 Section 18. That 2025 Session Laws, chapter 216, § 20 be AMENDED:
+13 DEPARTMENT OF CORRECTIONS
+14 (2) Mike Durfee State Prison
+15 Operating Expenses, General Funds, delete "$11,797,776" and insert "$12,275,117"
+16 (3) State Penitentiary
+17 Personal Services, General Funds, delete "$28,207,728" and insert "$28,971,447"
+18 Operating Expenses, General Funds, delete "$9,785,217" and insert "$9,903,322"
+19 F.T.E, delete "317.0" and insert "327.0"
+20 (4) Women's Prison
+21 Personal Services, General Funds, delete "$7,709,343" and insert "$9,332,184"
+22 Operating Expenses, General Funds, delete "$3,222,260" and insert "$3,756,737"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 11 78
+1 F.T.E, delete "89.0" and insert "105.4"
+2 (6) Inmate Services
+3 Personal Services, General Funds, delete "$20,606,830" and insert "$18,952,437"
+4 Operating Expenses, General Funds, delete "$24,530,357" and insert "$26,529,196"
+5 F.T.E, delete "197.9" and insert "177.9"
+6 (8) Juvenile Community Corrections
+7 Operating Expenses, General Funds, delete "$12,516,593" and insert "$11,098,985"
+8 Operating Expenses, Federal Funds, delete "$1,766,879" and insert "$1,438,997"
+9 Section 19. That 2025 Session Laws, chapter 216, § 21 be AMENDED:
+10 DEPARTMENT OF HUMAN SERVICES
+11 (1) Administration, Secretary of Human Services
+12 Personal Services, General Funds, delete "$1,608,320" and insert "$1,662,373"
+13 Personal Services, Federal Funds, delete "$1,473,781" and insert "$1,527,834"
+14 Operating Expenses, General Funds, delete "$259,057" and insert "$265,894"
+15 Operating Expenses, Federal Funds, delete "$212,326" and insert "$219,163"
+16 F.T.E, delete "30.0" and insert "31.0"
+17 (2) Developmental Disabilities
+18 Operating Expenses, General Funds, delete "$134,885,529" and insert "$143,443,918"
+19 Operating Expenses, Federal Funds, delete "$152,836,987" and insert "$163,354,836"
+20 Operating Expenses, Other Funds, delete "$10,085,783" and insert "$11,433,373"
+21 (3) South Dakota Developmental Center - Redfield
+22 Operating Expenses, General Funds, delete "$2,799,351" and insert "$2,801,306"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 12 78
+1 Operating Expenses, Federal Funds, delete "$2,864,141" and insert "$2,866,219"
+2 Operating Expenses, Other Funds, delete "$857,224" and insert "$1,117,488"
+3 (4) Long Term Services and Supports
+4 Personal Services, General Funds, delete "$3,506,641" and insert "$3,486,141"
+5 Personal Services, Other Funds, delete "$33,081" and insert "$53,581"
+6 Operating Expenses, General Funds, delete "$159,340,307" and insert "$161,113,836"
+7 Operating Expenses, Federal Funds, delete "$192,548,183" and insert "$193,879,869"
+8 Operating Expenses, Other Funds, delete "$948,923" and insert "$1,332,243"
+9 (7) Service to the Blind and Visually Impaired
+10 Personal Services, General Funds, delete "$702,551" and insert "$648,498"
+11 Personal Services, Federal Funds, delete "$1,706,699" and insert "$1,652,646"
+12 Operating Expenses, General Funds, delete "$485,274" and insert "$478,437"
+13 Operating Expenses, Federal Funds, delete "$1,469,148" and insert "$1,462,311"
+14 F.T.E, delete "29.2" and insert "28.2"
+15 Section 20. That 2025 Session Laws, chapter 216, § 24 be AMENDED:
+16 UNIFIED JUDICIAL SYSTEM
+17 (2) Unified Judicial System
+18 Operating Expenses, General Funds, delete "$6,948,534" and insert "$6,690,682"
+19 Section 21. That 2025 Session Laws, chapter 216, § 25 be AMENDED:
+20 LEGISLATIVE BRANCH
+21 (1) Legislative Operations
+22 SLE, General Funds, delete "$9,458,352" and insert "$9,493,373"
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 13 78
+1 Section 22. That 2025 Session Laws, chapter 216, § 26 be AMENDED:
+2 OFFICE OF THE ATTORNEY GENERAL
+3 (1) Legal Services Program
+4 Personal Services, Federal Funds, delete "$468,327" and insert "$708,009"
+5 Personal Services, Other Funds, delete "$2,530,126" and insert "$2,290,444"
+6 (2) Criminal Investigation
+7 Personal Services, Federal Funds, delete "$1,247,335" and insert "$1,706,321"
+8 Personal Services, Other Funds, delete "$4,042,263" and insert "$3,583,277"
+9 Operating Expenses, Federal Funds, delete "$3,401,358" and insert "$4,269,294"
+10 Operating Expenses, Other Funds, delete "$3,434,633" and insert "$3,378,787"
+11 (3) Law Enforcement Training
+12 Operating Expenses, Federal Funds, delete "$0" and insert "$499,793"
+13 Section 23. That 2025 Session Laws, chapter 216, § 28 be AMENDED:
+14 SECRETARY OF STATE
+15 (1) Secretary of State
+16 Operating Expenses, General Funds, delete "$577,781" and insert "$602,581"
+17 Section 24. That 2025 Session Laws, chapter 216, § 29 be AMENDED:
+18 STATE TREASURER
+19 (3) Unclaimed Property Operations
+20 Operating Expenses, General Funds, delete "$801,675" and insert "$914,175"
+21 Section 25. Adjust all totals accordingly in sections 1 to 25, inclusive, of this Act.
+22 Section 26. That 2025 Session Laws, chapter 216, § 34 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+78A 14 78
+1 Section 34. The state treasurer shall transfer to the general fund, from the health
+2 care trust fund dakota cement trust fund, moneys in the amount identified by notice of
+3 the state investment officer pursuant to S.D. Const., Art. XIII, § 21, for the Department
+4 of Education - state aid to education.
+5 Section 27. That a NEW SECTION be added to 2025 Session Laws, chapter 216:
+6 Section 37. The state treasurer shall transfer $10,000,000 from the state general fund
+7 to the IT modernization fund.
+8 Section 38. The state treasurer shall transfer $3,100,000 from the state general fund to
+9 the reemployment assistance modernization fund.
+10 Section 39. The state treasurer shall transfer $1,500,000 from the state general fund to
+11 the court security fund.
+12 Section 40. Up to $11,209,269 in general funds appropriated in subsection 4 of section
+13 4 of this Act which are unspent may be carried over until June 30, 2028.
+14 Section 41. Up to $16,696,564 in general funds appropriated in subsection 1 of section
+15 17 of this Act which are unspent may be carried over until June 30, 2028.
+16 Section 42. Up to $1,128,394 in general funds and $3,690,279 in federal fund
+17 expenditure authority appropriated in subsection 2 of section 18 of this Act which are unspent
+18 may be carried over until June 30, 2028.
+19 Section 28. Funds appropriated by this Act, which are unspent at the end of fiscal year 2026,
+20 may be carried over to fiscal year 2027.
+21 Section 29. This Act is effective beginning June 29, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 7 U  ALSSD: E T O A S O (  O  O S B (  O  O  O]
+[DELETED:  2 7 U  S B (  O (  O (  O (  O (  O (  O S B (  O (  O (  O]
+[DELETED:  3 7 U  (  P  P  O  O  O (  O (  O S D (  O (  O (  O S D (  O]
+[DELETED:  4 7 U  (  P  O  O (  O  O (  P  O (  P  O S D (  P  O S D (  O]
+[DELETED:  5 7 U  S D (  P  P  O  O  F (  O  O (  O  O (  P  O  O (  P  O  O]
+[DELETED:  6 7 U   F S D (  P  O (  O S D (  O S D (  P  O  F S D (  O]
+[DELETED:  7 7 U  (  O (  O (  O S D (  P  O (  O (  O S B (  O (  O]
+[DELETED:  8 7 U  (  P  O  O (  P  O (  P  O  O  F (  P  P  O (  O  O (  O  O]
+[DELETED:  9 7 U  (  P  O  O (  P  O  O (  O  O (  P  O  O (  O  O S D (  O]
+[DELETED:  1 7 U   O (  O  O S D (  O  O (  O S D (  O (  P  O  F (  P  O]
+[DELETED:  1 7 U   F (  P  O  F (  O  O S D (  P  P  O  O  F (  O  O  O (  O]
+[DELETED:  1 7 U   O  O (  P  P  O  O  O (  P  P  O  O  F S U (  O S L (  S]
+[DELETED:  1 7 U  S O (  P  P (  P  P  O  O (  O S S (  O S S (  O S S]
+[DELETED:  1 7 U  S c t o S  S t  S t  S t  S 4  S 1  S 4 U t $ i g f a $ i f f e m S m S]

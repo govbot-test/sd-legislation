@@ -1,0 +1,152 @@
+Title: House Bill 1254
+Official Title: House Bill 1254
+Number of Sections: 1
+Source: versions - 1254A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1254A 101st Legislative Session 1254
+2026 South Dakota Legislature
+AMENDME NT 1254A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heinemann
+1 An Act to exempt any soil amendment used exclusively for agricultural purposes
+2 from sales tax, and to modify the definition of a soil amendment.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-45:
+5 There are specifically exempted from the provisions of this chapter and from the
+6 computation of the amount of tax imposed by it, the gross receipts from the sale of any
+7 soil amendment, as defined in § 38-19A-1, provided five hundred pounds or more of any
+8 one of these products is sold in a single sale to be used exclusively for agricultural
+9 purposes.
+10 Section 2. That § 38-19A-1 be AMENDED:
+11 38-19A-1. Terms as used in this chapter, unless the context otherwise requires,
+12 shall mean:
+13 (1) "Brand," any trademark, product name, or other specific designation under which
+14 any individual soil amendment is offered for sale;
+15 (2) "Bulk," nonpackaged form;
+16 (3) "Distributing," importing, consigning, manufacturing, producing, compounding,
+17 mixing or blending any soil amendment, or offering for sale, selling, bartering, or
+18 otherwise supplying any soil amendment in this state;
+19 (4) "Distributor," any person who distributes any soil amendment in this state;
+20 (5) "Investigational allowance," any allowance for variations inherent in the taking,
+21 preparation and analysis of an official sample of a soil amendment;
+22 (6) "Label," any display of all written, printed, or graphic matter upon the immediate
+23 container or statement accompanying a soil amendment;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1254A 2 1254
+1 (7) "Labeling," any written, printed, or graphic matter, upon or accompanying any soil
+2 amendment, or advertisements, brochures, posters, or television or radio
+3 announcements used in promoting the sale of such soil amendment;
+4 (7A) "Manipulated manure," any animal or vegetable manure collected or stored in a
+5 manner consistent with practices commonly implemented in agricultural production
+6 that has been subjected to practices including composting, mechanical dewatering,
+7 or pelletizing or altered in any way to change chemical, physical, or biological
+8 characteristics;
+9 (7B) "Microbe," any microbiological organism or mixture of microbiological organisms
+10 intended to produce any physical, chemical, biochemical, biological, or other
+11 change in the soil;
+12 (8) "Minimum percentage," that percentage of soil amendment ingredient that shall be
+13 present in a product before the product may be accepted for registration when
+14 distributed in any form or manner;
+15 (9) "Official sample," any sample of a soil amendment taken by the secretary and so
+16 designated;
+17 (10) "Percent," percentage by weight;
+18 (11) "Registrant," any person who shall register any soil amendments under the
+19 provisions of this chapter;
+20 (12) "Secretary," the secretary of the Department of Agriculture and Natural Resources
+21 of the State of South Dakota;
+22 (13) "Soil amending ingredient," any substance which will improve the physical,
+23 chemical, or other characteristic of the soil or improve crop production;
+24 (14) "Soil amendment," any substance which is intended to improve the physical,
+25 chemical, or other characteristics of the soil or improve crop production, except
+26 the following: commercial fertilizer, unmanipulated animal manures,
+27 unmanipulated vegetable manures, pesticides, lime or lime sludge produced by a
+28 water treatment facility, sewage sludge, as defined in § 38-19-1, and compost as
+29 defined in § 38-19-1;
+30 (15) "Soil ingredient form," any ingredient or the chemical compound of an ingredient;
+31 (16) "Ton," two thousand pounds avoirdupois net weight; and
+32 (17) "Weight," the weight of that material offered for sale.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A fLSSD: E T O A S T c s o o t p i s i a s s t b u e f a p S 3 s ( " a ( " ( " i c m p c m o ( " ( " p ( " c]
+[DELETED:  2 1 U  ( " a o a b p o t o r a ( " m t o c ( " i t p a p c b b o o c ( " p d ( " d ( " ( " a p w s r a s a u t p ( " o ( " a i a s w w i t p c ( " a a s w i i t i t p c t f c f u a m u w d ( " ( " ( "]
+
+
+================================================================================
+
+Raw Text:
+1254A 101st Legislative Session 1254
+2026 South Dakota Legislature
+House Bill 1254
+AMENDME NT 1254A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heinemann
+1 An Act to exempt any soil amendment used exclusively for agricultural purposes
+2 from sales tax, and to modify the definition of a soil amendment.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-45:
+5 There are specifically exempted from the provisions of this chapter and from the
+6 computation of the amount of tax imposed by it, the gross receipts from the sale of any
+7 soil amendment, as defined in § 38-19A-1, provided five hundred pounds or more of any
+8 one of these products is sold in a single sale to be used exclusively for agricultural
+9 purposes.
+10 Section 2. That § 38-19A-1 be AMENDED:
+11 38-19A-1. Terms as used in this chapter, unless the context otherwise requires,
+12 shall mean:
+13 (1) "Brand," any trademark, product name, or other specific designation under which
+14 any individual soil amendment is offered for sale;
+15 (2) "Bulk," nonpackaged form;
+16 (3) "Distributing," importing, consigning, manufacturing, producing, compounding,
+17 mixing or blending any soil amendment, or offering for sale, selling, bartering, or
+18 otherwise supplying any soil amendment in this state;
+19 (4) "Distributor," any person who distributes any soil amendment in this state;
+20 (5) "Investigational allowance," any allowance for variations inherent in the taking,
+21 preparation and analysis of an official sample of a soil amendment;
+22 (6) "Label," any display of all written, printed, or graphic matter upon the immediate
+23 container or statement accompanying a soil amendment;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1254A 2 1254
+1 (7) "Labeling," any written, printed, or graphic matter, upon or accompanying any soil
+2 amendment, or advertisements, brochures, posters, or television or radio
+3 announcements used in promoting the sale of such soil amendment;
+4 (7A) "Manipulated manure," any animal or vegetable manure collected or stored in a
+5 manner consistent with practices commonly implemented in agricultural production
+6 that has been subjected to practices including composting, mechanical dewatering,
+7 or pelletizing or altered in any way to change chemical, physical, or biological
+8 characteristics;
+9 (7B) "Microbe," any microbiological organism or mixture of microbiological organisms
+10 intended to produce any physical, chemical, biochemical, biological, or other
+11 change in the soil;
+12 (8) "Minimum percentage," that percentage of soil amendment ingredient that shall be
+13 present in a product before the product may be accepted for registration when
+14 distributed in any form or manner;
+15 (9) "Official sample," any sample of a soil amendment taken by the secretary and so
+16 designated;
+17 (10) "Percent," percentage by weight;
+18 (11) "Registrant," any person who shall register any soil amendments under the
+19 provisions of this chapter;
+20 (12) "Secretary," the secretary of the Department of Agriculture and Natural Resources
+21 of the State of South Dakota;
+22 (13) "Soil amending ingredient," any substance which will improve the physical,
+23 chemical, or other characteristic of the soil or improve crop production;
+24 (14) "Soil amendment," any substance which is intended to improve the physical,
+25 chemical, or other characteristics of the soil or improve crop production, except
+26 the following: commercial fertilizer, unmanipulated animal manures,
+27 unmanipulated vegetable manures, pesticides, lime or lime sludge produced by a
+28 water treatment facility, sewage sludge, as defined in § 38-19-1, and compost as
+29 defined in § 38-19-1;
+30 (15) "Soil ingredient form," any ingredient or the chemical compound of an ingredient;
+31 (16) "Ton," two thousand pounds avoirdupois net weight; and
+32 (17) "Weight," the weight of that material offered for sale.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A fLSSD: E T O A S T c s o o t p i s i a s s t b u e f a p S 3 s ( " a ( " ( " i c m p c m o ( " ( " p ( " c]
+[DELETED:  2 1 U  ( " a o a b p o t o r a ( " m t o c ( " i t p a p c b b o o c ( " p d ( " d ( " ( " a p w s r a s a u t p ( " o ( " a i a s w w i t p c ( " a a s w i i t i t p c t f c f u a m u w d ( " ( " ( "]

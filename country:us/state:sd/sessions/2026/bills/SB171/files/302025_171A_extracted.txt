@@ -1,0 +1,323 @@
+Title: Senate Bill 171
+Official Title: Senate Bill 171
+Number of Sections: 1
+Source: versions - 171A
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+171A 101st Legislative Session 171
+2026 South Dakota Legislature
+AMENDME NT 171A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Peterson (Sue)
+1 An Act to amend provisions pertaining to the processing of absentee ballots and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-19-10 be AMENDED:
+5 12-19-10. Upon receipt of the sealed return envelope containing the voted ballots,
+6 the person in charge of the election or their designee shall mark the date of receipt on the
+7 envelope. The person in charge of the election shall keep the absentee ballot in a safe
+8 place without opening the envelope or breaking the seal thereof, and shall, except as
+9 provided by § 12-19-42, deliver it to the precinct superintendent of election of the voter's
+10 home precinct, or to the absentee ballot counting board as provided in § 12-19-42. The
+11 person in charge of the election shall have the absentee ballots delivered with the election
+12 supplies, or if received later, then prior to the close of the polls.
+13 If the person in charge of the election creates an absentee ballot precinct, pursuant
+14 to § 12-19-37, the person in charge of the election must deliver to the superintendent of
+15 each precinct, the list containing the names of each voter who voted by absentee ballot
+16 along with the election supplies. On election day, the person in charge of the election shall
+17 forward to a precinct superintendent any updates to the list of voters who voted by
+18 absentee ballot upon receipt of an absentee ballot.
+19 If the precinct election board is not otherwise engaged in official duties, or if there
+20 are absentee ballots not processed when the polls close, immediately thereafter, the board
+21 must carefully compare the statement on the reverse side of the official return envelope
+22 with the written application received from the officer in charge of the election without
+23 opening or breaking the seal of the return envelope. If The board shall omit the comparison
+24 of the statement and the application if the ballot is contained in a combined absentee
+25 ballot application/return application form and return envelope, the comparison of the
+26 statement and the application must be omitted.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+171A 2 171
+1 The precinct election board or the precinct counting board shall enter the voter's
+2 name on in the election pollbook and mark the registration list if whether:
+3 (1) The ballot received was voted by the voter whose name appears on the statement;
+4 (2) The voter is registered in the precinct and has not previously voted in that precinct
+5 at the election; and
+6 (3) The written application and statement were both signed by the voter.
+7 The board shall then open the envelope without opening, unfolding, or examining
+8 the ballots the envelope may contain,; stamp the ballots with the official stamp,; and
+9 deposit the ballots with the other ballots cast at the election. If the board determines that
+10 an absentee ballot envelope cannot be opened because the envelope does not meet the
+11 requirements for opening, the reason for not opening the envelope must be written on the
+12 envelope, signed accompanied by the signature of a member of the board, and the
+13 envelope must be placed in a larger envelope for unopened absentee ballots.
+14 It is a Class 2 misdemeanor for a person an individual, prior to the counting of the
+15 votes, to open, unfold, or examine any ballot, or make any communication to any person
+16 other individual concerning the markings or contents of the ballot, or to create any record
+17 associating an individual voter with a ballot.
+18 Section 2. That § 12-19-37 be AMENDED:
+19 12-19-37. Any county may create a special precinct to be known as an absentee
+20 ballot precinct. If the county creates an absentee ballot precinct, all absentee ballots cast
+21 at any election shall be counted in such precinct. However, if a paper ballot precinct has
+22 ten or fewer absentee ballots cast at the time the polls open on election day, the absentee
+23 ballots in that precinct shall be counted at the polling place.
+24 The person in charge of the election may create an absentee ballot precinct. Except
+25 as otherwise provided by this section, if the person in charge of the election creates an
+26 absentee ballot precinct, all absentee ballots cast at the election must be forwarded to the
+27 absentee ballot precinct for counting. If ten or fewer voters in a precinct vote by absentee
+28 ballot, the person in charge of the election must forward the absentee ballots to the
+29 precinct for counting.
+30 If the person in charge of the election creates an absentee ballot precinct, the
+31 person in charge of the election shall create a pollbook using the data provided in the
+32 electronic voter registration system, listing the name of each voter who voted by absentee
+33 ballot in the jurisdiction and the type of ballot the voter cast.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+171A 3 171
+1 The election board of the absentee ballot precinct is the absentee ballot counting
+2 board. There may be only one absentee ballot counting board at any time in a county.
+3 Section 3. That § 12-19-41 be AMENDED:
+4 12-19-41. Except as otherwise provided in §§ 12-19-37 to 12-19-52, inclusive,
+5 the absentee ballot counting board's powers and duties shall be the same as provided in
+6 chapters 12-19 and 12-20 for precinct election officials in regular precinct polling places,
+7 except that the board shall receive and count all absentee ballots for all precincts in the
+8 county upon receipt thereof from the person in charge of the election.Except as otherwise
+9 specified in §§ 12-19-37 to 12-19-52, inclusive, the powers and duties of an absentee
+10 ballot counting board are the same as those of precinct election officials in a regular
+11 precinct polling place.
+12 An absentee counting board shall:
+13 (1) Receive, from the person in charge of the election, all absentee ballots for all
+14 precincts in the jurisdiction of the person in charge of the election; and
+15 (2) Process and count each absentee ballot received from the person in charge of the
+16 election.
+17 Section 4. That § 12-19-43 be AMENDED:
+18 12-19-43. The county auditor shall direct the board to meet on election day prior
+19 to the closing of the polls for the sole purpose of reviewing the absentee voters' affidavits
+20 appearing on the sealed ballot envelopes, if in the auditor's judgment this procedure shall
+21 be necessary due to the number of absentee ballots received. The absentee ballots shall
+22 be opened, stamped, and placed in the ballot box or processed by an automatic tabulating
+23 machine, but under no circumstances shall the ballots be manually counted norIf in the
+24 judgment of the person in charge of the election it is necessary to convene the absentee
+25 counting board prior to the closing of the polls on election day, the person in charge of
+26 the election may direct the board to meet during regular business hours on the day before
+27 the election and on election day prior to the closing of the polls for the purpose of
+28 processing absentee ballots, pursuant to § 12-19-10. If the person in charge of the
+29 election convenes the absentee counting board on the day before the election, the board
+30 may only process the absentee ballots, as provided in § 12-19-10, and may not manually
+31 count any ballots or use the automatic tabulating equipment to count the ballots.
+32 The absentee ballots may be counted by the automatic tabulating equipment on
+33 election day, prior to the closing of the polls, provided that any vote totals are not printed
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+171A 4 171
+1 or displayed by any tabulating machine prior to the closing of the polls. The absentee
+2 ballot counting board may not manually count the absentee ballots prior to the closing of
+3 the polls.
+4 If ballots are processed by an automatic tabulating machine prior to the closing of
+5 the polls, the resolution board shall be present and notification of such processing shall be
+6 provided to each county party chairperson at least ten days before the election.
+7 Section 5. That § 12-19-44 be AMENDED:
+8 12-19-44. The process of sorting, validating, processing, and counting absentee
+9 ballots must be open to poll watchers for the purpose of observing the process.
+10 A poll watcher shall keep a reasonable distance from ballots and identification
+11 information to protect the privacy of absentee voters. No record associating an individual
+12 voter with a ballot may be created.
+13 A violation of this section is a Class 2 misdemeanor.
+14 Section 6. That § 12-19-45 be AMENDED:
+15 12-19-45. The person in charge of the election shall preserve a record of the
+16 name, post office address, and voting precinct of each applicant for absentee ballots an
+17 absentee ballot and shall personally deliver the same to the Absentee Ballot Counting
+18 Board record to the absentee ballot counting board. The person in charge of the election
+19 shall keep a record of the name of the authorized messenger requesting an absentee ballot
+20 to be delivered to another voter.
+21 Section 7. That § 12-19-46 be AMENDED:
+22 12-19-46. The Absentee Ballot Counting Board shall commence counting the
+23 absentee voters' ballots immediately upon close of the polls at a central place designated
+24 by the county auditor.
+25 If the absentee ballot counting board did not begin to process or tabulate the
+26 absentee ballots on election day prior to the closing of the polls, pursuant to § 12-19-43,
+27 the board must immediately, upon the close of the polls, commence:
+28 (1) Processing each absentee ballot, pursuant to § 12-19-10; and
+29 (2) Counting the absentee ballots.
+30 Section 8. That § 12-19-47 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+171A 5 171
+1 The absentee ballot counting board, during the time prescribed in § 12-19-46, shall
+2 process each absentee ballot as required by § 12-19-10.
+3 Section 9. Whereas, this Act is necessary for the immediate preservation of the public peace,
+4 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+5 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A dLSSD: E T O A S 1 t e p p h p s I t e a f t a p s a u t t l o v w v b a I a m w o o b a a f a r e t c o t s]
+[DELETED:  2 1 U  T n ( T ( T a ( T T t d a r e s a b t s o a m o t b a t e I v o a S 1 b a t b T a a a b o e m p I p e b]
+[DELETED:  3 1 U  T b S 1 t c e c s b p A ( R p ( P e S 1 t a b b m j c t t e a o e d p t t c o t p f t p o p a b p t § I t p i c o t e m c T e]
+[DELETED:  4 1 U  o b t I t p S 1 b A r i v A S 1 n a B s t S 1 T A B C B s c c t a b I a t ( P ( C S]
+[DELETED:  5 1 U  T p S h a]
+
+
+================================================================================
+
+Raw Text:
+171A 101st Legislative Session 171
+2026 South Dakota Legislature
+Senate Bill 171
+AMENDME NT 171A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Peterson (Sue)
+1 An Act to amend provisions pertaining to the processing of absentee ballots and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-19-10 be AMENDED:
+5 12-19-10. Upon receipt of the sealed return envelope containing the voted ballots,
+6 the person in charge of the election or their designee shall mark the date of receipt on the
+7 envelope. The person in charge of the election shall keep the absentee ballot in a safe
+8 place without opening the envelope or breaking the seal thereof, and shall, except as
+9 provided by § 12-19-42, deliver it to the precinct superintendent of election of the voter's
+10 home precinct, or to the absentee ballot counting board as provided in § 12-19-42. The
+11 person in charge of the election shall have the absentee ballots delivered with the election
+12 supplies, or if received later, then prior to the close of the polls.
+13 If the person in charge of the election creates an absentee ballot precinct, pursuant
+14 to § 12-19-37, the person in charge of the election must deliver to the superintendent of
+15 each precinct, the list containing the names of each voter who voted by absentee ballot
+16 along with the election supplies. On election day, the person in charge of the election shall
+17 forward to a precinct superintendent any updates to the list of voters who voted by
+18 absentee ballot upon receipt of an absentee ballot.
+19 If the precinct election board is not otherwise engaged in official duties, or if there
+20 are absentee ballots not processed when the polls close, immediately thereafter, the board
+21 must carefully compare the statement on the reverse side of the official return envelope
+22 with the written application received from the officer in charge of the election without
+23 opening or breaking the seal of the return envelope. If The board shall omit the comparison
+24 of the statement and the application if the ballot is contained in a combined absentee
+25 ballot application/return application form and return envelope, the comparison of the
+26 statement and the application must be omitted.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+171A 2 171
+1 The precinct election board or the precinct counting board shall enter the voter's
+2 name on in the election pollbook and mark the registration list if whether:
+3 (1) The ballot received was voted by the voter whose name appears on the statement;
+4 (2) The voter is registered in the precinct and has not previously voted in that precinct
+5 at the election; and
+6 (3) The written application and statement were both signed by the voter.
+7 The board shall then open the envelope without opening, unfolding, or examining
+8 the ballots the envelope may contain,; stamp the ballots with the official stamp,; and
+9 deposit the ballots with the other ballots cast at the election. If the board determines that
+10 an absentee ballot envelope cannot be opened because the envelope does not meet the
+11 requirements for opening, the reason for not opening the envelope must be written on the
+12 envelope, signed accompanied by the signature of a member of the board, and the
+13 envelope must be placed in a larger envelope for unopened absentee ballots.
+14 It is a Class 2 misdemeanor for a person an individual, prior to the counting of the
+15 votes, to open, unfold, or examine any ballot, or make any communication to any person
+16 other individual concerning the markings or contents of the ballot, or to create any record
+17 associating an individual voter with a ballot.
+18 Section 2. That § 12-19-37 be AMENDED:
+19 12-19-37. Any county may create a special precinct to be known as an absentee
+20 ballot precinct. If the county creates an absentee ballot precinct, all absentee ballots cast
+21 at any election shall be counted in such precinct. However, if a paper ballot precinct has
+22 ten or fewer absentee ballots cast at the time the polls open on election day, the absentee
+23 ballots in that precinct shall be counted at the polling place.
+24 The person in charge of the election may create an absentee ballot precinct. Except
+25 as otherwise provided by this section, if the person in charge of the election creates an
+26 absentee ballot precinct, all absentee ballots cast at the election must be forwarded to the
+27 absentee ballot precinct for counting. If ten or fewer voters in a precinct vote by absentee
+28 ballot, the person in charge of the election must forward the absentee ballots to the
+29 precinct for counting.
+30 If the person in charge of the election creates an absentee ballot precinct, the
+31 person in charge of the election shall create a pollbook using the data provided in the
+32 electronic voter registration system, listing the name of each voter who voted by absentee
+33 ballot in the jurisdiction and the type of ballot the voter cast.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+171A 3 171
+1 The election board of the absentee ballot precinct is the absentee ballot counting
+2 board. There may be only one absentee ballot counting board at any time in a county.
+3 Section 3. That § 12-19-41 be AMENDED:
+4 12-19-41. Except as otherwise provided in §§ 12-19-37 to 12-19-52, inclusive,
+5 the absentee ballot counting board's powers and duties shall be the same as provided in
+6 chapters 12-19 and 12-20 for precinct election officials in regular precinct polling places,
+7 except that the board shall receive and count all absentee ballots for all precincts in the
+8 county upon receipt thereof from the person in charge of the election.Except as otherwise
+9 specified in §§ 12-19-37 to 12-19-52, inclusive, the powers and duties of an absentee
+10 ballot counting board are the same as those of precinct election officials in a regular
+11 precinct polling place.
+12 An absentee counting board shall:
+13 (1) Receive, from the person in charge of the election, all absentee ballots for all
+14 precincts in the jurisdiction of the person in charge of the election; and
+15 (2) Process and count each absentee ballot received from the person in charge of the
+16 election.
+17 Section 4. That § 12-19-43 be AMENDED:
+18 12-19-43. The county auditor shall direct the board to meet on election day prior
+19 to the closing of the polls for the sole purpose of reviewing the absentee voters' affidavits
+20 appearing on the sealed ballot envelopes, if in the auditor's judgment this procedure shall
+21 be necessary due to the number of absentee ballots received. The absentee ballots shall
+22 be opened, stamped, and placed in the ballot box or processed by an automatic tabulating
+23 machine, but under no circumstances shall the ballots be manually counted norIf in the
+24 judgment of the person in charge of the election it is necessary to convene the absentee
+25 counting board prior to the closing of the polls on election day, the person in charge of
+26 the election may direct the board to meet during regular business hours on the day before
+27 the election and on election day prior to the closing of the polls for the purpose of
+28 processing absentee ballots, pursuant to § 12-19-10. If the person in charge of the
+29 election convenes the absentee counting board on the day before the election, the board
+30 may only process the absentee ballots, as provided in § 12-19-10, and may not manually
+31 count any ballots or use the automatic tabulating equipment to count the ballots.
+32 The absentee ballots may be counted by the automatic tabulating equipment on
+33 election day, prior to the closing of the polls, provided that any vote totals are not printed
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+171A 4 171
+1 or displayed by any tabulating machine prior to the closing of the polls. The absentee
+2 ballot counting board may not manually count the absentee ballots prior to the closing of
+3 the polls.
+4 If ballots are processed by an automatic tabulating machine prior to the closing of
+5 the polls, the resolution board shall be present and notification of such processing shall be
+6 provided to each county party chairperson at least ten days before the election.
+7 Section 5. That § 12-19-44 be AMENDED:
+8 12-19-44. The process of sorting, validating, processing, and counting absentee
+9 ballots must be open to poll watchers for the purpose of observing the process.
+10 A poll watcher shall keep a reasonable distance from ballots and identification
+11 information to protect the privacy of absentee voters. No record associating an individual
+12 voter with a ballot may be created.
+13 A violation of this section is a Class 2 misdemeanor.
+14 Section 6. That § 12-19-45 be AMENDED:
+15 12-19-45. The person in charge of the election shall preserve a record of the
+16 name, post office address, and voting precinct of each applicant for absentee ballots an
+17 absentee ballot and shall personally deliver the same to the Absentee Ballot Counting
+18 Board record to the absentee ballot counting board. The person in charge of the election
+19 shall keep a record of the name of the authorized messenger requesting an absentee ballot
+20 to be delivered to another voter.
+21 Section 7. That § 12-19-46 be AMENDED:
+22 12-19-46. The Absentee Ballot Counting Board shall commence counting the
+23 absentee voters' ballots immediately upon close of the polls at a central place designated
+24 by the county auditor.
+25 If the absentee ballot counting board did not begin to process or tabulate the
+26 absentee ballots on election day prior to the closing of the polls, pursuant to § 12-19-43,
+27 the board must immediately, upon the close of the polls, commence:
+28 (1) Processing each absentee ballot, pursuant to § 12-19-10; and
+29 (2) Counting the absentee ballots.
+30 Section 8. That § 12-19-47 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+171A 5 171
+1 The absentee ballot counting board, during the time prescribed in § 12-19-46, shall
+2 process each absentee ballot as required by § 12-19-10.
+3 Section 9. Whereas, this Act is necessary for the immediate preservation of the public peace,
+4 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+5 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A dLSSD: E T O A S 1 t e p p h p s I t e a f t a p s a u t t l o v w v b a I a m w o o b a a f a r e t c o t s]
+[DELETED:  2 1 U  T n ( T ( T a ( T T t d a r e s a b t s o a m o t b a t e I v o a S 1 b a t b T a a a b o e m p I p e b]
+[DELETED:  3 1 U  T b S 1 t c e c s b p A ( R p ( P e S 1 t a b b m j c t t e a o e d p t t c o t p f t p o p a b p t § I t p i c o t e m c T e]
+[DELETED:  4 1 U  o b t I t p S 1 b A r i v A S 1 n a B s t S 1 T A B C B s c c t a b I a t ( P ( C S]
+[DELETED:  5 1 U  T p S h a]

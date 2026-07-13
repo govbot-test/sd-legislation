@@ -1,0 +1,349 @@
+Title: House Bill 1045
+Official Title: House Bill 1045
+Number of Sections: 1
+Source: versions - 1045G
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1045G 101st Legislative Session 1045
+2026 South Dakota Legislature
+AMENDME NT 1045G
+FOR THE HOUSE JUDICIARY ENGROSSED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Department of Social Services
+1 An Act to revise certain provisions related to child support.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 25-7-6.4 be AMENDED:
+4 25-7-6.4. Except as provided in § 25-7-6.26, it It is presumed for the purposes of
+5 determination of determining child support that a parent is capable of being employed a
+6 minimum of one thousand eight hundred twenty hours per year, and the parent's child
+7 support obligation must be calculated at a rate and earning an annual gross income of not
+8 less than one thousand eight hundred twenty hours at multiplied by the current state
+9 minimum wage.
+10 Section 2. That § 25-7-6.10 be AMENDED:
+11 25-7-6.10. Deviation from the schedule in § 25-7-6.2 must be considered if raised
+12 by either party and made only upon the entry of specific findings based upon any of the
+13 following factors:
+14 (1) The income of a subsequent spouse or contribution of a third party to the income
+15 or expenses of that parent but only if the application of the schedule works a
+16 financial hardship on either parent;
+17 (2) Any financial condition of either parent that would make application of the schedule
+18 inequitable. If the total amount of the child support obligation, including any
+19 adjustments for health insurance and child care costs, exceeds fifty percent of the
+20 obligor's monthly net income, it is presumed that the amount of the obligation
+21 imposes a financial hardship on the obligor. This presumption may be rebutted
+22 based upon other factors set forth in this section;
+23 (3) Any necessary education or health care special needs of the child;
+24 (4) The effect of agreements between the parents regarding extra forms of support for
+25 the direct benefit of the child;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1045G 2 1045
+1 (5) The obligation of either parent to provide for subsequent natural children, adopted
+2 children, or stepchildren. However, an existing support order may not be modified
+3 solely for this reason; or
+4 (6) The voluntary and unreasonable act of a parent that causes the parent to be
+5 unemployed or underemployed, consistent with the provisions of § 25-7-6.26; or
+6 (7) The federal income consequences arising from claiming the child as a dependent.
+7 Section 3. That § 25-7-6.13 be AMENDED:
+8 25-7-6.13. All orders for support entered and in effect prior to July 1, 2022 2026,
+9 may be modified in accordance with this chapter, without requiring a showing of a change
+10 in circumstances from the entry of the order. If a parent incarcerated for more than one
+11 hundred eighty days is released from incarceration, the child support obligation in effect
+12 at the time of release must continue in effect until either parent files a petition for
+13 modification.
+14 Section 4. That § 25-7-6.19 be AMENDED:
+15 25-7-6.19. Notwithstanding the provisions of § 25-7A-17 or 25-7-7.3, if, by
+16 agreement of the parties, or by court order, the obligor had primary physical custody of
+17 the child for more than four consecutive months, the court may credit the obligor for child
+18 support arrearages which that accumulated during the period the obligor had actual
+19 physical custody of the child.
+20 Section 5. That § 25-7-6.26 be AMENDED:
+21 25-7-6.26. If a parent in a child support establishment or modification proceeding
+22 fails to furnish income or other financial information, the parent is in default. Income not
+23 actually earned by a parent may be imputed to the parent pursuant to this section. Except
+24 in cases of physical or mental disability or incarceration for one hundred eighty days or
+25 more, it is presumed for the purpose of determining child support in an establishment or
+26 modification proceeding that a parent is capable of being employed a minimum of one
+27 thousand eight hundred twenty hours per year at the state minimum wage, absent
+28 evidence to the contrary. Evidence to rebut this presumption may be presented by either
+29 parent.
+30 Income may be imputed to a parent when the parent is unemployed,
+31 underemployed, fails to produce sufficient proof of income, has an unknown employment
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1045G 3 1045
+1 status, or is a full-time or part-time student, whose education or retraining will result,
+2 within a reasonable time, in an economic benefit to the child for whom the support
+3 obligation is determined, unless the actual income is greater.
+4 In all cases where imputed income is appropriate, the amount imputed must be
+5 based upon the following:
+6 (1) The parent’s residence;
+7 (2) The parent’s recent work and earnings history;
+8 (3) The parent’s occupational, educational, and professional qualifications;
+9 (4) Existing job opportunities and associated earning levels in the community or
+10 the local trade area;
+11 (5) The parent’s age, literacy, health, criminal record, record of seeking work, and
+12 other employment barriers;
+13 (6) The availability of employers willing to hire the parent; and
+14 (7) Other relevant background factors.
+15 Income is not imputed to a parent who is physically or mentally disabled to the
+16 extent that the parent cannot earn income; who is incarcerated for more than one hundred
+17 eighty days; who has made diligent efforts to find and accept suitable work or to return
+18 to customary self-employment, to no avail; or when the court makes a finding that other
+19 circumstances exist that make the imputation inequitable, in which case the imputed
+20 income may only be decreased to the extent required to remove such inequity.
+21 Imputed income may be in addition to actual income and is not required to reflect
+22 the same rate of pay as actual income.A court may impute a parent's income for purposes
+23 of child support if:
+24 (1) The parent does not produce sufficient proof of income;
+25 (2) The parent's employment status is unknown;
+26 (3) The parent is underemployed; or
+27 (4) The parent is unemployed.
+28 The income amount imputed may not be less than the current state minimum wage
+29 multiplied by one thousand eight hundred twenty hours.
+30 To determine the amount of income to impute to the parent, the court may consider
+31 any factor relevant to the parent's ability to earn income, including the parent's age,
+32 criminal record, education, experience, health, occupational skills, the employment
+33 opportunities in the geographical area where the parent resides.
+34 The amount of income imputed may be based on the parent's past income data,
+35 data on wage rates for various occupations and locations published by the United States
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1045G 4 1045
+1 Bureau of Labor Statistics or any other federal or state government agency, or job
+2 advertisements.
+3 No income may be imputed to a parent who has been sentenced to serve a term
+4 of incarceration or confinement of more than one hundred eighty days, or to a parent who
+5 is physically or mentally disabled to the extent that the parent cannot earn income.
+6 Section 6. That § 25-7A-6 be AMENDED:
+7 25-7A-6. If a parent served with a notice of support debt under § 25-7A-5 makes
+8 a timely request for a hearing, the secretary of social services shall must file the notice of
+9 support debt, proof of service thereof, and response thereto in the office of the clerk of
+10 the circuit court in the county of residence of that parent. The matter shall must be set
+11 for hearing before a referee who is a member in good standing of the State Bar Association
+12 and is appointed by the court, pursuant to statute, and after due notice to all parties by
+13 first class mail.
+14 The referee shall make a report to the court, recommending the amount of the
+15 debt due to the state, if any, and the monthly support obligation of the parent and the
+16 arrearage debt due to the obligee or another state who has applied for support
+17 enforcement services, the provision of medical support, or genetic testing costs. If genetic
+18 testing showing a ninety-nine percent or higher likelihood of paternity, or a voluntary
+19 acknowledgment of paternity, is presented as evidence during the hearing, the referee
+20 must make a finding of adjudication of paternity and include the finding in the report to
+21 the court.
+22 The referee shall file the report with the court and cause copies thereof to be served
+23 by mailing to the parties and the secretary. Any party shall have ten days from the date
+24 of service of the report in which to file objections to the report. If a party files an objection,
+25 the other party shall have has an additional five days from the date of service of the
+26 objections to file additional objections. If no objection is filed, the circuit court may
+27 thereafter, and without further notice, enter its order. If any objection is filed, the circuit
+28 court shall must fix a date for hearing on the report, with the hearing to be solely on the
+29 record established before the referee. The circuit court may thereafter adopt the referee's
+30 report, or may modify it, or may reject and remand it with instructions or for further
+31 hearing. The secretary shall serve the parent the court's order by certified mail, return
+32 receipt requested, at the parent's last known address, and shall file proof of service.
+33 If the circuit court's order modifies the referee's report and no hearing was held
+34 before the court before entry of its order, any party has ten days from the date of service
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1045G 5 1045
+1 of the order in which to file an objection to that modification. If an objection is filed, the
+2 circuit court shall must fix a date for hearing on the objection and after the hearing shall
+3 must enter its order. The secretary shall serve the order by certified mail, return receipt
+4 requested, at the parent's last known address, and shall file proof of service.
+5 Section 7. That a NEW SECTION be added to chapter 25-7A:
+6 If a party agrees, the referee may send copies of any notice or report required to
+7 be served on the party under § 25-7A-6 or 25-7A-22 by electronic mail, using the email
+8 address provided by the party.
+9 Section 8. That a NEW SECTION be added to chapter 25-7A:
+10 If a party files an objection to the referee's report pursuant to § 25-7A-6 or 25-7A-
+11 22, the referee must file with the court all exhibits entered into the record in the hearing
+12 before the referee and all financial and legal documents received by the referee. The
+13 referee shall file the exhibits and documents within ten days after receiving notice of the
+14 objection. The referee shall maintain the exhibits and documents for thirty days following
+15 a signed order.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 2 d m s l m S 2 b f ( T o f ( A i I t t a o t c s o i a a o i b ( A ( T t]
+[DELETED:  2 1 U  ( T c s ( T v a u a o a p t c t p t b u ( T S 2 m i h a t t o r m c i e u e p f a p f m S 2 N t p o § o 2 i b a t s a w t a d t p t o h a p S 2 f a i m m t e h t h p y a t s m w a e p I m b i t a p w t p i u u]
+[DELETED:  3 1 U  s w a r t i a e b t t c f w t s o I b ( ( ( ( t ( o ( ( I e e t c c i I t o ( T ( T ( T ( T T m T a c r e e h o s t e o T d]
+[DELETED:  4 1 U  B o L S o a o f o s g a o j a N o i S 2 a s t f a f T d a d d t t o o a s w h a f s e t a m t T b o t o t f a o I n o i f t c c m t c r r h r I b]
+[DELETED:  5 1 U  o c m r S I b a S I 2 b r o a]
+
+
+================================================================================
+
+Raw Text:
+1045G 101st Legislative Session 1045
+2026 South Dakota Legislature
+House Bill 1045
+AMENDME NT 1045G
+FOR THE HOUSE JUDICIARY ENGROSSED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Department of Social Services
+1 An Act to revise certain provisions related to child support.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 25-7-6.4 be AMENDED:
+4 25-7-6.4. Except as provided in § 25-7-6.26, it It is presumed for the purposes of
+5 determination of determining child support that a parent is capable of being employed a
+6 minimum of one thousand eight hundred twenty hours per year, and the parent's child
+7 support obligation must be calculated at a rate and earning an annual gross income of not
+8 less than one thousand eight hundred twenty hours at multiplied by the current state
+9 minimum wage.
+10 Section 2. That § 25-7-6.10 be AMENDED:
+11 25-7-6.10. Deviation from the schedule in § 25-7-6.2 must be considered if raised
+12 by either party and made only upon the entry of specific findings based upon any of the
+13 following factors:
+14 (1) The income of a subsequent spouse or contribution of a third party to the income
+15 or expenses of that parent but only if the application of the schedule works a
+16 financial hardship on either parent;
+17 (2) Any financial condition of either parent that would make application of the schedule
+18 inequitable. If the total amount of the child support obligation, including any
+19 adjustments for health insurance and child care costs, exceeds fifty percent of the
+20 obligor's monthly net income, it is presumed that the amount of the obligation
+21 imposes a financial hardship on the obligor. This presumption may be rebutted
+22 based upon other factors set forth in this section;
+23 (3) Any necessary education or health care special needs of the child;
+24 (4) The effect of agreements between the parents regarding extra forms of support for
+25 the direct benefit of the child;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1045G 2 1045
+1 (5) The obligation of either parent to provide for subsequent natural children, adopted
+2 children, or stepchildren. However, an existing support order may not be modified
+3 solely for this reason; or
+4 (6) The voluntary and unreasonable act of a parent that causes the parent to be
+5 unemployed or underemployed, consistent with the provisions of § 25-7-6.26; or
+6 (7) The federal income consequences arising from claiming the child as a dependent.
+7 Section 3. That § 25-7-6.13 be AMENDED:
+8 25-7-6.13. All orders for support entered and in effect prior to July 1, 2022 2026,
+9 may be modified in accordance with this chapter, without requiring a showing of a change
+10 in circumstances from the entry of the order. If a parent incarcerated for more than one
+11 hundred eighty days is released from incarceration, the child support obligation in effect
+12 at the time of release must continue in effect until either parent files a petition for
+13 modification.
+14 Section 4. That § 25-7-6.19 be AMENDED:
+15 25-7-6.19. Notwithstanding the provisions of § 25-7A-17 or 25-7-7.3, if, by
+16 agreement of the parties, or by court order, the obligor had primary physical custody of
+17 the child for more than four consecutive months, the court may credit the obligor for child
+18 support arrearages which that accumulated during the period the obligor had actual
+19 physical custody of the child.
+20 Section 5. That § 25-7-6.26 be AMENDED:
+21 25-7-6.26. If a parent in a child support establishment or modification proceeding
+22 fails to furnish income or other financial information, the parent is in default. Income not
+23 actually earned by a parent may be imputed to the parent pursuant to this section. Except
+24 in cases of physical or mental disability or incarceration for one hundred eighty days or
+25 more, it is presumed for the purpose of determining child support in an establishment or
+26 modification proceeding that a parent is capable of being employed a minimum of one
+27 thousand eight hundred twenty hours per year at the state minimum wage, absent
+28 evidence to the contrary. Evidence to rebut this presumption may be presented by either
+29 parent.
+30 Income may be imputed to a parent when the parent is unemployed,
+31 underemployed, fails to produce sufficient proof of income, has an unknown employment
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1045G 3 1045
+1 status, or is a full-time or part-time student, whose education or retraining will result,
+2 within a reasonable time, in an economic benefit to the child for whom the support
+3 obligation is determined, unless the actual income is greater.
+4 In all cases where imputed income is appropriate, the amount imputed must be
+5 based upon the following:
+6 (1) The parent’s residence;
+7 (2) The parent’s recent work and earnings history;
+8 (3) The parent’s occupational, educational, and professional qualifications;
+9 (4) Existing job opportunities and associated earning levels in the community or
+10 the local trade area;
+11 (5) The parent’s age, literacy, health, criminal record, record of seeking work, and
+12 other employment barriers;
+13 (6) The availability of employers willing to hire the parent; and
+14 (7) Other relevant background factors.
+15 Income is not imputed to a parent who is physically or mentally disabled to the
+16 extent that the parent cannot earn income; who is incarcerated for more than one hundred
+17 eighty days; who has made diligent efforts to find and accept suitable work or to return
+18 to customary self-employment, to no avail; or when the court makes a finding that other
+19 circumstances exist that make the imputation inequitable, in which case the imputed
+20 income may only be decreased to the extent required to remove such inequity.
+21 Imputed income may be in addition to actual income and is not required to reflect
+22 the same rate of pay as actual income.A court may impute a parent's income for purposes
+23 of child support if:
+24 (1) The parent does not produce sufficient proof of income;
+25 (2) The parent's employment status is unknown;
+26 (3) The parent is underemployed; or
+27 (4) The parent is unemployed.
+28 The income amount imputed may not be less than the current state minimum wage
+29 multiplied by one thousand eight hundred twenty hours.
+30 To determine the amount of income to impute to the parent, the court may consider
+31 any factor relevant to the parent's ability to earn income, including the parent's age,
+32 criminal record, education, experience, health, occupational skills, the employment
+33 opportunities in the geographical area where the parent resides.
+34 The amount of income imputed may be based on the parent's past income data,
+35 data on wage rates for various occupations and locations published by the United States
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1045G 4 1045
+1 Bureau of Labor Statistics or any other federal or state government agency, or job
+2 advertisements.
+3 No income may be imputed to a parent who has been sentenced to serve a term
+4 of incarceration or confinement of more than one hundred eighty days, or to a parent who
+5 is physically or mentally disabled to the extent that the parent cannot earn income.
+6 Section 6. That § 25-7A-6 be AMENDED:
+7 25-7A-6. If a parent served with a notice of support debt under § 25-7A-5 makes
+8 a timely request for a hearing, the secretary of social services shall must file the notice of
+9 support debt, proof of service thereof, and response thereto in the office of the clerk of
+10 the circuit court in the county of residence of that parent. The matter shall must be set
+11 for hearing before a referee who is a member in good standing of the State Bar Association
+12 and is appointed by the court, pursuant to statute, and after due notice to all parties by
+13 first class mail.
+14 The referee shall make a report to the court, recommending the amount of the
+15 debt due to the state, if any, and the monthly support obligation of the parent and the
+16 arrearage debt due to the obligee or another state who has applied for support
+17 enforcement services, the provision of medical support, or genetic testing costs. If genetic
+18 testing showing a ninety-nine percent or higher likelihood of paternity, or a voluntary
+19 acknowledgment of paternity, is presented as evidence during the hearing, the referee
+20 must make a finding of adjudication of paternity and include the finding in the report to
+21 the court.
+22 The referee shall file the report with the court and cause copies thereof to be served
+23 by mailing to the parties and the secretary. Any party shall have ten days from the date
+24 of service of the report in which to file objections to the report. If a party files an objection,
+25 the other party shall have has an additional five days from the date of service of the
+26 objections to file additional objections. If no objection is filed, the circuit court may
+27 thereafter, and without further notice, enter its order. If any objection is filed, the circuit
+28 court shall must fix a date for hearing on the report, with the hearing to be solely on the
+29 record established before the referee. The circuit court may thereafter adopt the referee's
+30 report, or may modify it, or may reject and remand it with instructions or for further
+31 hearing. The secretary shall serve the parent the court's order by certified mail, return
+32 receipt requested, at the parent's last known address, and shall file proof of service.
+33 If the circuit court's order modifies the referee's report and no hearing was held
+34 before the court before entry of its order, any party has ten days from the date of service
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1045G 5 1045
+1 of the order in which to file an objection to that modification. If an objection is filed, the
+2 circuit court shall must fix a date for hearing on the objection and after the hearing shall
+3 must enter its order. The secretary shall serve the order by certified mail, return receipt
+4 requested, at the parent's last known address, and shall file proof of service.
+5 Section 7. That a NEW SECTION be added to chapter 25-7A:
+6 If a party agrees, the referee may send copies of any notice or report required to
+7 be served on the party under § 25-7A-6 or 25-7A-22 by electronic mail, using the email
+8 address provided by the party.
+9 Section 8. That a NEW SECTION be added to chapter 25-7A:
+10 If a party files an objection to the referee's report pursuant to § 25-7A-6 or 25-7A-
+11 22, the referee must file with the court all exhibits entered into the record in the hearing
+12 before the referee and all financial and legal documents received by the referee. The
+13 referee shall file the exhibits and documents within ten days after receiving notice of the
+14 objection. The referee shall maintain the exhibits and documents for thirty days following
+15 a signed order.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 2 d m s l m S 2 b f ( T o f ( A i I t t a o t c s o i a a o i b ( A ( T t]
+[DELETED:  2 1 U  ( T c s ( T v a u a o a p t c t p t b u ( T S 2 m i h a t t o r m c i e u e p f a p f m S 2 N t p o § o 2 i b a t s a w t a d t p t o h a p S 2 f a i m m t e h t h p y a t s m w a e p I m b i t a p w t p i u u]
+[DELETED:  3 1 U  s w a r t i a e b t t c f w t s o I b ( ( ( ( t ( o ( ( I e e t c c i I t o ( T ( T ( T ( T T m T a c r e e h o s t e o T d]
+[DELETED:  4 1 U  B o L S o a o f o s g a o j a N o i S 2 a s t f a f T d a d d t t o o a s w h a f s e t a m t T b o t o t f a o I n o i f t c c m t c r r h r I b]
+[DELETED:  5 1 U  o c m r S I b a S I 2 b r o a]

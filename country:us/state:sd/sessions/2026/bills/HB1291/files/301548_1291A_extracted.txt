@@ -1,0 +1,73 @@
+Title: House Bill 1291
+Official Title: House Bill 1291
+Number of Sections: 1
+Source: versions - 1291A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1291A 101st Legislative Session 1291
+2026 South Dakota Legislature
+AMENDME NT 1291A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Gosch
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to amend the process for calculating permit a school district's general fund
+2 base percentage participation in the property and casualty captive insurance
+3 company fund.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 5-14-39 be AMENDED:
+6 5-14-39. There is hereby established in the state treasury the property and
+7 casualty captive insurance company fund. The Bureau of Human Resources and
+8 Administration may enter into an agreement with a captive insurance company for the
+9 management of the company's funds. Money in this fund may be used to pay for property
+10 and casualty losses for state owned state-owned property or property leased or owned by
+11 a school district, as well as administrative and reinsurance costs for this fund.
+12 Interest earned on money in the fund shall must be deposited into the fund.
+13 Unexpended money and any interest that may be credited to the fund shall must remain
+14 in the fund. Any money in the property and casualty captive insurance company fund is
+15 continuously appropriated. Any money deposited into and distributed from the fund shall
+16 must be set forth in an informational budget, as described in § 4-7-7.2.
+17 The Bureau of Human Resources and Administration may enter into an agreement
+18 with a captive insurance company for purposes of this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A b cLSSD: E T O A S 5 T i h e i t s t t p a c c i c f T B o H R a A m a a I e o m i t f s m b d i t f U i c m T w]
+
+
+================================================================================
+
+Raw Text:
+1291A 101st Legislative Session 1291
+2026 South Dakota Legislature
+House Bill 1291
+AMENDME NT 1291A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Gosch
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to amend the process for calculating permit a school district's general fund
+2 base percentage participation in the property and casualty captive insurance
+3 company fund.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 5-14-39 be AMENDED:
+6 5-14-39. There is hereby established in the state treasury the property and
+7 casualty captive insurance company fund. The Bureau of Human Resources and
+8 Administration may enter into an agreement with a captive insurance company for the
+9 management of the company's funds. Money in this fund may be used to pay for property
+10 and casualty losses for state owned state-owned property or property leased or owned by
+11 a school district, as well as administrative and reinsurance costs for this fund.
+12 Interest earned on money in the fund shall must be deposited into the fund.
+13 Unexpended money and any interest that may be credited to the fund shall must remain
+14 in the fund. Any money in the property and casualty captive insurance company fund is
+15 continuously appropriated. Any money deposited into and distributed from the fund shall
+16 must be set forth in an informational budget, as described in § 4-7-7.2.
+17 The Bureau of Human Resources and Administration may enter into an agreement
+18 with a captive insurance company for purposes of this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A b cLSSD: E T O A S 5 T i h e i t s t t p a c c i c f T B o H R a A m a a I e o m i t f s m b d i t f U i c m T w]

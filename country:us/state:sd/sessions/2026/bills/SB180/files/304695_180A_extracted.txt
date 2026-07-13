@@ -1,0 +1,148 @@
+Title: Senate Bill 180
+Official Title: Senate Bill 180
+Number of Sections: 1
+Source: versions - 180A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+180A 101st Legislative Session 180
+2026 South Dakota Legislature
+AMENDME NT 180A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Hulse
+1 An Act to modify requirements regarding nondomiciled commercial driver licenses.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-12A-13 be AMENDED:
+4 32-12A-13. The department may issue a nondomiciled commercial learner's permit or
+5 commercial driver license to:
+6 (1) A person who is domiciled in a foreign jurisdiction whose commercial motor vehicle
+7 testing and licensing standards, as determined by the administrator of the Federal
+8 Motor Carrier Safety Administration, do not meet the testing standards established
+9 in 49 C.F.R. Part 383 as amended through January 1, 2015;
+10 (2) A person who is domiciled in a state whose commercial driver licensing program
+11 has been decertified by the administrator of the Federal Motor Carrier Safety
+12 Administration.
+13 an applicant who meets the requirements set forth in 49 C.F.R. §§ 383 and 384 (January
+14 1, 2026). In addition, the department must observe the following conditions
+15 applicable to the issuance of a nondomiciled commercial learner's permit or
+16 commercial driver license in this state:
+17 (1) An applicant may only be:
+18 (a) An individual who has lawful, employment-based nonimmigrant status in
+19 the H-2A, H-2B, or E-2 visa category; or
+20 (b) An individual domiciled in a United States territory, who holds any of the
+21 same employment-based visas described in subsection (a); or
+22 (c) An individual domiciled in a state that is prohibited from issuing commercial
+23 learner's permits or commercial driver licenses because the state's program
+24 is decertified;
+25 (2) Any non-citizen applicant, except for a lawful permanent resident, must provide an
+26 unexpired foreign passport and an unexpired form I-94 or I-94A that indicates a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+180A 2 180
+1 specified type of employment-based nonimmigrant status at every issuance,
+2 transfer, renewal, and upgrade action;
+3 (3) The department must query the Systematic Alien Verification for Entitlements
+4 system, administered by the U.S. Citizenship and Immigration Services, to confirm
+5 the applicant's claim of lawful immigration status in a specified category;
+6 (4) The department must retain copies of the application documents for at least two
+7 years;
+8 (5) The expiration date for any nondomiciled commercial learner's permit or
+9 commercial driver license must match the expiration date on the form I-94 or I-
+10 94A or expire within one year of issuance, whichever is sooner;
+11 (6) The applicant must be present at each renewal; and
+12 (7) The department must downgrade the nondomiciled commercial learner's permit or
+13 commercial driver license if department personnel determine that the holder is no
+14 longer eligible to hold a nondomiciled commercial learner's permit or commercial
+15 driver license.
+16 The word, nondomiciled, shall must appear on the face of the nondomiciled
+17 commercial learner's permit or commercial driver license. An applicant shall surrender any
+18 nondomiciled commercial learner's permit or commercial driver license issued by another
+19 state. The holder of a nondomiciled commercial learner's permit or commercial driver
+20 license is subject to the same disqualifications and conditions applicable to a commercial
+21 learner's permit or commercial driver license issued to a person domiciled in this state.
+22 A nondomiciled commercial learner's permit or commercial driver license issued
+23 pursuant to subdivision (1) of this section may be renewed in person only upon
+24 presentation of valid documentary evidence that the applicant is authorized to stay in the
+25 United States. The department may renew a nondomiciled commercial driver license
+26 without a skills or knowledge test if the license has been expired for a period less than
+27 one year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 3 c ( A t M i ( A h b d b t a o t F M C S A a 1 2 I a t d m o t f c a t t i o a n c l p o c ( A ( A t ( A s ( A l i ( A u]
+[DELETED:  2 1 U  s t o e n s a e i t ( T d m q t S A V f E s t ( T y ( T e d f a n c l p o c 9 ( T ( T c l d T w n s m a o t f o t n c n s l l A p t s ( o t s m b r i p o u p U S T d m r a n c d l w o]
+
+
+================================================================================
+
+Raw Text:
+180A 101st Legislative Session 180
+2026 South Dakota Legislature
+Senate Bill 180
+AMENDME NT 180A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Hulse
+1 An Act to modify requirements regarding nondomiciled commercial driver licenses.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-12A-13 be AMENDED:
+4 32-12A-13. The department may issue a nondomiciled commercial learner's permit or
+5 commercial driver license to:
+6 (1) A person who is domiciled in a foreign jurisdiction whose commercial motor vehicle
+7 testing and licensing standards, as determined by the administrator of the Federal
+8 Motor Carrier Safety Administration, do not meet the testing standards established
+9 in 49 C.F.R. Part 383 as amended through January 1, 2015;
+10 (2) A person who is domiciled in a state whose commercial driver licensing program
+11 has been decertified by the administrator of the Federal Motor Carrier Safety
+12 Administration.
+13 an applicant who meets the requirements set forth in 49 C.F.R. §§ 383 and 384 (January
+14 1, 2026). In addition, the department must observe the following conditions
+15 applicable to the issuance of a nondomiciled commercial learner's permit or
+16 commercial driver license in this state:
+17 (1) An applicant may only be:
+18 (a) An individual who has lawful, employment-based nonimmigrant status in
+19 the H-2A, H-2B, or E-2 visa category; or
+20 (b) An individual domiciled in a United States territory, who holds any of the
+21 same employment-based visas described in subsection (a); or
+22 (c) An individual domiciled in a state that is prohibited from issuing commercial
+23 learner's permits or commercial driver licenses because the state's program
+24 is decertified;
+25 (2) Any non-citizen applicant, except for a lawful permanent resident, must provide an
+26 unexpired foreign passport and an unexpired form I-94 or I-94A that indicates a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+180A 2 180
+1 specified type of employment-based nonimmigrant status at every issuance,
+2 transfer, renewal, and upgrade action;
+3 (3) The department must query the Systematic Alien Verification for Entitlements
+4 system, administered by the U.S. Citizenship and Immigration Services, to confirm
+5 the applicant's claim of lawful immigration status in a specified category;
+6 (4) The department must retain copies of the application documents for at least two
+7 years;
+8 (5) The expiration date for any nondomiciled commercial learner's permit or
+9 commercial driver license must match the expiration date on the form I-94 or I-
+10 94A or expire within one year of issuance, whichever is sooner;
+11 (6) The applicant must be present at each renewal; and
+12 (7) The department must downgrade the nondomiciled commercial learner's permit or
+13 commercial driver license if department personnel determine that the holder is no
+14 longer eligible to hold a nondomiciled commercial learner's permit or commercial
+15 driver license.
+16 The word, nondomiciled, shall must appear on the face of the nondomiciled
+17 commercial learner's permit or commercial driver license. An applicant shall surrender any
+18 nondomiciled commercial learner's permit or commercial driver license issued by another
+19 state. The holder of a nondomiciled commercial learner's permit or commercial driver
+20 license is subject to the same disqualifications and conditions applicable to a commercial
+21 learner's permit or commercial driver license issued to a person domiciled in this state.
+22 A nondomiciled commercial learner's permit or commercial driver license issued
+23 pursuant to subdivision (1) of this section may be renewed in person only upon
+24 presentation of valid documentary evidence that the applicant is authorized to stay in the
+25 United States. The department may renew a nondomiciled commercial driver license
+26 without a skills or knowledge test if the license has been expired for a period less than
+27 one year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 3 c ( A t M i ( A h b d b t a o t F M C S A a 1 2 I a t d m o t f c a t t i o a n c l p o c ( A ( A t ( A s ( A l i ( A u]
+[DELETED:  2 1 U  s t o e n s a e i t ( T d m q t S A V f E s t ( T y ( T e d f a n c l p o c 9 ( T ( T c l d T w n s m a o t f o t n c n s l l A p t s ( o t s m b r i p o u p U S T d m r a n c d l w o]

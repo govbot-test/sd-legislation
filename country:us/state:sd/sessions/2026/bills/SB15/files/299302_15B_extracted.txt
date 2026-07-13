@@ -1,0 +1,160 @@
+Title: Senate Bill 15
+Official Title: Senate Bill 15
+Number of Sections: 1
+Source: versions - 15B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+15B 101st Legislative Session 15
+2026 South Dakota Legislature
+AMENDM ENT 15B
+FOR THE INTRODUCED BILL
+Introduced by: Senators Karr, Larson, Nelson, and Voita and Representatives Heinemann, Baxter, Mulder, and
+Uhre‑Balk at the request of the Community Support Providers, State and Federal Efficiencies Interim Committee
+1 An Act to create the Developmental Disability Services Oversight Service Delivery
+2 Committee.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 2-6:
+5 There is created the Developmental Disability Services Oversight Service Delivery
+6 Committee. The committee shall:
+7 (1) Examine the medicaid waiver programs, administered by the Department of
+8 Human Services, that which provide home and community-based services to
+9 individuals with intellectual and developmental disabilities, for the purposes of:
+10 (a) Streamlining provider biennial review and accreditation requirements to
+11 reduce administrative burden, improve clarity and consistency, and support
+12 sustainable, individual-centered service delivery; and
+13 (b) Assessing roles and responsibilities to ensure that current practice, policy,
+14 and service delivery match system realities;
+15 (2) Monitor the implementation of changes to the waiver programs by the Department
+16 of Human Services;
+17 (3) Hear testimony from the Department of Human Services on the operation of, and
+18 changes to, the waiver programs;
+19 (4)(3) Seek feedback from individuals with intellectual and developmental disabilities,
+20 their family members, community support providers, and case management
+21 organizations regarding the administration of services provided under the waiver
+22 programs and the provision of services; and
+23 (5)(4) Consider proposed legislation or changes to the waiver programs to improve
+24 services, operations, and efficiency.
+25 Section 2. That a NEW SECTION be added to chapter 2-6:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+15B 2 15
+1 The Developmental Disability Services Oversight Service Delivery Committee
+2 consists of nine members:
+3 (1) The chairs of the health and human services committees of the House of
+4 Representatives and the Senate;
+5 (2) The chairs of the appropriations committees of the House of Representatives and
+6 the Senate;
+7 (3) Two members of the House of Representatives, appointed by the speaker of the
+8 House of Representatives;
+9 (4) Two members of the Senate, appointed by the president pro tempore of the
+10 Senate; and
+11 (5) One member of the minority party, appointed by the Executive Board of the
+12 Legislative Research Council.
+13 Each appointed member shall serve for a term that expires on January first of each
+14 odd-numbered year and may be reappointed without limit. If a position becomes vacant,
+15 the position must be filled, for the duration of the term, in the same manner as the original
+16 appointment.
+17 The Executive Board shall appoint one member to service as chair, and one
+18 member to serve as vice-chair.
+19 Section 3. That a NEW SECTION be added to chapter 2-6:
+20 The Executive Board of the Legislative Research Council shall provide
+21 administrative services to the Developmental Disability Services Oversight Service
+22 Delivery Committee.
+23 At the initial meeting of the committee and annually thereafter, the members shall
+24 select one among its members to serve as the chair.
+25 The committee shall meet at least one time per year, at the call of the chair.
+26 Section 4. That a NEW SECTION be added to chapter 2-6:
+27 On or before November first December thirty-first of each year, the Developmental
+28 Disability Services Oversight Service Delivery Committee shall provide a report to the
+29 Executive Board of the Legislative Research Council. The report must include:
+30 (1) A description of the committee's work; and
+31 (2) Any recommendations or proposed legislation to improve the services, operations,
+32 and efficiency of the medicaid waiver programs operated by the Department of
+33 Human Services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1eB U  A CLSSD: E T O A S T C ( E t m w p a b t D o H S t w p h a c s t i ( S p b r a a r t r s ( A a ( M o ( H c ( d t f m c s p a c m o p ( p l o c t t w p t i s S]
+[DELETED:  2 1 U  T D D S O S D C c ( T c o t h a h s c o t H o R ( T t ( T H ( T m o t S a b t p p t o t S ( O m o t m p a b t E B o t L E o t a T E B s a o m t s a c a o m S T E B o t L R C s p a s t t D D S O S D A s T S O D E ( A ( A a H]
+
+
+================================================================================
+
+Raw Text:
+15B 101st Legislative Session 15
+2026 South Dakota Legislature
+Senate Bill 15
+AMENDM ENT 15B
+FOR THE INTRODUCED BILL
+Introduced by: Senators Karr, Larson, Nelson, and Voita and Representatives Heinemann, Baxter, Mulder, and
+Uhre‑Balk at the request of the Community Support Providers, State and Federal Efficiencies Interim Committee
+1 An Act to create the Developmental Disability Services Oversight Service Delivery
+2 Committee.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 2-6:
+5 There is created the Developmental Disability Services Oversight Service Delivery
+6 Committee. The committee shall:
+7 (1) Examine the medicaid waiver programs, administered by the Department of
+8 Human Services, that which provide home and community-based services to
+9 individuals with intellectual and developmental disabilities, for the purposes of:
+10 (a) Streamlining provider biennial review and accreditation requirements to
+11 reduce administrative burden, improve clarity and consistency, and support
+12 sustainable, individual-centered service delivery; and
+13 (b) Assessing roles and responsibilities to ensure that current practice, policy,
+14 and service delivery match system realities;
+15 (2) Monitor the implementation of changes to the waiver programs by the Department
+16 of Human Services;
+17 (3) Hear testimony from the Department of Human Services on the operation of, and
+18 changes to, the waiver programs;
+19 (4)(3) Seek feedback from individuals with intellectual and developmental disabilities,
+20 their family members, community support providers, and case management
+21 organizations regarding the administration of services provided under the waiver
+22 programs and the provision of services; and
+23 (5)(4) Consider proposed legislation or changes to the waiver programs to improve
+24 services, operations, and efficiency.
+25 Section 2. That a NEW SECTION be added to chapter 2-6:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+15B 2 15
+1 The Developmental Disability Services Oversight Service Delivery Committee
+2 consists of nine members:
+3 (1) The chairs of the health and human services committees of the House of
+4 Representatives and the Senate;
+5 (2) The chairs of the appropriations committees of the House of Representatives and
+6 the Senate;
+7 (3) Two members of the House of Representatives, appointed by the speaker of the
+8 House of Representatives;
+9 (4) Two members of the Senate, appointed by the president pro tempore of the
+10 Senate; and
+11 (5) One member of the minority party, appointed by the Executive Board of the
+12 Legislative Research Council.
+13 Each appointed member shall serve for a term that expires on January first of each
+14 odd-numbered year and may be reappointed without limit. If a position becomes vacant,
+15 the position must be filled, for the duration of the term, in the same manner as the original
+16 appointment.
+17 The Executive Board shall appoint one member to service as chair, and one
+18 member to serve as vice-chair.
+19 Section 3. That a NEW SECTION be added to chapter 2-6:
+20 The Executive Board of the Legislative Research Council shall provide
+21 administrative services to the Developmental Disability Services Oversight Service
+22 Delivery Committee.
+23 At the initial meeting of the committee and annually thereafter, the members shall
+24 select one among its members to serve as the chair.
+25 The committee shall meet at least one time per year, at the call of the chair.
+26 Section 4. That a NEW SECTION be added to chapter 2-6:
+27 On or before November first December thirty-first of each year, the Developmental
+28 Disability Services Oversight Service Delivery Committee shall provide a report to the
+29 Executive Board of the Legislative Research Council. The report must include:
+30 (1) A description of the committee's work; and
+31 (2) Any recommendations or proposed legislation to improve the services, operations,
+32 and efficiency of the medicaid waiver programs operated by the Department of
+33 Human Services.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1eB U  A CLSSD: E T O A S T C ( E t m w p a b t D o H S t w p h a c s t i ( S p b r a a r t r s ( A a ( M o ( H c ( d t f m c s p a c m o p ( p l o c t t w p t i s S]
+[DELETED:  2 1 U  T D D S O S D C c ( T c o t h a h s c o t H o R ( T t ( T H ( T m o t S a b t p p t o t S ( O m o t m p a b t E B o t L E o t a T E B s a o m t s a c a o m S T E B o t L R C s p a s t t D D S O S D A s T S O D E ( A ( A a H]

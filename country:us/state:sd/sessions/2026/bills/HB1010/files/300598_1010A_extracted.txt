@@ -1,0 +1,120 @@
+Title: House Bill 1010
+Official Title: House Bill 1010
+Number of Sections: 1
+Source: versions - 1010A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1010A 101st Legislative Session 1010
+2026 South Dakota Legislature
+AMENDME NT 1010A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Shorma
+1 An Act to modify requirements regarding the use of a mobile electronic device while
+2 operating a motor vehicle.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-26-47.1 be AMENDED:
+5 32-26-47.1. No person may operate a motor vehicle while using a mobile
+6 electronic device. A violation of this section is a Class 2 misdemeanor.
+7 This section does not apply to:
+8 (1) A law enforcement officer, firefighter, emergency medical technician, paramedic,
+9 operator of an authorized emergency vehicle, or similarly engaged paid or
+10 volunteer public safety first responder during the performance of that person's
+11 official duties, and a public utility employee or contractor acting within the scope
+12 of that person's employment;
+13 (2) The use of a mobile electronic device for emergency the following purposes,
+14 including:
+15 (a) Using a text messaging device to contact a 911 system,;
+16 (b) Placing an emergency call to a law enforcement agency, health care
+17 provider, fire department, or other emergency services agency or entity, or
+18 to report;
+19 (c) Reporting to appropriate authorities a fire, traffic accident, serious road
+20 hazard, or medical or hazardous materials emergency, or to report;
+21 (d) Reporting the operator of another motor vehicle who is driving in a reckless
+22 or otherwise unsafe manner, or who appears to be driving under the
+23 influence of alcohol or drugs, or to report; or
+24 (e) Reporting a crime;
+25 (3) The use of a global positioning or navigation system feature of a mobile electronic
+26 device, but does apply to provided the operator of the motor vehicle is not manually
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1010A 2 1010
+1 entering information into the global positioning or navigation system feature of the
+2 device;
+3 (4) Reading, selecting, or entering a telephone number or name in a mobile electronic
+4 device for the purpose of making or receiving a telephone call and using the device
+5 for the call, or if a person otherwise activates or deactivates a feature or function
+6 of a mobile electronic device; or
+7 (5) The use of a mobile electronic device in a voice-operated or hands-free mode if the
+8 operator of the motor vehicle does not use the operator's hands to operate the
+9 device, except to tap or in some other manner, activate or deactivate a feature or
+10 function of the device; or
+11 (5) The use of a mobile electronic device held in the hand by an operator while driving
+12 any type of agricultural equipment, excluding a truck, provided the agricultural
+13 equipment is not designed to exceed twenty-five miles per hour.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A oLSSD: E T O A S 3 N p m o a m v w u a m e T ( A o o a a e v o s e p o v o o ( T u o a m e d f e t f p i ( U ( P a e c t a l e a h c p t ( R h ( R o o u m o w a t b d u t i ( R ( T d]
+[DELETED:  2 1 U  e d ( R d f o ( T o d f ( T a e]
+
+
+================================================================================
+
+Raw Text:
+1010A 101st Legislative Session 1010
+2026 South Dakota Legislature
+House Bill 1010
+AMENDME NT 1010A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Shorma
+1 An Act to modify requirements regarding the use of a mobile electronic device while
+2 operating a motor vehicle.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-26-47.1 be AMENDED:
+5 32-26-47.1. No person may operate a motor vehicle while using a mobile
+6 electronic device. A violation of this section is a Class 2 misdemeanor.
+7 This section does not apply to:
+8 (1) A law enforcement officer, firefighter, emergency medical technician, paramedic,
+9 operator of an authorized emergency vehicle, or similarly engaged paid or
+10 volunteer public safety first responder during the performance of that person's
+11 official duties, and a public utility employee or contractor acting within the scope
+12 of that person's employment;
+13 (2) The use of a mobile electronic device for emergency the following purposes,
+14 including:
+15 (a) Using a text messaging device to contact a 911 system,;
+16 (b) Placing an emergency call to a law enforcement agency, health care
+17 provider, fire department, or other emergency services agency or entity, or
+18 to report;
+19 (c) Reporting to appropriate authorities a fire, traffic accident, serious road
+20 hazard, or medical or hazardous materials emergency, or to report;
+21 (d) Reporting the operator of another motor vehicle who is driving in a reckless
+22 or otherwise unsafe manner, or who appears to be driving under the
+23 influence of alcohol or drugs, or to report; or
+24 (e) Reporting a crime;
+25 (3) The use of a global positioning or navigation system feature of a mobile electronic
+26 device, but does apply to provided the operator of the motor vehicle is not manually
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1010A 2 1010
+1 entering information into the global positioning or navigation system feature of the
+2 device;
+3 (4) Reading, selecting, or entering a telephone number or name in a mobile electronic
+4 device for the purpose of making or receiving a telephone call and using the device
+5 for the call, or if a person otherwise activates or deactivates a feature or function
+6 of a mobile electronic device; or
+7 (5) The use of a mobile electronic device in a voice-operated or hands-free mode if the
+8 operator of the motor vehicle does not use the operator's hands to operate the
+9 device, except to tap or in some other manner, activate or deactivate a feature or
+10 function of the device; or
+11 (5) The use of a mobile electronic device held in the hand by an operator while driving
+12 any type of agricultural equipment, excluding a truck, provided the agricultural
+13 equipment is not designed to exceed twenty-five miles per hour.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A oLSSD: E T O A S 3 N p m o a m v w u a m e T ( A o o a a e v o s e p o v o o ( T u o a m e d f e t f p i ( U ( P a e c t a l e a h c p t ( R h ( R o o u m o w a t b d u t i ( R ( T d]
+[DELETED:  2 1 U  e d ( R d f o ( T o d f ( T a e]
