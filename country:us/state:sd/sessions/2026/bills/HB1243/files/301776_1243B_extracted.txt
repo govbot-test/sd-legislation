@@ -1,0 +1,81 @@
+Title: House Bill 1243
+Official Title: House Bill 1243
+Number of Sections: 1
+Source: versions - 1243B
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1243B 101st Legislative Session 1243
+2026 South Dakota Legislature
+AMENDME NT 1243B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jensen (Phil)
+1 An Act to require the display of the state motto in public schools and provide for
+2 associated legal representation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-24:
+5 The motto of the State of South Dakota, "Under God the People Rule," must be
+6 displayed in each public school. The display must be placed in a prominent location within
+7 each public school. The display must be at least eleven inches by eight and one-half inches
+8 in size, and may take the form of a mounted plaque, student artwork, or any other
+9 appropriate form, as determined by the school principal.
+10 For purposes of this section, "prominent location," means a school entryway,
+11 cafeteria, or other common area where students are most likely to see the state motto
+12 display.
+13 Section 2. That § 13-24-24 be AMENDED:
+14 13-24-24. For any lawsuit brought or any complaint filed against a school district,
+15 an employee of a school district, the board of a school district, or a member thereof as a
+16 result of a school district displaying the national motto of the United States in accordance
+17 with § 13-24-23 or the motto of this state in accordance with section 1 of this Act, the
+18 attorney general shall provide legal representation at no cost to the school district,
+19 employee, school board, or member of the school board.
+20 In addition to the expenses of representation, the state shall assume financial
+21 responsibility for any other related expense incurred by the school district, an employee,
+22 the board, or member thereof, including any award for monetary damages, attorney's
+23 fees, and costs for which the school district, an employee, the board, or a member thereof
+24 would be otherwise responsible.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A aLSSD: E T O A S T d e i s a m t t f o m p s a o a o a F p o t s " l m a s e c d S 1 a r w a g s p l r a n c t t s d e I r t f w]
+
+
+================================================================================
+
+Raw Text:
+1243B 101st Legislative Session 1243
+2026 South Dakota Legislature
+House Bill 1243
+AMENDME NT 1243B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jensen (Phil)
+1 An Act to require the display of the state motto in public schools and provide for
+2 associated legal representation.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-24:
+5 The motto of the State of South Dakota, "Under God the People Rule," must be
+6 displayed in each public school. The display must be placed in a prominent location within
+7 each public school. The display must be at least eleven inches by eight and one-half inches
+8 in size, and may take the form of a mounted plaque, student artwork, or any other
+9 appropriate form, as determined by the school principal.
+10 For purposes of this section, "prominent location," means a school entryway,
+11 cafeteria, or other common area where students are most likely to see the state motto
+12 display.
+13 Section 2. That § 13-24-24 be AMENDED:
+14 13-24-24. For any lawsuit brought or any complaint filed against a school district,
+15 an employee of a school district, the board of a school district, or a member thereof as a
+16 result of a school district displaying the national motto of the United States in accordance
+17 with § 13-24-23 or the motto of this state in accordance with section 1 of this Act, the
+18 attorney general shall provide legal representation at no cost to the school district,
+19 employee, school board, or member of the school board.
+20 In addition to the expenses of representation, the state shall assume financial
+21 responsibility for any other related expense incurred by the school district, an employee,
+22 the board, or member thereof, including any award for monetary damages, attorney's
+23 fees, and costs for which the school district, an employee, the board, or a member thereof
+24 would be otherwise responsible.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A aLSSD: E T O A S T d e i s a m t t f o m p s a o a o a F p o t s " l m a s e c d S 1 a r w a g s p l r a n c t t s d e I r t f w]

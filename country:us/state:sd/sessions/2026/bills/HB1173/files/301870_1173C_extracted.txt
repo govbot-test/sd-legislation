@@ -1,0 +1,209 @@
+Title: House Bill 1173
+Official Title: House Bill 1173
+Number of Sections: 1
+Source: versions - 1173C
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1173C 101st Legislative Session 1173
+2026 South Dakota Legislature
+AMENDME NT 1173C
+FOR THE INTRODUCED BILL
+On the Introduced bill, delete the previously adopted amendment (1173A), to read as follows:
+Introduced by: Representative Hughes
+1 An Act to require an environmental impact statement when certain applicants that
+2 seek a permit from the Public Utilities Commission of the State of South
+3 Dakota to prepare and pay for an environmental impact statement.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 49-41B-12 be AMENDED:
+6 49-41B-12. At the time of filing an application as required in § 49-41B-11, an
+7 applicant must deposit the minimum fee with the commission. If required by the
+8 commission, an applicant must remit an amount to be determined by the commission
+9 based upon the actual cost of investigating, reviewing, processing, and serving notice of
+10 an application. The amount must be deposited with the state treasurer and credited to a
+11 subfund within the designated revenue regulatory assessment fee fund and may only be
+12 disbursed on vouchers approved by the commission for the actual cost of investigating,
+13 reviewing, processing, and serving notice of the application. Expenditures from the
+14 revenue fund must be budgeted in the general appropriation bill. Except as otherwise
+15 provided in this section or agreed to by an applicant, the maximum fee chargeable may
+16 not exceed one-quarter of one percent of the first one hundred million dollars of estimated
+17 construction cost plus one-twentieth of one percent of all additional estimated construction
+18 costs of the facility. To exceed the maximum fee when the applicant has not agreed to a
+19 fee higher than the maximum amount, the commission must make a finding upon a motion
+20 from the commission staff that all costs incurred were reasonably necessary to investigate,
+21 review, process, and serve notice of the application. The minimum total fee chargeable
+22 may not be less than twenty thousand dollars. The minimum fee is nonrefundable unless
+23 ordered by the commission.
+24 Moneys from the South Dakota public utilities commission gross receipts tax fund,
+25 as established in § 49-1A-2, may not be used to reimburse the commission for any
+26 additional costs incurred.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1173C 2 1173
+1 If the commission determines that an environmental impact statement should be
+2 prepared as provided under chapter 34A-9 is required before taking final action on an
+3 application under this chapter, the maximum fee chargeable above may be increased to
+4 an amount not to exceed one-half of one percent of the first one hundred million dollars
+5 of estimated construction cost plus one-twentieth of one percent of all additional estimated
+6 construction costs of the facility. However, the The provisions of this paragraph do not
+7 apply in cases in which if a detailed environment impact study has been completed
+8 pursuant to complying with the requirements of the National Environmental Policy Act of
+9 1969 as amended to January 1, 2009, and implementing regulations thereto if such a
+10 statement is, 42 U.S.C. § 4321 (January 1, 2025), or an environmental impact statement
+11 complying with the requirements of chapter 34A-9, has been completed and made
+12 available to the commission at least thirty days prior to the time the commission is
+13 required to render a decision under § 49-41B-24 or 49-41B-25.
+14 The provisions of this section apply to all pending permit applications and future
+15 permit applications before the commission.
+16 Section 2. That § 49-41B-21 be AMENDED:
+17 49-41B-21. Prior to the issuance of a permit for a carbon dioxide transmission
+18 facility, as defined in § 49-41B-2, the commission shall prepare or require the preparation
+19 of an environmental impact statement that complies with the provisions of chapter 34A-9
+20 and is made available to the public on the commission website.
+21 In all other cases, the commission may prepare or require the preparation of an
+22 environmental impact statement that complies with the provisions of chapter 34A-9.
+23 Except as otherwise provided in this section, an applicant seeking a permit under
+24 this chapter for a carbon dioxide transmission facility, as described in § 49-41B-2.1, shall
+25 prepare an environmental impact statement. In all other cases, the commission may
+26 require an applicant to prepare an environmental impact statement.
+27 The environmental impact statement must:
+28 (1) Be paid for by the applicant;
+29 (2) Include the contents required in subdivisions 34A-9-7(1) to (7), inclusive;
+30 (3) Be submitted to the commission at least thirty days prior to the time the
+31 commission is required to render a decision pursuant § 49-41B-24 or 49-41B-25;
+32 and
+33 (4) Be published on the commission website.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1173C 3 1173
+1 The commission may not require an environmental impact statement if a detailed
+2 environmental impact study complying with the requirements of the National
+3 Environmental Policy Act of 1969, 42 U.S.C. § 4321 (January 1, 2026), has been
+4 completed and made available to the commission at least thirty days prior to the time the
+5 commission is required to render a decision under § 49-41B-24 or 49-41B-25.
+6 Section 3. That § 49-41B-22.1 be AMENDED:
+7 49-41B-22.1. Nothing contained herein shall prohibit an An applicant from
+8 reapplying may reapply for a permit previously denied pursuant to § 49-41B-24 or 49-
+9 41B-25 within three years from the date of the denial of the original permit. Upon Except
+10 as otherwise provided, upon the first such reapplication, the applicant shall have has the
+11 burden of proof to establish only those criteria upon which the original permit was denied,
+12 provided that nothing in the reapplication materially changes the information presented
+13 in the original application regarding those criteria upon which the original permit was not
+14 denied. However, nothing contained in this provision shall prohibit the Public Utilities
+15 Commission from requiring such. The commission may require the applicant to meet its
+16 the burden of proof as to any other criteria, upon a specific finding by the commission of
+17 a material change in the circumstances regarding those criteria, but the Public Utilities
+18 Commission shall commission may not, in any event, prepare or require the preparation
+19 of an additional environmental impact statement.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A s a p f t P U C o t S o S DLSSD: E T O A S 4 a m d t m f w t c I r b t c b a s d r p a s n o t a E f t r p n c c f f r m o M a e i § m n b u t r t c f a a]
+[DELETED:  2 1 U  I p a a o c a i c i w i a d e i s h b c p 1 s c w t r o c 3 h b c a m a t t c a l t d p t t t t c i r T p S 4 f o a I e E t p a e i s a o c t c m r T ( B ( I ( B s t t c a l t d p t t t t c a ( B]
+[DELETED:  3 1 U  T e i s c w t r o t N E P A o 1 4 U § 4 ( 1 2 h b c c S 4 N c h s p a A a f r 4 a b p i d H n c i t p s p t P C t a C o]
+
+
+================================================================================
+
+Raw Text:
+1173C 101st Legislative Session 1173
+2026 South Dakota Legislature
+House Bill 1173
+AMENDME NT 1173C
+FOR THE INTRODUCED BILL
+On the Introduced bill, delete the previously adopted amendment (1173A), to read as follows:
+Introduced by: Representative Hughes
+1 An Act to require an environmental impact statement when certain applicants that
+2 seek a permit from the Public Utilities Commission of the State of South
+3 Dakota to prepare and pay for an environmental impact statement.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 49-41B-12 be AMENDED:
+6 49-41B-12. At the time of filing an application as required in § 49-41B-11, an
+7 applicant must deposit the minimum fee with the commission. If required by the
+8 commission, an applicant must remit an amount to be determined by the commission
+9 based upon the actual cost of investigating, reviewing, processing, and serving notice of
+10 an application. The amount must be deposited with the state treasurer and credited to a
+11 subfund within the designated revenue regulatory assessment fee fund and may only be
+12 disbursed on vouchers approved by the commission for the actual cost of investigating,
+13 reviewing, processing, and serving notice of the application. Expenditures from the
+14 revenue fund must be budgeted in the general appropriation bill. Except as otherwise
+15 provided in this section or agreed to by an applicant, the maximum fee chargeable may
+16 not exceed one-quarter of one percent of the first one hundred million dollars of estimated
+17 construction cost plus one-twentieth of one percent of all additional estimated construction
+18 costs of the facility. To exceed the maximum fee when the applicant has not agreed to a
+19 fee higher than the maximum amount, the commission must make a finding upon a motion
+20 from the commission staff that all costs incurred were reasonably necessary to investigate,
+21 review, process, and serve notice of the application. The minimum total fee chargeable
+22 may not be less than twenty thousand dollars. The minimum fee is nonrefundable unless
+23 ordered by the commission.
+24 Moneys from the South Dakota public utilities commission gross receipts tax fund,
+25 as established in § 49-1A-2, may not be used to reimburse the commission for any
+26 additional costs incurred.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1173C 2 1173
+1 If the commission determines that an environmental impact statement should be
+2 prepared as provided under chapter 34A-9 is required before taking final action on an
+3 application under this chapter, the maximum fee chargeable above may be increased to
+4 an amount not to exceed one-half of one percent of the first one hundred million dollars
+5 of estimated construction cost plus one-twentieth of one percent of all additional estimated
+6 construction costs of the facility. However, the The provisions of this paragraph do not
+7 apply in cases in which if a detailed environment impact study has been completed
+8 pursuant to complying with the requirements of the National Environmental Policy Act of
+9 1969 as amended to January 1, 2009, and implementing regulations thereto if such a
+10 statement is, 42 U.S.C. § 4321 (January 1, 2025), or an environmental impact statement
+11 complying with the requirements of chapter 34A-9, has been completed and made
+12 available to the commission at least thirty days prior to the time the commission is
+13 required to render a decision under § 49-41B-24 or 49-41B-25.
+14 The provisions of this section apply to all pending permit applications and future
+15 permit applications before the commission.
+16 Section 2. That § 49-41B-21 be AMENDED:
+17 49-41B-21. Prior to the issuance of a permit for a carbon dioxide transmission
+18 facility, as defined in § 49-41B-2, the commission shall prepare or require the preparation
+19 of an environmental impact statement that complies with the provisions of chapter 34A-9
+20 and is made available to the public on the commission website.
+21 In all other cases, the commission may prepare or require the preparation of an
+22 environmental impact statement that complies with the provisions of chapter 34A-9.
+23 Except as otherwise provided in this section, an applicant seeking a permit under
+24 this chapter for a carbon dioxide transmission facility, as described in § 49-41B-2.1, shall
+25 prepare an environmental impact statement. In all other cases, the commission may
+26 require an applicant to prepare an environmental impact statement.
+27 The environmental impact statement must:
+28 (1) Be paid for by the applicant;
+29 (2) Include the contents required in subdivisions 34A-9-7(1) to (7), inclusive;
+30 (3) Be submitted to the commission at least thirty days prior to the time the
+31 commission is required to render a decision pursuant § 49-41B-24 or 49-41B-25;
+32 and
+33 (4) Be published on the commission website.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1173C 3 1173
+1 The commission may not require an environmental impact statement if a detailed
+2 environmental impact study complying with the requirements of the National
+3 Environmental Policy Act of 1969, 42 U.S.C. § 4321 (January 1, 2026), has been
+4 completed and made available to the commission at least thirty days prior to the time the
+5 commission is required to render a decision under § 49-41B-24 or 49-41B-25.
+6 Section 3. That § 49-41B-22.1 be AMENDED:
+7 49-41B-22.1. Nothing contained herein shall prohibit an An applicant from
+8 reapplying may reapply for a permit previously denied pursuant to § 49-41B-24 or 49-
+9 41B-25 within three years from the date of the denial of the original permit. Upon Except
+10 as otherwise provided, upon the first such reapplication, the applicant shall have has the
+11 burden of proof to establish only those criteria upon which the original permit was denied,
+12 provided that nothing in the reapplication materially changes the information presented
+13 in the original application regarding those criteria upon which the original permit was not
+14 denied. However, nothing contained in this provision shall prohibit the Public Utilities
+15 Commission from requiring such. The commission may require the applicant to meet its
+16 the burden of proof as to any other criteria, upon a specific finding by the commission of
+17 a material change in the circumstances regarding those criteria, but the Public Utilities
+18 Commission shall commission may not, in any event, prepare or require the preparation
+19 of an additional environmental impact statement.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A s a p f t P U C o t S o S DLSSD: E T O A S 4 a m d t m f w t c I r b t c b a s d r p a s n o t a E f t r p n c c f f r m o M a e i § m n b u t r t c f a a]
+[DELETED:  2 1 U  I p a a o c a i c i w i a d e i s h b c p 1 s c w t r o c 3 h b c a m a t t c a l t d p t t t t c i r T p S 4 f o a I e E t p a e i s a o c t c m r T ( B ( I ( B s t t c a l t d p t t t t c a ( B]
+[DELETED:  3 1 U  T e i s c w t r o t N E P A o 1 4 U § 4 ( 1 2 h b c c S 4 N c h s p a A a f r 4 a b p i d H n c i t p s p t P C t a C o]

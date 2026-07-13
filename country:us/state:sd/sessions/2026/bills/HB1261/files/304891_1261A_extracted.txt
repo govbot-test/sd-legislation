@@ -1,0 +1,67 @@
+Title: House Bill 1261
+Official Title: House Bill 1261
+Number of Sections: 1
+Source: versions - 1261A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1261A 101st Legislative Session 1261
+2026 South Dakota Legislature
+AMENDME NT 1261A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hansen
+1 An Act to provide a tax credit for owner-occupied property, to make an appropriation
+2 therefor, and to transfer moneys to the general fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. The state treasurer shall transfer $60,000,000 $101 from the South Dakota
+5 housing infrastructure fund to the general fund.
+6 Section 2. There is appropriated $60,000,000 $101 from the general fund and $60,000,000
+7 $101 from the budget reserve fund, to the Department of Revenue, for replacing the revenue
+8 forgone by the application of a property tax credit to owner-occupied single-family dwellings,
+9 as provided in section 3 of this Act.
+10 Section 3. For property taxes payable in 2027, a county treasurer shall apply a tax credit to
+11 each tax bill sent, pursuant to § 10-21-1.1, to an owner of an owner-occupied single-family
+12 dwelling. The amount of the tax credit is the lesser of five hundred dollars or the total amount
+13 of property tax imposed on the owner-occupied single-family dwelling in 2027.
+14 Section 4. The secretary of the Department of Revenue shall approve vouchers and the state
+15 auditor shall draw warrants to pay expenditures authorized in this Act.
+16 Section 5. Any amounts appropriated in this Act not lawfully expended or obligated shall
+17 revert in accordance with the procedures prescribed in chapter 4-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A tLSSD: E T O A S 1 T s t s t $ $ f t S D h S $ f a S e d o S a S r]
+
+
+================================================================================
+
+Raw Text:
+1261A 101st Legislative Session 1261
+2026 South Dakota Legislature
+House Bill 1261
+AMENDME NT 1261A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hansen
+1 An Act to provide a tax credit for owner-occupied property, to make an appropriation
+2 therefor, and to transfer moneys to the general fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. The state treasurer shall transfer $60,000,000 $101 from the South Dakota
+5 housing infrastructure fund to the general fund.
+6 Section 2. There is appropriated $60,000,000 $101 from the general fund and $60,000,000
+7 $101 from the budget reserve fund, to the Department of Revenue, for replacing the revenue
+8 forgone by the application of a property tax credit to owner-occupied single-family dwellings,
+9 as provided in section 3 of this Act.
+10 Section 3. For property taxes payable in 2027, a county treasurer shall apply a tax credit to
+11 each tax bill sent, pursuant to § 10-21-1.1, to an owner of an owner-occupied single-family
+12 dwelling. The amount of the tax credit is the lesser of five hundred dollars or the total amount
+13 of property tax imposed on the owner-occupied single-family dwelling in 2027.
+14 Section 4. The secretary of the Department of Revenue shall approve vouchers and the state
+15 auditor shall draw warrants to pay expenditures authorized in this Act.
+16 Section 5. Any amounts appropriated in this Act not lawfully expended or obligated shall
+17 revert in accordance with the procedures prescribed in chapter 4-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A tLSSD: E T O A S 1 T s t s t $ $ f t S D h S $ f a S e d o S a S r]

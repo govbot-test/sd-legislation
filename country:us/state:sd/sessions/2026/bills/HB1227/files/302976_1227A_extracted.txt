@@ -1,0 +1,73 @@
+Title: House Bill 1227
+Official Title: House Bill 1227
+Number of Sections: 1
+Source: versions - 1227A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1227A 101st Legislative Session 1227
+2026 South Dakota Legislature
+AMENDME NT 1227A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Weems
+1 An Act to increase the annual fee required of an owner of an electric motor vehicle.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-5-188 be AMENDED:
+4 32-5-188. In addition to the license fees paid pursuant to the provisions of this
+5 chapter for a motor vehicle, the owner of an electric motor vehicle shall pay an annual fee
+6 of fifty one hundred dollars. The fee shall must be paid at the time of annual registration
+7 as otherwise provided in this chapter. However, the The license fee imposed by this section
+8 does not apply to any motorcycle propelled by an electric motor, if the license fee is paid
+9 pursuant to § 32-5-9.
+10 For the purposes of this section, the term, "electric motor vehicle," means a
+11 noncommercial motor vehicle that is propelled by for which the only source of propulsion
+12 is an electric motor that draws electricity from a battery that is capable of being recharged
+13 from an external source of electricity, and that which may be legally operated on the
+14 interstate highways in this state and eligible for registration pursuant to the laws of this
+15 state. The electric motor vehicle shall must have been made by a manufacturer primarily
+16 for use on public streets, roads, and highways and meets must meet National Highway
+17 Traffic Safety Administration standards included provided in 49 C.F.R. § 571 as of (January
+18 1, 2021).
+19 The fees received pursuant to this section shall must be deposited in the state
+20 highway fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 3 c o a d p F t p o t s t t " m v m a n i f i s f T 1 T h]
+
+
+================================================================================
+
+Raw Text:
+1227A 101st Legislative Session 1227
+2026 South Dakota Legislature
+House Bill 1227
+AMENDME NT 1227A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Weems
+1 An Act to increase the annual fee required of an owner of an electric motor vehicle.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-5-188 be AMENDED:
+4 32-5-188. In addition to the license fees paid pursuant to the provisions of this
+5 chapter for a motor vehicle, the owner of an electric motor vehicle shall pay an annual fee
+6 of fifty one hundred dollars. The fee shall must be paid at the time of annual registration
+7 as otherwise provided in this chapter. However, the The license fee imposed by this section
+8 does not apply to any motorcycle propelled by an electric motor, if the license fee is paid
+9 pursuant to § 32-5-9.
+10 For the purposes of this section, the term, "electric motor vehicle," means a
+11 noncommercial motor vehicle that is propelled by for which the only source of propulsion
+12 is an electric motor that draws electricity from a battery that is capable of being recharged
+13 from an external source of electricity, and that which may be legally operated on the
+14 interstate highways in this state and eligible for registration pursuant to the laws of this
+15 state. The electric motor vehicle shall must have been made by a manufacturer primarily
+16 for use on public streets, roads, and highways and meets must meet National Highway
+17 Traffic Safety Administration standards included provided in 49 C.F.R. § 571 as of (January
+18 1, 2021).
+19 The fees received pursuant to this section shall must be deposited in the state
+20 highway fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 3 c o a d p F t p o t s t t " m v m a n i f i s f T 1 T h]

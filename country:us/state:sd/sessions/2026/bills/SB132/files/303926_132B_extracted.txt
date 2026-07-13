@@ -1,0 +1,75 @@
+Title: Senate Bill 132
+Official Title: Senate Bill 132
+Number of Sections: 1
+Source: versions - 132B
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+132B 101st Legislative Session 132
+2026 South Dakota Legislature
+AMENDME NT 132B
+FOR THE SENATE MILITARY AND VETERANS AFFAIRS
+ENGROSSED BILL
+Introduced by: Senator Zikmund
+1 An Act to modify provisions related to the South Dakota Veterans Council.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-46A-5 be AMENDED:
+4 1-46A-5. The Department of Veterans Affairs may shall consult with the South
+5 Dakota Veterans Council on a quarterly biannual basis regarding matters relating related
+6 to veterans and their dependents. The council shall provide recommendations to the
+7 department on budgets, legislation, policies, and programs affecting veterans of this state
+8 and their dependents.
+9 The South Dakota Veterans Council consists of six congressionally chartered
+10 Veterans Organizations including the Paralyzed Veterans of America, the Disabled
+11 American Veterans, the Military Order of the Purple Heart, the American Legion, the
+12 Vietnam Veterans of America chapters 1054 and 959, and the Veterans of Foreign Wars
+13 one representative of each of the following:
+14 (1) The American Legion;
+15 (2) Disabled American Veterans;
+16 (3) Military Order of the Purple Heart of the United States of America;
+17 (4) National American Indian Veterans;
+18 (5) Paralyzed Veterans of America;
+19 (6) Veterans of Foreign Wars of the United States; and
+20 (7) Vietnam Veterans of America, chapters 1054 and 959.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 1 D t v a t d T c s p r t t d a T S D V C c o s c c V O i t P V o A t D A V t M O o t P H t A L t V o ( T ( D ( M ( N ( P ( V ( V]
+
+
+================================================================================
+
+Raw Text:
+132B 101st Legislative Session 132
+2026 South Dakota Legislature
+Senate Bill 132
+AMENDME NT 132B
+FOR THE SENATE MILITARY AND VETERANS AFFAIRS
+ENGROSSED BILL
+Introduced by: Senator Zikmund
+1 An Act to modify provisions related to the South Dakota Veterans Council.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-46A-5 be AMENDED:
+4 1-46A-5. The Department of Veterans Affairs may shall consult with the South
+5 Dakota Veterans Council on a quarterly biannual basis regarding matters relating related
+6 to veterans and their dependents. The council shall provide recommendations to the
+7 department on budgets, legislation, policies, and programs affecting veterans of this state
+8 and their dependents.
+9 The South Dakota Veterans Council consists of six congressionally chartered
+10 Veterans Organizations including the Paralyzed Veterans of America, the Disabled
+11 American Veterans, the Military Order of the Purple Heart, the American Legion, the
+12 Vietnam Veterans of America chapters 1054 and 959, and the Veterans of Foreign Wars
+13 one representative of each of the following:
+14 (1) The American Legion;
+15 (2) Disabled American Veterans;
+16 (3) Military Order of the Purple Heart of the United States of America;
+17 (4) National American Indian Veterans;
+18 (5) Paralyzed Veterans of America;
+19 (6) Veterans of Foreign Wars of the United States; and
+20 (7) Vietnam Veterans of America, chapters 1054 and 959.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 1 D t v a t d T c s p r t t d a T S D V C c o s c c V O i t P V o A t D A V t M O o t P H t A L t V o ( T ( D ( M ( N ( P ( V ( V]

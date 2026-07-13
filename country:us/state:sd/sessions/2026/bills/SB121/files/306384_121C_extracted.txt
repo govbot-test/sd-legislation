@@ -1,0 +1,69 @@
+Title: Senate Bill 121
+Official Title: Senate Bill 121
+Number of Sections: 1
+Source: versions - 121C
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+121C 101st Legislative Session 121
+2026 South Dakota Legislature
+AMENDME NT 121C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Otten
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to make an appropriation for developing the economic viability of South
+2 Dakotatransfer moneys and make an appropriation for the replacement of the
+3 Richmond Lake dam and spillway and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. The state treasurer shall transfer $101 from the trust fund for unclaimed property,
+6 created in § 43-41B-24.4, to the general fund.
+7 Section 2. There is appropriated $101 from the general fund, to the Office of the
+8 Commissioner of School and Public Lands, for the replacement of the Richmond Lake dam and
+9 spillway.
+10 Section 3. The commissioner of school and public lands shall approve vouchers and the state
+11 auditor shall draw warrants to pay expenditures authorized in this Act.
+12 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated shall
+13 revert in accordance with the procedures prescribed in chapter 4-8.
+14 Section 5. Whereas, this Act is necessary for the support of the state government and its
+15 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+16 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A D RLSSD: E T O A S c S 2 T i a $ f t g f t t O o t C s S a S r S e f]
+
+
+================================================================================
+
+Raw Text:
+121C 101st Legislative Session 121
+2026 South Dakota Legislature
+Senate Bill 121
+AMENDME NT 121C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Otten
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to make an appropriation for developing the economic viability of South
+2 Dakotatransfer moneys and make an appropriation for the replacement of the
+3 Richmond Lake dam and spillway and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. The state treasurer shall transfer $101 from the trust fund for unclaimed property,
+6 created in § 43-41B-24.4, to the general fund.
+7 Section 2. There is appropriated $101 from the general fund, to the Office of the
+8 Commissioner of School and Public Lands, for the replacement of the Richmond Lake dam and
+9 spillway.
+10 Section 3. The commissioner of school and public lands shall approve vouchers and the state
+11 auditor shall draw warrants to pay expenditures authorized in this Act.
+12 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated shall
+13 revert in accordance with the procedures prescribed in chapter 4-8.
+14 Section 5. Whereas, this Act is necessary for the support of the state government and its
+15 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+16 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A D RLSSD: E T O A S c S 2 T i a $ f t g f t t O o t C s S a S r S e f]

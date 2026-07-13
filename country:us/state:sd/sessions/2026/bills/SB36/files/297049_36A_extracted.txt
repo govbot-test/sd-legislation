@@ -1,0 +1,341 @@
+Title: Senate Bill 36
+Official Title: Senate Bill 36
+Number of Sections: 1
+Source: versions - 36A
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+36A 101st Legislative Session 36
+2026 South Dakota Legislature
+AMENDM ENT 36A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Kolbeck (Steve)
+1 An Act to authorize utilities to establish wildfire mitigation plans and associated
+2 liability limitations for wildfire damages.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+5 Terms used in this chapter mean:
+6 (1) "Approval authority," in the case of an electric cooperative, its board of directors,
+7 or in the case of a municipal utility, its city council or city commission, as the case
+8 may be;
+9 (2) "Commission," the Public Utilities Commission of the State of South Dakota;
+10 (3) "Economic loss," monetary loss, including losses resulting from medical expenses,
+11 business interruption, loss of business, loss of use of property, and loss due to
+12 death and burial costs;
+13 (4) "Qualified utility," includes:
+14 (a) Any electric utility defined in subdivision 49-34A-1(7); and
+15 (b) Any person who is a wholesale generator of electricity and who operates
+16 electrical transmission;
+17 (5) "Wildfire," an unplanned, unintentional unwanted fire burning in this state that:
+18 (a) May impact, damage, or cause harm, including to natural resources,
+19 agricultural resources, homes, and property; or
+20 (b) Threatens lives and safety; and
+21 (6) "Wildfire mitigation plan," a plan submitted to and approved or published by the
+22 approval authority in accordance with the requirements of this chapter.
+23 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+24 A qualified utility that is not an electric cooperative or municipal utility may submit
+25 a wildfire mitigation plan to the commission for filing and publishing. The commission shall
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+36A 2 36
+1 file and publish on its website all wildfire mitigation plans submitted to it within one
+2 hundred twenty days of receipt. Any wildfire mitigation plan or amendment submitted to
+3 the commission must be accompanied by a five hundred dollar filing fee to be deposited
+4 in the gross receipts tax fund established by § 49-1A-1. An amendment to a qualified
+5 utility's wildfire mitigation plan may also be submitted pursuant to this chapter and is
+6 subject to the same process and requirements.
+7 A wildfire mitigation plan submitted to the commission must contain an attestation
+8 signed by an officer of the utility submitting the plan. The attestation must contain a
+9 statement certifying that the plan contains all provisions required by this chapter.
+10 Publication of a wildfire mitigation plan or annual report by the commission is a
+11 determination that the wildfire mitigation plan contains the statutory elements and is
+12 complete.
+13 The commission may promulgate rules, pursuant to chapter 1-26, to further
+14 implement the provisions of this section.
+15 A qualified utility that is an electric cooperative or a municipal utility may submit a
+16 wildfire mitigation plan to its approval authority for review and approval. The approval
+17 authority shall act upon a submitted wildfire mitigation plan within one hundred twenty
+18 days of submission. If approved, the electric cooperative or municipal utility must publish
+19 the wildfire mitigation plan on its website.
+20 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+21 A qualified utility with a published wildfire mitigation plan shall submit an annual
+22 report detailing the qualified utility's compliance with its wildfire mitigation plan for the
+23 previous calendar year to the commission or to its approval authority, no later than April
+24 June first of each year. Annual reports submitted to the commission must be accompanied
+25 by a two hundred fifty dollar filing fee to be deposited in the gross receipts tax fund
+26 established by § 49-1A-1. The commission shall file and publish the report within sixty
+27 days of receipt. The electric cooperative or municipal utility shall publish the report on its
+28 website within sixty days of filing with the approval authority. The wildfire mitigation plan
+29 is valid and current if it is on file and all annual reports are timely filed with the commission
+30 or approval authority. The qualified utility shall file an update to the wildfire mitigation
+31 plan at least once every five years.
+32 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+33 A wildfire mitigation plan must include, at a minimum:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+36A 3 36
+1 (1) A description of areas within the service territory or facility locations of the qualified
+2 utility, which may be subject to a heightened risk of wildfire;
+3 (2) A description of the procedures or strategies, standards, and time frames that the
+4 qualified utility will use to inspect and operate its infrastructure;
+5 (3) A description of the procedures or strategies, and standards that the qualified utility
+6 will use to perform vegetation management;
+7 (4) A description of the procedures or strategies for modifications or upgrades to
+8 electric facilities and preventative programs to reduce the risk of its electric
+9 facilities initiating a wildfire;
+10 (5) A description of considerations or strategies for de-energizing power lines or
+11 modifying electric facility operations to mitigate potential wildfires, taking into
+12 consideration:
+13 (a) The ability of the qualified utility to reasonably access the proposed
+14 powerline to be de-energized;
+15 (b) The balance of the risk of wildfire with the need for continued supply of
+16 electricity to a community; and
+17 (c) Any potential impact to public safety and first responders, as applicable;
+18 (6) A description of the procedures or strategies the qualified utility intends to use to
+19 restore its electrical system in the event of a wildfire;
+20 (7) A description of the estimated incremental costs, if any, for the implementation of
+21 the plan, including system improvements and upgrades;
+22 (8) A description of community outreach and public awareness efforts before and
+23 during a wildfire season; and
+24 (9) A description of coordination with applicable state or local wildfire agencies.
+25 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+26 The commission may authorize a public utility as defined in subdivision 49-34A-
+27 1(12) to recover in rates all prudently incurred investments and expenditures, including
+28 the costs of capital, made to implement an approved wildfire mitigation plan.
+29 Cost recovery for wildfire mitigation plan implementation may be allowed by the
+30 commission, notwithstanding any settlement agreement provisions that restrict a public
+31 utility's ability to seek rate relief.
+32 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+36A 4 36
+1 A standard of strict liability may not be applied to a qualified utility in any cause of
+2 action alleging that the qualified utility caused wildfire-related damages. A qualified
+3 utility's facilities and activities may not be considered ultra-hazardous or abnormally
+4 dangerous.
+5 A plaintiff's sole remedy against a qualified utility for damages and losses resulting
+6 from a wildfire is in this chapter.
+7 Except as otherwise provided in this section, there is a rebuttable presumption in
+8 any civil action that a valid and current wildfire mitigation plan is a reasonable and prudent
+9 preparation for, and mitigation of, wildfire risk. A plaintiff may recover damages from a
+10 qualified utility with a valid and current wildfire mitigation plan, as a result of a wildfire,
+11 only if the plaintiff proves one or more of the following by a preponderance of the
+12 evidence:
+13 (1) The qualified utility failed to substantially comply with an essential element of a
+14 valid and current wildfire mitigation plan, and that failure was the actual and
+15 proximate cause of the damages to the plaintiff. For purposes of this subdivision,
+16 a qualified utility is deemed to have substantially complied with its wildfire
+17 mitigation plan if the qualified utility attempted to comply with the plan but was
+18 denied or delayed access to a right-of-way after the qualified utility requested
+19 access to the right-of-way to perform vegetation management or fire mitigation
+20 work in accordance with the plan; or
+21 (2) The qualified utility acted with malice or criminal intent, and the qualified utility's
+22 malicious action or criminal intent was the actual and proximate cause of the
+23 damages to the plaintiff.
+24 A civil action filed against a qualified utility for damages caused by wildfire may
+25 only be brought within three years after the date of the initial ignition of the wildfire.
+26 A plaintiff in a civil action filed against a qualified utility for damages caused by
+27 wildfire may recover economic losses and property damages but only under the conditions
+28 of this chapter. The plaintiff may not recover noneconomic losses unless the plaintiff
+29 suffered death or visible bodily injury in the form of a burn from a wildfire.
+30 The plaintiff may not recover punitive damages unless it is proven by clear and
+31 convincing evidence that the qualified utility acted with malice or criminal intent and the
+32 qualified utility's malicious action or criminal intent was the actual and proximate cause of
+33 damages to the plaintiff.
+34 The amount of damages recoverable for damage to real or personal property is the
+35 lesser of the cost to restore the property to the property's pre-wildfire condition or the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+36A 5 36
+1 difference between the fair market value of the property immediately before the wildfire
+2 and the fair market value of the property after the wildfire.
+3 Nothing in this section may be construed to limit any defenses that a qualified
+4 utility may be entitled to raise in a civil action for damages caused by wildfire.
+5 The provisions of this section only apply to a qualified utility with a valid and current
+6 wildfire mitigation plan as of the date of the initial ignition of the wildfire for which damages
+7 are sought.
+8 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+9 A person who obtains payment for damages resulting from wildfire pursuant to a
+10 policy of insurance is deemed to have been made whole exclusively for purposes of an
+11 insurer's right to subrogation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 3 U  A lLSSD: E T O A S T ( " o m ( " ( " b d ( " ( A ( A e ( " ( M i d o c h i t n r a ( T ( " a S A a]
+[DELETED:  2 3 U  f a p o i w a w m p t i w o h t i u s A s s c t t p c a p r b t c P o a w m p o a r b t c i a d c T c m p r p t c 1 t f i A w a d t S A r p J b e d w i o p S A]
+[DELETED:  3 3 U  ( A u ( A q ( A w ( A d o t p o s f m o u t e f a p p t r t r o i e f ( A m c ( T a o t q u t r a t p p ( T e ( A ( A r ( A t ( A d o c o a p a e b a d ( A S T 1 t C c u S]
+[DELETED:  4 3 U  A a a t t q u c w d A q u f a a m n b c u o a d A f E a p q o i t p p o o m o t f b a p o t e ( T v a c w m p a t f w t a a p a q u i d t h s c w i w m d a w ( T m a o c i w t a a p c o t d A o A w o c p m r n t p s T c q d T l]
+[DELETED:  5 3 U  d a N u T w a S A p i]
+
+
+================================================================================
+
+Raw Text:
+36A 101st Legislative Session 36
+2026 South Dakota Legislature
+Senate Bill 36
+AMENDM ENT 36A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Kolbeck (Steve)
+1 An Act to authorize utilities to establish wildfire mitigation plans and associated
+2 liability limitations for wildfire damages.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+5 Terms used in this chapter mean:
+6 (1) "Approval authority," in the case of an electric cooperative, its board of directors,
+7 or in the case of a municipal utility, its city council or city commission, as the case
+8 may be;
+9 (2) "Commission," the Public Utilities Commission of the State of South Dakota;
+10 (3) "Economic loss," monetary loss, including losses resulting from medical expenses,
+11 business interruption, loss of business, loss of use of property, and loss due to
+12 death and burial costs;
+13 (4) "Qualified utility," includes:
+14 (a) Any electric utility defined in subdivision 49-34A-1(7); and
+15 (b) Any person who is a wholesale generator of electricity and who operates
+16 electrical transmission;
+17 (5) "Wildfire," an unplanned, unintentional unwanted fire burning in this state that:
+18 (a) May impact, damage, or cause harm, including to natural resources,
+19 agricultural resources, homes, and property; or
+20 (b) Threatens lives and safety; and
+21 (6) "Wildfire mitigation plan," a plan submitted to and approved or published by the
+22 approval authority in accordance with the requirements of this chapter.
+23 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+24 A qualified utility that is not an electric cooperative or municipal utility may submit
+25 a wildfire mitigation plan to the commission for filing and publishing. The commission shall
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+36A 2 36
+1 file and publish on its website all wildfire mitigation plans submitted to it within one
+2 hundred twenty days of receipt. Any wildfire mitigation plan or amendment submitted to
+3 the commission must be accompanied by a five hundred dollar filing fee to be deposited
+4 in the gross receipts tax fund established by § 49-1A-1. An amendment to a qualified
+5 utility's wildfire mitigation plan may also be submitted pursuant to this chapter and is
+6 subject to the same process and requirements.
+7 A wildfire mitigation plan submitted to the commission must contain an attestation
+8 signed by an officer of the utility submitting the plan. The attestation must contain a
+9 statement certifying that the plan contains all provisions required by this chapter.
+10 Publication of a wildfire mitigation plan or annual report by the commission is a
+11 determination that the wildfire mitigation plan contains the statutory elements and is
+12 complete.
+13 The commission may promulgate rules, pursuant to chapter 1-26, to further
+14 implement the provisions of this section.
+15 A qualified utility that is an electric cooperative or a municipal utility may submit a
+16 wildfire mitigation plan to its approval authority for review and approval. The approval
+17 authority shall act upon a submitted wildfire mitigation plan within one hundred twenty
+18 days of submission. If approved, the electric cooperative or municipal utility must publish
+19 the wildfire mitigation plan on its website.
+20 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+21 A qualified utility with a published wildfire mitigation plan shall submit an annual
+22 report detailing the qualified utility's compliance with its wildfire mitigation plan for the
+23 previous calendar year to the commission or to its approval authority, no later than April
+24 June first of each year. Annual reports submitted to the commission must be accompanied
+25 by a two hundred fifty dollar filing fee to be deposited in the gross receipts tax fund
+26 established by § 49-1A-1. The commission shall file and publish the report within sixty
+27 days of receipt. The electric cooperative or municipal utility shall publish the report on its
+28 website within sixty days of filing with the approval authority. The wildfire mitigation plan
+29 is valid and current if it is on file and all annual reports are timely filed with the commission
+30 or approval authority. The qualified utility shall file an update to the wildfire mitigation
+31 plan at least once every five years.
+32 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+33 A wildfire mitigation plan must include, at a minimum:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+36A 3 36
+1 (1) A description of areas within the service territory or facility locations of the qualified
+2 utility, which may be subject to a heightened risk of wildfire;
+3 (2) A description of the procedures or strategies, standards, and time frames that the
+4 qualified utility will use to inspect and operate its infrastructure;
+5 (3) A description of the procedures or strategies, and standards that the qualified utility
+6 will use to perform vegetation management;
+7 (4) A description of the procedures or strategies for modifications or upgrades to
+8 electric facilities and preventative programs to reduce the risk of its electric
+9 facilities initiating a wildfire;
+10 (5) A description of considerations or strategies for de-energizing power lines or
+11 modifying electric facility operations to mitigate potential wildfires, taking into
+12 consideration:
+13 (a) The ability of the qualified utility to reasonably access the proposed
+14 powerline to be de-energized;
+15 (b) The balance of the risk of wildfire with the need for continued supply of
+16 electricity to a community; and
+17 (c) Any potential impact to public safety and first responders, as applicable;
+18 (6) A description of the procedures or strategies the qualified utility intends to use to
+19 restore its electrical system in the event of a wildfire;
+20 (7) A description of the estimated incremental costs, if any, for the implementation of
+21 the plan, including system improvements and upgrades;
+22 (8) A description of community outreach and public awareness efforts before and
+23 during a wildfire season; and
+24 (9) A description of coordination with applicable state or local wildfire agencies.
+25 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+26 The commission may authorize a public utility as defined in subdivision 49-34A-
+27 1(12) to recover in rates all prudently incurred investments and expenditures, including
+28 the costs of capital, made to implement an approved wildfire mitigation plan.
+29 Cost recovery for wildfire mitigation plan implementation may be allowed by the
+30 commission, notwithstanding any settlement agreement provisions that restrict a public
+31 utility's ability to seek rate relief.
+32 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+36A 4 36
+1 A standard of strict liability may not be applied to a qualified utility in any cause of
+2 action alleging that the qualified utility caused wildfire-related damages. A qualified
+3 utility's facilities and activities may not be considered ultra-hazardous or abnormally
+4 dangerous.
+5 A plaintiff's sole remedy against a qualified utility for damages and losses resulting
+6 from a wildfire is in this chapter.
+7 Except as otherwise provided in this section, there is a rebuttable presumption in
+8 any civil action that a valid and current wildfire mitigation plan is a reasonable and prudent
+9 preparation for, and mitigation of, wildfire risk. A plaintiff may recover damages from a
+10 qualified utility with a valid and current wildfire mitigation plan, as a result of a wildfire,
+11 only if the plaintiff proves one or more of the following by a preponderance of the
+12 evidence:
+13 (1) The qualified utility failed to substantially comply with an essential element of a
+14 valid and current wildfire mitigation plan, and that failure was the actual and
+15 proximate cause of the damages to the plaintiff. For purposes of this subdivision,
+16 a qualified utility is deemed to have substantially complied with its wildfire
+17 mitigation plan if the qualified utility attempted to comply with the plan but was
+18 denied or delayed access to a right-of-way after the qualified utility requested
+19 access to the right-of-way to perform vegetation management or fire mitigation
+20 work in accordance with the plan; or
+21 (2) The qualified utility acted with malice or criminal intent, and the qualified utility's
+22 malicious action or criminal intent was the actual and proximate cause of the
+23 damages to the plaintiff.
+24 A civil action filed against a qualified utility for damages caused by wildfire may
+25 only be brought within three years after the date of the initial ignition of the wildfire.
+26 A plaintiff in a civil action filed against a qualified utility for damages caused by
+27 wildfire may recover economic losses and property damages but only under the conditions
+28 of this chapter. The plaintiff may not recover noneconomic losses unless the plaintiff
+29 suffered death or visible bodily injury in the form of a burn from a wildfire.
+30 The plaintiff may not recover punitive damages unless it is proven by clear and
+31 convincing evidence that the qualified utility acted with malice or criminal intent and the
+32 qualified utility's malicious action or criminal intent was the actual and proximate cause of
+33 damages to the plaintiff.
+34 The amount of damages recoverable for damage to real or personal property is the
+35 lesser of the cost to restore the property to the property's pre-wildfire condition or the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+36A 5 36
+1 difference between the fair market value of the property immediately before the wildfire
+2 and the fair market value of the property after the wildfire.
+3 Nothing in this section may be construed to limit any defenses that a qualified
+4 utility may be entitled to raise in a civil action for damages caused by wildfire.
+5 The provisions of this section only apply to a qualified utility with a valid and current
+6 wildfire mitigation plan as of the date of the initial ignition of the wildfire for which damages
+7 are sought.
+8 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+9 A person who obtains payment for damages resulting from wildfire pursuant to a
+10 policy of insurance is deemed to have been made whole exclusively for purposes of an
+11 insurer's right to subrogation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 3 U  A lLSSD: E T O A S T ( " o m ( " ( " b d ( " ( A ( A e ( " ( M i d o c h i t n r a ( T ( " a S A a]
+[DELETED:  2 3 U  f a p o i w a w m p t i w o h t i u s A s s c t t p c a p r b t c P o a w m p o a r b t c i a d c T c m p r p t c 1 t f i A w a d t S A r p J b e d w i o p S A]
+[DELETED:  3 3 U  ( A u ( A q ( A w ( A d o t p o s f m o u t e f a p p t r t r o i e f ( A m c ( T a o t q u t r a t p p ( T e ( A ( A r ( A t ( A d o c o a p a e b a d ( A S T 1 t C c u S]
+[DELETED:  4 3 U  A a a t t q u c w d A q u f a a m n b c u o a d A f E a p q o i t p p o o m o t f b a p o t e ( T v a c w m p a t f w t a a p a q u i d t h s c w i w m d a w ( T m a o c i w t a a p c o t d A o A w o c p m r n t p s T c q d T l]
+[DELETED:  5 3 U  d a N u T w a S A p i]

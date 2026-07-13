@@ -1,0 +1,57 @@
+Title: House Bill 1179
+Official Title: House Bill 1179
+Number of Sections: 1
+Source: versions - 1179A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1179A 101st Legislative Session 1179
+2026 South Dakota Legislature
+AMENDME NT 1179A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mortenson
+1 An Act to increase modify provisions related to the reimbursement fee for
+2 preparation of a garnishment disclosure.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 21-18-9 be AMENDED:
+5 21-18-9. If a garnishee summons, affidavit, and garnishment disclosure is served,
+6 upon receipt by the plaintiff of the garnishee's garnishment disclosure of liability provided
+7 for in § 21-18-27, the garnishee shall must be paid the sum of fifteen fifty forty dollars to
+8 reimburse the garnishee for the expense of preparing the garnishment disclosure, which
+9 sum shall must be taxed as a part of the plaintiff's costs. If the garnishee is not paid, the
+10 garnishment proceeding is void. The return of service of the garnishee summons shall
+11 must include a statement that the sum was paid. The garnishment disclosure shall must
+12 be returned to the plaintiff and filed with the court.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A A t i m p r t t r f f pLSSD: E T O A S 2 u f r s g m b]
+
+
+================================================================================
+
+Raw Text:
+1179A 101st Legislative Session 1179
+2026 South Dakota Legislature
+House Bill 1179
+AMENDME NT 1179A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mortenson
+1 An Act to increase modify provisions related to the reimbursement fee for
+2 preparation of a garnishment disclosure.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 21-18-9 be AMENDED:
+5 21-18-9. If a garnishee summons, affidavit, and garnishment disclosure is served,
+6 upon receipt by the plaintiff of the garnishee's garnishment disclosure of liability provided
+7 for in § 21-18-27, the garnishee shall must be paid the sum of fifteen fifty forty dollars to
+8 reimburse the garnishee for the expense of preparing the garnishment disclosure, which
+9 sum shall must be taxed as a part of the plaintiff's costs. If the garnishee is not paid, the
+10 garnishment proceeding is void. The return of service of the garnishee summons shall
+11 must include a statement that the sum was paid. The garnishment disclosure shall must
+12 be returned to the plaintiff and filed with the court.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A A t i m p r t t r f f pLSSD: E T O A S 2 u f r s g m b]

@@ -229,6 +229,7 @@
     "division_id": "ocd-division/country:us/state:sd"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:05Z"
+    "logs_latest_update": "2026-07-13T06:07:05Z",
+    "text_extraction_latest_update": "2026-07-13T10:51:39.067922Z"
   }
 }

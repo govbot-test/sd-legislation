@@ -1,0 +1,215 @@
+Title: Senate Bill 44
+Official Title: Senate Bill 44
+Number of Sections: 1
+Source: versions - 44A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+44A 101st Legislative Session 44
+2026 South Dakota Legislature
+AMENDM ENT 44A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to establish investigative subpoena authority to gather business records in
+2 certain investigations.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-11:
+5 Terms used in this Act mean:
+6 (1) "Investigative subpoena," a written demand issued by the attorney general or the
+7 attorney general's designee, after judicial approval, requiring the production of
+8 business records relevant to an official criminal investigation;
+9 (2) "Provider," any:
+10 (a) Electronic communication service that provides users with the ability to
+11 send or receive wire or electronic communications;
+12 (b) Electronic service provider that offers users the ability to send or receive
+13 wire or electronic communications, or to process or store data by means of
+14 an electronic communication system;
+15 (c) Internet service provider engaged in the business of providing computer
+16 access or internet connectivity to the public or to subscribers;
+17 (d) Remote computing service that provides computer storage or processing
+18 services to the public, by means of an electronic communications system;
+19 or
+20 (e) Telecommunications carrier that provides telecommunications services; and
+21 (3) "Reasonable cause," a belief based on specific and articulable facts that the
+22 business records sought are relevant and material to an active criminal
+23 investigation.
+24 Section 2. That a NEW SECTION be added to chapter 1-11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+44A 2 44
+1 In any criminal investigation conducted by the Division of Criminal Investigation
+2 involving a state offense related to internet crimes against children or human trafficking,
+3 the attorney general or the attorney general's designee may apply to a magistrate judge
+4 or circuit judge of Hughes County for judicial approval to issue an investigative subpoena.
+5 The attorney general or the attorney general's designee shall submit to the judge a written
+6 application demonstrating reasonable cause to believe the business records of a provider
+7 are material to an active criminal investigation.
+8 Section 3. That a NEW SECTION be added to chapter 1-11:
+9 Any magistrate judge or circuit court judge of Hughes County has statewide
+10 authority to review, approve, and issue an investigative subpoena, regardless of:
+11 (1) The county or judicial circuit in which the criminal investigation originates;
+12 (2) The location of the business records sought or the provider to be subpoenaed; or
+13 (3) The location where the investigative subpoena will be served or enforced.
+14 Section 4. That a NEW SECTION be added to chapter 1-11:
+15 A magistrate judge or circuit court judge shall may approve an investigative
+16 subpoena upon finding that the application submitted pursuant to section 2 of this Act
+17 establishes reasonable cause to believe the business records of a provider are material to
+18 an active criminal investigation. Judicial approval may be provided by written order or by
+19 signature on the investigative subpoena.
+20 An investigative subpoena approved pursuant to this section is enforceable
+21 anywhere in this state and has the same force and effect as any subpoena issued under
+22 the laws of this state.
+23 Section 5. That a NEW SECTION be added to chapter 1-11:
+24 Upon judicial approval, the attorney general or the attorney general's designee
+25 may issue and serve the investigative subpoena compelling the production of any of the
+26 following business records:
+27 (1) Subscriber information;
+28 (2) Account holder name;
+29 (3) Billing and service address;
+30 (4) Account status;
+31 (5) Telephone number;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+44A 3 44
+1 (6) Device information and device identifiers;
+2 (7) Email address;
+3 (8) Internet username;
+4 (9) Internet protocol address and any temporarily assigned address;
+5 (10) Method of access to the internet; and
+6 (11) Automatic number identification records, if access is by modem.
+7 Section 6. That a NEW SECTION be added to chapter 1-11:
+8 A provider served with an investigative subpoena shall produce the business
+9 records required by the subpoena. The provider may not provide notice to the account
+10 holder, customer, or subscriber whose records are sought if such a prohibition is contained
+11 within the investigative subpoena.
+12 Section 7. That a NEW SECTION be added to chapter 1-11:
+13 If a provider refuses to comply with an investigative subpoena, the attorney
+14 general or the attorney general's designee may apply to a court of competent jurisdiction
+15 for an order compelling compliance.
+16 Section 8. That a NEW SECTION be added to chapter 1-11:
+17 Any business record obtained pursuant to an investigative subpoena must be used
+18 solely for official law enforcement purposes and may not be disclosed except as necessary
+19 to carry out a criminal investigation or a prosecution, or as otherwise required by law.
+20 In examining business records obtained pursuant to an investigative subpoena, the
+21 attorney general or the attorney general's designee shall take all reasonable steps to
+22 safeguard the privacy rights of an individual and avoid unnecessary disclosure of personal
+23 information concerning any identified person.
+24 Section 9. That a NEW SECTION be added to chapter 1-11:
+25 No cause of action lies in any court against a provider, or any agent, employee, or
+26 officer of the provider, for providing assistance, information, or facilities in accordance
+27 with the terms of an investigative subpoena.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 4 U  A cLSSD: E T O A S T ( " a b ( " ( E s t p w t a t s ( E w a ( I a ( R s o ( T ( " c a b b o s a a f t t b r s a r a m t a a c i S]
+[DELETED:  2 4 U  I i t o T a a S A m j o c c j o H C h s a ( T ( T ( T S A m j o c c j s m a a i s e a s A i s a p t t s i e a t S U m f ( S ( A ( B ( A ( T]
+[DELETED:  3 4 U  ( D ( E ( I ( I ( M ( A S A p s w a i s s p t b r h w S I a p r t c w a i s t a g f S A s t I a s i S N o w]
+
+
+================================================================================
+
+Raw Text:
+44A 101st Legislative Session 44
+2026 South Dakota Legislature
+Senate Bill 44
+AMENDM ENT 44A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to establish investigative subpoena authority to gather business records in
+2 certain investigations.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-11:
+5 Terms used in this Act mean:
+6 (1) "Investigative subpoena," a written demand issued by the attorney general or the
+7 attorney general's designee, after judicial approval, requiring the production of
+8 business records relevant to an official criminal investigation;
+9 (2) "Provider," any:
+10 (a) Electronic communication service that provides users with the ability to
+11 send or receive wire or electronic communications;
+12 (b) Electronic service provider that offers users the ability to send or receive
+13 wire or electronic communications, or to process or store data by means of
+14 an electronic communication system;
+15 (c) Internet service provider engaged in the business of providing computer
+16 access or internet connectivity to the public or to subscribers;
+17 (d) Remote computing service that provides computer storage or processing
+18 services to the public, by means of an electronic communications system;
+19 or
+20 (e) Telecommunications carrier that provides telecommunications services; and
+21 (3) "Reasonable cause," a belief based on specific and articulable facts that the
+22 business records sought are relevant and material to an active criminal
+23 investigation.
+24 Section 2. That a NEW SECTION be added to chapter 1-11:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+44A 2 44
+1 In any criminal investigation conducted by the Division of Criminal Investigation
+2 involving a state offense related to internet crimes against children or human trafficking,
+3 the attorney general or the attorney general's designee may apply to a magistrate judge
+4 or circuit judge of Hughes County for judicial approval to issue an investigative subpoena.
+5 The attorney general or the attorney general's designee shall submit to the judge a written
+6 application demonstrating reasonable cause to believe the business records of a provider
+7 are material to an active criminal investigation.
+8 Section 3. That a NEW SECTION be added to chapter 1-11:
+9 Any magistrate judge or circuit court judge of Hughes County has statewide
+10 authority to review, approve, and issue an investigative subpoena, regardless of:
+11 (1) The county or judicial circuit in which the criminal investigation originates;
+12 (2) The location of the business records sought or the provider to be subpoenaed; or
+13 (3) The location where the investigative subpoena will be served or enforced.
+14 Section 4. That a NEW SECTION be added to chapter 1-11:
+15 A magistrate judge or circuit court judge shall may approve an investigative
+16 subpoena upon finding that the application submitted pursuant to section 2 of this Act
+17 establishes reasonable cause to believe the business records of a provider are material to
+18 an active criminal investigation. Judicial approval may be provided by written order or by
+19 signature on the investigative subpoena.
+20 An investigative subpoena approved pursuant to this section is enforceable
+21 anywhere in this state and has the same force and effect as any subpoena issued under
+22 the laws of this state.
+23 Section 5. That a NEW SECTION be added to chapter 1-11:
+24 Upon judicial approval, the attorney general or the attorney general's designee
+25 may issue and serve the investigative subpoena compelling the production of any of the
+26 following business records:
+27 (1) Subscriber information;
+28 (2) Account holder name;
+29 (3) Billing and service address;
+30 (4) Account status;
+31 (5) Telephone number;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+44A 3 44
+1 (6) Device information and device identifiers;
+2 (7) Email address;
+3 (8) Internet username;
+4 (9) Internet protocol address and any temporarily assigned address;
+5 (10) Method of access to the internet; and
+6 (11) Automatic number identification records, if access is by modem.
+7 Section 6. That a NEW SECTION be added to chapter 1-11:
+8 A provider served with an investigative subpoena shall produce the business
+9 records required by the subpoena. The provider may not provide notice to the account
+10 holder, customer, or subscriber whose records are sought if such a prohibition is contained
+11 within the investigative subpoena.
+12 Section 7. That a NEW SECTION be added to chapter 1-11:
+13 If a provider refuses to comply with an investigative subpoena, the attorney
+14 general or the attorney general's designee may apply to a court of competent jurisdiction
+15 for an order compelling compliance.
+16 Section 8. That a NEW SECTION be added to chapter 1-11:
+17 Any business record obtained pursuant to an investigative subpoena must be used
+18 solely for official law enforcement purposes and may not be disclosed except as necessary
+19 to carry out a criminal investigation or a prosecution, or as otherwise required by law.
+20 In examining business records obtained pursuant to an investigative subpoena, the
+21 attorney general or the attorney general's designee shall take all reasonable steps to
+22 safeguard the privacy rights of an individual and avoid unnecessary disclosure of personal
+23 information concerning any identified person.
+24 Section 9. That a NEW SECTION be added to chapter 1-11:
+25 No cause of action lies in any court against a provider, or any agent, employee, or
+26 officer of the provider, for providing assistance, information, or facilities in accordance
+27 with the terms of an investigative subpoena.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 4 U  A cLSSD: E T O A S T ( " a b ( " ( E s t p w t a t s ( E w a ( I a ( R s o ( T ( " c a b b o s a a f t t b r s a r a m t a a c i S]
+[DELETED:  2 4 U  I i t o T a a S A m j o c c j o H C h s a ( T ( T ( T S A m j o c c j s m a a i s e a s A i s a p t t s i e a t S U m f ( S ( A ( B ( A ( T]
+[DELETED:  3 4 U  ( D ( E ( I ( I ( M ( A S A p s w a i s s p t b r h w S I a p r t c w a i s t a g f S A s t I a s i S N o w]

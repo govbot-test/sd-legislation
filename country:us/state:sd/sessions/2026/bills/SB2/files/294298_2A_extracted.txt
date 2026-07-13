@@ -1,0 +1,683 @@
+Title: Senate Bill 2
+Official Title: Senate Bill 2
+Number of Sections: 1
+Source: versions - 2A
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2A 101st Legislative Session 2
+2026 South Dakota Legislature
+AMENDM ENT 2A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to provide that a firearm silencer is not a controlled weapon.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-1-2 be AMENDED:
+4 22-1-2. Terms used in this title mean:
+5 (1) If applied to the intent with which an act is done or omitted:
+6 (a) The words, "malice, maliciously," and all derivatives thereof import a wish to
+7 intentionally vex, annoy, or injure another person, established either by
+8 proof or presumption of law;
+9 (b) The words, "intent, intentionally," and all derivatives thereof, import a
+10 specific design to cause a certain result or, if the material part of a charge
+11 is the violation of a prohibition against conduct of a certain nature,
+12 regardless of what the offender intends to accomplish thereby, a specific
+13 design to engage in conduct of that nature;
+14 (c) The words, "knowledge, knowingly," and all derivatives thereof, import only
+15 a knowledge that the facts exist which bring the act or omission within the
+16 provisions of any statute. A person has knowledge if that person is aware
+17 that the facts exist which bring the act or omission within the provisions of
+18 any statute. Knowledge of the unlawfulness of such act or omission is not
+19 required;
+20 (d) The words, "reckless, recklessly," and all derivatives thereof, import a
+21 conscious and unjustifiable disregard of a substantial risk that the offender's
+22 conduct may cause a certain result or may be of a certain nature. A person
+23 is reckless with respect to circumstances if that person consciously and
+24 unjustifiably disregards a substantial risk that such circumstances may
+25 exist;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 2 2
+1 (e) The words, "neglect, negligently," and all words derived thereof, import a
+2 want of attention to the nature or probable consequences of an act or
+3 omission which a prudent person ordinarily bestows in acting in his or her
+4 own concerns;
+5 (f) If the section defining an offense provides that negligence suffices to establish
+6 an element thereof, then recklessness, knowledge, intent, or malice also
+7 constitutes sufficient culpability for such element. If recklessness suffices to
+8 establish an element of the offense, then knowledge, intent or malice also
+9 constitutes sufficient culpability for such element. If knowledge suffices to
+10 establish an element of an offense, then intent or malice also constitutes
+11 sufficient culpability for such element. If intent suffices to establish an
+12 element of an offense, then malice also constitutes sufficient culpability for
+13 such element;
+14 (2) "Actor," the person who takes the active part in a transaction;
+15 (3) "Affirmative defense," an issue involving an alleged defense to which, unless the
+16 state's evidence raises the issue, the defendant, to raise the issue, must present
+17 some credible evidence. If the issue involved in an affirmative defense is raised,
+18 then the guilt of the defendant must be established beyond a reasonable doubt as
+19 to that issue as well as all other elements of the offense;
+20 (4) "Antique firearm," any firearm, including any firearm with a matchlock, flintlock,
+21 percussion cap or similar type of ignition system, manufactured before 1899, and
+22 any replica of any firearm described in this section if such replica is not designed
+23 or redesigned for using rimfire or conventional centerfire fixed ammunition or if it
+24 uses rimfire or conventional centerfire fixed ammunition which is no longer
+25 manufactured in the United States and which is not readily available in the ordinary
+26 channels of commercial trade;
+27 (5) "Check," any check, draft, order or other commercial device which orders a financial
+28 institution to pay a sum certain of money on its presentment;
+29 (6) "Concealed," any firearm that is totally hidden from view. If any part of the firearm
+30 is capable of being seen, it is not concealed;
+31 (7) "Consideration," any type of property or thing of legal value, whether delivered in
+32 the past, or present, or to be delivered in the future. The term includes an
+33 unfulfilled promise to deliver. The term may include an advantage or benefit to the
+34 promisor or a loss or detriment to the promisee. Any amount, advantage or
+35 inconvenience, no matter how trifling, is sufficient to constitute consideration;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 3 2
+1 (8) "Controlled weapon" includes any firearm silencer, a machine gun, or and short
+2 shotgun, as those terms are defined in subdivisions (17), (23), and (46) of this
+3 section, but does not include a firearm silencer;
+4 (9) "Crime of violence," any of the following crimes or an attempt to commit, or a
+5 conspiracy to commit, or a solicitation to commit any of the following crimes:
+6 murder, manslaughter, rape, aggravated assault, riot, robbery, burglary in the first
+7 degree, arson, kidnapping, felony sexual contact as defined in § 22-22-7, felony
+8 child abuse as defined in § 26-10-1, or any other felony in the commission of which
+9 the perpetrator used force, or was armed with a dangerous weapon, or used any
+10 explosive or destructive device;
+11 (9A) "Critical infrastructure facility," any of the following facilities, whether in operation,
+12 idle, or under construction, maintenance, or repair, that which are enclosed by a
+13 fence or other physical barrier that is obviously designed to exclude trespassers
+14 and are clearly marked with a sign that is posted on the property and reasonably
+15 likely to come to the attention of any trespasser that, and which indicates that
+16 entry is forbidden, or any pole or tower used for any of the purposes in this
+17 subdivision, whether enclosed or marked with a sign or not:
+18 (a) Electric utility facility, including a power generation facility, an electric
+19 transmission facility, an electric station or substation, or any other facility
+20 used to support the generation, transmission, or distribution of electricity;
+21 (b) Water tower, municipal or rural water system well, water intake structure,
+22 or water treatment facility;
+23 (c) Natural gas utility facility, including a regulator station, a compressor
+24 station, an odorization facility, a mainline valve, a natural gas storage
+25 facility, or any other facility used to support the acquisition, transmission,
+26 distribution, or storage of natural gas;
+27 (d) Tank farm, pipeline terminal, pipeline, pump or compressor station or
+28 storage facility for gasoline, crude or refined or synthetic oil, ethanol,
+29 propane, liquid natural gas, or other hazardous liquid;
+30 (e) Transportation facility, including a port, railroad switching yard, or trucking
+31 terminal;
+32 (f) Hazardous waste storage, treatment, or disposal facility;
+33 (g) Oil and gas locations, facilities, and equipment, including temporary drilling
+34 rigs, permanent oil and gas product facilities, and artificial lift equipment;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 4 2
+1 (h) Communications services facility, infrastructure or equipment involved in
+2 the carriage of essential communications services for both wired and
+3 wireless communications, switching, routing, repeater/amplifier equipment
+4 or other electronic equipment, macro and micro wireless towers using
+5 federally licensed spectrum, video headend equipment, and satellite
+6 communications receiver or transmission equipment;
+7 (i) Dam that is owned by the state or a subdivision;
+8 (j) Facility either(i) whose owner or operator is required to submit a risk
+9 management plan under the federal Chemical Safety Information, Site
+10 Security, and Fuels Regulatory Relief Act (, 42 U.S.C. § 7412(r) (January 1,
+11 20252026); or (ii) is identified and regulated by the United States
+12 Department of Homeland Security Chemical Facility Anti–Terrorism
+13 Standards (CFATS) program; or
+14 (k) Any construction area, pipe yard, or laydown yard for any of the above,
+15 whether permanent or temporary in nature;
+16 (10) "Dangerous weapon" or "deadly weapon," any firearm, stun gun, knife, or device,
+17 instrument, material, or substance, whether animate or inanimate, which is
+18 calculated or designed to inflict death or serious bodily harm, or by the manner in
+19 which it is used is likely to inflict death or serious bodily harm;
+20 (11) "Dealer in stolen property," any person who:
+21 (a) Is found in possession or control of property stolen from two or more persons
+22 on separate occasions; or
+23 (b) Has received stolen property in another transaction within the year preceding
+24 the commencement of the prosecution; or
+25 (c) Trades in property similar to the type of stolen property received and acquires
+26 such property for a consideration which that person knows is substantially
+27 below its reasonable value;
+28 (12) "Deprive," to take or to withhold property of another or to dispose of property of
+29 another so as to make it unlikely that the owner will receive it;
+30 (13) "Destructive device,"
+31 (a) Any bomb, grenade, explosive missile, or similar device or any launching
+32 device therefor; or
+33 (b) Any breakable container which contains a flammable liquid with a flashpoint
+34 of one hundred and fifty degrees Fahrenheit or less and has a wick or similar
+35 device capable of being ignited;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 5 2
+1 (c) The term does not include "permissible fireworks," defined by § 34-37-5; any
+2 device which is neither designed nor redesigned for use as a weapon; any
+3 device, although originally designed for use as a weapon, which is
+4 redesigned for use as a signaling, pyrotechnic, line throwing, safety or
+5 similar device; surplus ordnance sold, loaned or given by the secretary of
+6 the army pursuant to the provisions of 10 U.S.C. §§ 4684(2), 4685, or 4686
+7 (January 1, 2026); or any other device which that is an antique or is a rifle
+8 which that the owner intends to use solely for sporting purposes;
+9 (14) "Explosive," any substance, or combination of substances, that is used for the
+10 purpose of detonation and which, upon exposure to any external or internal force
+11 or condition, is capable of a relatively instantaneous release of gas and heat. The
+12 term does not include "permissible fireworks," as defined by in § 34-37-5;
+13 (15) "Financial institution," a bank, insurance company, credit union, savings and loan
+14 association, investment trust, or other organization held out to the public as a place
+15 of deposit of funds or medium of savings or collective investment;
+16 (16) "Firearm," any weapon from which a projectile or projectiles may be discharged by
+17 gunpowder. As used in this subdivision, the term, "gunpowder," includes any
+18 propellant that upon oxidization emits heat and light and is commonly used in
+19 firearms cartridges;
+20 (17) "Firearm silencer," any instrument, attachment, weapon, or appliance for causing
+21 the firing of any gun, revolver, pistol, or other firearm to be silent, or intended to
+22 lessen or muffle the noise of the firing of any such weapon;
+23 (18) "Government," the United States, any state, county, municipality, school district,
+24 or other political unit, or any department, agency, or subdivision of any of the
+25 foregoing, or any corporation or other association carrying out the functions of any
+26 of the foregoing;
+27 (19) "Immediate family," any spouse, child, parent, or guardian of the victim;
+28 (20) "Insanity," the condition of a person temporarily or partially deprived of reason,
+29 upon proof that at the time of committing the act, the person was incapable of
+30 knowing its wrongfulness, but not including an abnormality manifested only by
+31 repeated unlawful or antisocial behavior;
+32 (21) "Intoxication," a disturbance of mental or physical capacities resulting from the
+33 introduction of substances into the body. Intoxication is not, in itself, a mental
+34 disease or defect;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 6 2
+1 (22) "Law enforcement officer," any officer, prosecutor, or employee of the state or any
+2 of its political subdivisions or of the United States, or, while on duty, an agent or
+3 employee of a railroad or express company, or security personnel of an airline or
+4 airport, who is responsible for the prevention, detection, or prosecution of crimes,
+5 for the enforcement of the criminal or highway traffic laws of the state, or for the
+6 supervision of confined persons or those persons on supervised release or
+7 probation;
+8 (22A) "Loaded firearm," any functional firearm that contains a cartridge, shell, or
+9 projectile in the chamber, including any chamber in the cylinder of a revolver;
+10 (23) "Machine gun," any firearm, whatever its size and usual designation, that
+11 automatically discharges two or more cartridges by a single function of the firing
+12 device;
+13 (24) "Mental illness," any substantial psychiatric disorder of thought, mood or behavior,
+14 which affects a person at the time of the commission of the offense, and which
+15 impairs a person's judgment, but not to the extent that the person is incapable of
+16 knowing the wrongfulness of such act. Mental illness does not include abnormalities
+17 manifested only by repeated criminal or otherwise antisocial conduct;
+18 (25) "Moral turpitude," an act done contrary to justice, honesty, principle, or good
+19 morals, as well as an act of baseness, vileness, or depravity in the private and
+20 social duties which a person owes to his fellow man or to society in general;
+21 (26) "Motor vehicle," any automobile, motor truck, motorcycle, house trailer, trailer
+22 coach, cabin trailer, or any vehicle propelled by power other than muscular power;
+23 (27) "Obtain,"
+24 (a) In relation to property, to bring about a transfer or purported transfer of a
+25 legal interest in the property, whether to the actor or another; or
+26 (b) In relation to labor or service, to secure performance thereof;
+27 (28) "Occupied structure," any structure:
+28 (a) Which is the permanent or temporary habitation of any person, whether or
+29 not any person is actually present;
+30 (b) Which at the time is specially adapted for the overnight accommodation of
+31 any person, whether or not any person is actually present; or
+32 (c) In which at the time any person is present;
+33 (29) "Offense" or "public offense," any crime, petty offense, violation of a city or county
+34 ordinance, or act prohibited by state or federal law;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 7 2
+1 (30) "Pass," to utter, publish, or sell, or to put or send forth into circulation. The term
+2 includes any delivery of a check to another for value, with the intent that it shall
+3 be put into circulation as money;
+4 (31) "Person," any natural person, unborn child, association, limited liability company,
+5 corporation, firm, organization, partnership, or society. If the term is used to
+6 designate a party whose property may be the subject of a crime or petty offense,
+7 it also includes the United States, any other country, this state, and any other state
+8 or territory of the United States, and any of their political subdivisions, agencies,
+9 or corporations;
+10 (32) "Pistol," any firearm with a barrel less than sixteen inches in length, designed to
+11 expel a projectile or projectiles by the action of an explosive;
+12 (33) "Private place," a place where one may reasonably expect to be safe from casual or
+13 hostile intrusion or surveillance, but does not include a place to which the public or
+14 a substantial group thereof has access;
+15 (34) "Process," any writ, warrant, summons, or order issued in the course of judicial
+16 proceedings;
+17 (35) "Property," anything of value, including, but not limited to, motor vehicles, real
+18 estate, tangible and intangible personal property, contract rights, choses-in-action,
+19 and other interests in or claims to wealth, admission or transportation tickets,
+20 captured or domestic animals, food and drink, electric or other power, services,
+21 and signatures which purport to create, maintain, or extinguish any legal
+22 obligation;
+23 (36) "Property of another," property in which any person other than the actor has an
+24 interest upon which the actor is not privileged to infringe, regardless of the fact
+25 that the actor also has an interest in the property and regardless of the fact that
+26 the other person might be precluded from civil recovery because the property was
+27 used in an unlawful transaction or was subject to forfeiture as contraband. Property
+28 in possession of an actor may not be deemed property of another who has only a
+29 security interest therein, even if legal title is in the creditor pursuant to a
+30 conditional sales contract or other security agreement;
+31 (37) "Public employee," any person employed by the state or any of its political
+32 subdivisions, who is not a public officer;
+33 (38) "Public office," the position held by a public officer or employee;
+34 (39) "Public officer," any person who holds a position in the state government or in any
+35 of its political subdivisions, by election or appointment, for a definite period, whose
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 8 2
+1 duties are fixed by law, and who is invested with some portion of the sovereign
+2 functions of government;
+3 (40) "Public record," any official book, paper, or record created, received, or used by or
+4 in any office or agency of the state or of any of its political subdivisions;
+5 (41) "Publish," to disseminate, circulate, or place before the public in any way, other
+6 than by speech which is not mechanically or electronically amplified;
+7 (42) "Receive," to acquire possession, control or title, or to lend or borrow on the security
+8 of the property;
+9 (43) "Service," labor that does not include a tangible commodity. The term includes, but
+10 is not limited to: labor; professional advice; telephone, cable television and other
+11 utility service; accommodations in hotels, restaurants or elsewhere; admissions to
+12 exhibits and entertainments; the use of machines designed to be operated by coin
+13 or other thing of value; and the use of rental property;
+14 (44) "Seller," any person or employee engaged in the business of selling pistols at retail;
+15 (44A)(45) "Serious bodily injury," such injury as is grave and not trivial, and gives rise
+16 to apprehension of danger to life, health, or limb;
+17 (45)(46) "Short rifle," any rifle having a barrel less than sixteen inches long, or an
+18 overall length of less than twenty-six inches;
+19 (46)(47) "Short shotgun," any shotgun having a barrel less than eighteen inches long
+20 or an overall length of less than twenty-six inches;
+21 (47)(48) "Signature," any name, mark, or sign, written with intent to authenticate any
+22 instrument or writing;
+23 (48) Deleted by SL 2005, ch 120, § 357;
+24 (49) "Structure," any house, building, outbuilding, motor vehicle, watercraft, aircraft,
+25 railroad car, trailer, tent, or other edifice, vehicle or shelter, or any portion thereof;
+26 (50) "Stun gun," any battery-powered, pulsed electrical device of high voltage and low
+27 or no amperage that, which can disrupt the central nervous system and cause
+28 temporary loss of voluntary muscle control of a person;
+29 (50A) "Unborn child," an individual organism of the species homo sapiens, from
+30 fertilization until live birth;
+31 (51) "Unoccupied structure," any structure which that is not an occupied structure;
+32 (52) "Vessel," if used with reference to shipping, any ship of any kind and every structure
+33 adapted to be navigated from place to place;
+34 (53) "Victim," any natural person against whom the defendant in a criminal prosecution
+35 has committed or attempted to commit a crime;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+2A 9 2
+1 (54) "Voluntary intoxication," intoxication caused by substances that an actor knowingly
+2 introduces into his or her body, the tendency of which is to cause intoxication; and
+3 (55) "Written instrument," any paper, document, or other instrument containing written
+4 or printed matter or the equivalent thereof, used for purposes of reciting,
+5 embodying, conveying, or recording information, and any money, credit card,
+6 token, stamp, seal, badge, trade mark, service mark or any evidence or symbol of
+7 value, right, privilege or identification, which is capable of being used to the
+8 advantage or disadvantage of some person.
+9 Section 2. That § 22-14-6 be AMENDED:
+10 22-14-6. Any person who knowingly possesses a controlled weapon is guilty of a
+11 Class 6 felony. However, the The provisions of this section do not apply to any person
+12 who:
+13 (1) Is a law enforcement officer or member of the armed forces of the United States
+14 or South Dakota National Guard acting in the lawful discharge of duties;
+15 (2) Has a valid state or federal license issued pursuant to law for such the weapon or
+16 has registered such the weapon with the proper state or federal authority pursuant
+17 to law;
+18 (3) Possesses a controlled weapon briefly after having found it or taken it from an
+19 offender; or
+20 (4) Possesses a any controlled weapon, except other than a machine gun or short
+21 shotgun, under circumstances which negate any purpose or likelihood that the
+22 weapon would be used unlawfully.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  ALSSD: E T O A S 2 ( I ( T i p ( T w " i a a d t i a s i t v o a p a c o a c n r d ( T a p t a r ( T w " r a a d t i a c c i a u d a s r t s c m e]
+[DELETED:  2 2 U  ( T w o a t t n o p c o a a o o o ( I a c e c e s c f s e I i s t e a e s ( " ( " s s t t ( " p a o u r o c c f a w i n l m c ( " i ( " i ( " t p o p o t b d i t f T t i a u p o a l o d t t p A a a o i]
+[DELETED:  3 2 U  ( " s s ( " c c o m d c t e ( " i f a l e i f o a p o t u f a o t p i t s ( E u f i a p g f a e t u ( W o ( N g u f i a r s a c s a o f a m v a n g s f d ( T f p t p p o c s o s f f g c o r o s o e p ( T t ( H ( O r]
+[DELETED:  4 2 U  ( C t c o e c s f b w a w o o e e m a m w t u f l s v h e a s c ( D ( F e w o o o i r t s a r m p u t f C S I S S 2 o ( i i a r b t U S D o H S C F A S ( A w ( " i m o s w a o i w i c w ( " ( I o ( H t ( T s b ( " a ( " ( A d ( A o d]
+[DELETED:  5 2 U  ( T d d a o d f u a a w w i r f u a a s p l t s o s t ( w ( " a s o c o s t i u f t p o t ( " a o ( " g A u i t s t t " i a p f ( " t l ( " o f o ( " ( " u k r ( " i d]
+[DELETED:  6 2 U  ( " o e a f s o c p o t p o s r o p ( " f a f f t c a c s o p ( " g a f w i s a u d t a d ( " w i k m ( " t a a d c t j h p o g m s ( " v a a m t m h t t c ( " ( I l ( I ( " ( W n ( W a ( I ( " o]
+[DELETED:  7 2 U  ( " i b ( " c f o p o s I t t i u t d i o o ( " e ( " h a ( " p ( " e a c a s w p t c m o e a l o ( " i t t u i s i t e i l t i i t c p t a c ( " e a p e b t s o a o i p s ( " ( " o]
+[DELETED:  8 2 U  d f ( " i ( " t ( " o ( " i u e o ( " ( " t ( " o ( " o ( " i ( D ( " r ( " o t ( c a i o o t s h s f f ( " ( " a ( " h]
+[DELETED:  9 2 U  ( " i ( " o p m o t e t u f p o r e c o r i a a m c c t v r p o i w i c o b u t t a S 2 C w ( I o ( H h t ( P o ( P s w]
+
+
+================================================================================
+
+Raw Text:
+2A 101st Legislative Session 2
+2026 South Dakota Legislature
+Senate Bill 2
+AMENDM ENT 2A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to provide that a firearm silencer is not a controlled weapon.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-1-2 be AMENDED:
+4 22-1-2. Terms used in this title mean:
+5 (1) If applied to the intent with which an act is done or omitted:
+6 (a) The words, "malice, maliciously," and all derivatives thereof import a wish to
+7 intentionally vex, annoy, or injure another person, established either by
+8 proof or presumption of law;
+9 (b) The words, "intent, intentionally," and all derivatives thereof, import a
+10 specific design to cause a certain result or, if the material part of a charge
+11 is the violation of a prohibition against conduct of a certain nature,
+12 regardless of what the offender intends to accomplish thereby, a specific
+13 design to engage in conduct of that nature;
+14 (c) The words, "knowledge, knowingly," and all derivatives thereof, import only
+15 a knowledge that the facts exist which bring the act or omission within the
+16 provisions of any statute. A person has knowledge if that person is aware
+17 that the facts exist which bring the act or omission within the provisions of
+18 any statute. Knowledge of the unlawfulness of such act or omission is not
+19 required;
+20 (d) The words, "reckless, recklessly," and all derivatives thereof, import a
+21 conscious and unjustifiable disregard of a substantial risk that the offender's
+22 conduct may cause a certain result or may be of a certain nature. A person
+23 is reckless with respect to circumstances if that person consciously and
+24 unjustifiably disregards a substantial risk that such circumstances may
+25 exist;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 2 2
+1 (e) The words, "neglect, negligently," and all words derived thereof, import a
+2 want of attention to the nature or probable consequences of an act or
+3 omission which a prudent person ordinarily bestows in acting in his or her
+4 own concerns;
+5 (f) If the section defining an offense provides that negligence suffices to establish
+6 an element thereof, then recklessness, knowledge, intent, or malice also
+7 constitutes sufficient culpability for such element. If recklessness suffices to
+8 establish an element of the offense, then knowledge, intent or malice also
+9 constitutes sufficient culpability for such element. If knowledge suffices to
+10 establish an element of an offense, then intent or malice also constitutes
+11 sufficient culpability for such element. If intent suffices to establish an
+12 element of an offense, then malice also constitutes sufficient culpability for
+13 such element;
+14 (2) "Actor," the person who takes the active part in a transaction;
+15 (3) "Affirmative defense," an issue involving an alleged defense to which, unless the
+16 state's evidence raises the issue, the defendant, to raise the issue, must present
+17 some credible evidence. If the issue involved in an affirmative defense is raised,
+18 then the guilt of the defendant must be established beyond a reasonable doubt as
+19 to that issue as well as all other elements of the offense;
+20 (4) "Antique firearm," any firearm, including any firearm with a matchlock, flintlock,
+21 percussion cap or similar type of ignition system, manufactured before 1899, and
+22 any replica of any firearm described in this section if such replica is not designed
+23 or redesigned for using rimfire or conventional centerfire fixed ammunition or if it
+24 uses rimfire or conventional centerfire fixed ammunition which is no longer
+25 manufactured in the United States and which is not readily available in the ordinary
+26 channels of commercial trade;
+27 (5) "Check," any check, draft, order or other commercial device which orders a financial
+28 institution to pay a sum certain of money on its presentment;
+29 (6) "Concealed," any firearm that is totally hidden from view. If any part of the firearm
+30 is capable of being seen, it is not concealed;
+31 (7) "Consideration," any type of property or thing of legal value, whether delivered in
+32 the past, or present, or to be delivered in the future. The term includes an
+33 unfulfilled promise to deliver. The term may include an advantage or benefit to the
+34 promisor or a loss or detriment to the promisee. Any amount, advantage or
+35 inconvenience, no matter how trifling, is sufficient to constitute consideration;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 3 2
+1 (8) "Controlled weapon" includes any firearm silencer, a machine gun, or and short
+2 shotgun, as those terms are defined in subdivisions (17), (23), and (46) of this
+3 section, but does not include a firearm silencer;
+4 (9) "Crime of violence," any of the following crimes or an attempt to commit, or a
+5 conspiracy to commit, or a solicitation to commit any of the following crimes:
+6 murder, manslaughter, rape, aggravated assault, riot, robbery, burglary in the first
+7 degree, arson, kidnapping, felony sexual contact as defined in § 22-22-7, felony
+8 child abuse as defined in § 26-10-1, or any other felony in the commission of which
+9 the perpetrator used force, or was armed with a dangerous weapon, or used any
+10 explosive or destructive device;
+11 (9A) "Critical infrastructure facility," any of the following facilities, whether in operation,
+12 idle, or under construction, maintenance, or repair, that which are enclosed by a
+13 fence or other physical barrier that is obviously designed to exclude trespassers
+14 and are clearly marked with a sign that is posted on the property and reasonably
+15 likely to come to the attention of any trespasser that, and which indicates that
+16 entry is forbidden, or any pole or tower used for any of the purposes in this
+17 subdivision, whether enclosed or marked with a sign or not:
+18 (a) Electric utility facility, including a power generation facility, an electric
+19 transmission facility, an electric station or substation, or any other facility
+20 used to support the generation, transmission, or distribution of electricity;
+21 (b) Water tower, municipal or rural water system well, water intake structure,
+22 or water treatment facility;
+23 (c) Natural gas utility facility, including a regulator station, a compressor
+24 station, an odorization facility, a mainline valve, a natural gas storage
+25 facility, or any other facility used to support the acquisition, transmission,
+26 distribution, or storage of natural gas;
+27 (d) Tank farm, pipeline terminal, pipeline, pump or compressor station or
+28 storage facility for gasoline, crude or refined or synthetic oil, ethanol,
+29 propane, liquid natural gas, or other hazardous liquid;
+30 (e) Transportation facility, including a port, railroad switching yard, or trucking
+31 terminal;
+32 (f) Hazardous waste storage, treatment, or disposal facility;
+33 (g) Oil and gas locations, facilities, and equipment, including temporary drilling
+34 rigs, permanent oil and gas product facilities, and artificial lift equipment;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 4 2
+1 (h) Communications services facility, infrastructure or equipment involved in
+2 the carriage of essential communications services for both wired and
+3 wireless communications, switching, routing, repeater/amplifier equipment
+4 or other electronic equipment, macro and micro wireless towers using
+5 federally licensed spectrum, video headend equipment, and satellite
+6 communications receiver or transmission equipment;
+7 (i) Dam that is owned by the state or a subdivision;
+8 (j) Facility either(i) whose owner or operator is required to submit a risk
+9 management plan under the federal Chemical Safety Information, Site
+10 Security, and Fuels Regulatory Relief Act (, 42 U.S.C. § 7412(r) (January 1,
+11 20252026); or (ii) is identified and regulated by the United States
+12 Department of Homeland Security Chemical Facility Anti–Terrorism
+13 Standards (CFATS) program; or
+14 (k) Any construction area, pipe yard, or laydown yard for any of the above,
+15 whether permanent or temporary in nature;
+16 (10) "Dangerous weapon" or "deadly weapon," any firearm, stun gun, knife, or device,
+17 instrument, material, or substance, whether animate or inanimate, which is
+18 calculated or designed to inflict death or serious bodily harm, or by the manner in
+19 which it is used is likely to inflict death or serious bodily harm;
+20 (11) "Dealer in stolen property," any person who:
+21 (a) Is found in possession or control of property stolen from two or more persons
+22 on separate occasions; or
+23 (b) Has received stolen property in another transaction within the year preceding
+24 the commencement of the prosecution; or
+25 (c) Trades in property similar to the type of stolen property received and acquires
+26 such property for a consideration which that person knows is substantially
+27 below its reasonable value;
+28 (12) "Deprive," to take or to withhold property of another or to dispose of property of
+29 another so as to make it unlikely that the owner will receive it;
+30 (13) "Destructive device,"
+31 (a) Any bomb, grenade, explosive missile, or similar device or any launching
+32 device therefor; or
+33 (b) Any breakable container which contains a flammable liquid with a flashpoint
+34 of one hundred and fifty degrees Fahrenheit or less and has a wick or similar
+35 device capable of being ignited;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 5 2
+1 (c) The term does not include "permissible fireworks," defined by § 34-37-5; any
+2 device which is neither designed nor redesigned for use as a weapon; any
+3 device, although originally designed for use as a weapon, which is
+4 redesigned for use as a signaling, pyrotechnic, line throwing, safety or
+5 similar device; surplus ordnance sold, loaned or given by the secretary of
+6 the army pursuant to the provisions of 10 U.S.C. §§ 4684(2), 4685, or 4686
+7 (January 1, 2026); or any other device which that is an antique or is a rifle
+8 which that the owner intends to use solely for sporting purposes;
+9 (14) "Explosive," any substance, or combination of substances, that is used for the
+10 purpose of detonation and which, upon exposure to any external or internal force
+11 or condition, is capable of a relatively instantaneous release of gas and heat. The
+12 term does not include "permissible fireworks," as defined by in § 34-37-5;
+13 (15) "Financial institution," a bank, insurance company, credit union, savings and loan
+14 association, investment trust, or other organization held out to the public as a place
+15 of deposit of funds or medium of savings or collective investment;
+16 (16) "Firearm," any weapon from which a projectile or projectiles may be discharged by
+17 gunpowder. As used in this subdivision, the term, "gunpowder," includes any
+18 propellant that upon oxidization emits heat and light and is commonly used in
+19 firearms cartridges;
+20 (17) "Firearm silencer," any instrument, attachment, weapon, or appliance for causing
+21 the firing of any gun, revolver, pistol, or other firearm to be silent, or intended to
+22 lessen or muffle the noise of the firing of any such weapon;
+23 (18) "Government," the United States, any state, county, municipality, school district,
+24 or other political unit, or any department, agency, or subdivision of any of the
+25 foregoing, or any corporation or other association carrying out the functions of any
+26 of the foregoing;
+27 (19) "Immediate family," any spouse, child, parent, or guardian of the victim;
+28 (20) "Insanity," the condition of a person temporarily or partially deprived of reason,
+29 upon proof that at the time of committing the act, the person was incapable of
+30 knowing its wrongfulness, but not including an abnormality manifested only by
+31 repeated unlawful or antisocial behavior;
+32 (21) "Intoxication," a disturbance of mental or physical capacities resulting from the
+33 introduction of substances into the body. Intoxication is not, in itself, a mental
+34 disease or defect;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 6 2
+1 (22) "Law enforcement officer," any officer, prosecutor, or employee of the state or any
+2 of its political subdivisions or of the United States, or, while on duty, an agent or
+3 employee of a railroad or express company, or security personnel of an airline or
+4 airport, who is responsible for the prevention, detection, or prosecution of crimes,
+5 for the enforcement of the criminal or highway traffic laws of the state, or for the
+6 supervision of confined persons or those persons on supervised release or
+7 probation;
+8 (22A) "Loaded firearm," any functional firearm that contains a cartridge, shell, or
+9 projectile in the chamber, including any chamber in the cylinder of a revolver;
+10 (23) "Machine gun," any firearm, whatever its size and usual designation, that
+11 automatically discharges two or more cartridges by a single function of the firing
+12 device;
+13 (24) "Mental illness," any substantial psychiatric disorder of thought, mood or behavior,
+14 which affects a person at the time of the commission of the offense, and which
+15 impairs a person's judgment, but not to the extent that the person is incapable of
+16 knowing the wrongfulness of such act. Mental illness does not include abnormalities
+17 manifested only by repeated criminal or otherwise antisocial conduct;
+18 (25) "Moral turpitude," an act done contrary to justice, honesty, principle, or good
+19 morals, as well as an act of baseness, vileness, or depravity in the private and
+20 social duties which a person owes to his fellow man or to society in general;
+21 (26) "Motor vehicle," any automobile, motor truck, motorcycle, house trailer, trailer
+22 coach, cabin trailer, or any vehicle propelled by power other than muscular power;
+23 (27) "Obtain,"
+24 (a) In relation to property, to bring about a transfer or purported transfer of a
+25 legal interest in the property, whether to the actor or another; or
+26 (b) In relation to labor or service, to secure performance thereof;
+27 (28) "Occupied structure," any structure:
+28 (a) Which is the permanent or temporary habitation of any person, whether or
+29 not any person is actually present;
+30 (b) Which at the time is specially adapted for the overnight accommodation of
+31 any person, whether or not any person is actually present; or
+32 (c) In which at the time any person is present;
+33 (29) "Offense" or "public offense," any crime, petty offense, violation of a city or county
+34 ordinance, or act prohibited by state or federal law;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 7 2
+1 (30) "Pass," to utter, publish, or sell, or to put or send forth into circulation. The term
+2 includes any delivery of a check to another for value, with the intent that it shall
+3 be put into circulation as money;
+4 (31) "Person," any natural person, unborn child, association, limited liability company,
+5 corporation, firm, organization, partnership, or society. If the term is used to
+6 designate a party whose property may be the subject of a crime or petty offense,
+7 it also includes the United States, any other country, this state, and any other state
+8 or territory of the United States, and any of their political subdivisions, agencies,
+9 or corporations;
+10 (32) "Pistol," any firearm with a barrel less than sixteen inches in length, designed to
+11 expel a projectile or projectiles by the action of an explosive;
+12 (33) "Private place," a place where one may reasonably expect to be safe from casual or
+13 hostile intrusion or surveillance, but does not include a place to which the public or
+14 a substantial group thereof has access;
+15 (34) "Process," any writ, warrant, summons, or order issued in the course of judicial
+16 proceedings;
+17 (35) "Property," anything of value, including, but not limited to, motor vehicles, real
+18 estate, tangible and intangible personal property, contract rights, choses-in-action,
+19 and other interests in or claims to wealth, admission or transportation tickets,
+20 captured or domestic animals, food and drink, electric or other power, services,
+21 and signatures which purport to create, maintain, or extinguish any legal
+22 obligation;
+23 (36) "Property of another," property in which any person other than the actor has an
+24 interest upon which the actor is not privileged to infringe, regardless of the fact
+25 that the actor also has an interest in the property and regardless of the fact that
+26 the other person might be precluded from civil recovery because the property was
+27 used in an unlawful transaction or was subject to forfeiture as contraband. Property
+28 in possession of an actor may not be deemed property of another who has only a
+29 security interest therein, even if legal title is in the creditor pursuant to a
+30 conditional sales contract or other security agreement;
+31 (37) "Public employee," any person employed by the state or any of its political
+32 subdivisions, who is not a public officer;
+33 (38) "Public office," the position held by a public officer or employee;
+34 (39) "Public officer," any person who holds a position in the state government or in any
+35 of its political subdivisions, by election or appointment, for a definite period, whose
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 8 2
+1 duties are fixed by law, and who is invested with some portion of the sovereign
+2 functions of government;
+3 (40) "Public record," any official book, paper, or record created, received, or used by or
+4 in any office or agency of the state or of any of its political subdivisions;
+5 (41) "Publish," to disseminate, circulate, or place before the public in any way, other
+6 than by speech which is not mechanically or electronically amplified;
+7 (42) "Receive," to acquire possession, control or title, or to lend or borrow on the security
+8 of the property;
+9 (43) "Service," labor that does not include a tangible commodity. The term includes, but
+10 is not limited to: labor; professional advice; telephone, cable television and other
+11 utility service; accommodations in hotels, restaurants or elsewhere; admissions to
+12 exhibits and entertainments; the use of machines designed to be operated by coin
+13 or other thing of value; and the use of rental property;
+14 (44) "Seller," any person or employee engaged in the business of selling pistols at retail;
+15 (44A)(45) "Serious bodily injury," such injury as is grave and not trivial, and gives rise
+16 to apprehension of danger to life, health, or limb;
+17 (45)(46) "Short rifle," any rifle having a barrel less than sixteen inches long, or an
+18 overall length of less than twenty-six inches;
+19 (46)(47) "Short shotgun," any shotgun having a barrel less than eighteen inches long
+20 or an overall length of less than twenty-six inches;
+21 (47)(48) "Signature," any name, mark, or sign, written with intent to authenticate any
+22 instrument or writing;
+23 (48) Deleted by SL 2005, ch 120, § 357;
+24 (49) "Structure," any house, building, outbuilding, motor vehicle, watercraft, aircraft,
+25 railroad car, trailer, tent, or other edifice, vehicle or shelter, or any portion thereof;
+26 (50) "Stun gun," any battery-powered, pulsed electrical device of high voltage and low
+27 or no amperage that, which can disrupt the central nervous system and cause
+28 temporary loss of voluntary muscle control of a person;
+29 (50A) "Unborn child," an individual organism of the species homo sapiens, from
+30 fertilization until live birth;
+31 (51) "Unoccupied structure," any structure which that is not an occupied structure;
+32 (52) "Vessel," if used with reference to shipping, any ship of any kind and every structure
+33 adapted to be navigated from place to place;
+34 (53) "Victim," any natural person against whom the defendant in a criminal prosecution
+35 has committed or attempted to commit a crime;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+2A 9 2
+1 (54) "Voluntary intoxication," intoxication caused by substances that an actor knowingly
+2 introduces into his or her body, the tendency of which is to cause intoxication; and
+3 (55) "Written instrument," any paper, document, or other instrument containing written
+4 or printed matter or the equivalent thereof, used for purposes of reciting,
+5 embodying, conveying, or recording information, and any money, credit card,
+6 token, stamp, seal, badge, trade mark, service mark or any evidence or symbol of
+7 value, right, privilege or identification, which is capable of being used to the
+8 advantage or disadvantage of some person.
+9 Section 2. That § 22-14-6 be AMENDED:
+10 22-14-6. Any person who knowingly possesses a controlled weapon is guilty of a
+11 Class 6 felony. However, the The provisions of this section do not apply to any person
+12 who:
+13 (1) Is a law enforcement officer or member of the armed forces of the United States
+14 or South Dakota National Guard acting in the lawful discharge of duties;
+15 (2) Has a valid state or federal license issued pursuant to law for such the weapon or
+16 has registered such the weapon with the proper state or federal authority pursuant
+17 to law;
+18 (3) Possesses a controlled weapon briefly after having found it or taken it from an
+19 offender; or
+20 (4) Possesses a any controlled weapon, except other than a machine gun or short
+21 shotgun, under circumstances which negate any purpose or likelihood that the
+22 weapon would be used unlawfully.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  ALSSD: E T O A S 2 ( I ( T i p ( T w " i a a d t i a s i t v o a p a c o a c n r d ( T a p t a r ( T w " r a a d t i a c c i a u d a s r t s c m e]
+[DELETED:  2 2 U  ( T w o a t t n o p c o a a o o o ( I a c e c e s c f s e I i s t e a e s ( " ( " s s t t ( " p a o u r o c c f a w i n l m c ( " i ( " i ( " t p o p o t b d i t f T t i a u p o a l o d t t p A a a o i]
+[DELETED:  3 2 U  ( " s s ( " c c o m d c t e ( " i f a l e i f o a p o t u f a o t p i t s ( E u f i a p g f a e t u ( W o ( N g u f i a r s a c s a o f a m v a n g s f d ( T f p t p p o c s o s f f g c o r o s o e p ( T t ( H ( O r]
+[DELETED:  4 2 U  ( C t c o e c s f b w a w o o e e m a m w t u f l s v h e a s c ( D ( F e w o o o i r t s a r m p u t f C S I S S 2 o ( i i a r b t U S D o H S C F A S ( A w ( " i m o s w a o i w i c w ( " ( I o ( H t ( T s b ( " a ( " ( A d ( A o d]
+[DELETED:  5 2 U  ( T d d a o d f u a a w w i r f u a a s p l t s o s t ( w ( " a s o c o s t i u f t p o t ( " a o ( " g A u i t s t t " i a p f ( " t l ( " o f o ( " ( " u k r ( " i d]
+[DELETED:  6 2 U  ( " o e a f s o c p o t p o s r o p ( " f a f f t c a c s o p ( " g a f w i s a u d t a d ( " w i k m ( " t a a d c t j h p o g m s ( " v a a m t m h t t c ( " ( I l ( I ( " ( W n ( W a ( I ( " o]
+[DELETED:  7 2 U  ( " i b ( " c f o p o s I t t i u t d i o o ( " e ( " h a ( " p ( " e a c a s w p t c m o e a l o ( " i t t u i s i t e i l t i i t c p t a c ( " e a p e b t s o a o i p s ( " ( " o]
+[DELETED:  8 2 U  d f ( " i ( " t ( " o ( " i u e o ( " ( " t ( " o ( " o ( " i ( D ( " r ( " o t ( c a i o o t s h s f f ( " ( " a ( " h]
+[DELETED:  9 2 U  ( " i ( " o p m o t e t u f p o r e c o r i a a m c c t v r p o i w i c o b u t t a S 2 C w ( I o ( H h t ( P o ( P s w]

@@ -1,0 +1,100 @@
+Title: Senate Bill 240
+Official Title: Senate Bill 240
+Number of Sections: 1
+Source: versions - 240A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+240A 101st Legislative Session 240
+2026 South Dakota Legislature
+AMENDME NT 240A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Davis
+1 An Act to make an appropriation for county rural access infrastructure and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 31-34-2 be AMENDED:
+5 31-34-2. Before August 1, 2021, the Department of Revenue shall distribute the
+6 sum of three million dollars on a pro rata basis to each county for the purpose of planning
+7 and completing an inventory of small structures as prescribed by the Department of
+8 Transportation. Before August 1, 2022, For any moneys appropriated for county rural
+9 access infrastructure, the Department of Revenue shall distribute deposit a portion of the
+10 sum of three million dollars to into a rural access infrastructure fund for each county based
+11 on the allocation calculated in accordance with this section for the purposes described in
+12 § 31-34-3. Each county's allocated percentage is calculated by using the total number of
+13 small structures on township roads and county secondary roads located in a county divided
+14 by the sum of all small structures on township roads and county secondary roads in the
+15 state as reported to the Department of Transportation, multiplied by one hundred. Each
+16 county that receives moneys from this rural access infrastructure program shall use the
+17 moneys in accordance with the provisions of this chapter.
+18 Section 2. There is appropriated $5,000,000 from the general fund, to the Department of
+19 Revenue, to deposit into rural access infrastructure funds, to be distributed and used in the
+20 manner described in § 31-34-2. No more than one-third of the appropriated amount may be
+21 deposited, in each of the fiscal years 2026, 2027, and 2028, to county rural access
+22 infrastructure funds.
+23 Section 3. The secretary of the Department of Revenue shall approve vouchers and the state
+24 auditor shall draw warrants to pay expenditures authorized in this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+240A 2 240
+1 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated by June
+2 30, 2031, shall revert in accordance with the procedures described in chapter 4-8.
+3 Section 5. Whereas, this Act is necessary for the support of the state government and its
+4 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+5 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A A t m a a f c r a i a t dLSSD: E T O A S 3 s a c a i o s s a p b t D o T a s o § s b s c m S R m d i e o t f y 2 2 a 2 t c r a i S a]
+[DELETED:  2 2 U  S 3 S e f]
+
+
+================================================================================
+
+Raw Text:
+240A 101st Legislative Session 240
+2026 South Dakota Legislature
+Senate Bill 240
+AMENDME NT 240A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Davis
+1 An Act to make an appropriation for county rural access infrastructure and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 31-34-2 be AMENDED:
+5 31-34-2. Before August 1, 2021, the Department of Revenue shall distribute the
+6 sum of three million dollars on a pro rata basis to each county for the purpose of planning
+7 and completing an inventory of small structures as prescribed by the Department of
+8 Transportation. Before August 1, 2022, For any moneys appropriated for county rural
+9 access infrastructure, the Department of Revenue shall distribute deposit a portion of the
+10 sum of three million dollars to into a rural access infrastructure fund for each county based
+11 on the allocation calculated in accordance with this section for the purposes described in
+12 § 31-34-3. Each county's allocated percentage is calculated by using the total number of
+13 small structures on township roads and county secondary roads located in a county divided
+14 by the sum of all small structures on township roads and county secondary roads in the
+15 state as reported to the Department of Transportation, multiplied by one hundred. Each
+16 county that receives moneys from this rural access infrastructure program shall use the
+17 moneys in accordance with the provisions of this chapter.
+18 Section 2. There is appropriated $5,000,000 from the general fund, to the Department of
+19 Revenue, to deposit into rural access infrastructure funds, to be distributed and used in the
+20 manner described in § 31-34-2. No more than one-third of the appropriated amount may be
+21 deposited, in each of the fiscal years 2026, 2027, and 2028, to county rural access
+22 infrastructure funds.
+23 Section 3. The secretary of the Department of Revenue shall approve vouchers and the state
+24 auditor shall draw warrants to pay expenditures authorized in this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+240A 2 240
+1 Section 4. Any amounts appropriated in this Act not lawfully expended or obligated by June
+2 30, 2031, shall revert in accordance with the procedures described in chapter 4-8.
+3 Section 5. Whereas, this Act is necessary for the support of the state government and its
+4 existing public institutions, an emergency is hereby declared to exist, and this Act shall be in
+5 full force and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A A t m a a f c r a i a t dLSSD: E T O A S 3 s a c a i o s s a p b t D o T a s o § s b s c m S R m d i e o t f y 2 2 a 2 t c r a i S a]
+[DELETED:  2 2 U  S 3 S e f]

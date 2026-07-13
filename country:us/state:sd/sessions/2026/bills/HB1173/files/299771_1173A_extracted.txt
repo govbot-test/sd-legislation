@@ -1,0 +1,244 @@
+Title: House Bill 1173
+Official Title: House Bill 1173
+Number of Sections: 1
+Source: versions - 1173A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1173A 101st Legislative Session 1173
+2026 South Dakota Legislature
+AMENDME NT 1173A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hughes
+1 An Act to require an environmental impact statement when certain applicants seek
+2 a permit from the Public Utilities Commission of the State of South Dakota, to
+3 create the environmental impact fund, and to clarify the process for
+4 appropriation of moneys from the environmental impact statement
+5 preparation fund.
+6 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+7 Section 1. That § 34A-9-4.2 be AMENDED:
+8 34A-9-4.2. Any environmental impact statement fee paid pursuant to the
+9 provisions of § 34A-9-4 is appropriated continuously to the agency assessing the fee to
+10 be deposited in the environmental impact statement preparation fund created by § 34A-
+11 9-12.1 and expended for the purposes of § 34A-9-4.
+12 Section 2. That § 34A-9-12.1 be AMENDED:
+13 34A-9-12.1. There is hereby established in the state treasury a special revolving
+14 fund to be designated as the environmental impact statement preparation fund. This fund
+15 shall consist consists of all moneys from all lawful public and private sources, including
+16 legislative appropriations, federal grants, gifts, fees received pursuant to § 34A-9-4
+17 chapter 34A-9, and interest on investments made on money moneys in the fund. The fund
+18 shall must be maintained separately for each environmental impact statement and be
+19 administered by the agency in order to retain consulting and professional services and to
+20 defray such other expenses as are reasonable and necessary in order to prepare the
+21 environmental impact statement. All fees assessed by the agency requiring the
+22 environmental impact statement under § 34A-9-4 shall be payable to the agency for
+23 deposit in the environmental impact statement preparation fund established pursuant to
+24 this section. Moneys may be deposited in the fund on an ongoing basis and this fund shall
+25 Moneys deposited in the fund must be expended for the purposes of chapter 34A-9 and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1173A 2 1173
+1 shall be appropriated by the Legislature through the normal budget process appropriated
+2 through the general appropriation bill.
+3 Section 3. That § 49-41B-12 be AMENDED:
+4 49-41B-12. At the time of filing an application as required in § 49-41B-11, an
+5 applicant must deposit the minimum fee with the commission. If required by the
+6 commission, an applicant must remit an amount to be determined by the commission
+7 based upon the actual cost of investigating, reviewing, processing, and serving notice of
+8 an application. The amount must be deposited with the state treasurer and credited to a
+9 subfund within the designated revenue fund the public utilities commission environmental
+10 impact fund, created in section 6 of this Act, and may only be disbursed on vouchers
+11 approved by the commission for the actual cost of investigating, reviewing, processing,
+12 and serving notice of the application. Expenditures from the revenue fund must be
+13 budgeted in the general appropriation bill. Except as otherwise provided in this section or
+14 agreed to by an applicant, the maximum fee chargeable may not exceed one-quarter of
+15 one percent of the first one hundred million dollars of estimated construction cost plus
+16 one-twentieth of one percent of all additional estimated construction costs of the facility.
+17 To exceed the maximum fee when the applicant has not agreed to a fee higher than the
+18 maximum amount, the commission must make a finding upon a motion from the
+19 commission staff that all costs incurred were reasonably necessary to investigate, review,
+20 process, and serve notice of the application. The minimum total fee chargeable may not
+21 be less than twenty thousand dollars. The minimum fee is nonrefundable unless ordered
+22 by the commission.
+23 Moneys from the South Dakota public utilities commission gross receipts tax fund,
+24 as established in § 49-1A-2, may not be used to reimburse the commission for any
+25 additional costs incurred.
+26 If the commission determines that an environmental impact statement should be
+27 prepared as provided under chapter 34A-9 is required before taking final action on an
+28 application under this chapter, the maximum fee chargeable above may be increased to
+29 an amount not to exceed one-half of one percent of the first one hundred million dollars
+30 of estimated construction cost plus one-twentieth of one percent of all additional estimated
+31 construction costs of the facility. However, the The provisions of this paragraph do not
+32 apply in cases in which if a detailed environment impact study has been completed
+33 pursuant to complying with the requirements of the National Environmental Policy Act of
+34 1969 as amended to January 1, 2009, and implementing regulations thereto if such a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1173A 3 1173
+1 statement is, 42 U.S.C. § 4321 (January 1, 2025 2026), or an environmental impact
+2 statement complying with the requirements of chapter 34A-9, has been completed and
+3 made available to the commission at least thirty days prior to the time the commission is
+4 required to render a decision under § 49-41B-24 or 49-41B-25.
+5 The provisions of this section apply to all pending permit applications and future
+6 permit applications before the commission.
+7 Section 4. That § 49-41B-21 be AMENDED:
+8 49-41B-21. Prior to the issuance of a permit for a carbon dioxide transmission
+9 facility, as defined in § 49-41B-2, the commission shall prepare or require the preparation
+10 of an environmental impact statement that complies with the provisions of chapter 34A-9
+11 and is made available to the public on the commission website.
+12 In all other cases, the commission may prepare or require the preparation of an
+13 environmental impact statement that complies with the provisions of chapter 34A-9.
+14 Section 5. That § 49-41B-22.1 be AMENDED:
+15 49-41B-22.1. Nothing contained herein shall prohibit an An applicant from
+16 reapplying may reapply for a permit previously denied pursuant to § 49-41B-24 or 49-
+17 41B-25 within three years from the date of the denial of the original permit. Upon Except
+18 as otherwise provided, upon the first such reapplication, the applicant shall have has the
+19 burden of proof to establish only those criteria upon which the original permit was denied,
+20 provided that nothing in the reapplication materially changes the information presented
+21 in the original application regarding those criteria upon which the original permit was not
+22 denied. However, nothing contained in this provision shall prohibit the Public Utilities
+23 Commission from requiring such. The commission may require the applicant to meet its
+24 the burden of proof as to any other criteria, upon a specific finding by the commission of
+25 a material change in the circumstances regarding those criteria, but the Public Utilities
+26 Commission shall commission may not, in any event, prepare or require the preparation
+27 of an additional environmental impact statement.
+28 Section 6. That a NEW SECTION be added to chapter 49-41B:
+29 There is created in the state treasury the public utilities commission environmental
+30 impact fund. The fund consists of fees collected pursuant to § 49-41B-12 and all other
+31 moneys designated for deposit in the fund. The purpose of the fund is to administer the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1173A 4 1173
+1 provisions of chapter 49-41B. Expenditures from the fund must be budgeted through the
+2 general appropriation bill.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A a c t e i f a t c t p f a o m f t e i s pLSSD: E T O A S 3 A e i s f p p t t p b 9 S 3 f s l a f g g f r p t § c s a d e i s A f a b t a r t e i s u § s b p t t a f d t M]
+[DELETED:  2 1 U  s t S 4 a m d t m f w t c I r b t c b a s i a a s n o t a E f t r f m b b a o o T m a t c m m a f u a m f t c p b b M a e i § m n b u t r t c f a a I p a a o c a i c i w i a d e i s h b c p 1]
+[DELETED:  3 1 U  s s m r T p S 4 f o a I e S 4 N c h s p a A a f r 4 a b p i d H n c i t p s p t P C t a C o S T i m]
+[DELETED:  4 1 U  p g]
+
+
+================================================================================
+
+Raw Text:
+1173A 101st Legislative Session 1173
+2026 South Dakota Legislature
+House Bill 1173
+AMENDME NT 1173A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hughes
+1 An Act to require an environmental impact statement when certain applicants seek
+2 a permit from the Public Utilities Commission of the State of South Dakota, to
+3 create the environmental impact fund, and to clarify the process for
+4 appropriation of moneys from the environmental impact statement
+5 preparation fund.
+6 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+7 Section 1. That § 34A-9-4.2 be AMENDED:
+8 34A-9-4.2. Any environmental impact statement fee paid pursuant to the
+9 provisions of § 34A-9-4 is appropriated continuously to the agency assessing the fee to
+10 be deposited in the environmental impact statement preparation fund created by § 34A-
+11 9-12.1 and expended for the purposes of § 34A-9-4.
+12 Section 2. That § 34A-9-12.1 be AMENDED:
+13 34A-9-12.1. There is hereby established in the state treasury a special revolving
+14 fund to be designated as the environmental impact statement preparation fund. This fund
+15 shall consist consists of all moneys from all lawful public and private sources, including
+16 legislative appropriations, federal grants, gifts, fees received pursuant to § 34A-9-4
+17 chapter 34A-9, and interest on investments made on money moneys in the fund. The fund
+18 shall must be maintained separately for each environmental impact statement and be
+19 administered by the agency in order to retain consulting and professional services and to
+20 defray such other expenses as are reasonable and necessary in order to prepare the
+21 environmental impact statement. All fees assessed by the agency requiring the
+22 environmental impact statement under § 34A-9-4 shall be payable to the agency for
+23 deposit in the environmental impact statement preparation fund established pursuant to
+24 this section. Moneys may be deposited in the fund on an ongoing basis and this fund shall
+25 Moneys deposited in the fund must be expended for the purposes of chapter 34A-9 and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1173A 2 1173
+1 shall be appropriated by the Legislature through the normal budget process appropriated
+2 through the general appropriation bill.
+3 Section 3. That § 49-41B-12 be AMENDED:
+4 49-41B-12. At the time of filing an application as required in § 49-41B-11, an
+5 applicant must deposit the minimum fee with the commission. If required by the
+6 commission, an applicant must remit an amount to be determined by the commission
+7 based upon the actual cost of investigating, reviewing, processing, and serving notice of
+8 an application. The amount must be deposited with the state treasurer and credited to a
+9 subfund within the designated revenue fund the public utilities commission environmental
+10 impact fund, created in section 6 of this Act, and may only be disbursed on vouchers
+11 approved by the commission for the actual cost of investigating, reviewing, processing,
+12 and serving notice of the application. Expenditures from the revenue fund must be
+13 budgeted in the general appropriation bill. Except as otherwise provided in this section or
+14 agreed to by an applicant, the maximum fee chargeable may not exceed one-quarter of
+15 one percent of the first one hundred million dollars of estimated construction cost plus
+16 one-twentieth of one percent of all additional estimated construction costs of the facility.
+17 To exceed the maximum fee when the applicant has not agreed to a fee higher than the
+18 maximum amount, the commission must make a finding upon a motion from the
+19 commission staff that all costs incurred were reasonably necessary to investigate, review,
+20 process, and serve notice of the application. The minimum total fee chargeable may not
+21 be less than twenty thousand dollars. The minimum fee is nonrefundable unless ordered
+22 by the commission.
+23 Moneys from the South Dakota public utilities commission gross receipts tax fund,
+24 as established in § 49-1A-2, may not be used to reimburse the commission for any
+25 additional costs incurred.
+26 If the commission determines that an environmental impact statement should be
+27 prepared as provided under chapter 34A-9 is required before taking final action on an
+28 application under this chapter, the maximum fee chargeable above may be increased to
+29 an amount not to exceed one-half of one percent of the first one hundred million dollars
+30 of estimated construction cost plus one-twentieth of one percent of all additional estimated
+31 construction costs of the facility. However, the The provisions of this paragraph do not
+32 apply in cases in which if a detailed environment impact study has been completed
+33 pursuant to complying with the requirements of the National Environmental Policy Act of
+34 1969 as amended to January 1, 2009, and implementing regulations thereto if such a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1173A 3 1173
+1 statement is, 42 U.S.C. § 4321 (January 1, 2025 2026), or an environmental impact
+2 statement complying with the requirements of chapter 34A-9, has been completed and
+3 made available to the commission at least thirty days prior to the time the commission is
+4 required to render a decision under § 49-41B-24 or 49-41B-25.
+5 The provisions of this section apply to all pending permit applications and future
+6 permit applications before the commission.
+7 Section 4. That § 49-41B-21 be AMENDED:
+8 49-41B-21. Prior to the issuance of a permit for a carbon dioxide transmission
+9 facility, as defined in § 49-41B-2, the commission shall prepare or require the preparation
+10 of an environmental impact statement that complies with the provisions of chapter 34A-9
+11 and is made available to the public on the commission website.
+12 In all other cases, the commission may prepare or require the preparation of an
+13 environmental impact statement that complies with the provisions of chapter 34A-9.
+14 Section 5. That § 49-41B-22.1 be AMENDED:
+15 49-41B-22.1. Nothing contained herein shall prohibit an An applicant from
+16 reapplying may reapply for a permit previously denied pursuant to § 49-41B-24 or 49-
+17 41B-25 within three years from the date of the denial of the original permit. Upon Except
+18 as otherwise provided, upon the first such reapplication, the applicant shall have has the
+19 burden of proof to establish only those criteria upon which the original permit was denied,
+20 provided that nothing in the reapplication materially changes the information presented
+21 in the original application regarding those criteria upon which the original permit was not
+22 denied. However, nothing contained in this provision shall prohibit the Public Utilities
+23 Commission from requiring such. The commission may require the applicant to meet its
+24 the burden of proof as to any other criteria, upon a specific finding by the commission of
+25 a material change in the circumstances regarding those criteria, but the Public Utilities
+26 Commission shall commission may not, in any event, prepare or require the preparation
+27 of an additional environmental impact statement.
+28 Section 6. That a NEW SECTION be added to chapter 49-41B:
+29 There is created in the state treasury the public utilities commission environmental
+30 impact fund. The fund consists of fees collected pursuant to § 49-41B-12 and all other
+31 moneys designated for deposit in the fund. The purpose of the fund is to administer the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1173A 4 1173
+1 provisions of chapter 49-41B. Expenditures from the fund must be budgeted through the
+2 general appropriation bill.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A a c t e i f a t c t p f a o m f t e i s pLSSD: E T O A S 3 A e i s f p p t t p b 9 S 3 f s l a f g g f r p t § c s a d e i s A f a b t a r t e i s u § s b p t t a f d t M]
+[DELETED:  2 1 U  s t S 4 a m d t m f w t c I r b t c b a s i a a s n o t a E f t r f m b b a o o T m a t c m m a f u a m f t c p b b M a e i § m n b u t r t c f a a I p a a o c a i c i w i a d e i s h b c p 1]
+[DELETED:  3 1 U  s s m r T p S 4 f o a I e S 4 N c h s p a A a f r 4 a b p i d H n c i t p s p t P C t a C o S T i m]
+[DELETED:  4 1 U  p g]

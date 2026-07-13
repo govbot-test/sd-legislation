@@ -1,0 +1,63 @@
+Title: House Bill 1278
+Official Title: House Bill 1278
+Number of Sections: 1
+Source: versions - 1278C
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1278C 101st Legislative Session 1278
+2026 South Dakota Legislature
+AMENDME NT 1278C
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mortenson
+1 An Act to prohibit certain political committees from accepting contributions by
+2 certain officers or employees of this state.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 12-27:
+5 Neither the candidate campaign committee of a state official nor a political action
+6 committee affiliated with a state official may accept a contribution from an individual a
+7 state employee who is employed or appointed by the official and:
+8 (1) Is the head of a department or agency of state government;
+9 (2) Is the highest paid employee, not including the head, in the department or agency;
+10 or
+11 (3) Reports directly to the official.
+12 For purposes of this section, "state official" means the Governor, lieutenant
+13 governor, secretary of state, auditor, treasurer, attorney general, commissioner of school
+14 and public lands, or a member of the Legislature.
+15 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A A t p c p c f a c b cLSSD: E T O A S N c s ( I ( I o ( R F p o t s " o m t G l g a S]
+
+
+================================================================================
+
+Raw Text:
+1278C 101st Legislative Session 1278
+2026 South Dakota Legislature
+House Bill 1278
+AMENDME NT 1278C
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mortenson
+1 An Act to prohibit certain political committees from accepting contributions by
+2 certain officers or employees of this state.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 12-27:
+5 Neither the candidate campaign committee of a state official nor a political action
+6 committee affiliated with a state official may accept a contribution from an individual a
+7 state employee who is employed or appointed by the official and:
+8 (1) Is the head of a department or agency of state government;
+9 (2) Is the highest paid employee, not including the head, in the department or agency;
+10 or
+11 (3) Reports directly to the official.
+12 For purposes of this section, "state official" means the Governor, lieutenant
+13 governor, secretary of state, auditor, treasurer, attorney general, commissioner of school
+14 and public lands, or a member of the Legislature.
+15 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A A t p c p c f a c b cLSSD: E T O A S N c s ( I ( I o ( R F p o t s " o m t G l g a S]

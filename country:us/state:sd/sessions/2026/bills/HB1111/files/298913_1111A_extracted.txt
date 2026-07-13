@@ -1,0 +1,215 @@
+Title: House Bill 1111
+Official Title: House Bill 1111
+Number of Sections: 1
+Source: versions - 1111A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1111A 101st Legislative Session 1111
+2026 South Dakota Legislature
+AMENDME NT 1111A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Greenfield
+1 An Act to modify the requirements for obtaining an agricultural processor's lien.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 38-17-14 be AMENDED:
+4 38-17-14. Any person owning or leasing and operating farm machinery to process
+5 a crop has a lien from the date of operation on all grain threshed or combined,; corn
+6 shelled, husked or shredded,; silage cut,; seeds hulled,; or agricultural products baled,
+7 mowed, ground, raked, or pulverized by the person with the machine for the value of the
+8 services so rendered in operation.
+9 Section 2. That § 38-17-15 be AMENDED:
+10 38-17-15. Any person entitled to a lien under § 38-17-14 shall provide a written
+11 account stating the kind of grain, and the quantity harvested, threshed, shelled, or
+12 otherwise processed, the price agreed upon for such work, which may not exceed the price
+13 usually charged for the service, the name of the person for whom the work was done, and
+14 a description of the land on which the crop was grown perfect the lien as provided in
+15 chapter 57A-9 and in this section. Any financing statement filed to perfect the lien must
+16 contain or have attached to it the following information:
+17 (1) The name and address of the owner or lessee and operator claiming the lien;
+18 (2) The name and address of the person for whom a service specified in § 38-17-14
+19 was performed;
+20 (3) The amount due for the service;
+21 (4) The amount of grain, seed, hay, silage, or other agricultural product covered by
+22 the lien;
+23 (5) The place where the grain, seed, hay, silage, or other agricultural product is
+24 located;
+25 (6) The date on which the service was commenced; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1111A 2 1111
+1 (7) The date on which the service was completed.
+2 After making oath to the correctness of the account, the person shall file the
+3 account in the office of the register of deeds in the county in which the land producing the
+4 crop is located, and also in the county of the residence of the person who produced the
+5 crop, if the person is a resident of this state. The office of the register of deeds shall file
+6 and enter the account in the manner required by law in the personal property index. The
+7 filing serves as notice to all purchasers and encumbrancers subsequent to the date of the
+8 filing statement, the person shall file the statement electronically with the secretary of
+9 state. The filing serves as notice of the lien, to all, including purchasers and
+10 encumbrancers, subsequent to the date of the filing.
+11 To perfect the lien, the financing statement must be filed within thirty sixty days
+12 of the date the processing of the crop was finished. At the time the financing statement is
+13 filed, the lienholder shall provide a copy of the financing statement to the person for whom
+14 the work was done.
+15 Section 3. That a NEW SECTION be added to chapter 38-17:
+16 If the person for whom the processing pursuant to § 38-17-14 was done desires
+17 to sell or consign the grain, seed, hay, silage, or other agricultural product, before the
+18 time to perfect the lien has expired, the person must notify the consignee or purchaser
+19 that the bill debt for the threshing, combining, shelling, husking, shredding, cutting,
+20 hulling, baling, mowing, grinding, raking, or pulverizing has not been paid, and the lien
+21 created under § 38-17-14 applies to the purchase price paid by the purchaser or
+22 consignee.
+23 If the agricultural product covered by the lien pursuant to § 38-17-14 is sold or
+24 consigned with the written consent of the person entitled to a lien, within thirty sixty days
+25 after the date of the completion of the processing and no financing statement has been
+26 filed, the lien does not attach to the agricultural product covered by the lien pursuant to
+27 § 38-17-14, or to the purchase proceeds, unless the person entitled to the lien notifies
+28 the purchaser in writing of the lien before the purchase.
+29 Section 4. That § 38-17-16 be AMENDED:
+30 38-17-16. Any lien under § 38-17-14 has priority over all other liens and
+31 encumbrances upon the grain, if filed within thirty days from the day on which the
+32 harvesting, threshing, shelling, or other processing was completed threshed or combined;
+33 corn shelled, husked or shredded; silage cut; seeds hulled; or agricultural products baled,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1111A 3 1111
+1 mowed, ground, raked, or pulverized, if filed within thirty sixty days from the day on which
+2 the processing of the crop was completed.
+3 A lien created under §§ 38-17-14 to 38-17-18, inclusive, must be treated as an
+4 agricultural lien, as provided in chapter 57A-9, and may be enforced in the manner and
+5 form provided for the enforcement of secured transactions, except that the action to
+6 enforce the lien must be commenced within thirty sixty days after the filing of the financing
+7 statement.
+8 If the lien claimant does not commence an action to enforce the lien within thirty
+9 sixty days of filing the financing statement, the lien is terminated, and the person for
+10 whom the processing was done may cause the financing statement to be expunged from
+11 the record by filing a termination statement, together with a sworn statement that no
+12 action to enforce the lien has been commenced within thirty sixty days of the filing of the
+13 lien claimant's financing statement.
+14 The fee for filing, amending, or releasing the lien is as set forth in § 57A-9-525.
+15 The provisions of § 54-13-10 do not apply to liens created under §§ 38-17-14 to
+16 38-17-18, inclusive.
+17 Section 5. That § 38-17-19 be AMENDED:
+18 38-17-19. Any person having a lien under the provisions of §§ 38-17-3 to 38-17-
+19 18, inclusive, may foreclose the same under the provisions of chapter 21-53 or under the
+20 provisions of chapter 21-54, subject to the right of any person adversely interested to
+21 require foreclosure under the provisions of chapter 21-53 chapter 57A-9.
+22 Section 6. The 2025 Session Laws, chapter 166, §§ 1 to 6, inclusive, are superseded as of
+23 July 1, 2026.
+24 Section 7. Sections 1 to 5, inclusive, of this Act are effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 3 a s m s S 3 a s t k o g a t q h t s o o u a c c ( T ( T w ( T ( T t ( T p w t g s h s o o a p i l ( T]
+[DELETED:  2 1 U  ( T A m o t t c o t a t p s f t a c c a f f s T f s a n o t l t a i p a e T o f t S I t t t t b d f t t c s h s c h c u § a t t p p p b t p o c I c a f § t S 3 A l u § h p o a o l a e u t g i f w t d f t d o w t h c]
+[DELETED:  3 1 U  m t A a f e e t e s I s w t a l T T 3 S 3 1 p r S J S]
+
+
+================================================================================
+
+Raw Text:
+1111A 101st Legislative Session 1111
+2026 South Dakota Legislature
+House Bill 1111
+AMENDME NT 1111A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Greenfield
+1 An Act to modify the requirements for obtaining an agricultural processor's lien.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 38-17-14 be AMENDED:
+4 38-17-14. Any person owning or leasing and operating farm machinery to process
+5 a crop has a lien from the date of operation on all grain threshed or combined,; corn
+6 shelled, husked or shredded,; silage cut,; seeds hulled,; or agricultural products baled,
+7 mowed, ground, raked, or pulverized by the person with the machine for the value of the
+8 services so rendered in operation.
+9 Section 2. That § 38-17-15 be AMENDED:
+10 38-17-15. Any person entitled to a lien under § 38-17-14 shall provide a written
+11 account stating the kind of grain, and the quantity harvested, threshed, shelled, or
+12 otherwise processed, the price agreed upon for such work, which may not exceed the price
+13 usually charged for the service, the name of the person for whom the work was done, and
+14 a description of the land on which the crop was grown perfect the lien as provided in
+15 chapter 57A-9 and in this section. Any financing statement filed to perfect the lien must
+16 contain or have attached to it the following information:
+17 (1) The name and address of the owner or lessee and operator claiming the lien;
+18 (2) The name and address of the person for whom a service specified in § 38-17-14
+19 was performed;
+20 (3) The amount due for the service;
+21 (4) The amount of grain, seed, hay, silage, or other agricultural product covered by
+22 the lien;
+23 (5) The place where the grain, seed, hay, silage, or other agricultural product is
+24 located;
+25 (6) The date on which the service was commenced; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1111A 2 1111
+1 (7) The date on which the service was completed.
+2 After making oath to the correctness of the account, the person shall file the
+3 account in the office of the register of deeds in the county in which the land producing the
+4 crop is located, and also in the county of the residence of the person who produced the
+5 crop, if the person is a resident of this state. The office of the register of deeds shall file
+6 and enter the account in the manner required by law in the personal property index. The
+7 filing serves as notice to all purchasers and encumbrancers subsequent to the date of the
+8 filing statement, the person shall file the statement electronically with the secretary of
+9 state. The filing serves as notice of the lien, to all, including purchasers and
+10 encumbrancers, subsequent to the date of the filing.
+11 To perfect the lien, the financing statement must be filed within thirty sixty days
+12 of the date the processing of the crop was finished. At the time the financing statement is
+13 filed, the lienholder shall provide a copy of the financing statement to the person for whom
+14 the work was done.
+15 Section 3. That a NEW SECTION be added to chapter 38-17:
+16 If the person for whom the processing pursuant to § 38-17-14 was done desires
+17 to sell or consign the grain, seed, hay, silage, or other agricultural product, before the
+18 time to perfect the lien has expired, the person must notify the consignee or purchaser
+19 that the bill debt for the threshing, combining, shelling, husking, shredding, cutting,
+20 hulling, baling, mowing, grinding, raking, or pulverizing has not been paid, and the lien
+21 created under § 38-17-14 applies to the purchase price paid by the purchaser or
+22 consignee.
+23 If the agricultural product covered by the lien pursuant to § 38-17-14 is sold or
+24 consigned with the written consent of the person entitled to a lien, within thirty sixty days
+25 after the date of the completion of the processing and no financing statement has been
+26 filed, the lien does not attach to the agricultural product covered by the lien pursuant to
+27 § 38-17-14, or to the purchase proceeds, unless the person entitled to the lien notifies
+28 the purchaser in writing of the lien before the purchase.
+29 Section 4. That § 38-17-16 be AMENDED:
+30 38-17-16. Any lien under § 38-17-14 has priority over all other liens and
+31 encumbrances upon the grain, if filed within thirty days from the day on which the
+32 harvesting, threshing, shelling, or other processing was completed threshed or combined;
+33 corn shelled, husked or shredded; silage cut; seeds hulled; or agricultural products baled,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1111A 3 1111
+1 mowed, ground, raked, or pulverized, if filed within thirty sixty days from the day on which
+2 the processing of the crop was completed.
+3 A lien created under §§ 38-17-14 to 38-17-18, inclusive, must be treated as an
+4 agricultural lien, as provided in chapter 57A-9, and may be enforced in the manner and
+5 form provided for the enforcement of secured transactions, except that the action to
+6 enforce the lien must be commenced within thirty sixty days after the filing of the financing
+7 statement.
+8 If the lien claimant does not commence an action to enforce the lien within thirty
+9 sixty days of filing the financing statement, the lien is terminated, and the person for
+10 whom the processing was done may cause the financing statement to be expunged from
+11 the record by filing a termination statement, together with a sworn statement that no
+12 action to enforce the lien has been commenced within thirty sixty days of the filing of the
+13 lien claimant's financing statement.
+14 The fee for filing, amending, or releasing the lien is as set forth in § 57A-9-525.
+15 The provisions of § 54-13-10 do not apply to liens created under §§ 38-17-14 to
+16 38-17-18, inclusive.
+17 Section 5. That § 38-17-19 be AMENDED:
+18 38-17-19. Any person having a lien under the provisions of §§ 38-17-3 to 38-17-
+19 18, inclusive, may foreclose the same under the provisions of chapter 21-53 or under the
+20 provisions of chapter 21-54, subject to the right of any person adversely interested to
+21 require foreclosure under the provisions of chapter 21-53 chapter 57A-9.
+22 Section 6. The 2025 Session Laws, chapter 166, §§ 1 to 6, inclusive, are superseded as of
+23 July 1, 2026.
+24 Section 7. Sections 1 to 5, inclusive, of this Act are effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 3 a s m s S 3 a s t k o g a t q h t s o o u a c c ( T ( T w ( T ( T t ( T p w t g s h s o o a p i l ( T]
+[DELETED:  2 1 U  ( T A m o t t c o t a t p s f t a c c a f f s T f s a n o t l t a i p a e T o f t S I t t t t b d f t t c s h s c h c u § a t t p p p b t p o c I c a f § t S 3 A l u § h p o a o l a e u t g i f w t d f t d o w t h c]
+[DELETED:  3 1 U  m t A a f e e t e s I s w t a l T T 3 S 3 1 p r S J S]

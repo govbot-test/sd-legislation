@@ -1,0 +1,120 @@
+Title: House Bill 1229
+Official Title: House Bill 1229
+Number of Sections: 1
+Source: versions - 1229B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1229B 101st Legislative Session 1229
+2026 South Dakota Legislature
+AMENDME NT 1229B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Weems
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to require the inclusion of certain features within a manufacturer's
+2 application store or on a developer's application.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+5 Terms used in this chapter mean:
+6 (1) "Application," a software program, other than a program required for the operation,
+7 administration, or programming of a general-purpose computing device, which is
+8 designed by the developer to perform specific tasks for an end user; and
+9 (2) "Developer," any person that creates, owns, or controls an application and is
+10 responsible for the design, development, maintenance, and distribution of the
+11 application to end users.
+12 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+13 A developer shall provide a readily available feature for any user of the developer's
+14 application, to review a list of the cost of subscribing to a product or service provided by
+15 the application.
+16 To the extent applicable and technologically feasible, a developer shall provide a
+17 readily available feature for any user of the developer's application, by which the user is
+18 able to cancel or otherwise modify the user's subscription to any product or service
+19 provided by the application.
+20 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1229B 2 1229
+1 If a developer is not in substantial compliance with the requirements of section 2
+2 of this Act, the attorney general must provide written notice to the developer before
+3 initiating an action pursuant to section 4 of this Act.
+4 If the developer cures any notice violation to the satisfaction of the attorney
+5 general and provides the attorney general with a written statement under oath that the
+6 alleged violation has been cured, within ninety days of the notice provided under this
+7 section, the developer is not liable for a civil penalty for any cured violation of section 2
+8 of this Act.
+9 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+10 Any developer found in violation of section 2 of this Act, to whom notice was
+11 provided pursuant to section 3 of this Act, is liable for a civil penalty in an amount not
+12 exceeding one thousand dollars per incident. The civil penalty may be assessed and
+13 recovered only in a civil action by the attorney general. The attorney general shall forward
+14 any civil penalty collected under this section to the state treasurer for deposit in the
+15 general fund.
+16 Nothing in this section may be construed to serve as the basis for a new private
+17 right of action for any violation of section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A A t r t i o c f w a m aLSSD: E T O A S T ( " a d ( " a p t c o o c a a a i r f t d d m a d o t a S A a t T r a t c o o m t u s t a p o s p S]
+[DELETED:  2 1 U  I o d i I t d c a n v t t s o t a g a s o S A f o o w p e o t d p i T c p m b a a r a g N r]
+
+
+================================================================================
+
+Raw Text:
+1229B 101st Legislative Session 1229
+2026 South Dakota Legislature
+House Bill 1229
+AMENDME NT 1229B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Weems
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to require the inclusion of certain features within a manufacturer's
+2 application store or on a developer's application.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+5 Terms used in this chapter mean:
+6 (1) "Application," a software program, other than a program required for the operation,
+7 administration, or programming of a general-purpose computing device, which is
+8 designed by the developer to perform specific tasks for an end user; and
+9 (2) "Developer," any person that creates, owns, or controls an application and is
+10 responsible for the design, development, maintenance, and distribution of the
+11 application to end users.
+12 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+13 A developer shall provide a readily available feature for any user of the developer's
+14 application, to review a list of the cost of subscribing to a product or service provided by
+15 the application.
+16 To the extent applicable and technologically feasible, a developer shall provide a
+17 readily available feature for any user of the developer's application, by which the user is
+18 able to cancel or otherwise modify the user's subscription to any product or service
+19 provided by the application.
+20 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1229B 2 1229
+1 If a developer is not in substantial compliance with the requirements of section 2
+2 of this Act, the attorney general must provide written notice to the developer before
+3 initiating an action pursuant to section 4 of this Act.
+4 If the developer cures any notice violation to the satisfaction of the attorney
+5 general and provides the attorney general with a written statement under oath that the
+6 alleged violation has been cured, within ninety days of the notice provided under this
+7 section, the developer is not liable for a civil penalty for any cured violation of section 2
+8 of this Act.
+9 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 37:
+10 Any developer found in violation of section 2 of this Act, to whom notice was
+11 provided pursuant to section 3 of this Act, is liable for a civil penalty in an amount not
+12 exceeding one thousand dollars per incident. The civil penalty may be assessed and
+13 recovered only in a civil action by the attorney general. The attorney general shall forward
+14 any civil penalty collected under this section to the state treasurer for deposit in the
+15 general fund.
+16 Nothing in this section may be construed to serve as the basis for a new private
+17 right of action for any violation of section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A A t r t i o c f w a m aLSSD: E T O A S T ( " a d ( " a p t c o o c a a a i r f t d d m a d o t a S A a t T r a t c o o m t u s t a p o s p S]
+[DELETED:  2 1 U  I o d i I t d c a n v t t s o t a g a s o S A f o o w p e o t d p i T c p m b a a r a g N r]

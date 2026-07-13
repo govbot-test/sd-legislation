@@ -1,0 +1,341 @@
+Title: Senate Bill 83
+Official Title: Senate Bill 83
+Number of Sections: 1
+Source: versions - 83A
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+83A 101st Legislative Session 83
+2026 South Dakota Legislature
+AMENDM ENT 83A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Howard
+1 An Act to require that any holder of a commercial driver license in this state must
+2 be proficient in the English language, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-12A-11 be AMENDED:
+5 32-12A-11. No person may be issued a commercial learner's permit unless that person
+6 is a resident of this state and has passed the required knowledge test.
+7 No person may be issued a commercial driver license unless that person is a
+8 resident of this state, has received driver training from a provider listed on the Training
+9 Provider Registry established by the Federal Motor Carrier Safety Administration pursuant
+10 to 49 C.F.R. Part 380, Subpart G, as of September 30, 2019, has passed a knowledge and
+11 skills test for driving a commercial motor vehicle that complies with the minimum federal
+12 standards established by federal regulation enumerated in 49 C.F.R. Part 383, Subparts
+13 G and H, as of September 30, 2019, and has satisfied all other requirements of the CMVSA
+14 in addition to other requirements imposed by state law or federal regulation. The tests
+15 shall be prescribed and conducted by the department.
+16 The department may authorize a person, an employer, a private driver training
+17 facility, other private institution, a department, agency, or instrumentality of local
+18 government, of this state or another state, to administer the skills test specified by this
+19 section, if:
+20 (1) The test is the same which would otherwise be administered by the
+21 department;
+22 (2) The third party has entered into an agreement with the department that
+23 complies with requirements of 49 C.F.R. Part 383.75 as of September 30, 2019. Failure
+24 to comply with the agreement may result in termination of the agreement; and
+25 (3) The third party, prior to administering the skills test to any person, verifies the
+26 person has completed the driver training specified in this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+83A 2 83
+1 The department may waive the knowledge and skills tests specified in this section
+2 for a commercial driver license applicant who meets the requirements of 49 C.F.R. Part
+3 383.77 as of September 30, 2019.
+4 No commercial learner's permit or commercial driver license may be issued to a
+5 person while the person is subject to a disqualification from driving a commercial motor
+6 vehicle, or while the person's operator's license or driving privilege is suspended, revoked,
+7 or cancelled in any state; nor may a commercial driver license be issued to a person who
+8 has a commercial driver license, noncommercial driver license, noncommercial instruction
+9 permit or commercial learner's permit issued by any other state unless the person first
+10 surrenders all such licenses or permits. The department shall destroy any license or permit
+11 surrendered under this section. The issuing jurisdiction shall be notified that the licensee
+12 has applied for a commercial learner's permit or commercial driver license in a new
+13 jurisdiction. A violation of this provision is a Class 2 misdemeanor.
+14 Except as otherwise provided in this section, a person may not be issued a
+15 commercial learner's permit unless that person:
+16 (1) Is a resident of this state for the purpose of being licensed to drive a motor vehicle,
+17 as described in § 32-12-26.1; and
+18 (2) Has passed the general knowledge test that is required by 49 C.F.R. § 383.25
+19 (January 1, 2026) and which complies with the minimum standards contained in
+20 49 C.F.R. §§ 383.91 to 383.135, inclusive (January 1, 2026) for the commercial
+21 vehicle that the person expects to operate.
+22 The department may waive the knowledge test specified in this section for an
+23 applicant who has experience operating a military commercial motor vehicle and meets
+24 the requirements established in 49 C.F.R. § 383.77 (January 1, 2026).
+25 Section 2. That a NEW SECTION be added to chapter 32-12A:
+26 Except as otherwise provided in this section, a person may not be issued a
+27 commercial driver license unless that person:
+28 (1) Is a resident of this state for the purpose of being licensed to drive a motor vehicle,
+29 as described in § 32-12-26.1;
+30 (2) Meets the general requirements of 49 C.F.R. § 383.23 (January 1, 2026) and has
+31 passed the knowledge and driving skills tests that meet the federal standards
+32 contained in 49 C.F.R. §§ 383.110 to 383.135, inclusive (January 1, 2026);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+83A 3 83
+1 (3) Has received entry-level driver training from a provider that meets the federal
+2 standards established in 49 C.F.R. §§ 380.700 to 380.725, inclusive (January 1,
+3 2026); and
+4 (4) Has demonstrated proficiency in the English language, as required in the general
+5 qualifications for commercial motor vehicle drivers established in 49 C.F.R.
+6 § 391.11 (January 1, 2026).
+7 The department may waive the knowledge and skills tests specified in this section
+8 for an applicant who has experience operating a military commercial motor vehicle and
+9 meets the requirements established in 49 C.F.R. § 383.77 (January 1, 2026).
+10 Section 3. That a NEW SECTION be added to chapter 32-12A:
+11 The department may authorize a third party to administer the skills test described
+12 in section 2 of this Act, provided that the department and the third party comply with the
+13 requirements of 49 C.F.R. § 383.75 (January 1, 2026).
+14 Section 4. That a NEW SECTION be added to chapter 32-12A:
+15 The department may not issue a commercial learner's permit or commercial driver
+16 license to a person while the person is subject to a disqualification from driving a
+17 commercial motor vehicle, or while the person's operator's license or driving privilege is
+18 suspended, revoked, or cancelled in any state.
+19 The department may not issue a commercial driver license to a person who has a
+20 commercial driver license, noncommercial driver license, noncommercial instruction
+21 permit, or commercial learner's permit issued by any other state, unless the person first
+22 surrenders the license or permit. The department shall destroy any license or permit
+23 surrendered under this section. The department shall notify the issuing jurisdiction that
+24 the license holder has surrendered the license or permit, in keeping with the single license
+25 requirement established in 49 C.F.R. § 383.21 (January 1, 2026), to obtain a commercial
+26 learner's permit or commercial driver license in this state.
+27 Section 5. That a NEW SECTION be added to chapter 32-12A:
+28 The department shall determine whether an applicant meets the English language
+29 proficiency requirement set forth in section 2 of this Act by:
+30 (1) Administering all knowledge and skills tests in English; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+83A 4 83
+1 (2) Conducting an oral interview with an applicant, in English, if the applicant is
+2 applying for a commercial driver license.
+3 The department shall promulgate rules, in accordance with chapter 1-26, to
+4 establish a list of open-ended questions to facilitate conversation regarding traffic signs
+5 and signals, official inquiries by traffic officers, and reports and records necessary to the
+6 operation of a commercial motor vehicle. The interviewer may ask any three questions
+7 from the list during the oral interview to determine whether the applicant demonstrates
+8 the required English language proficiency to obtain a commercial driver license in this
+9 state.
+10 The department may contract with a third party to conduct the interview required
+11 by this section.
+12 Section 6. That a NEW SECTION be added to chapter 32-12A:
+13 An applicant for a commercial driver license who passes the knowledge and driving
+14 tests but fails to demonstrate English language proficiency in the oral interview may repeat
+15 the oral interview after fourteen days. The applicant may not obtain a commercial driver
+16 license without demonstrating English language proficiency.
+17 If the holder of a commercial driver license has not yet demonstrated English
+18 language proficiency, the department must conduct an oral interview to determine English
+19 language proficiency at the time the driver renews the commercial driver license.
+20 If the holder of a commercial driver license or commercial learner's permit from a
+21 jurisdiction outside this state is issued a citation for a traffic offense, or is involved in a
+22 traffic accident, a law enforcement officer, except an officer acting under the authority of
+23 § 32-2-7, may use the list of questions required by section 5 of this Act to determine
+24 whether the driver has sufficient English language proficiency to operate a commercial
+25 vehicle in this state.
+26 If the law enforcement officer determines the driver is unable to respond to official
+27 inquiries in English proficiently, the officer must cite the driver for a violation of the English
+28 proficiency requirement contained 49 C.F.R. § 391.11 (January 1, 2026), and place the
+29 driver out of service.
+30 The offense of operating a commercial motor vehicle in this state without sufficient
+31 English language proficiency is:
+32 (1) A Class 2 misdemeanor for a first offense; and
+33 (2) A Class 1 misdemeanor for a second or subsequent offense.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+83A 5 83
+1 Section 7. That a NEW SECTION be added to chapter 32-12A:
+2 If a member of the armed forces of the United States or a family member, or a
+3 government employee or a family member, is on an extended assignment outside the
+4 continental United States and is unable to renew a commercial driver license in person,
+5 that individual may renew the license using a form available on the Department of Public
+6 Safety website, provided the applicant:
+7 (1) Renews online no more than once in ten years;
+8 (2) Is a United States citizen or a permanent resident;
+9 (3) Holds a valid, federally compliant license with a gold star;
+10 (4) Holds a valid medical certificate; and
+11 (5) Provides proof of residency and all other information the department requires.
+12 An applicant may not renew remotely if the applicant is changing to a different
+13 class of commercial driver license, changing endorsements, or changing a name. An
+14 applicant who wears bioptic lenses may not renew remotely.
+15
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 8 U  A bLSSD: E T O A S 3 i   r P t s s G i s T f o p i a d a o i o l g s ( t i t s w w o b a b t d ( t p h e i a a w t d t c t ( p]
+[DELETED:  2 8 U  T f 3 N p v o h p s s h a f a c l p o c d l i a n j E a o p i t s a p m n b i a c ( I a ( H ( 4 v T k a t S E a o p i t s a p m n b i a c ( I a ( M p t k a d s t m t f s c]
+[DELETED:  3 8 U  ( H s 2 ( H q f c m v d e i 4 C § T f m S T i r S T l t a p w t p i s t a d f d a c s T c d l n d l n i p s o s t r l S T p ( A]
+[DELETED:  4 8 U  ( C a o i w a a i E i t a i a T d s p r i a w c 1 t e a o f t s T b S A t t l I h o c d l h y d E l l I j t § w v I i p d T E ( A ( A]
+[DELETED:  5 8 U  S I g c t S ( R ( I ( H ( H ( P A c o c d l c e o c a n A a ]
+
+
+================================================================================
+
+Raw Text:
+83A 101st Legislative Session 83
+2026 South Dakota Legislature
+Senate Bill 83
+AMENDM ENT 83A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Howard
+1 An Act to require that any holder of a commercial driver license in this state must
+2 be proficient in the English language, and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 32-12A-11 be AMENDED:
+5 32-12A-11. No person may be issued a commercial learner's permit unless that person
+6 is a resident of this state and has passed the required knowledge test.
+7 No person may be issued a commercial driver license unless that person is a
+8 resident of this state, has received driver training from a provider listed on the Training
+9 Provider Registry established by the Federal Motor Carrier Safety Administration pursuant
+10 to 49 C.F.R. Part 380, Subpart G, as of September 30, 2019, has passed a knowledge and
+11 skills test for driving a commercial motor vehicle that complies with the minimum federal
+12 standards established by federal regulation enumerated in 49 C.F.R. Part 383, Subparts
+13 G and H, as of September 30, 2019, and has satisfied all other requirements of the CMVSA
+14 in addition to other requirements imposed by state law or federal regulation. The tests
+15 shall be prescribed and conducted by the department.
+16 The department may authorize a person, an employer, a private driver training
+17 facility, other private institution, a department, agency, or instrumentality of local
+18 government, of this state or another state, to administer the skills test specified by this
+19 section, if:
+20 (1) The test is the same which would otherwise be administered by the
+21 department;
+22 (2) The third party has entered into an agreement with the department that
+23 complies with requirements of 49 C.F.R. Part 383.75 as of September 30, 2019. Failure
+24 to comply with the agreement may result in termination of the agreement; and
+25 (3) The third party, prior to administering the skills test to any person, verifies the
+26 person has completed the driver training specified in this section.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+83A 2 83
+1 The department may waive the knowledge and skills tests specified in this section
+2 for a commercial driver license applicant who meets the requirements of 49 C.F.R. Part
+3 383.77 as of September 30, 2019.
+4 No commercial learner's permit or commercial driver license may be issued to a
+5 person while the person is subject to a disqualification from driving a commercial motor
+6 vehicle, or while the person's operator's license or driving privilege is suspended, revoked,
+7 or cancelled in any state; nor may a commercial driver license be issued to a person who
+8 has a commercial driver license, noncommercial driver license, noncommercial instruction
+9 permit or commercial learner's permit issued by any other state unless the person first
+10 surrenders all such licenses or permits. The department shall destroy any license or permit
+11 surrendered under this section. The issuing jurisdiction shall be notified that the licensee
+12 has applied for a commercial learner's permit or commercial driver license in a new
+13 jurisdiction. A violation of this provision is a Class 2 misdemeanor.
+14 Except as otherwise provided in this section, a person may not be issued a
+15 commercial learner's permit unless that person:
+16 (1) Is a resident of this state for the purpose of being licensed to drive a motor vehicle,
+17 as described in § 32-12-26.1; and
+18 (2) Has passed the general knowledge test that is required by 49 C.F.R. § 383.25
+19 (January 1, 2026) and which complies with the minimum standards contained in
+20 49 C.F.R. §§ 383.91 to 383.135, inclusive (January 1, 2026) for the commercial
+21 vehicle that the person expects to operate.
+22 The department may waive the knowledge test specified in this section for an
+23 applicant who has experience operating a military commercial motor vehicle and meets
+24 the requirements established in 49 C.F.R. § 383.77 (January 1, 2026).
+25 Section 2. That a NEW SECTION be added to chapter 32-12A:
+26 Except as otherwise provided in this section, a person may not be issued a
+27 commercial driver license unless that person:
+28 (1) Is a resident of this state for the purpose of being licensed to drive a motor vehicle,
+29 as described in § 32-12-26.1;
+30 (2) Meets the general requirements of 49 C.F.R. § 383.23 (January 1, 2026) and has
+31 passed the knowledge and driving skills tests that meet the federal standards
+32 contained in 49 C.F.R. §§ 383.110 to 383.135, inclusive (January 1, 2026);
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+83A 3 83
+1 (3) Has received entry-level driver training from a provider that meets the federal
+2 standards established in 49 C.F.R. §§ 380.700 to 380.725, inclusive (January 1,
+3 2026); and
+4 (4) Has demonstrated proficiency in the English language, as required in the general
+5 qualifications for commercial motor vehicle drivers established in 49 C.F.R.
+6 § 391.11 (January 1, 2026).
+7 The department may waive the knowledge and skills tests specified in this section
+8 for an applicant who has experience operating a military commercial motor vehicle and
+9 meets the requirements established in 49 C.F.R. § 383.77 (January 1, 2026).
+10 Section 3. That a NEW SECTION be added to chapter 32-12A:
+11 The department may authorize a third party to administer the skills test described
+12 in section 2 of this Act, provided that the department and the third party comply with the
+13 requirements of 49 C.F.R. § 383.75 (January 1, 2026).
+14 Section 4. That a NEW SECTION be added to chapter 32-12A:
+15 The department may not issue a commercial learner's permit or commercial driver
+16 license to a person while the person is subject to a disqualification from driving a
+17 commercial motor vehicle, or while the person's operator's license or driving privilege is
+18 suspended, revoked, or cancelled in any state.
+19 The department may not issue a commercial driver license to a person who has a
+20 commercial driver license, noncommercial driver license, noncommercial instruction
+21 permit, or commercial learner's permit issued by any other state, unless the person first
+22 surrenders the license or permit. The department shall destroy any license or permit
+23 surrendered under this section. The department shall notify the issuing jurisdiction that
+24 the license holder has surrendered the license or permit, in keeping with the single license
+25 requirement established in 49 C.F.R. § 383.21 (January 1, 2026), to obtain a commercial
+26 learner's permit or commercial driver license in this state.
+27 Section 5. That a NEW SECTION be added to chapter 32-12A:
+28 The department shall determine whether an applicant meets the English language
+29 proficiency requirement set forth in section 2 of this Act by:
+30 (1) Administering all knowledge and skills tests in English; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+83A 4 83
+1 (2) Conducting an oral interview with an applicant, in English, if the applicant is
+2 applying for a commercial driver license.
+3 The department shall promulgate rules, in accordance with chapter 1-26, to
+4 establish a list of open-ended questions to facilitate conversation regarding traffic signs
+5 and signals, official inquiries by traffic officers, and reports and records necessary to the
+6 operation of a commercial motor vehicle. The interviewer may ask any three questions
+7 from the list during the oral interview to determine whether the applicant demonstrates
+8 the required English language proficiency to obtain a commercial driver license in this
+9 state.
+10 The department may contract with a third party to conduct the interview required
+11 by this section.
+12 Section 6. That a NEW SECTION be added to chapter 32-12A:
+13 An applicant for a commercial driver license who passes the knowledge and driving
+14 tests but fails to demonstrate English language proficiency in the oral interview may repeat
+15 the oral interview after fourteen days. The applicant may not obtain a commercial driver
+16 license without demonstrating English language proficiency.
+17 If the holder of a commercial driver license has not yet demonstrated English
+18 language proficiency, the department must conduct an oral interview to determine English
+19 language proficiency at the time the driver renews the commercial driver license.
+20 If the holder of a commercial driver license or commercial learner's permit from a
+21 jurisdiction outside this state is issued a citation for a traffic offense, or is involved in a
+22 traffic accident, a law enforcement officer, except an officer acting under the authority of
+23 § 32-2-7, may use the list of questions required by section 5 of this Act to determine
+24 whether the driver has sufficient English language proficiency to operate a commercial
+25 vehicle in this state.
+26 If the law enforcement officer determines the driver is unable to respond to official
+27 inquiries in English proficiently, the officer must cite the driver for a violation of the English
+28 proficiency requirement contained 49 C.F.R. § 391.11 (January 1, 2026), and place the
+29 driver out of service.
+30 The offense of operating a commercial motor vehicle in this state without sufficient
+31 English language proficiency is:
+32 (1) A Class 2 misdemeanor for a first offense; and
+33 (2) A Class 1 misdemeanor for a second or subsequent offense.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+83A 5 83
+1 Section 7. That a NEW SECTION be added to chapter 32-12A:
+2 If a member of the armed forces of the United States or a family member, or a
+3 government employee or a family member, is on an extended assignment outside the
+4 continental United States and is unable to renew a commercial driver license in person,
+5 that individual may renew the license using a form available on the Department of Public
+6 Safety website, provided the applicant:
+7 (1) Renews online no more than once in ten years;
+8 (2) Is a United States citizen or a permanent resident;
+9 (3) Holds a valid, federally compliant license with a gold star;
+10 (4) Holds a valid medical certificate; and
+11 (5) Provides proof of residency and all other information the department requires.
+12 An applicant may not renew remotely if the applicant is changing to a different
+13 class of commercial driver license, changing endorsements, or changing a name. An
+14 applicant who wears bioptic lenses may not renew remotely.
+15
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 8 U  A bLSSD: E T O A S 3 i   r P t s s G i s T f o p i a d a o i o l g s ( t i t s w w o b a b t d ( t p h e i a a w t d t c t ( p]
+[DELETED:  2 8 U  T f 3 N p v o h p s s h a f a c l p o c d l i a n j E a o p i t s a p m n b i a c ( I a ( H ( 4 v T k a t S E a o p i t s a p m n b i a c ( I a ( M p t k a d s t m t f s c]
+[DELETED:  3 8 U  ( H s 2 ( H q f c m v d e i 4 C § T f m S T i r S T l t a p w t p i s t a d f d a c s T c d l n d l n i p s o s t r l S T p ( A]
+[DELETED:  4 8 U  ( C a o i w a a i E i t a i a T d s p r i a w c 1 t e a o f t s T b S A t t l I h o c d l h y d E l l I j t § w v I i p d T E ( A ( A]
+[DELETED:  5 8 U  S I g c t S ( R ( I ( H ( H ( P A c o c d l c e o c a n A a ]

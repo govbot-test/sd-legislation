@@ -1,0 +1,156 @@
+Title: Senate Bill 41
+Official Title: Senate Bill 41
+Number of Sections: 1
+Source: versions - 41A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+41A 101st Legislative Session 41
+2026 South Dakota Legislature
+AMENDM ENT 41A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to revise a provision related to criminal invasions of privacy, prohibit the
+2 creation and distribution of digitally fabricated material of an identifiable
+3 individual, and provide penalties therefor.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 22-21-4 be AMENDED:
+6 22-21-4. No person may individual, without the consent or knowledge of the
+7 individual depicted or recorded, and with the intent to self-gratify or alarm, annoy,
+8 embarrass, harass, invade the privacy of, threaten, or cause emotional, financial, physical,
+9 psychological, or reputational harm to that individual, may:
+10 (1) Use Intentionally use any device to photograph or visually record:
+11 (a) Any other person the individual without clothing or under or through the clothing,
+12 or with another person a third individual depicted in a sexual act, for the purpose
+13 of viewing the body of, or the undergarments worn by, that other person;
+14 (b) Without the consent or knowledge of that other person; and
+15 (c) With the intent to self-gratify, to harass, or embarrass and invade the privacy of
+16 that other person, under circumstances in which the other person has a reasonable
+17 expectation of privacy the individual;
+18 (2) Use, disclose, or Intentionally disclose, disseminate, distribute, sell, or use, by any
+19 means, any recording or photograph in violation of described in subdivision (1), in
+20 order to self-gratify, to harass, or to embarrass and invade the privacy of that
+21 other person; or
+22 (3) Knowingly and intentionally disseminate or sell any image or recording of another
+23 person:
+24 (a) That has been intentionally manipulated to create a realistic but false image or
+25 recording that would cause a reasonable person to mistakenly believe that the
+26 image or recording is authentic;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+41A 2 41
+1 (b) That depicts the person as totally nude; in a state of undress to expose the genitals,
+2 pubic area, buttocks, or female breast; or with another person in a sexual act;
+3 (c) Without the consent or knowledge of the person whose image is depicted; and
+4 (d) With the intent to self-gratify, to harass, or embarrass and invade the privacy of
+5 the person whose image is depicted; or
+6 (3) Knowingly and intentionally create, disclose, disseminate, distribute, or sell, by any
+7 means, digitally fabricated material depicting the identifiable individual:
+8 (a) In a state of nudity, as defined in § 22-24A-2, such that an ordinary person
+9 viewing the material would conclude that the depiction is of the identifiable
+10 individual in such a state of nudity; or
+11 (b) Engaging in sexual contact, sexual intercourse, deviant sexual activity, or
+12 sexually explicit conduct such that an ordinary person viewing the material
+13 would conclude that the depiction is of the identifiable individual engaging
+14 in sexual contact, sexual intercourse, deviant sexual activity, or sexually
+15 explicit conduct.
+16 A violation of this section subdivision (1) or (2) is a Class 1 misdemeanor. However,
+17 a violation of this section is a Class 6 felony if, unless the victim is seventeen years of age
+18 or younger and the perpetrator is at least twenty-one years of age at the time the
+19 photograph or recording is made, in which case the violation is a Class 6 felony. Any
+20 subsequent violation of subdivision (1) or (2) is a Class 6 felony. A violation of subdivision
+21 (3) is a Class 5 felony.
+22 Section 2. That a NEW SECTION be added to chapter 22-21:
+23 Terms used in § 22-21-4 mean:
+24 (1) "Digitally fabricated material," an image, photograph, video, or other visual
+25 depiction that:
+26 (a) Appears to an ordinary person to be an authentic depiction of an identifiable
+27 individual; and
+28 (b) Is adapted, generated, or modified to falsely depict an individual's
+29 appearance, conduct, or voice; and
+30 (2) "Identifiable," recognizable as a specific individual by the individual's face, likeness,
+31 or other distinguishing characteristics.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 4 U  A c a d o d f m o a i iLSSD: E T O A S 2 N p m i w t c o k o t i d o r a w t i t s o a a e p ( U ( A o o ( W ( W t e ( U m o o ( K p ( T r i]
+[DELETED:  2 4 U  ( T p ( W ( W t ( K m ( I v i ( E s w i e A a o y a t p i a l t y o a a t t t p s ( S T ( " f m a i p v o o v d ( A i ( I a g o m t f d a i a ( " o]
+
+
+================================================================================
+
+Raw Text:
+41A 101st Legislative Session 41
+2026 South Dakota Legislature
+Senate Bill 41
+AMENDM ENT 41A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to revise a provision related to criminal invasions of privacy, prohibit the
+2 creation and distribution of digitally fabricated material of an identifiable
+3 individual, and provide penalties therefor.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 22-21-4 be AMENDED:
+6 22-21-4. No person may individual, without the consent or knowledge of the
+7 individual depicted or recorded, and with the intent to self-gratify or alarm, annoy,
+8 embarrass, harass, invade the privacy of, threaten, or cause emotional, financial, physical,
+9 psychological, or reputational harm to that individual, may:
+10 (1) Use Intentionally use any device to photograph or visually record:
+11 (a) Any other person the individual without clothing or under or through the clothing,
+12 or with another person a third individual depicted in a sexual act, for the purpose
+13 of viewing the body of, or the undergarments worn by, that other person;
+14 (b) Without the consent or knowledge of that other person; and
+15 (c) With the intent to self-gratify, to harass, or embarrass and invade the privacy of
+16 that other person, under circumstances in which the other person has a reasonable
+17 expectation of privacy the individual;
+18 (2) Use, disclose, or Intentionally disclose, disseminate, distribute, sell, or use, by any
+19 means, any recording or photograph in violation of described in subdivision (1), in
+20 order to self-gratify, to harass, or to embarrass and invade the privacy of that
+21 other person; or
+22 (3) Knowingly and intentionally disseminate or sell any image or recording of another
+23 person:
+24 (a) That has been intentionally manipulated to create a realistic but false image or
+25 recording that would cause a reasonable person to mistakenly believe that the
+26 image or recording is authentic;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+41A 2 41
+1 (b) That depicts the person as totally nude; in a state of undress to expose the genitals,
+2 pubic area, buttocks, or female breast; or with another person in a sexual act;
+3 (c) Without the consent or knowledge of the person whose image is depicted; and
+4 (d) With the intent to self-gratify, to harass, or embarrass and invade the privacy of
+5 the person whose image is depicted; or
+6 (3) Knowingly and intentionally create, disclose, disseminate, distribute, or sell, by any
+7 means, digitally fabricated material depicting the identifiable individual:
+8 (a) In a state of nudity, as defined in § 22-24A-2, such that an ordinary person
+9 viewing the material would conclude that the depiction is of the identifiable
+10 individual in such a state of nudity; or
+11 (b) Engaging in sexual contact, sexual intercourse, deviant sexual activity, or
+12 sexually explicit conduct such that an ordinary person viewing the material
+13 would conclude that the depiction is of the identifiable individual engaging
+14 in sexual contact, sexual intercourse, deviant sexual activity, or sexually
+15 explicit conduct.
+16 A violation of this section subdivision (1) or (2) is a Class 1 misdemeanor. However,
+17 a violation of this section is a Class 6 felony if, unless the victim is seventeen years of age
+18 or younger and the perpetrator is at least twenty-one years of age at the time the
+19 photograph or recording is made, in which case the violation is a Class 6 felony. Any
+20 subsequent violation of subdivision (1) or (2) is a Class 6 felony. A violation of subdivision
+21 (3) is a Class 5 felony.
+22 Section 2. That a NEW SECTION be added to chapter 22-21:
+23 Terms used in § 22-21-4 mean:
+24 (1) "Digitally fabricated material," an image, photograph, video, or other visual
+25 depiction that:
+26 (a) Appears to an ordinary person to be an authentic depiction of an identifiable
+27 individual; and
+28 (b) Is adapted, generated, or modified to falsely depict an individual's
+29 appearance, conduct, or voice; and
+30 (2) "Identifiable," recognizable as a specific individual by the individual's face, likeness,
+31 or other distinguishing characteristics.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 4 U  A c a d o d f m o a i iLSSD: E T O A S 2 N p m i w t c o k o t i d o r a w t i t s o a a e p ( U ( A o o ( W ( W t e ( U m o o ( K p ( T r i]
+[DELETED:  2 4 U  ( T p ( W ( W t ( K m ( I v i ( E s w i e A a o y a t p i a l t y o a a t t t p s ( S T ( " f m a i p v o o v d ( A i ( I a g o m t f d a i a ( " o]

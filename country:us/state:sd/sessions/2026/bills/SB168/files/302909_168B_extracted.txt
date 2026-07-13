@@ -1,0 +1,254 @@
+Title: Senate Bill 168
+Official Title: Senate Bill 168
+Number of Sections: 1
+Source: versions - 168B
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+168B 101st Legislative Session 168
+2026 South Dakota Legislature
+AMENDME NT 168B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Larson
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to regulate the use of chatbots by minors a conversational AI service.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+4 Terms used in this chapter mean:
+5 (1) "Account holder," an individual who creates an account or profile to use a
+6 conversational AI service;
+7 (2) "Artificial intelligence," any machine-based system that, for any explicit or implicit
+8 objective, infers from the inputs received by the system how to generate content,
+9 decisions, predictions, recommendations, or other outputs, which can influence
+10 physical or virtual environments;
+11 (3) "Conversational AI service," an artificial intelligence software application, web
+12 interface, or computer program that is accessible to the general public and the
+13 primary function of which is to simulate human conversation through textual,
+14 visual, or audio communications, provided that the term does not include a
+15 software application, web interface, or computer program that is:
+16 (a) Primarily designed and marketed for use by a developer or researcher;
+17 (b) A software application, web interface, or computer program that is not
+18 otherwise a conversational AI service but provides a conversational AI
+19 service as a feature of the application, interface, or program;
+20 (c) Designed to provide outputs relating to a narrow and discrete topic;
+21 (d) Primarily designed and marketed for commercial use by a business entity;
+22 (e) Functions as a speaker and voice command interface or voice-activated
+23 virtual assistant for a consumer electronic device; or
+24 (f) Used by a business entity solely for an internal purpose;
+25 (4) "Minor account holder," an account holder who is a minor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+168B 2 168
+1 (5) "Operator," a person who develops and makes a conversational AI service available
+2 to the public, provided that the term does not include a mobile application store or
+3 search engine that only serves to provide access to a conversational AI service;
+4 and
+5 (6) "Sexually explicit conduct," any actual or simulated:
+6 (a) Sexual intercourse, regardless of whether between individuals of the same
+7 or opposite sex;
+8 (b) Bestiality;
+9 (c) Masturbation;
+10 (d) Sadistic or masochistic abuse; and
+11 (e) Lascivious exhibition of the anus, genitals, or pubic area of any individual.
+12 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+13 If a reasonable individual may be led to believe that the individual is interacting
+14 with a human, the operator of a conversational AI service must clearly and conspicuously
+15 disclose that the individual is interacting with an artificial intelligence.
+16 The disclosure must appear:
+17 (1) At the beginning of each session with a conversational AI service; and
+18 (2) At least once every hour during which the account holder engages in continuous
+19 interaction with the conversational AI service.
+20 If the operator knows or has a reasonable certainty that an account holder is a
+21 minor, the disclosure must appear as a persistent visible disclaimer throughout the minor
+22 account holder's interaction with the conversational AI service.
+23 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+24 If an operator knows or has a reasonable certainty that an account holder is a
+25 minor, the operator may not provide the account holder with points or other rewards with
+26 the intent of encouraging the account holder to increase the account holder's engagement
+27 with the operator's conversational AI service.
+28 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+29 If an operator knows or has a reasonable certainty that an account holder is a
+30 minor, the operator must implement reasonable measures to prevent the operator's
+31 conversational AI service from:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+168B 3 168
+1 (1) Producing any visual material that depicts sexually explicit conduct; and
+2 (2) Generating any statement that:
+3 (a) Encourages the minor account holder to engage in sexually explicit conduct;
+4 (3) Sexually objectifies the minor account holder; or
+5 (4) Would lead a reasonable person to believe that the minor account holder is
+6 interacting with a human.
+7 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+8 An operator shall provide tools to a minor account holder to manage the account
+9 holder's privacy and account settings. If an operator knows or has a reasonable certainty
+10 that an account holder is a minor under the age of thirteen, the operator must provide
+11 tools to the parent of a minor account holder to manage the account holder's privacy and
+12 account settings.
+13 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+14 An operator shall implement a protocol for the conversational AI service to detect
+15 and respond to any prompt regarding an account holder's suicidal ideation or self-harm.
+16 The conversational AI service must be able to respond to a prompt regarding suicidal
+17 ideation or self-harm by referring the account holder to a suicide hotline, crisis text line,
+18 or other crisis prevention service provider,
+19 An operator may not knowingly and intentionally cause or program a
+20 conversational AI service to make any representation or statement that indicates,
+21 explicitly or implicitly, that the conversational AI service is designed to provide
+22 professional mental or behavioral health care.
+23 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+24 Any operator found in violation of section 2, 3, 4, 5, or 6 of this Act is subject to
+25 an injunction and liable for a civil penalty in an amount equal to the greater of actual
+26 damages or one thousand dollars per violation, provided that the penalty does not exceed
+27 five hundred thousand dollars.
+28 The civil penalty may be assessed and recovered only in a civil action by the
+29 attorney general. The attorney general shall forward any civil penalty collected under this
+30 section to the state treasurer for deposit in the general fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+168B 4 168
+1 Nothing in this section may be construed to serve as the basis for a new private
+2 right of action for any violation of section 2, 3, 4, 5, or 6 of this Act.
+3 The developer of a software application, web interface, or computer program may
+4 not be held liable for any violation of section 2, 3, 4, 5, or 6 of this Act if the application,
+5 interface, or program:
+6 (1) Is not a conversational AI service; and
+7 (2) Provides as a feature of the application, interface, or program, a conversational AI
+8 service that was developed by a third party.
+9 Section 8. This Act is effective beginning January 1, 2028.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S T ( " h a i w c a a o p t u a c ( " o d p ( " A s a a i s a w i p f o w i t s h c t t v o a c p t t t d n i a s ( P ( A s a w i o c p t i n o a c A s b p a c A s ( D ( P ( F c v ( U ( "]
+[DELETED:  2 1 U  ( " t s a ( " ( S o ( B ( M ( S ( L S I w d T ( A ( A i I m a S I m t w S I m t o m i r m t p t o c]
+[DELETED:  3 1 U  ( P ( G ( E ( S ( W i S A h t t a S A a T i o A o m n k a i c o p a c A s t m a r o s t i e o i t t c A s i d t p p S A a d f T c p b a a r o a c a b a s]
+[DELETED:  4 1 U  N r T n i ( I ( P s S]
+
+
+================================================================================
+
+Raw Text:
+168B 101st Legislative Session 168
+2026 South Dakota Legislature
+Senate Bill 168
+AMENDME NT 168B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Larson
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to regulate the use of chatbots by minors a conversational AI service.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+4 Terms used in this chapter mean:
+5 (1) "Account holder," an individual who creates an account or profile to use a
+6 conversational AI service;
+7 (2) "Artificial intelligence," any machine-based system that, for any explicit or implicit
+8 objective, infers from the inputs received by the system how to generate content,
+9 decisions, predictions, recommendations, or other outputs, which can influence
+10 physical or virtual environments;
+11 (3) "Conversational AI service," an artificial intelligence software application, web
+12 interface, or computer program that is accessible to the general public and the
+13 primary function of which is to simulate human conversation through textual,
+14 visual, or audio communications, provided that the term does not include a
+15 software application, web interface, or computer program that is:
+16 (a) Primarily designed and marketed for use by a developer or researcher;
+17 (b) A software application, web interface, or computer program that is not
+18 otherwise a conversational AI service but provides a conversational AI
+19 service as a feature of the application, interface, or program;
+20 (c) Designed to provide outputs relating to a narrow and discrete topic;
+21 (d) Primarily designed and marketed for commercial use by a business entity;
+22 (e) Functions as a speaker and voice command interface or voice-activated
+23 virtual assistant for a consumer electronic device; or
+24 (f) Used by a business entity solely for an internal purpose;
+25 (4) "Minor account holder," an account holder who is a minor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+168B 2 168
+1 (5) "Operator," a person who develops and makes a conversational AI service available
+2 to the public, provided that the term does not include a mobile application store or
+3 search engine that only serves to provide access to a conversational AI service;
+4 and
+5 (6) "Sexually explicit conduct," any actual or simulated:
+6 (a) Sexual intercourse, regardless of whether between individuals of the same
+7 or opposite sex;
+8 (b) Bestiality;
+9 (c) Masturbation;
+10 (d) Sadistic or masochistic abuse; and
+11 (e) Lascivious exhibition of the anus, genitals, or pubic area of any individual.
+12 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+13 If a reasonable individual may be led to believe that the individual is interacting
+14 with a human, the operator of a conversational AI service must clearly and conspicuously
+15 disclose that the individual is interacting with an artificial intelligence.
+16 The disclosure must appear:
+17 (1) At the beginning of each session with a conversational AI service; and
+18 (2) At least once every hour during which the account holder engages in continuous
+19 interaction with the conversational AI service.
+20 If the operator knows or has a reasonable certainty that an account holder is a
+21 minor, the disclosure must appear as a persistent visible disclaimer throughout the minor
+22 account holder's interaction with the conversational AI service.
+23 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+24 If an operator knows or has a reasonable certainty that an account holder is a
+25 minor, the operator may not provide the account holder with points or other rewards with
+26 the intent of encouraging the account holder to increase the account holder's engagement
+27 with the operator's conversational AI service.
+28 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+29 If an operator knows or has a reasonable certainty that an account holder is a
+30 minor, the operator must implement reasonable measures to prevent the operator's
+31 conversational AI service from:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+168B 3 168
+1 (1) Producing any visual material that depicts sexually explicit conduct; and
+2 (2) Generating any statement that:
+3 (a) Encourages the minor account holder to engage in sexually explicit conduct;
+4 (3) Sexually objectifies the minor account holder; or
+5 (4) Would lead a reasonable person to believe that the minor account holder is
+6 interacting with a human.
+7 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+8 An operator shall provide tools to a minor account holder to manage the account
+9 holder's privacy and account settings. If an operator knows or has a reasonable certainty
+10 that an account holder is a minor under the age of thirteen, the operator must provide
+11 tools to the parent of a minor account holder to manage the account holder's privacy and
+12 account settings.
+13 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+14 An operator shall implement a protocol for the conversational AI service to detect
+15 and respond to any prompt regarding an account holder's suicidal ideation or self-harm.
+16 The conversational AI service must be able to respond to a prompt regarding suicidal
+17 ideation or self-harm by referring the account holder to a suicide hotline, crisis text line,
+18 or other crisis prevention service provider,
+19 An operator may not knowingly and intentionally cause or program a
+20 conversational AI service to make any representation or statement that indicates,
+21 explicitly or implicitly, that the conversational AI service is designed to provide
+22 professional mental or behavioral health care.
+23 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 26:
+24 Any operator found in violation of section 2, 3, 4, 5, or 6 of this Act is subject to
+25 an injunction and liable for a civil penalty in an amount equal to the greater of actual
+26 damages or one thousand dollars per violation, provided that the penalty does not exceed
+27 five hundred thousand dollars.
+28 The civil penalty may be assessed and recovered only in a civil action by the
+29 attorney general. The attorney general shall forward any civil penalty collected under this
+30 section to the state treasurer for deposit in the general fund.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+168B 4 168
+1 Nothing in this section may be construed to serve as the basis for a new private
+2 right of action for any violation of section 2, 3, 4, 5, or 6 of this Act.
+3 The developer of a software application, web interface, or computer program may
+4 not be held liable for any violation of section 2, 3, 4, 5, or 6 of this Act if the application,
+5 interface, or program:
+6 (1) Is not a conversational AI service; and
+7 (2) Provides as a feature of the application, interface, or program, a conversational AI
+8 service that was developed by a third party.
+9 Section 8. This Act is effective beginning January 1, 2028.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S T ( " h a i w c a a o p t u a c ( " o d p ( " A s a a i s a w i p f o w i t s h c t t v o a c p t t t d n i a s ( P ( A s a w i o c p t i n o a c A s b p a c A s ( D ( P ( F c v ( U ( "]
+[DELETED:  2 1 U  ( " t s a ( " ( S o ( B ( M ( S ( L S I w d T ( A ( A i I m a S I m t w S I m t o m i r m t p t o c]
+[DELETED:  3 1 U  ( P ( G ( E ( S ( W i S A h t t a S A a T i o A o m n k a i c o p a c A s t m a r o s t i e o i t t c A s i d t p p S A a d f T c p b a a r o a c a b a s]
+[DELETED:  4 1 U  N r T n i ( I ( P s S]

@@ -1,0 +1,110 @@
+Title: House Bill 1076
+Official Title: House Bill 1076
+Number of Sections: 1
+Source: versions - 1076B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1076B 101st Legislative Session 1076
+2026 South Dakota Legislature
+AMENDME NT 1076B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Gosch
+1 An Act to revise restrictions on residence within a community safety zone and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-24B-23 be AMENDED:
+5 22-24B-23. No person who is required to register as a sex offender pursuant to
+6 this chapter may establish a residence or reside within a community safety zone unless:
+7 (1) The person is incarcerated in a jail or prison or other correctional placement which
+8 is located within a community safety zone;
+9 (2) The person is on parole or probation and has been assigned to a halfway house or
+10 supervised living center within a community safety zone;
+11 (3) The person is homeless and has been admitted to a community homeless shelter
+12 within a community safety zone by an appropriate community official;
+13 (4) The person is placed in a health care facility licensed pursuant to chapter 34-12,
+14 or certified under Title XVIII or XIX of the Social Security Act as amended to
+15 December 31, 2001, or receiving services from a community service provider
+16 accredited or certified by the Department of Human Services or the Department of
+17 Social Services, which is located within a community safety zone;
+18 (5) The person was under age eighteen at the time of the offense and the offender
+19 was not tried and convicted of the offense as an adult;
+20 (6) The person established and inhabited the residence as of:
+21 (a) July 1, 2024 2006, if the community safety zone includes a school, public
+22 park, public playground, or public pool; or
+23 (b) July 1, 2024, if the community safety zone includes a domestic abuse
+24 shelter or sexual assault shelter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1076B 2 1076
+1 (7) The school, public park, public pool, domestic abuse shelter, sexual assault shelter,
+2 or public playground was built or established subsequent to the person's
+3 establishing residence at the location; or
+4 (8) The circuit court has entered an order pursuant to § 22-24B-28 exempting the
+5 offender from the provisions of §§ 22-24B-22 to 22-24B-28, inclusive.
+6 A violation of this section is a Class 6 felony. Any subsequent violation is a Class 5
+7 felony.
+8 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+9 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+10 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A dLSSD: E T O A S 2 t ( T i ( T s ( T w ( T o c u T X o X o t S S A a a t D 3 2 o r s f a c s p a S ( T w ( T ( J p ( J 1 2 i t c s z i a d a s]
+[DELETED:  2 1 U  ( T o p p w b o e s t t p e ( T o A f S h a]
+
+
+================================================================================
+
+Raw Text:
+1076B 101st Legislative Session 1076
+2026 South Dakota Legislature
+House Bill 1076
+AMENDME NT 1076B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Gosch
+1 An Act to revise restrictions on residence within a community safety zone and to
+2 declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 22-24B-23 be AMENDED:
+5 22-24B-23. No person who is required to register as a sex offender pursuant to
+6 this chapter may establish a residence or reside within a community safety zone unless:
+7 (1) The person is incarcerated in a jail or prison or other correctional placement which
+8 is located within a community safety zone;
+9 (2) The person is on parole or probation and has been assigned to a halfway house or
+10 supervised living center within a community safety zone;
+11 (3) The person is homeless and has been admitted to a community homeless shelter
+12 within a community safety zone by an appropriate community official;
+13 (4) The person is placed in a health care facility licensed pursuant to chapter 34-12,
+14 or certified under Title XVIII or XIX of the Social Security Act as amended to
+15 December 31, 2001, or receiving services from a community service provider
+16 accredited or certified by the Department of Human Services or the Department of
+17 Social Services, which is located within a community safety zone;
+18 (5) The person was under age eighteen at the time of the offense and the offender
+19 was not tried and convicted of the offense as an adult;
+20 (6) The person established and inhabited the residence as of:
+21 (a) July 1, 2024 2006, if the community safety zone includes a school, public
+22 park, public playground, or public pool; or
+23 (b) July 1, 2024, if the community safety zone includes a domestic abuse
+24 shelter or sexual assault shelter;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1076B 2 1076
+1 (7) The school, public park, public pool, domestic abuse shelter, sexual assault shelter,
+2 or public playground was built or established subsequent to the person's
+3 establishing residence at the location; or
+4 (8) The circuit court has entered an order pursuant to § 22-24B-28 exempting the
+5 offender from the provisions of §§ 22-24B-22 to 22-24B-28, inclusive.
+6 A violation of this section is a Class 6 felony. Any subsequent violation is a Class 5
+7 felony.
+8 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+9 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+10 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A dLSSD: E T O A S 2 t ( T i ( T s ( T w ( T o c u T X o X o t S S A a a t D 3 2 o r s f a c s p a S ( T w ( T ( J p ( J 1 2 i t c s z i a d a s]
+[DELETED:  2 1 U  ( T o p p w b o e s t t p e ( T o A f S h a]

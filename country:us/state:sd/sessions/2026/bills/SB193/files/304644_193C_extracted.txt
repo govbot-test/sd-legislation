@@ -1,0 +1,205 @@
+Title: Senate Bill 193
+Official Title: Senate Bill 193
+Number of Sections: 1
+Source: versions - 193C
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+193C 101st Legislative Session 193
+2026 South Dakota Legislature
+AMENDME NT 193C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to clarify the definition of backup electric generation and require a permit
+2 for interconnection by a backup electric generation facility.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 49-41B-2 be AMENDED:
+5 49-41B-2. Terms as used in this chapter mean:
+6 (1) "AC/DC conversion facility," an asynchronous AC to DC to AC tie that is directly
+7 connected to a transmission facility or a facility that connects an AC transmission
+8 facility with a DC transmission facility, or vice versa;
+9 (2) "Associated facilities," aqueducts, cooling ponds, diversion dams, reservoirs,
+10 storage ponds, or transmission substations, storage ponds, reservoirs, or cooling
+11 ponds;
+12 (3) "Backup electric generation," electric generation that is not interconnected with the
+13 grid and is generated on a temporary basis to replace primary source electric
+14 generation when the primary source is unavailable;
+15 (4) "Carbon dioxide," a fluid that consists of more than ninety percent carbon dioxide
+16 molecules compressed in a supercritical state;
+17 (4)(5) "Commission," the Public Utilities Commission of the State of South Dakota;
+18 (5)(6) "Construction," any clearing of land, excavation, or other action that would affect
+19 the environment of the site for each any land or rights of way right-of-way upon
+20 or over which a facility may be constructed or modified, but not including activities
+21 incident to preliminary engineering or environmental studies. This term includes
+22 modifications to including the modification of facilities as defined described in § 49-
+23 41B-2.2, but not including any activity incident to preliminary engineering or an
+24 environmental study;
+25 (6)(7) "Energy conversion facility," any new facility, or facility expansion, designed for or
+26 capable of generation of one hundred megawatts or more of electricity, but does
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+193C 2 193
+1 not include any wind or solar energy facilities that are designed for or capable of
+2 generating one hundred megawatts or more of electricity. This term includes
+3 including a hybrid facility capable of injecting one hundred megawatts or more of
+4 electricity into the transmission or distribution system, but not including:
+5 (a) Any solar or wind energy facility that is designed for or capable of
+6 generating one hundred megawatts or more of electricity; or
+7 (b) Backup electric generation;
+8 (7)(8) "Facility," any AC/DC conversion facility, energy conversion facility, solar energy
+9 facility, transmission facility, or wind energy facility, and associated facilities;
+10 (8)(9) "Facility expansion," the addition of twenty-five megawatts AC or more of
+11 generation capacity to an existing generation source resulting in a combined
+12 megawatt capability of the new and existing generation of one hundred megawatts
+13 AC or more of electricity;
+14 (9)(10) "Hybrid facility," a new facility, or a facility expansion, comprised of more than
+15 one type of generation source and having a single point of interconnection to the
+16 distribution or transmission system;
+17 (10)(11) "Permit," the a permit, issued by the commission under pursuant to this
+18 chapter, which is required for the construction and operation of a facility;
+19 (11)(12) "Person," an individual, partnership, limited liability company, joint venture,
+20 private or public corporation, association, cooperative, firm, government agency,
+21 individual, joint venture, limited liability company, municipal corporation,
+22 partnership, political subdivision, private or public corporation, public service
+23 company, cooperative, political subdivision, municipal corporation, government
+24 agency, public utility district, or any other public or private entity, however
+25 organized;
+26 (12)(13) "Siting area," that the area within ten miles, in any direction, of a proposed
+27 energy conversion facility, AC/DC conversion facility, energy conversion facility, or
+28 any other area determined by the commission to be affected by a proposed energy
+29 conversion facility;
+30 (13)(14) "Solar energy facility," a new facility, or facility expansion, consisting of a
+31 commonly managed integrated system of solar panels, power collection systems,
+32 electric interconnection systems, and associated facilities, that which converts solar
+33 energy into electricity and is designed for or capable of generating one hundred
+34 megawatts AC or more of electricity;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+193C 3 193
+1 (14)(15) "Trans-state transmission facility," an electric transmission line, and its
+2 associated facilities that, which:
+3 (a) Originates outside of this state, crosses this state, and terminates outside
+4 of this state; and
+5 (b) Delivers electric power and energy of twenty-five percent or less of the
+6 design capacity of the line and facilities for use in this state;
+7 (15)(16) "Utility," any person engaged in and controlling the generation or transmission
+8 of electric energy and gas or liquid transmission facilities, as defined by described
+9 in § 49-41B-2.1; and
+10 (16)(17) "Wind energy facility," a new facility, or facility expansion, consisting of a
+11 commonly managed integrated system of towers, wind turbine generators with
+12 blades, power collection systems, and electric interconnection systems, that which
+13 converts wind movement into electricity and that is designed for or capable of
+14 generation of one hundred megawatts or more of electricity.
+15 Section 2. That a NEW SECTION be added to chapter 49-41B:
+16 A backup electric generation facility may not be interconnected to the bulk electric
+17 system without first obtaining a permit under this chapter as an energy conversion facility.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A fLSSD: E T O A S 4 ( " c f ( " f a c p d d r s p ( " g a i o a t r p s e g ( " m ( ( t o i m 4 e ( c]
+[DELETED:  2 1 U  n g o h m o m o e T t i i e ( A s o w e f t i d f o c o g ( B ( f ( e t a o t m A o m o g c t a e g s r i a c m A ( " o d ( " t a p i b t c u p t t c ( " p i j v l l c m c p p s p o p c p s c c p s m c g a p u d o a o p o p e h o ( " e a c ( " e f a n f o f e c o a c e e m]
+[DELETED:  3 1 U  ( " t f a e t l a i a ( O o ( D d ( " o i ( " e f a n f o f e c o a c b c g S A s]
+
+
+================================================================================
+
+Raw Text:
+193C 101st Legislative Session 193
+2026 South Dakota Legislature
+Senate Bill 193
+AMENDME NT 193C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+1 An Act to clarify the definition of backup electric generation and require a permit
+2 for interconnection by a backup electric generation facility.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 49-41B-2 be AMENDED:
+5 49-41B-2. Terms as used in this chapter mean:
+6 (1) "AC/DC conversion facility," an asynchronous AC to DC to AC tie that is directly
+7 connected to a transmission facility or a facility that connects an AC transmission
+8 facility with a DC transmission facility, or vice versa;
+9 (2) "Associated facilities," aqueducts, cooling ponds, diversion dams, reservoirs,
+10 storage ponds, or transmission substations, storage ponds, reservoirs, or cooling
+11 ponds;
+12 (3) "Backup electric generation," electric generation that is not interconnected with the
+13 grid and is generated on a temporary basis to replace primary source electric
+14 generation when the primary source is unavailable;
+15 (4) "Carbon dioxide," a fluid that consists of more than ninety percent carbon dioxide
+16 molecules compressed in a supercritical state;
+17 (4)(5) "Commission," the Public Utilities Commission of the State of South Dakota;
+18 (5)(6) "Construction," any clearing of land, excavation, or other action that would affect
+19 the environment of the site for each any land or rights of way right-of-way upon
+20 or over which a facility may be constructed or modified, but not including activities
+21 incident to preliminary engineering or environmental studies. This term includes
+22 modifications to including the modification of facilities as defined described in § 49-
+23 41B-2.2, but not including any activity incident to preliminary engineering or an
+24 environmental study;
+25 (6)(7) "Energy conversion facility," any new facility, or facility expansion, designed for or
+26 capable of generation of one hundred megawatts or more of electricity, but does
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+193C 2 193
+1 not include any wind or solar energy facilities that are designed for or capable of
+2 generating one hundred megawatts or more of electricity. This term includes
+3 including a hybrid facility capable of injecting one hundred megawatts or more of
+4 electricity into the transmission or distribution system, but not including:
+5 (a) Any solar or wind energy facility that is designed for or capable of
+6 generating one hundred megawatts or more of electricity; or
+7 (b) Backup electric generation;
+8 (7)(8) "Facility," any AC/DC conversion facility, energy conversion facility, solar energy
+9 facility, transmission facility, or wind energy facility, and associated facilities;
+10 (8)(9) "Facility expansion," the addition of twenty-five megawatts AC or more of
+11 generation capacity to an existing generation source resulting in a combined
+12 megawatt capability of the new and existing generation of one hundred megawatts
+13 AC or more of electricity;
+14 (9)(10) "Hybrid facility," a new facility, or a facility expansion, comprised of more than
+15 one type of generation source and having a single point of interconnection to the
+16 distribution or transmission system;
+17 (10)(11) "Permit," the a permit, issued by the commission under pursuant to this
+18 chapter, which is required for the construction and operation of a facility;
+19 (11)(12) "Person," an individual, partnership, limited liability company, joint venture,
+20 private or public corporation, association, cooperative, firm, government agency,
+21 individual, joint venture, limited liability company, municipal corporation,
+22 partnership, political subdivision, private or public corporation, public service
+23 company, cooperative, political subdivision, municipal corporation, government
+24 agency, public utility district, or any other public or private entity, however
+25 organized;
+26 (12)(13) "Siting area," that the area within ten miles, in any direction, of a proposed
+27 energy conversion facility, AC/DC conversion facility, energy conversion facility, or
+28 any other area determined by the commission to be affected by a proposed energy
+29 conversion facility;
+30 (13)(14) "Solar energy facility," a new facility, or facility expansion, consisting of a
+31 commonly managed integrated system of solar panels, power collection systems,
+32 electric interconnection systems, and associated facilities, that which converts solar
+33 energy into electricity and is designed for or capable of generating one hundred
+34 megawatts AC or more of electricity;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+193C 3 193
+1 (14)(15) "Trans-state transmission facility," an electric transmission line, and its
+2 associated facilities that, which:
+3 (a) Originates outside of this state, crosses this state, and terminates outside
+4 of this state; and
+5 (b) Delivers electric power and energy of twenty-five percent or less of the
+6 design capacity of the line and facilities for use in this state;
+7 (15)(16) "Utility," any person engaged in and controlling the generation or transmission
+8 of electric energy and gas or liquid transmission facilities, as defined by described
+9 in § 49-41B-2.1; and
+10 (16)(17) "Wind energy facility," a new facility, or facility expansion, consisting of a
+11 commonly managed integrated system of towers, wind turbine generators with
+12 blades, power collection systems, and electric interconnection systems, that which
+13 converts wind movement into electricity and that is designed for or capable of
+14 generation of one hundred megawatts or more of electricity.
+15 Section 2. That a NEW SECTION be added to chapter 49-41B:
+16 A backup electric generation facility may not be interconnected to the bulk electric
+17 system without first obtaining a permit under this chapter as an energy conversion facility.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A fLSSD: E T O A S 4 ( " c f ( " f a c p d d r s p ( " g a i o a t r p s e g ( " m ( ( t o i m 4 e ( c]
+[DELETED:  2 1 U  n g o h m o m o e T t i i e ( A s o w e f t i d f o c o g ( B ( f ( e t a o t m A o m o g c t a e g s r i a c m A ( " o d ( " t a p i b t c u p t t c ( " p i j v l l c m c p p s p o p c p s c c p s m c g a p u d o a o p o p e h o ( " e a c ( " e f a n f o f e c o a c e e m]
+[DELETED:  3 1 U  ( " t f a e t l a i a ( O o ( D d ( " o i ( " e f a n f o f e c o a c b c g S A s]

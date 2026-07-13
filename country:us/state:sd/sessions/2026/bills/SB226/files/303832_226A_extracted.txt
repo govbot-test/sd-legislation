@@ -1,0 +1,96 @@
+Title: Senate Bill 226
+Official Title: Senate Bill 226
+Number of Sections: 1
+Source: versions - 226A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+226A 101st Legislative Session 226
+2026 South Dakota Legislature
+AMENDME NT 226A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Schoenfish
+1 An Act to increase a limit on video lottery gaming, and to deposit moneys into a new
+2 fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-13:
+5 There is created in the state treasury the residential tax reduction fund.
+6 The Department of Revenue shall administer the fund. The purpose of the fund is
+7 to provide property tax relief for owner-occupied single-family dwellings. Interest on
+8 moneys credited to the fund must remain in the fund. Expenditures from the fund must
+9 be budgeted through the general appropriation bill.
+10 Section 2. That § 42-7A-38 be AMENDED:
+11 42-7A-38. A video lottery machine may not allow more than two five dollars to be
+12 played on a game or award free games or credits in excess of one thousand dollars per
+13 bet. The payback value of one credit shall must be at least eighty percent of the value of
+14 the credit.
+15 Section 3. That § 42-7A-63 be AMENDED:
+16 42-7A-63. The commission shall maximize revenues to the state from video
+17 lottery. The state's percentage of net machine income shall be is fifty percent. The After
+18 one-half of one percent of net machine income has been deposited into the video lottery
+19 operating fund pursuant to § 42-7A-41.1, the state's percentage of net machine income
+20 shall be directly must be deposited to the general fund, except for one-half of one percent
+21 of net machine income authorized for deposit into the video lottery operating fund in an
+22 amount up to one hundred sixty-five seventy-five million dollars in a year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+226A 2 226
+1 Moneys collected as the state's percentage of net machine income in excess of one
+2 hundred sixty-five seventy-five million dollars in a year must be deposited into the
+3 residential tax reduction fund established in section 1 of this Act.
+4 The limitation set forth in this section on the amount deposited in the general fund
+5 annually increases by three percent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A fLSSD: E T O A S T T t p p t r f o s d I o m b S 4 p b t S 4 T c s m r t t s f v l o o s o a]
+[DELETED:  2 2 U  M h s s m d i a y m b d i t r T a]
+
+
+================================================================================
+
+Raw Text:
+226A 101st Legislative Session 226
+2026 South Dakota Legislature
+Senate Bill 226
+AMENDME NT 226A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Schoenfish
+1 An Act to increase a limit on video lottery gaming, and to deposit moneys into a new
+2 fund.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 10-13:
+5 There is created in the state treasury the residential tax reduction fund.
+6 The Department of Revenue shall administer the fund. The purpose of the fund is
+7 to provide property tax relief for owner-occupied single-family dwellings. Interest on
+8 moneys credited to the fund must remain in the fund. Expenditures from the fund must
+9 be budgeted through the general appropriation bill.
+10 Section 2. That § 42-7A-38 be AMENDED:
+11 42-7A-38. A video lottery machine may not allow more than two five dollars to be
+12 played on a game or award free games or credits in excess of one thousand dollars per
+13 bet. The payback value of one credit shall must be at least eighty percent of the value of
+14 the credit.
+15 Section 3. That § 42-7A-63 be AMENDED:
+16 42-7A-63. The commission shall maximize revenues to the state from video
+17 lottery. The state's percentage of net machine income shall be is fifty percent. The After
+18 one-half of one percent of net machine income has been deposited into the video lottery
+19 operating fund pursuant to § 42-7A-41.1, the state's percentage of net machine income
+20 shall be directly must be deposited to the general fund, except for one-half of one percent
+21 of net machine income authorized for deposit into the video lottery operating fund in an
+22 amount up to one hundred sixty-five seventy-five million dollars in a year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+226A 2 226
+1 Moneys collected as the state's percentage of net machine income in excess of one
+2 hundred sixty-five seventy-five million dollars in a year must be deposited into the
+3 residential tax reduction fund established in section 1 of this Act.
+4 The limitation set forth in this section on the amount deposited in the general fund
+5 annually increases by three percent.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A fLSSD: E T O A S T T t p p t r f o s d I o m b S 4 p b t S 4 T c s m r t t s f v l o o s o a]
+[DELETED:  2 2 U  M h s s m d i a y m b d i t r T a]

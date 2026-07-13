@@ -1,0 +1,177 @@
+Title: House Bill 1003
+Official Title: House Bill 1003
+Number of Sections: 1
+Source: versions - 1003B
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1003B 101st Legislative Session 1003
+2026 South Dakota Legislature
+AMENDME NT 1003B
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Education at the request of the Department of Education
+1 An Act to amend provisions pertaining to the required criminal background
+2 investigation of certain school employees.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-10-12 be AMENDED:
+5 13-10-12. Each person over eighteen years of age hired by a an accredited school
+6 district shall submit to a criminal background investigation, by means of fingerprint checks
+7 by the Division of Criminal Investigation and the Federal Bureau of Investigation. The
+8 accredited school district shall submit completed fingerprint cards to the Division of
+9 Criminal Investigation before the prospective new employee enters into service. If no
+10 disqualifying record is identified at the state level, the fingerprints shall be forwarded by
+11 the Division of Criminal Investigation to the Federal Bureau of Investigation for a national
+12 criminal history record check. Any person whose employment is subject to the
+13 requirements of this section may enter into service on a temporary basis pending receipt
+14 of results of the criminal background investigation. The employing accredited school
+15 district may, without liability, withdraw its offer of employment or terminate the temporary
+16 employment without notice if the report reveals a disqualifying record. The employing
+17 accredited school district may pay any fees charged for the cost of fingerprinting or the
+18 criminal background investigation for any person whose employment is subject to the
+19 requirements of this section. Any person hired to officiate, judge, adjudicate, or referee a
+20 public event sponsored by a school district is not required to submit to a criminal
+21 background investigation as required in this section. In addition, any instructor employed
+22 by a technical college is required to submit to a criminal background investigation as
+23 required in this section at the time of initial employment.
+24 The criminal investigation required by this section with respect to a student teacher
+25 completing requirements for teacher certification shall be conducted by the accredited
+26 school district. A criminal background investigation, of a student teacher, conducted by a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1003B 2 1003
+1 an accredited school district may be provided to any other accredited school in which the
+2 student engages in student teaching. The accredited school district conducting the criminal
+3 background investigation of a student teacher may rely upon the results of that
+4 investigation for employment of that person as an employee of the district accredited
+5 school.
+6 Section 2. That § 13-10-12.1 be AMENDED:
+7 13-10-12.1. Any accredited school district employee who is employed by more
+8 than one accredited school district is only required to obtain one criminal background
+9 investigation, if the background investigation was conducted no more than five years
+10 before the person is first employed by the additional accredited school district. The results
+11 of the background investigation shall be transferred to any additional accredited school
+12 district from the initial school district that obtained the criminal background investigation
+13 if the additional accredited school district or the school district employee requests in
+14 writing to the initial accredited school district that the results be transferred and the
+15 accredited school district employee who was the subject of the criminal background
+16 investigation signs a written release authorizing the transfer.
+17 Section 3. That § 13-10-13 be AMENDED:
+18 13-10-13. A An accredited school district may refuse to employ a person, either
+19 directly or by contract, who has been convicted of a crime involving moral turpitude as
+20 defined in subdivision 22-1-2(25).
+21 No person may be employed by a an accredited school district, either directly or
+22 by contract, if the person has been convicted of a crime of violence as defined in
+23 subdivision 22-1-2(9), a sex offense as defined in § 22-24B-1, or trafficking in narcotics.
+24 Nothing in this section prohibits a an accredited school district from considering
+25 any criminal conviction in making a hiring decision.
+26 Section 4. That § 13-10-14 be AMENDED:
+27 13-10-14. Any person employed by a South Dakota an accredited school district
+28 on July 1, 2000, who remains continuously employed by the same South Dakota
+29 accredited school district for consecutive school years is not required to submit to a
+30 criminal background check as provided in § 13-10-12.
+31 Section 5. That § 13-10-15 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1003B 3 1003
+1 13-10-15. If a school board or governing body of any accredited a school suspends an
+2 employee or an employee resigns or is terminated as a result of a criminal conviction, the
+3 superintendent or chief administrator shall, within ten days of the date of the suspension or
+4 the date the employment is severed, report the circumstances and the name of the employee
+5 to the Department of Education. Any superintendent or chief administrator who fails to report
+6 under this section is subject to sanctions found in § 13-8-48.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A A t a p p t t r c b iLSSD: E T O A S 1 d b a s d s s c f c t t D o C d t c h r c A p w e i s t t r o r o t c b i T e a s d e a c r p e s b a s d i n r t s t a c b b r T c s]
+[DELETED:  2 1 U  a s b i o a s t m r u t r o t i s S 1 t i w b o d i t a a s d o t s d e r i w r a s d e w w t s o t c b i S 1 d d N b c i t p h b c o a c o v a d i s N a S 1 o J 1 2 w r c e b t s S D a s d f c s y i n r t s t a c S]
+[DELETED:  3 1 U  1 s b o g b a s s e s t t u]
+
+
+================================================================================
+
+Raw Text:
+1003B 101st Legislative Session 1003
+2026 South Dakota Legislature
+House Bill 1003
+AMENDME NT 1003B
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Education at the request of the Department of Education
+1 An Act to amend provisions pertaining to the required criminal background
+2 investigation of certain school employees.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-10-12 be AMENDED:
+5 13-10-12. Each person over eighteen years of age hired by a an accredited school
+6 district shall submit to a criminal background investigation, by means of fingerprint checks
+7 by the Division of Criminal Investigation and the Federal Bureau of Investigation. The
+8 accredited school district shall submit completed fingerprint cards to the Division of
+9 Criminal Investigation before the prospective new employee enters into service. If no
+10 disqualifying record is identified at the state level, the fingerprints shall be forwarded by
+11 the Division of Criminal Investigation to the Federal Bureau of Investigation for a national
+12 criminal history record check. Any person whose employment is subject to the
+13 requirements of this section may enter into service on a temporary basis pending receipt
+14 of results of the criminal background investigation. The employing accredited school
+15 district may, without liability, withdraw its offer of employment or terminate the temporary
+16 employment without notice if the report reveals a disqualifying record. The employing
+17 accredited school district may pay any fees charged for the cost of fingerprinting or the
+18 criminal background investigation for any person whose employment is subject to the
+19 requirements of this section. Any person hired to officiate, judge, adjudicate, or referee a
+20 public event sponsored by a school district is not required to submit to a criminal
+21 background investigation as required in this section. In addition, any instructor employed
+22 by a technical college is required to submit to a criminal background investigation as
+23 required in this section at the time of initial employment.
+24 The criminal investigation required by this section with respect to a student teacher
+25 completing requirements for teacher certification shall be conducted by the accredited
+26 school district. A criminal background investigation, of a student teacher, conducted by a
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1003B 2 1003
+1 an accredited school district may be provided to any other accredited school in which the
+2 student engages in student teaching. The accredited school district conducting the criminal
+3 background investigation of a student teacher may rely upon the results of that
+4 investigation for employment of that person as an employee of the district accredited
+5 school.
+6 Section 2. That § 13-10-12.1 be AMENDED:
+7 13-10-12.1. Any accredited school district employee who is employed by more
+8 than one accredited school district is only required to obtain one criminal background
+9 investigation, if the background investigation was conducted no more than five years
+10 before the person is first employed by the additional accredited school district. The results
+11 of the background investigation shall be transferred to any additional accredited school
+12 district from the initial school district that obtained the criminal background investigation
+13 if the additional accredited school district or the school district employee requests in
+14 writing to the initial accredited school district that the results be transferred and the
+15 accredited school district employee who was the subject of the criminal background
+16 investigation signs a written release authorizing the transfer.
+17 Section 3. That § 13-10-13 be AMENDED:
+18 13-10-13. A An accredited school district may refuse to employ a person, either
+19 directly or by contract, who has been convicted of a crime involving moral turpitude as
+20 defined in subdivision 22-1-2(25).
+21 No person may be employed by a an accredited school district, either directly or
+22 by contract, if the person has been convicted of a crime of violence as defined in
+23 subdivision 22-1-2(9), a sex offense as defined in § 22-24B-1, or trafficking in narcotics.
+24 Nothing in this section prohibits a an accredited school district from considering
+25 any criminal conviction in making a hiring decision.
+26 Section 4. That § 13-10-14 be AMENDED:
+27 13-10-14. Any person employed by a South Dakota an accredited school district
+28 on July 1, 2000, who remains continuously employed by the same South Dakota
+29 accredited school district for consecutive school years is not required to submit to a
+30 criminal background check as provided in § 13-10-12.
+31 Section 5. That § 13-10-15 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1003B 3 1003
+1 13-10-15. If a school board or governing body of any accredited a school suspends an
+2 employee or an employee resigns or is terminated as a result of a criminal conviction, the
+3 superintendent or chief administrator shall, within ten days of the date of the suspension or
+4 the date the employment is severed, report the circumstances and the name of the employee
+5 to the Department of Education. Any superintendent or chief administrator who fails to report
+6 under this section is subject to sanctions found in § 13-8-48.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A A t a p p t t r c b iLSSD: E T O A S 1 d b a s d s s c f c t t D o C d t c h r c A p w e i s t t r o r o t c b i T e a s d e a c r p e s b a s d i n r t s t a c b b r T c s]
+[DELETED:  2 1 U  a s b i o a s t m r u t r o t i s S 1 t i w b o d i t a a s d o t s d e r i w r a s d e w w t s o t c b i S 1 d d N b c i t p h b c o a c o v a d i s N a S 1 o J 1 2 w r c e b t s S D a s d f c s y i n r t s t a c S]
+[DELETED:  3 1 U  1 s b o g b a s s e s t t u]

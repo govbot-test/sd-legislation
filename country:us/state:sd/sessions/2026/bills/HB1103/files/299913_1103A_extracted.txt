@@ -1,0 +1,59 @@
+Title: House Bill 1103
+Official Title: House Bill 1103
+Number of Sections: 1
+Source: versions - 1103A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1103A 101st Legislative Session 1103
+2026 South Dakota Legislature
+AMENDME NT 1103A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Odenbach
+1 An Act to require that annual withdrawal of groundwater from any groundwater
+2 source may not exceed the annual recharge of water to the groundwater
+3 source.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 46-6-3.1 be AMENDED:
+6 46-6-3.1. No application to appropriate groundwater may be approved if,
+7 according to the best information reasonably available, it is probable that the quantity of
+8 water withdrawn annually from a groundwater source will exceed the quantity of the
+9 average estimated annual recharge of water to the groundwater source. An application
+10 may be approved, however, for withdrawals of groundwater from any groundwater
+11 formation older than or stratigraphically lower than the greenhorn formation in excess of
+12 the average estimated annual recharge for use by water distribution systems.
+13 Section 2. This Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A s m n e r w sLSSD: E T O A S 4 N a t a g m b a i a w w a m b a h f w o g f a g f t S]
+
+
+================================================================================
+
+Raw Text:
+1103A 101st Legislative Session 1103
+2026 South Dakota Legislature
+House Bill 1103
+AMENDME NT 1103A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Odenbach
+1 An Act to require that annual withdrawal of groundwater from any groundwater
+2 source may not exceed the annual recharge of water to the groundwater
+3 source.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 46-6-3.1 be AMENDED:
+6 46-6-3.1. No application to appropriate groundwater may be approved if,
+7 according to the best information reasonably available, it is probable that the quantity of
+8 water withdrawn annually from a groundwater source will exceed the quantity of the
+9 average estimated annual recharge of water to the groundwater source. An application
+10 may be approved, however, for withdrawals of groundwater from any groundwater
+11 formation older than or stratigraphically lower than the greenhorn formation in excess of
+12 the average estimated annual recharge for use by water distribution systems.
+13 Section 2. This Act is effective beginning July 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A s m n e r w sLSSD: E T O A S 4 N a t a g m b a i a w w a m b a h f w o g f a g f t S]
