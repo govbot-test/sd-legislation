@@ -1,0 +1,118 @@
+Title: House Bill 1182
+Official Title: House Bill 1182
+Number of Sections: 1
+Source: versions - 1182A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1182A 101st Legislative Session 1182
+2026 South Dakota Legislature
+AMENDME NT 1182A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jorgenson
+1 An Act to establish a data collection system pertaining to assisted reproductive
+2 technology and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-43:
+5 The Department of Health shall establish and maintain a data collection system for
+6 the purpose of determining, on an annual basis:
+7 (1) The number of embryos created through assisted reproductive technology;
+8 (2) The number of embryos that are subjected to preimplantation genetic testing for:
+9 (a) Aneuploidy;
+10 (b) Monogenic disorders; and
+11 (c) Structural rearrangements;
+12 (2)(3) The number of embryos that are implanted through assisted reproductive
+13 technology;
+14 (3)(4) The method of disposition used for embryos that are not implanted during assisted
+15 reproduction, including:
+16 (a) Cryopreservation at a facility in this state;
+17 (b) Donation to another;
+18 (c) Compassionate implantationImplantation into the uterus of the female for
+19 purpose of natural disposition; or
+20 (d) Other means;
+21 (4)(5) The number of embryos transferred out of this state for the purposes of:
+22 (a) Cryopreservation;
+23 (b) Donation to another; or
+24 (c) Medical research;
+25 (5)(6) The number of disposed embryos that were:
+26 (a) Accidentally destroyed; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1182A 2 1182
+1 (b) Deliberately destroyed;
+2 (6)(7) The number of pregnancies resulting from assisted reproduction; and
+3 (7)(8) The number of live births resulting from assisted reproduction.
+4 Each entity that participates in assisted reproductive technology in this state shall
+5 provide the data required by this section to the Department of Health at the time and in
+6 the manner requested by the department.
+7 The secretary of the Department of Health may impose a civil penalty against an
+8 entity for failing to provide the data required by this section. The amount of the civil
+9 penalty may not exceed one thousand dollars. The secretary shall forward any civil penalty
+10 collected under this section to the state treasurer, for deposit in the general fund.
+11 The department shall compile the information and make the information publicly
+12 available on its website on or before July first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A e a s p r tLSSD: E T O A S T t ( T ( T ( A ( M ( S ( n o e t a i t a r t ( r ( C ( D ( C p ( O ( ( C ( D ( M ( ( A]
+[DELETED:  2 1 U  ( D ( ( E p t T e p c T a]
+
+
+================================================================================
+
+Raw Text:
+1182A 101st Legislative Session 1182
+2026 South Dakota Legislature
+House Bill 1182
+AMENDME NT 1182A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jorgenson
+1 An Act to establish a data collection system pertaining to assisted reproductive
+2 technology and to provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 1-43:
+5 The Department of Health shall establish and maintain a data collection system for
+6 the purpose of determining, on an annual basis:
+7 (1) The number of embryos created through assisted reproductive technology;
+8 (2) The number of embryos that are subjected to preimplantation genetic testing for:
+9 (a) Aneuploidy;
+10 (b) Monogenic disorders; and
+11 (c) Structural rearrangements;
+12 (2)(3) The number of embryos that are implanted through assisted reproductive
+13 technology;
+14 (3)(4) The method of disposition used for embryos that are not implanted during assisted
+15 reproduction, including:
+16 (a) Cryopreservation at a facility in this state;
+17 (b) Donation to another;
+18 (c) Compassionate implantationImplantation into the uterus of the female for
+19 purpose of natural disposition; or
+20 (d) Other means;
+21 (4)(5) The number of embryos transferred out of this state for the purposes of:
+22 (a) Cryopreservation;
+23 (b) Donation to another; or
+24 (c) Medical research;
+25 (5)(6) The number of disposed embryos that were:
+26 (a) Accidentally destroyed; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1182A 2 1182
+1 (b) Deliberately destroyed;
+2 (6)(7) The number of pregnancies resulting from assisted reproduction; and
+3 (7)(8) The number of live births resulting from assisted reproduction.
+4 Each entity that participates in assisted reproductive technology in this state shall
+5 provide the data required by this section to the Department of Health at the time and in
+6 the manner requested by the department.
+7 The secretary of the Department of Health may impose a civil penalty against an
+8 entity for failing to provide the data required by this section. The amount of the civil
+9 penalty may not exceed one thousand dollars. The secretary shall forward any civil penalty
+10 collected under this section to the state treasurer, for deposit in the general fund.
+11 The department shall compile the information and make the information publicly
+12 available on its website on or before July first of each year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A e a s p r tLSSD: E T O A S T t ( T ( T ( A ( M ( S ( n o e t a i t a r t ( r ( C ( D ( C p ( O ( ( C ( D ( M ( ( A]
+[DELETED:  2 1 U  ( D ( ( E p t T e p c T a]

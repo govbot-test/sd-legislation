@@ -1,0 +1,720 @@
+Title: Senate Bill 33
+Official Title: Senate Bill 33
+Number of Sections: 1
+Source: versions - 33A
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+33A 101st Legislative Session 33
+2026 South Dakota Legislature
+AMENDM ENT 33A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to modify the number of signatures required on certain election-related
+2 petitions.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-1-3 be AMENDED:
+5 12-1-3. Terms used in this title mean:
+6 (1) "Ballot question committee," as defined by § 12-27-1 an individual or entity that
+7 raises, collects, or disburses contributions for the purpose of proposing, supporting,
+8 or opposing the placement of a ballot question on a ballot or adopting or defeating
+9 a ballot question at an election;
+10 (2) "Candidate," a person whose name is on the ballot or who is entitled to be on the
+11 ballot to be voted upon for nomination or election at any election an individual who
+12 seeks nomination or election to a public office and, for the purpose of running for
+13 the office:
+14 (a) Raises, collects, or disburses contributions in excess of five hundred dollars;
+15 (b) Has authorized the solicitation of contributions or the making of
+16 expenditures;
+17 (c) Has been certified as a candidate by a political party;
+18 (d) Has created a candidate campaign committee; or
+19 (e) Has taken all actions required by state law to qualify for nomination or
+20 election;
+21 (3) "Election," any election any process held under the laws of this state, by which a
+22 candidate for office is nominated or elected or any other contest or question is
+23 determined;
+24 (4) "Election officials," state and local officials"Election official," an individual charged
+25 with the duty of conducting elections an election and the canvass of returns;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 2 33
+1 (5) "Elector," a person an individual qualified to register as a voter, whether or not the
+2 person is registered;
+3 (6) "Electronic pollbook," an electronic system containing both the a digital information
+4 system that contains a jurisdiction's registration list and pollbook;
+5 (7) "General election," the vote required to be taken in each voting precinct of the
+6 state on the first Tuesday after the first Monday in November of each even-
+7 numbered year; "Independent candidate," notwithstanding the definition of
+8 independent provided by this section, any registered voter who, regardless of party
+9 affiliation, seeks election to public office without party affiliation;
+10 (8) "Independent" or "no party affiliation," any individual who, when registering as a
+11 voter, does not provide a party affiliation when completing the voter registration
+12 application, draws a line through the space on the voter registration application for
+13 the individual to provide a party affiliation, or writes on the voter registration
+14 application:
+15 (a) Independent;
+16 (b) I;
+17 (c) Ind.;
+18 (d) No party affiliation;
+19 (e) No party;
+20 (f) No choice;
+21 (g) Nonpartisan;
+22 (h) NPA; or
+23 (i) None;
+24 (9) "Paid circulator," any person an individual who receives money or anything of value
+25 for collecting signatures for a petition;
+26 (9)(10) "Party office," an office of a political party organization as distinct from a public
+27 office;
+28 (10)(11) "Person in charge of an election," or "person charged with the conduct of an
+29 election," the county auditor in all cases except local elections for a municipality,
+30 school district, township, or other political subdivision, in which case it is or, in a
+31 political subdivision election, the officer having the position comparable to the
+32 auditor in that unit of government political subdivision, if not specifically designated
+33 by law;
+34 (11)(12) "Petition," a self-contained, separately verified form prescribed by the State
+35 Board of Elections, which contains the question or candidacy being petitioned, the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 3 33
+1 declaration of candidacy if required and the verification of the circulator. If multiple
+2 sheets of paper are necessary to obtain the required number of signatures, each
+3 sheet shall be self-contained and separately verified by the circulator on which
+4 signatures may be collected and by which a ballot question is proposed or a
+5 candidate qualifies to be included on a ballot for nomination or election to a public
+6 office;
+7 (12)(13) "Petition circulator," a resident of the State of South Dakota as defined under
+8 § 12-1-4, who is at least eighteen years of age who circulates nominating petitions
+9 or other petitions for the purpose of placing candidates or issues on any election
+10 ballot an individual who:
+11 (a) Is a resident of this state, as defined in § 12-1-4;
+12 (b) Is at least eighteen years old; and
+13 (c) In the presence of another individual, solicits from the other individual a
+14 signature on a petition for a ballot question or candidate by:
+15 (i) Physically presenting the petition or otherwise making the petition
+16 available to the other individual; or
+17 (ii) Acting in concert with another petition circulator who physically
+18 presents or otherwise makes the petition available to the other
+19 individual;
+20 (13)(14) "Other," the name of a political party that is not recognized in South Dakota;
+21 (15) "Political party," beginning with the 2014 general election and each general election
+22 thereafter, a party whose candidate for any statewide office received at least two
+23 and one-half percent of the total votes cast for that statewide office in either of the
+24 two previous general election cycles;
+25 (14)(16) "Pollbook" or "poll list," a list containing, in numerical order, the names of all
+26 persons voting name of each individual who voted at the an election and the type
+27 of ballot voted that the individual received;
+28 (15)(17) "Polling place," a designated place voters may go to vote where voting occurs;
+29 (16)(18) "Poll watcher," a person chosen to observe the conduct of an election an
+30 individual designated by a candidate, political party, or ballot question committee
+31 to observe the conduct of an election;
+32 (17)(19) "Primary" or "primary election," an election held at which candidates for public
+33 office are nominated for public office;
+34 (18)(20) "Public office," an elected position in government;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 4 33
+1 (19)(21) "Registered mail," a secured class of mail service that does not include certified
+2 mail;
+3 (22) "Registration list," a list of eligible voters;
+4 (20) "Registered mail," does not include certified mail;
+5 (21)(23) "Registration officials," the county auditor and deputies and other persons
+6 authorized to assist in registration pursuant to chapter 12-4;
+7 (22)(24) "Vote center," a polling place when the precinct has been defined as the entire
+8 jurisdiction and an electronic pollbook is utilized; and
+9 (23)(25) "Voter," a person an individual duly registered to vote or one who is performing
+10 the act of voting;
+11 (24) "Independent (IND)" or "no party affiliation (NPA)," any currently registered voter
+12 who writes independent, I, Ind, no party affiliation, no party, no choice,
+13 nonpartisan, or line crossed off in the choice of party field on the voter registration
+14 form and any individual who is not currently registered to vote who leaves the
+15 choice of party field blank on the voter registration form;
+16 (25) "Independent candidate," notwithstanding the definition of independent as stated
+17 in this chapter, any registered voter regardless of party affiliation who declares to
+18 be an independent candidate for public office pursuant to this chapter;
+19 (26) "Other," any voter who writes a political party not recognized in South Dakota in
+20 the choice of party field on the voter registration form.
+21 Section 2. That § 12-5-1 be AMENDED:
+22 12-5-1. A new political party may be organized and participate in the primary
+23 election by filing with the secretary of state not later than the last Tuesday of March at
+24 five p.m. prior to the date of the primary election, a written declaration signed by at least
+25 one percent of the voters of the state as shown by the total vote cast for Governor at the
+26 last preceding gubernatorial election, which declaration shall a written declaration with
+27 the secretary of state before five p.m. central time on the last Tuesday of March before
+28 the primary election. The declaration must be signed by at least one percent of the number
+29 of registered voters in the state, as recorded by the secretary of state on the second
+30 Tuesday of December in the year prior to the election, or three thousand five hundred
+31 voters, whichever is less, and must contain:
+32 (1) The name of the proposed party; and
+33 (2) A brief statement of the principles thereof; of the proposed party.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 5 33
+1 whereupon the party shall, under the party name chosen, have The secretary of
+2 state shall verify the signatures. Upon the verification of the signatures, the new political
+3 party has all the rights of a political party whose ticket was on the ballot at the preceding
+4 general election. No A signature on a declaration is not valid if the registered voter signed
+5 the declaration was signed more than one year prior to filing of the declaration.
+6 A political party loses the right to participate in the primary election for failure to
+7 meet the definition of political party as defined in § 12-1-3 if the political party fails, in
+8 either of the two previous general election cycles, to have a candidate for any statewide
+9 office receive at least two and one-half percent of the votes cast for that statewide office.
+10 The national and state chairperson chairpersons of a recognized political party may
+11 request in writing, subscribed and sworn to by each chairperson before any officer qualified
+12 to administer oaths and take acknowledgments, to that the political party no longer be
+13 recognized as a political party. The request must be sworn to in the presence of a notary
+14 of this or any other state or any other individual qualified to administer oaths. The political
+15 party shall also comply with the requirements for dissolution, pursuant to chapter 12-27.
+16 Section 3. That § 12-5-1.4 be AMENDED:
+17 12-5-1.4. If a political party qualifies for the primary ballot under § 12-5-1, each
+18 candidate intending to participate in a primary election shall must file a nominating petition
+19 pursuant to § 12-6-4. In each primary election following the qualification of a political
+20 party and prior to the next gubernatorial election, each:
+21 (1) State and federal candidate for that party shall file a petition bearing signatures of
+22 at least two hundred fifty registered voters in that party; and
+23 (2) Legislative and county candidate for that party shall file a petition bearing
+24 signatures of at least five registered voters in that party.
+25 The If the political party is formed before the second Tuesday of December in the
+26 year prior to the election, the nominating petition for a candidate for an office must contain
+27 the required number of signatures for that office, pursuant to § 12-6-7.
+28 If the political party is formed on or after the second Tuesday of December in the
+29 year prior to the election, the nominating petition for a candidate must contain at least
+30 the signatures of:
+31 (1) Two hundred fifty registered voters in the party, for a candidate for statewide or
+32 federal office; and
+33 (2) Five registered voters in the party, for a candidate for legislative or county office.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 6 33
+1 Section 4. That § 12-5-1.5 be AMENDED:
+2 12-5-1.5. If a new political party organizing does not have a candidate for United
+3 States Senate, United States House of Representatives, Governor, or Legislature, who is
+4 nominated at a primary election, the new political party may be organized by filing with
+5 the secretary of state not later than July first at five p.m. central time, a written declaration
+6 signed by at least one percent of the voters of the state as shown by the total vote cast
+7 for Governor at the last preceding gubernatorial election. The declaration shall contain:
+8 (1) The name of the proposed party; and
+9 (2) A brief statement of the principles of the proposed party.
+10 The new political party shall, under the party name chosen, have all the rights of
+11 a political party whose ticket was on the ballot at the preceding general election. No
+12 signature on a declaration is valid if the declaration was signed more than one year prior
+13 to filing of the declaration.
+14 A political party loses the right to participate in the primary election for failure to
+15 meet the definition of political party as defined in § 12-1-3.
+16 The national and state chairperson of a recognized political party may request in
+17 writing, subscribed and sworn to by each chairperson before any officer qualified to
+18 administer oaths and take acknowledgments, to no longer be recognized as a political
+19 party. The political party shall also comply with the requirements for dissolution pursuant
+20 to chapter 12-27.
+21 If a new political party organizing does not have a candidate for Governor, a federal
+22 office, or any legislative office to be nominated at a primary election, the new political
+23 party may be organized by filing the same written declaration required of a new political
+24 party pursuant to § 12-5-1, with the secretary of state before five p.m. central time on
+25 July first in the year of the election. The declaration must be signed by at least one percent
+26 of the number of registered voters in the state, as recorded by the secretary of state on
+27 the second Tuesday of December in the year preceding the election, or three thousand
+28 five hundred voters, whichever is less.
+29 Section 5. That § 12-6-7 be AMENDED:
+30 12-6-7. A nominating petition may be composed of several sheets, provided that
+31 each sheet shall have of the petition is a self-contained sheet of paper that has an identical
+32 headings heading printed at the top and shall be a self-contained sheet of paper of the
+33 sheet. The petition for a candidate for the Legislature shall must designate the senatorial
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 7 33
+1 or representative district number and house the legislative chamber for which the person
+2 individual is a candidate.
+3 The petition for party office or political public office for a state or federal candidate
+4 shall be signed by not less than one percent of the voters who voted for that party's
+5 gubernatorial candidate at the last gubernatorial election in the state. A petition for the
+6 Legislature, county party office, or county political public office shall be signed by not less
+7 than one percent of the voters who voted for that party's gubernatorial candidate at the
+8 last gubernatorial election, or fifty voters, in the county, part of the county, or district
+9 electing a candidate to fill the office, whichever is less.
+10 If the party meets the requirement for alternative political status as defined in
+11 § 12-1-3.1, the petition for party office or political public office for a state or federal
+12 candidate shall be signed by not less than one percent of the voters who voted for that
+13 party's statewide candidate receiving the highest votes at the last gubernatorial election
+14 in the state. A petition for the Legislature, county party office, or county political public
+15 office shall be signed by not less than one percent of the voters who voted for that party's
+16 statewide candidate receiving the highest votes at the last gubernatorial election in the
+17 county, part of the county, or district electing a candidate to fill the office, whichever is
+18 less.
+19 If a county uses vote centers and does not print ballots by precinct, signature
+20 requirements are:
+21 (1) For both partisan and independent candidates, fifty signatures for a legislative
+22 candidate whose district either in whole or in part includes that county;
+23 (2) For a county candidate:
+24 (a) Partisan candidate petitions shall be signed by the lesser of fifty signatures
+25 or signatures from one percent of the voters who voted for that party's
+26 gubernatorial candidate, or the party’s statewide candidate receiving the
+27 highest votes if the party meets the requirement for alternative party status
+28 as defined in § 12-1-3.1, at the last gubernatorial election in the county
+29 electing a candidate to fill the office; or
+30 (b) Independent candidate petitions shall be signed by not less than one
+31 percent of the total combined vote for Governor at the last certified election
+32 within the county electing a candidate to fill the office;
+33 (3) Half the number of signatures required under subdivision (2), for county
+34 commissioner district candidates;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 8 33
+1 (4) Five signatures for a new party legislative candidate whose district either in whole
+2 or in part includes that county;
+3 (5) Five signatures for a new party county candidate; or
+4 (6) Three signatures for a new party county commissioner district candidate
+5 The nominating petition of a candidate for a federal public office or a statewide
+6 party or partisan public office must be signed by at least one percent of the number of
+7 registered voters affiliated with the candidate's party in the state, as recorded by the
+8 secretary of state on the second Tuesday of December in the year prior to the election, or
+9 two thousand two hundred fifty voters, whichever is less.
+10 The nominating petition of a candidate for legislative office, county partisan public
+11 office, or county party office must be signed by at least one percent of the number of
+12 registered voters affiliated with the candidate's party in the district, county, or part of the
+13 county for which the candidate is seeking election to office, as recorded by the secretary
+14 of state on the second Tuesday of December in the year prior to the election, or fifty
+15 voters, whichever is less.
+16 Section 6. That § 12-7-1 be AMENDED:
+17 12-7-1. Any Except as provided in § 12-7-7, an independent candidate for
+18 nonjudicial public office, except as provided in § 12-7-7, who is not nominated by at a
+19 primary election may be nominated by filing a certificate of nomination nominating
+20 petition, as provided in chapter 12-6, with the secretary of state or county auditor as
+21 following the process prescribed by § 12-6-4, after December thirty-first and by before
+22 five p.m. local time on the last Tuesday of April at 5:00 p.m. local time before the election.
+23 A certificate of nomination shall be executed as provided in chapter 12-6. If the certificate
+24 of nomination The petition is timely submitted if the petition is mailed by registered mail
+25 by before five p.m. local time on the last Tuesday of April at 5:00 p.m. local time before
+26 the election, it is timely submitted. The certificate of nomination shall be signed by
+27 registered voters within the district or political subdivision in and for which the officers are
+28 to be elected. The number of signatures required may not be less than one percent of the
+29 total combined vote cast for Governor at the last certified gubernatorial election within the
+30 district or political subdivision.
+31 The nominating petition of a candidate for a federal public office or a statewide
+32 partisan public office must be signed by at least one-half of one percent of the number of
+33 registered voters in the state, as recorded by the secretary of state on the second Tuesday
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 9 33
+1 of December in the year prior to the election, or three thousand five hundred voters,
+2 whichever is less.
+3 The nominating petition of a candidate for legislative office or county partisan
+4 public office must be signed by at least one-half of one percent of the number of registered
+5 voters in the district, county, or part of the county for which the candidate is seeking
+6 election to office, as recorded by the secretary of state on the second Tuesday of
+7 December in the year prior to the election, or one hundred fifty voters, whichever is less.
+8 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+9 prescribing the forms for the certificate of nomination form of the nominating petition.
+10 Section 7. That § 12-7-7 be AMENDED:
+11 12-7-7. Any An independent candidate for President or Vice President of the United
+12 States who is not nominated by at a primary election may be nominated by filing with the
+13 secretary of state, after December thirty-first and by the first Tuesday in August at 5:00
+14 p.m. central time before the election, a certificate of nomination which shall be executed
+15 a nominating petition, as provided in chapter 12-6. If the certificate of nomination, with
+16 the secretary of state after December thirty-first and before five p.m. central time on the
+17 first Tuesday in August before the election. The nominating petition is timely submitted if
+18 the petition is mailed by registered mail by before five p.m. central time on the first
+19 Tuesday in August at 5:00 p.m. central time before the election, it is timely submitted.
+20 The number of signatures required may not be less than one percent of the total combined
+21 vote cast for Governor at the last certified gubernatorial election within the state
+22 The nominating petition must be signed by a number of registered voters equal to
+23 at least one-half of one percent of the number of registered voters in the state, as recorded
+24 by the secretary of state on the second Tuesday of December in the year prior to the
+25 election, or three thousand five hundred voters, whichever is less.
+26 An independent candidate for President shall file a declaration of candidacy and a
+27 certification of the candidate's selection nominee for Vice President with the secretary of
+28 state with the candidate's nominating petitions petition. The candidate and the candidate's
+29 selection nominee for Vice President shall sign the certification before the nominating
+30 petitions are petition is submitted. If an independent candidate for Vice President
+31 withdraws pursuant to § 12-6-55, no independent candidate for President shall have the
+32 candidate's name printed upon a ballot unless a replacement selection for Vice President
+33 is certified to the secretary of state by the second Tuesday in August the independent
+34 candidate for President must nominate a replacement by certifying the nomination to the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+33A 10 33
+1 secretary of state no later than five p.m. central time on the second Tuesday in August in
+2 the year of the election. The independent candidate for President and the candidate's
+3 replacement nominee for Vice President shall sign the certification. The secretary of state
+4 may not place the name of the independent candidate for President on the general election
+5 ballot until a candidate for Vice President has been certified.
+6 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+7 prescribing the forms for the certificate of nomination nominating petition and the
+8 certification for Vice President.
+9 Section 8. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 3 U  A A t m t n o s r o c e pLSSD: E T O A S 1 ( " r o a ( " b s t ( R ( H a t s o c o t m o e ( H ( H ( H e ( " c d ( " w]
+[DELETED:  2 3 U  ( " p ( " s ( " s o t f T a t f M i N o e e n y " c n t d o i a ( " v a t i t p a p a o w o t v r a ( I ( I ( I ( N ( N ( N ( N ( N ( N ( " f ( " o ( " e s p s e t o h t p c t t a b ( " B]
+[DELETED:  3 3 U  d s s s m b c a b w a b q i p o a c o ( " § o b ( I ( I ( I s ( P a ( A i c w a p c w p p o o m t p a t t o i ( " ( " t a t ( " p o ( " ( " w a p c t o t c o a e a i t ( " o ( "]
+[DELETED:  4 3 U  ( " m ( " ( " ( " o t c a a d a o p a ( " j ( " t ( " w w i I I n p a n p n c n f c ( " i b ( " t S 1 e f o l t t o T v ( T ( A]
+[DELETED:  5 3 U  w s p g t A m e o T r t r o p S 1 c p p ( S a ( L a c c f t p s f a p b s T y t I y t ( T f ( F]
+[DELETED:  6 3 U  S 1 S n t s f ( T ( A T a s t A m T w s a s t b e c b a o q t a p t I o p p J o t f S 1 e h s]
+[DELETED:  7 3 U  o i T s g L t l e I § c p i o s c l I r ( F c c ( F ( P o g h a e ( I c p s b s b n l t o p w ( H t n o s r u s ( f c c]
+[DELETED:  8 3 U  ( F o ( F ( T T p r s t T o r c o v S 1 A E a p i § a i c f n p e m b n b f a c o n n p f f A o b t e i i t s T c o n s b s b r t t d T p r]
+[DELETED:  9 3 U  o w T n p o c f l o o c p v e t o a r b t s o s o t s T o D T 1 p S 1 S s p a t f t T T v T a b e A c s s p a p i s I a i c f V P w c i c]
+[DELETED:  1 3 U  s t r m b T 1 p t f f t c o n n p a t c S]
+
+
+================================================================================
+
+Raw Text:
+33A 101st Legislative Session 33
+2026 South Dakota Legislature
+Senate Bill 33
+AMENDM ENT 33A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to modify the number of signatures required on certain election-related
+2 petitions.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-1-3 be AMENDED:
+5 12-1-3. Terms used in this title mean:
+6 (1) "Ballot question committee," as defined by § 12-27-1 an individual or entity that
+7 raises, collects, or disburses contributions for the purpose of proposing, supporting,
+8 or opposing the placement of a ballot question on a ballot or adopting or defeating
+9 a ballot question at an election;
+10 (2) "Candidate," a person whose name is on the ballot or who is entitled to be on the
+11 ballot to be voted upon for nomination or election at any election an individual who
+12 seeks nomination or election to a public office and, for the purpose of running for
+13 the office:
+14 (a) Raises, collects, or disburses contributions in excess of five hundred dollars;
+15 (b) Has authorized the solicitation of contributions or the making of
+16 expenditures;
+17 (c) Has been certified as a candidate by a political party;
+18 (d) Has created a candidate campaign committee; or
+19 (e) Has taken all actions required by state law to qualify for nomination or
+20 election;
+21 (3) "Election," any election any process held under the laws of this state, by which a
+22 candidate for office is nominated or elected or any other contest or question is
+23 determined;
+24 (4) "Election officials," state and local officials"Election official," an individual charged
+25 with the duty of conducting elections an election and the canvass of returns;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 2 33
+1 (5) "Elector," a person an individual qualified to register as a voter, whether or not the
+2 person is registered;
+3 (6) "Electronic pollbook," an electronic system containing both the a digital information
+4 system that contains a jurisdiction's registration list and pollbook;
+5 (7) "General election," the vote required to be taken in each voting precinct of the
+6 state on the first Tuesday after the first Monday in November of each even-
+7 numbered year; "Independent candidate," notwithstanding the definition of
+8 independent provided by this section, any registered voter who, regardless of party
+9 affiliation, seeks election to public office without party affiliation;
+10 (8) "Independent" or "no party affiliation," any individual who, when registering as a
+11 voter, does not provide a party affiliation when completing the voter registration
+12 application, draws a line through the space on the voter registration application for
+13 the individual to provide a party affiliation, or writes on the voter registration
+14 application:
+15 (a) Independent;
+16 (b) I;
+17 (c) Ind.;
+18 (d) No party affiliation;
+19 (e) No party;
+20 (f) No choice;
+21 (g) Nonpartisan;
+22 (h) NPA; or
+23 (i) None;
+24 (9) "Paid circulator," any person an individual who receives money or anything of value
+25 for collecting signatures for a petition;
+26 (9)(10) "Party office," an office of a political party organization as distinct from a public
+27 office;
+28 (10)(11) "Person in charge of an election," or "person charged with the conduct of an
+29 election," the county auditor in all cases except local elections for a municipality,
+30 school district, township, or other political subdivision, in which case it is or, in a
+31 political subdivision election, the officer having the position comparable to the
+32 auditor in that unit of government political subdivision, if not specifically designated
+33 by law;
+34 (11)(12) "Petition," a self-contained, separately verified form prescribed by the State
+35 Board of Elections, which contains the question or candidacy being petitioned, the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 3 33
+1 declaration of candidacy if required and the verification of the circulator. If multiple
+2 sheets of paper are necessary to obtain the required number of signatures, each
+3 sheet shall be self-contained and separately verified by the circulator on which
+4 signatures may be collected and by which a ballot question is proposed or a
+5 candidate qualifies to be included on a ballot for nomination or election to a public
+6 office;
+7 (12)(13) "Petition circulator," a resident of the State of South Dakota as defined under
+8 § 12-1-4, who is at least eighteen years of age who circulates nominating petitions
+9 or other petitions for the purpose of placing candidates or issues on any election
+10 ballot an individual who:
+11 (a) Is a resident of this state, as defined in § 12-1-4;
+12 (b) Is at least eighteen years old; and
+13 (c) In the presence of another individual, solicits from the other individual a
+14 signature on a petition for a ballot question or candidate by:
+15 (i) Physically presenting the petition or otherwise making the petition
+16 available to the other individual; or
+17 (ii) Acting in concert with another petition circulator who physically
+18 presents or otherwise makes the petition available to the other
+19 individual;
+20 (13)(14) "Other," the name of a political party that is not recognized in South Dakota;
+21 (15) "Political party," beginning with the 2014 general election and each general election
+22 thereafter, a party whose candidate for any statewide office received at least two
+23 and one-half percent of the total votes cast for that statewide office in either of the
+24 two previous general election cycles;
+25 (14)(16) "Pollbook" or "poll list," a list containing, in numerical order, the names of all
+26 persons voting name of each individual who voted at the an election and the type
+27 of ballot voted that the individual received;
+28 (15)(17) "Polling place," a designated place voters may go to vote where voting occurs;
+29 (16)(18) "Poll watcher," a person chosen to observe the conduct of an election an
+30 individual designated by a candidate, political party, or ballot question committee
+31 to observe the conduct of an election;
+32 (17)(19) "Primary" or "primary election," an election held at which candidates for public
+33 office are nominated for public office;
+34 (18)(20) "Public office," an elected position in government;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 4 33
+1 (19)(21) "Registered mail," a secured class of mail service that does not include certified
+2 mail;
+3 (22) "Registration list," a list of eligible voters;
+4 (20) "Registered mail," does not include certified mail;
+5 (21)(23) "Registration officials," the county auditor and deputies and other persons
+6 authorized to assist in registration pursuant to chapter 12-4;
+7 (22)(24) "Vote center," a polling place when the precinct has been defined as the entire
+8 jurisdiction and an electronic pollbook is utilized; and
+9 (23)(25) "Voter," a person an individual duly registered to vote or one who is performing
+10 the act of voting;
+11 (24) "Independent (IND)" or "no party affiliation (NPA)," any currently registered voter
+12 who writes independent, I, Ind, no party affiliation, no party, no choice,
+13 nonpartisan, or line crossed off in the choice of party field on the voter registration
+14 form and any individual who is not currently registered to vote who leaves the
+15 choice of party field blank on the voter registration form;
+16 (25) "Independent candidate," notwithstanding the definition of independent as stated
+17 in this chapter, any registered voter regardless of party affiliation who declares to
+18 be an independent candidate for public office pursuant to this chapter;
+19 (26) "Other," any voter who writes a political party not recognized in South Dakota in
+20 the choice of party field on the voter registration form.
+21 Section 2. That § 12-5-1 be AMENDED:
+22 12-5-1. A new political party may be organized and participate in the primary
+23 election by filing with the secretary of state not later than the last Tuesday of March at
+24 five p.m. prior to the date of the primary election, a written declaration signed by at least
+25 one percent of the voters of the state as shown by the total vote cast for Governor at the
+26 last preceding gubernatorial election, which declaration shall a written declaration with
+27 the secretary of state before five p.m. central time on the last Tuesday of March before
+28 the primary election. The declaration must be signed by at least one percent of the number
+29 of registered voters in the state, as recorded by the secretary of state on the second
+30 Tuesday of December in the year prior to the election, or three thousand five hundred
+31 voters, whichever is less, and must contain:
+32 (1) The name of the proposed party; and
+33 (2) A brief statement of the principles thereof; of the proposed party.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 5 33
+1 whereupon the party shall, under the party name chosen, have The secretary of
+2 state shall verify the signatures. Upon the verification of the signatures, the new political
+3 party has all the rights of a political party whose ticket was on the ballot at the preceding
+4 general election. No A signature on a declaration is not valid if the registered voter signed
+5 the declaration was signed more than one year prior to filing of the declaration.
+6 A political party loses the right to participate in the primary election for failure to
+7 meet the definition of political party as defined in § 12-1-3 if the political party fails, in
+8 either of the two previous general election cycles, to have a candidate for any statewide
+9 office receive at least two and one-half percent of the votes cast for that statewide office.
+10 The national and state chairperson chairpersons of a recognized political party may
+11 request in writing, subscribed and sworn to by each chairperson before any officer qualified
+12 to administer oaths and take acknowledgments, to that the political party no longer be
+13 recognized as a political party. The request must be sworn to in the presence of a notary
+14 of this or any other state or any other individual qualified to administer oaths. The political
+15 party shall also comply with the requirements for dissolution, pursuant to chapter 12-27.
+16 Section 3. That § 12-5-1.4 be AMENDED:
+17 12-5-1.4. If a political party qualifies for the primary ballot under § 12-5-1, each
+18 candidate intending to participate in a primary election shall must file a nominating petition
+19 pursuant to § 12-6-4. In each primary election following the qualification of a political
+20 party and prior to the next gubernatorial election, each:
+21 (1) State and federal candidate for that party shall file a petition bearing signatures of
+22 at least two hundred fifty registered voters in that party; and
+23 (2) Legislative and county candidate for that party shall file a petition bearing
+24 signatures of at least five registered voters in that party.
+25 The If the political party is formed before the second Tuesday of December in the
+26 year prior to the election, the nominating petition for a candidate for an office must contain
+27 the required number of signatures for that office, pursuant to § 12-6-7.
+28 If the political party is formed on or after the second Tuesday of December in the
+29 year prior to the election, the nominating petition for a candidate must contain at least
+30 the signatures of:
+31 (1) Two hundred fifty registered voters in the party, for a candidate for statewide or
+32 federal office; and
+33 (2) Five registered voters in the party, for a candidate for legislative or county office.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 6 33
+1 Section 4. That § 12-5-1.5 be AMENDED:
+2 12-5-1.5. If a new political party organizing does not have a candidate for United
+3 States Senate, United States House of Representatives, Governor, or Legislature, who is
+4 nominated at a primary election, the new political party may be organized by filing with
+5 the secretary of state not later than July first at five p.m. central time, a written declaration
+6 signed by at least one percent of the voters of the state as shown by the total vote cast
+7 for Governor at the last preceding gubernatorial election. The declaration shall contain:
+8 (1) The name of the proposed party; and
+9 (2) A brief statement of the principles of the proposed party.
+10 The new political party shall, under the party name chosen, have all the rights of
+11 a political party whose ticket was on the ballot at the preceding general election. No
+12 signature on a declaration is valid if the declaration was signed more than one year prior
+13 to filing of the declaration.
+14 A political party loses the right to participate in the primary election for failure to
+15 meet the definition of political party as defined in § 12-1-3.
+16 The national and state chairperson of a recognized political party may request in
+17 writing, subscribed and sworn to by each chairperson before any officer qualified to
+18 administer oaths and take acknowledgments, to no longer be recognized as a political
+19 party. The political party shall also comply with the requirements for dissolution pursuant
+20 to chapter 12-27.
+21 If a new political party organizing does not have a candidate for Governor, a federal
+22 office, or any legislative office to be nominated at a primary election, the new political
+23 party may be organized by filing the same written declaration required of a new political
+24 party pursuant to § 12-5-1, with the secretary of state before five p.m. central time on
+25 July first in the year of the election. The declaration must be signed by at least one percent
+26 of the number of registered voters in the state, as recorded by the secretary of state on
+27 the second Tuesday of December in the year preceding the election, or three thousand
+28 five hundred voters, whichever is less.
+29 Section 5. That § 12-6-7 be AMENDED:
+30 12-6-7. A nominating petition may be composed of several sheets, provided that
+31 each sheet shall have of the petition is a self-contained sheet of paper that has an identical
+32 headings heading printed at the top and shall be a self-contained sheet of paper of the
+33 sheet. The petition for a candidate for the Legislature shall must designate the senatorial
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 7 33
+1 or representative district number and house the legislative chamber for which the person
+2 individual is a candidate.
+3 The petition for party office or political public office for a state or federal candidate
+4 shall be signed by not less than one percent of the voters who voted for that party's
+5 gubernatorial candidate at the last gubernatorial election in the state. A petition for the
+6 Legislature, county party office, or county political public office shall be signed by not less
+7 than one percent of the voters who voted for that party's gubernatorial candidate at the
+8 last gubernatorial election, or fifty voters, in the county, part of the county, or district
+9 electing a candidate to fill the office, whichever is less.
+10 If the party meets the requirement for alternative political status as defined in
+11 § 12-1-3.1, the petition for party office or political public office for a state or federal
+12 candidate shall be signed by not less than one percent of the voters who voted for that
+13 party's statewide candidate receiving the highest votes at the last gubernatorial election
+14 in the state. A petition for the Legislature, county party office, or county political public
+15 office shall be signed by not less than one percent of the voters who voted for that party's
+16 statewide candidate receiving the highest votes at the last gubernatorial election in the
+17 county, part of the county, or district electing a candidate to fill the office, whichever is
+18 less.
+19 If a county uses vote centers and does not print ballots by precinct, signature
+20 requirements are:
+21 (1) For both partisan and independent candidates, fifty signatures for a legislative
+22 candidate whose district either in whole or in part includes that county;
+23 (2) For a county candidate:
+24 (a) Partisan candidate petitions shall be signed by the lesser of fifty signatures
+25 or signatures from one percent of the voters who voted for that party's
+26 gubernatorial candidate, or the party’s statewide candidate receiving the
+27 highest votes if the party meets the requirement for alternative party status
+28 as defined in § 12-1-3.1, at the last gubernatorial election in the county
+29 electing a candidate to fill the office; or
+30 (b) Independent candidate petitions shall be signed by not less than one
+31 percent of the total combined vote for Governor at the last certified election
+32 within the county electing a candidate to fill the office;
+33 (3) Half the number of signatures required under subdivision (2), for county
+34 commissioner district candidates;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 8 33
+1 (4) Five signatures for a new party legislative candidate whose district either in whole
+2 or in part includes that county;
+3 (5) Five signatures for a new party county candidate; or
+4 (6) Three signatures for a new party county commissioner district candidate
+5 The nominating petition of a candidate for a federal public office or a statewide
+6 party or partisan public office must be signed by at least one percent of the number of
+7 registered voters affiliated with the candidate's party in the state, as recorded by the
+8 secretary of state on the second Tuesday of December in the year prior to the election, or
+9 two thousand two hundred fifty voters, whichever is less.
+10 The nominating petition of a candidate for legislative office, county partisan public
+11 office, or county party office must be signed by at least one percent of the number of
+12 registered voters affiliated with the candidate's party in the district, county, or part of the
+13 county for which the candidate is seeking election to office, as recorded by the secretary
+14 of state on the second Tuesday of December in the year prior to the election, or fifty
+15 voters, whichever is less.
+16 Section 6. That § 12-7-1 be AMENDED:
+17 12-7-1. Any Except as provided in § 12-7-7, an independent candidate for
+18 nonjudicial public office, except as provided in § 12-7-7, who is not nominated by at a
+19 primary election may be nominated by filing a certificate of nomination nominating
+20 petition, as provided in chapter 12-6, with the secretary of state or county auditor as
+21 following the process prescribed by § 12-6-4, after December thirty-first and by before
+22 five p.m. local time on the last Tuesday of April at 5:00 p.m. local time before the election.
+23 A certificate of nomination shall be executed as provided in chapter 12-6. If the certificate
+24 of nomination The petition is timely submitted if the petition is mailed by registered mail
+25 by before five p.m. local time on the last Tuesday of April at 5:00 p.m. local time before
+26 the election, it is timely submitted. The certificate of nomination shall be signed by
+27 registered voters within the district or political subdivision in and for which the officers are
+28 to be elected. The number of signatures required may not be less than one percent of the
+29 total combined vote cast for Governor at the last certified gubernatorial election within the
+30 district or political subdivision.
+31 The nominating petition of a candidate for a federal public office or a statewide
+32 partisan public office must be signed by at least one-half of one percent of the number of
+33 registered voters in the state, as recorded by the secretary of state on the second Tuesday
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 9 33
+1 of December in the year prior to the election, or three thousand five hundred voters,
+2 whichever is less.
+3 The nominating petition of a candidate for legislative office or county partisan
+4 public office must be signed by at least one-half of one percent of the number of registered
+5 voters in the district, county, or part of the county for which the candidate is seeking
+6 election to office, as recorded by the secretary of state on the second Tuesday of
+7 December in the year prior to the election, or one hundred fifty voters, whichever is less.
+8 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+9 prescribing the forms for the certificate of nomination form of the nominating petition.
+10 Section 7. That § 12-7-7 be AMENDED:
+11 12-7-7. Any An independent candidate for President or Vice President of the United
+12 States who is not nominated by at a primary election may be nominated by filing with the
+13 secretary of state, after December thirty-first and by the first Tuesday in August at 5:00
+14 p.m. central time before the election, a certificate of nomination which shall be executed
+15 a nominating petition, as provided in chapter 12-6. If the certificate of nomination, with
+16 the secretary of state after December thirty-first and before five p.m. central time on the
+17 first Tuesday in August before the election. The nominating petition is timely submitted if
+18 the petition is mailed by registered mail by before five p.m. central time on the first
+19 Tuesday in August at 5:00 p.m. central time before the election, it is timely submitted.
+20 The number of signatures required may not be less than one percent of the total combined
+21 vote cast for Governor at the last certified gubernatorial election within the state
+22 The nominating petition must be signed by a number of registered voters equal to
+23 at least one-half of one percent of the number of registered voters in the state, as recorded
+24 by the secretary of state on the second Tuesday of December in the year prior to the
+25 election, or three thousand five hundred voters, whichever is less.
+26 An independent candidate for President shall file a declaration of candidacy and a
+27 certification of the candidate's selection nominee for Vice President with the secretary of
+28 state with the candidate's nominating petitions petition. The candidate and the candidate's
+29 selection nominee for Vice President shall sign the certification before the nominating
+30 petitions are petition is submitted. If an independent candidate for Vice President
+31 withdraws pursuant to § 12-6-55, no independent candidate for President shall have the
+32 candidate's name printed upon a ballot unless a replacement selection for Vice President
+33 is certified to the secretary of state by the second Tuesday in August the independent
+34 candidate for President must nominate a replacement by certifying the nomination to the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+33A 10 33
+1 secretary of state no later than five p.m. central time on the second Tuesday in August in
+2 the year of the election. The independent candidate for President and the candidate's
+3 replacement nominee for Vice President shall sign the certification. The secretary of state
+4 may not place the name of the independent candidate for President on the general election
+5 ballot until a candidate for Vice President has been certified.
+6 The State Board of Elections shall promulgate rules, pursuant to chapter 1-26,
+7 prescribing the forms for the certificate of nomination nominating petition and the
+8 certification for Vice President.
+9 Section 8. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 3 U  A A t m t n o s r o c e pLSSD: E T O A S 1 ( " r o a ( " b s t ( R ( H a t s o c o t m o e ( H ( H ( H e ( " c d ( " w]
+[DELETED:  2 3 U  ( " p ( " s ( " s o t f T a t f M i N o e e n y " c n t d o i a ( " v a t i t p a p a o w o t v r a ( I ( I ( I ( N ( N ( N ( N ( N ( N ( " f ( " o ( " e s p s e t o h t p c t t a b ( " B]
+[DELETED:  3 3 U  d s s s m b c a b w a b q i p o a c o ( " § o b ( I ( I ( I s ( P a ( A i c w a p c w p p o o m t p a t t o i ( " ( " t a t ( " p o ( " ( " w a p c t o t c o a e a i t ( " o ( "]
+[DELETED:  4 3 U  ( " m ( " ( " ( " o t c a a d a o p a ( " j ( " t ( " w w i I I n p a n p n c n f c ( " i b ( " t S 1 e f o l t t o T v ( T ( A]
+[DELETED:  5 3 U  w s p g t A m e o T r t r o p S 1 c p p ( S a ( L a c c f t p s f a p b s T y t I y t ( T f ( F]
+[DELETED:  6 3 U  S 1 S n t s f ( T ( A T a s t A m T w s a s t b e c b a o q t a p t I o p p J o t f S 1 e h s]
+[DELETED:  7 3 U  o i T s g L t l e I § c p i o s c l I r ( F c c ( F ( P o g h a e ( I c p s b s b n l t o p w ( H t n o s r u s ( f c c]
+[DELETED:  8 3 U  ( F o ( F ( T T p r s t T o r c o v S 1 A E a p i § a i c f n p e m b n b f a c o n n p f f A o b t e i i t s T c o n s b s b r t t d T p r]
+[DELETED:  9 3 U  o w T n p o c f l o o c p v e t o a r b t s o s o t s T o D T 1 p S 1 S s p a t f t T T v T a b e A c s s p a p i s I a i c f V P w c i c]
+[DELETED:  1 3 U  s t r m b T 1 p t f f t c o n n p a t c S]

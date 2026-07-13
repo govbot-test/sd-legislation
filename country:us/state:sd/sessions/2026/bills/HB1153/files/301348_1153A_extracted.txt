@@ -1,0 +1,315 @@
+Title: House Bill 1153
+Official Title: House Bill 1153
+Number of Sections: 1
+Source: versions - 1153A
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1153A 101st Legislative Session 1153
+2026 South Dakota Legislature
+AMENDME NT 1153A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heinemann
+1 An Act to protect certain rights of healthcare providers.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 Terms used in this chapter mean:
+5 (1) "Conscience," the ethical, moral, or religious beliefs or principles held by a
+6 healthcare provider, which, for an entity described in subsections 2(b) and 2(c) of
+7 this section, are determined by reference to the entity’s articles of incorporation,
+8 bylaws, constitution, directives, guidelines, mission statement, policies,
+9 regulations, and other governing documents;
+10 (2) "Healthcare provider," any:
+11 (a) Allied health professional; counselor; employee of a hospital, clinic, nursing
+12 home, or pharmacy; faculty or student of a medical school, nursing school,
+13 or school of counseling or psychology; laboratory technician; medical
+14 assistant; medical researcher; mental health professional; nurse, nurse
+15 aide, or nurse practitioner; pharmacist or pharmacy technician; physician
+16 or physician assistant; psychologist; social worker; or other individual who
+17 is authorized to participate, in any way, in any medical service;
+18 (b) Agency, association, corporation, joint venture, network, organization,
+19 partnership, sole proprietorship, or other entity, which provides any medical
+20 service; or
+21 (c) Employer, health maintenance organization, health plan, insurance
+22 company, management services organization, or any other entity that
+23 arranges for payment of, contracts for, reimburses, remunerates, or
+24 otherwise pays for, in whole or in part, any medical service; and
+25 (3) "Medical service," administering, dispensing, or prescribing a device, drug,
+26 medication, or treatment; arranging or preparing for a surgical procedure;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1153A 2 1153
+1 counseling or providing therapy; diagnosing; making records; performing medical
+2 research; referring; testing; treating; or providing any other healthcare-related
+3 service to any client or patient.
+4 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+5 A healthcare provider may not be required to participate in or pay for a medical
+6 service that violates the provider's conscience. The right protected in this section:
+7 (1) Is limited to a particular medical service;
+8 (2) Does not modify or waive any duty a provider may have to provide or pay for a
+9 medical service that does not violate the provider's conscience; and
+10 (3) Does not allow a provider to decline payment for a medical service it is
+11 contractually obligated to pay for under the terms of a contract with an insured
+12 party.
+13 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 A healthcare provider may not be discriminated against:
+15 (1) As a result of exercising the right protected in section 2 of this Act;
+16 (2) Engaging in protected speech pursuant to section 4 of this Act;
+17 (3) Because the provider:
+18 (a) Provided or caused to be provided, or is about to provide or cause to be
+19 provided, information relating to any act or omission the provider
+20 reasonably believes to be a violation of this chapter to the provider's
+21 employer, the attorney general, the United States Department of Health
+22 and Human Services, the United States Department of Health and Human
+23 Services' Office for Civil Rights, or any other state or federal agency charged
+24 with protecting healthcare rights; or
+25 (b) Assisted, participated, or testified in, or is about to assist, participate, or
+26 testify in, a proceeding concerning a violation of this chapter; or
+27 (4) Unless disclosure is specifically prohibited by law or concerns a lawful exercise of
+28 discretionary decision-making authority, for disclosing information related to a
+29 matter of conscience, protected by section 2 of this Act, which the provider
+30 reasonably believes is evidence of:
+31 (a) A violation of any applicable law, regulation, or rule;
+32 (b) A violation of any applicable ethical guideline for the provision of a medical
+33 service; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1153A 3 1153
+1 (c) An abuse of authority or methods of treatment or practices that may put
+2 patient health at risk; gross mismanagement; a gross waste of funds; or a
+3 substantial and specific danger to public health or safety.
+4 For purposes of this section, "discriminated against" means any adverse action
+5 taken against, or any threat of adverse action communicated to, a healthcare provider,
+6 which includes any executed or threatened discipline, penalty, or retaliation.
+7 Discrimination does not include good-faith efforts by an employer to accommodate the
+8 right of conscience, protected by section 2 of this Act, of an employee, including
+9 reassignment of duties or modification of schedules; an employment action taken after
+10 establishing undue hardship on the conduct of the business; or the negotiation or purchase
+11 of, or the refusal to purchase or use, insurance coverage or a medical service by an
+12 individual or nongovernmental entity.
+13 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 The Department of Health, the State Board of Medical and Osteopathic Examiners,
+15 or any other state agency that regulates any medical service in this state:
+16 (1) May not reprimand or sanction a healthcare provider; deny, revoke, or threaten to
+17 deny or revoke a provider's certification, license, or registration; or discriminate
+18 against a provider, as described in section 3 of this Act, for a provider's
+19 engagement in or exercise of association, expression, or speech that is protected
+20 from government interference by the First Amendment to the United States
+21 Constitution, unless the state agency demonstrates by clear and convincing
+22 evidence that the provider's association, expression, or speech was the direct cause
+23 of harm to a patient or client with whom the provider had a provider-patient
+24 relationship or provider-client relationship within the three years immediately
+25 preceding the harm; and
+26 (2) May not approve, contract with, recognize, or require an individual to obtain
+27 credentials issued or approved by, a specialty board or other credentialing body
+28 that revokes the credentials of, or refuses to issue credentials to, a provider solely
+29 because the provider engaged in protected conduct described in subdivision (1).
+30 Within twenty-one days after receiving any complaint alleging that a provider
+31 engaged in conduct that is protected pursuant to subdivision (1), a state agency or
+32 credentialing body must furnish the provider with a copy of the complaint. If the copy is
+33 not timely furnished, the state agency or credentialing body must pay the provider an
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1153A 4 1153
+1 administrative penalty of five hundred dollars for each day exceeding the twenty-first day,
+2 until the copy is furnished.
+3 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 Nothing in this chapter may be interpreted to undermine the right of a religious
+5 healthcare provider to make administrative, admitting privilege, contracting, employment,
+6 and staffing decisions consistent with the provider's religious beliefs if the provider:
+7 (1) Is held out to the public as religious; and
+8 (2) Has internal operating policies or, procedures, or governing documents that
+9 implement, which reflect the provider's religious purpose or mission.
+10 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+11 Nothing in this chapter may be construed to conflict with the requirements of the
+12 Emergency Medical Treatment and Labor Act, 42 U.S.C. § 1395dd (January 1, 2026).
+13 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 A healthcare provider may not be held administratively, civilly, or criminally liable
+15 for:
+16 (1) Exercising the right protected in section 2 of this Act; or
+17 (2) The exercise of the right protected in section 2 of this Act by another healthcare
+18 provider that is contracted with, employed by, or granted admitting privileges by
+19 the provider.
+20 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+21 Any person aggrieved by a violation of this chapter may commence a civil action
+22 and is entitled, upon the court's finding of a violation, to injunctive and declaratory relief
+23 and to recover damages, together with the costs of the action and reasonable attorney
+24 fees. Damages recovered pursuant to this section are cumulative and may not be limited
+25 by any other remedy available under federal, state, or local law.
+26 Any additional burden or expense on another healthcare provider arising from the
+27 exercise of the right protected in section 2 of this Act is not a defense against a claim for
+28 violation of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1153A 5 1153
+1 A civil action may not be brought against an individual who declines to use or
+2 purchase a medical service from a specific healthcare provider due to the provider's
+3 exercise of the right protected in section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S T ( " t e m o r b o p h b a h t b c d g m s p r ( " ( A h o s o c o p l t m a m r m h p n n a o i ( A a c j v n o p s ( E h m o h p i c m s o o a o e t a f p o c f r r o o ( " s a d o p a d d m o t a o p f a s p]
+[DELETED:  2 1 U  c r s S A s ( I ( D m ( D n a a p t d p f a m s i i c p S A ( A ( E ( B ( P p i r t a a o o t p r b t b a v o t c t t p e a S w ( A t ( U d d a f d i r t a m o c p b s 2 o t A w t p r ( A ( A s]
+[DELETED:  3 1 U  ( A p s F t w i a e o t d p o r D r o c p b s 2 o t A o a e i r e o i S T o ( M d a a p a d i s 3 o t A f a p e f g i b t F A t t U S C u t s a d b c a c e o h t a p o c w w t p h a p r o p r w t t y i p ( M n a c w r o r a i t o c t b W t d a r a c a t a p e i c t i p p t s ( a s a o c n]
+[DELETED:  4 1 U  a u S N h a ( I ( H i o p o p o g d t i S N E S A f ( E ( T p t S A a a f b A e v]
+[DELETED:  5 1 U  A p a m s f a s h p d t t p e]
+
+
+================================================================================
+
+Raw Text:
+1153A 101st Legislative Session 1153
+2026 South Dakota Legislature
+House Bill 1153
+AMENDME NT 1153A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heinemann
+1 An Act to protect certain rights of healthcare providers.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 Terms used in this chapter mean:
+5 (1) "Conscience," the ethical, moral, or religious beliefs or principles held by a
+6 healthcare provider, which, for an entity described in subsections 2(b) and 2(c) of
+7 this section, are determined by reference to the entity’s articles of incorporation,
+8 bylaws, constitution, directives, guidelines, mission statement, policies,
+9 regulations, and other governing documents;
+10 (2) "Healthcare provider," any:
+11 (a) Allied health professional; counselor; employee of a hospital, clinic, nursing
+12 home, or pharmacy; faculty or student of a medical school, nursing school,
+13 or school of counseling or psychology; laboratory technician; medical
+14 assistant; medical researcher; mental health professional; nurse, nurse
+15 aide, or nurse practitioner; pharmacist or pharmacy technician; physician
+16 or physician assistant; psychologist; social worker; or other individual who
+17 is authorized to participate, in any way, in any medical service;
+18 (b) Agency, association, corporation, joint venture, network, organization,
+19 partnership, sole proprietorship, or other entity, which provides any medical
+20 service; or
+21 (c) Employer, health maintenance organization, health plan, insurance
+22 company, management services organization, or any other entity that
+23 arranges for payment of, contracts for, reimburses, remunerates, or
+24 otherwise pays for, in whole or in part, any medical service; and
+25 (3) "Medical service," administering, dispensing, or prescribing a device, drug,
+26 medication, or treatment; arranging or preparing for a surgical procedure;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1153A 2 1153
+1 counseling or providing therapy; diagnosing; making records; performing medical
+2 research; referring; testing; treating; or providing any other healthcare-related
+3 service to any client or patient.
+4 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+5 A healthcare provider may not be required to participate in or pay for a medical
+6 service that violates the provider's conscience. The right protected in this section:
+7 (1) Is limited to a particular medical service;
+8 (2) Does not modify or waive any duty a provider may have to provide or pay for a
+9 medical service that does not violate the provider's conscience; and
+10 (3) Does not allow a provider to decline payment for a medical service it is
+11 contractually obligated to pay for under the terms of a contract with an insured
+12 party.
+13 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 A healthcare provider may not be discriminated against:
+15 (1) As a result of exercising the right protected in section 2 of this Act;
+16 (2) Engaging in protected speech pursuant to section 4 of this Act;
+17 (3) Because the provider:
+18 (a) Provided or caused to be provided, or is about to provide or cause to be
+19 provided, information relating to any act or omission the provider
+20 reasonably believes to be a violation of this chapter to the provider's
+21 employer, the attorney general, the United States Department of Health
+22 and Human Services, the United States Department of Health and Human
+23 Services' Office for Civil Rights, or any other state or federal agency charged
+24 with protecting healthcare rights; or
+25 (b) Assisted, participated, or testified in, or is about to assist, participate, or
+26 testify in, a proceeding concerning a violation of this chapter; or
+27 (4) Unless disclosure is specifically prohibited by law or concerns a lawful exercise of
+28 discretionary decision-making authority, for disclosing information related to a
+29 matter of conscience, protected by section 2 of this Act, which the provider
+30 reasonably believes is evidence of:
+31 (a) A violation of any applicable law, regulation, or rule;
+32 (b) A violation of any applicable ethical guideline for the provision of a medical
+33 service; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1153A 3 1153
+1 (c) An abuse of authority or methods of treatment or practices that may put
+2 patient health at risk; gross mismanagement; a gross waste of funds; or a
+3 substantial and specific danger to public health or safety.
+4 For purposes of this section, "discriminated against" means any adverse action
+5 taken against, or any threat of adverse action communicated to, a healthcare provider,
+6 which includes any executed or threatened discipline, penalty, or retaliation.
+7 Discrimination does not include good-faith efforts by an employer to accommodate the
+8 right of conscience, protected by section 2 of this Act, of an employee, including
+9 reassignment of duties or modification of schedules; an employment action taken after
+10 establishing undue hardship on the conduct of the business; or the negotiation or purchase
+11 of, or the refusal to purchase or use, insurance coverage or a medical service by an
+12 individual or nongovernmental entity.
+13 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 The Department of Health, the State Board of Medical and Osteopathic Examiners,
+15 or any other state agency that regulates any medical service in this state:
+16 (1) May not reprimand or sanction a healthcare provider; deny, revoke, or threaten to
+17 deny or revoke a provider's certification, license, or registration; or discriminate
+18 against a provider, as described in section 3 of this Act, for a provider's
+19 engagement in or exercise of association, expression, or speech that is protected
+20 from government interference by the First Amendment to the United States
+21 Constitution, unless the state agency demonstrates by clear and convincing
+22 evidence that the provider's association, expression, or speech was the direct cause
+23 of harm to a patient or client with whom the provider had a provider-patient
+24 relationship or provider-client relationship within the three years immediately
+25 preceding the harm; and
+26 (2) May not approve, contract with, recognize, or require an individual to obtain
+27 credentials issued or approved by, a specialty board or other credentialing body
+28 that revokes the credentials of, or refuses to issue credentials to, a provider solely
+29 because the provider engaged in protected conduct described in subdivision (1).
+30 Within twenty-one days after receiving any complaint alleging that a provider
+31 engaged in conduct that is protected pursuant to subdivision (1), a state agency or
+32 credentialing body must furnish the provider with a copy of the complaint. If the copy is
+33 not timely furnished, the state agency or credentialing body must pay the provider an
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1153A 4 1153
+1 administrative penalty of five hundred dollars for each day exceeding the twenty-first day,
+2 until the copy is furnished.
+3 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+4 Nothing in this chapter may be interpreted to undermine the right of a religious
+5 healthcare provider to make administrative, admitting privilege, contracting, employment,
+6 and staffing decisions consistent with the provider's religious beliefs if the provider:
+7 (1) Is held out to the public as religious; and
+8 (2) Has internal operating policies or, procedures, or governing documents that
+9 implement, which reflect the provider's religious purpose or mission.
+10 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+11 Nothing in this chapter may be construed to conflict with the requirements of the
+12 Emergency Medical Treatment and Labor Act, 42 U.S.C. § 1395dd (January 1, 2026).
+13 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+14 A healthcare provider may not be held administratively, civilly, or criminally liable
+15 for:
+16 (1) Exercising the right protected in section 2 of this Act; or
+17 (2) The exercise of the right protected in section 2 of this Act by another healthcare
+18 provider that is contracted with, employed by, or granted admitting privileges by
+19 the provider.
+20 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 34:
+21 Any person aggrieved by a violation of this chapter may commence a civil action
+22 and is entitled, upon the court's finding of a violation, to injunctive and declaratory relief
+23 and to recover damages, together with the costs of the action and reasonable attorney
+24 fees. Damages recovered pursuant to this section are cumulative and may not be limited
+25 by any other remedy available under federal, state, or local law.
+26 Any additional burden or expense on another healthcare provider arising from the
+27 exercise of the right protected in section 2 of this Act is not a defense against a claim for
+28 violation of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1153A 5 1153
+1 A civil action may not be brought against an individual who declines to use or
+2 purchase a medical service from a specific healthcare provider due to the provider's
+3 exercise of the right protected in section 2 of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S T ( " t e m o r b o p h b a h t b c d g m s p r ( " ( A h o s o c o p l t m a m r m h p n n a o i ( A a c j v n o p s ( E h m o h p i c m s o o a o e t a f p o c f r r o o ( " s a d o p a d d m o t a o p f a s p]
+[DELETED:  2 1 U  c r s S A s ( I ( D m ( D n a a p t d p f a m s i i c p S A ( A ( E ( B ( P p i r t a a o o t p r b t b a v o t c t t p e a S w ( A t ( U d d a f d i r t a m o c p b s 2 o t A w t p r ( A ( A s]
+[DELETED:  3 1 U  ( A p s F t w i a e o t d p o r D r o c p b s 2 o t A o a e i r e o i S T o ( M d a a p a d i s 3 o t A f a p e f g i b t F A t t U S C u t s a d b c a c e o h t a p o c w w t p h a p r o p r w t t y i p ( M n a c w r o r a i t o c t b W t d a r a c a t a p e i c t i p p t s ( a s a o c n]
+[DELETED:  4 1 U  a u S N h a ( I ( H i o p o p o g d t i S N E S A f ( E ( T p t S A a a f b A e v]
+[DELETED:  5 1 U  A p a m s f a s h p d t t p e]

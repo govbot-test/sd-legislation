@@ -1,0 +1,282 @@
+Title: Senate Bill 49
+Official Title: Senate Bill 49
+Number of Sections: 1
+Source: versions - 49A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+49A 101st Legislative Session 49
+2026 South Dakota Legislature
+AMENDM ENT 49A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to safeguard the integrity, privacy, and security of genetic data and provide
+2 a civil penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in this Act mean:
+6 (1) "Biological sample," any part of a human that is known to contain deoxyribonucleic
+7 acid;
+8 (2) "Consumer," an individual who is a resident of this state;
+9 (3) "De-identified data," genetic data that cannot reasonably be used to infer
+10 information about, or otherwise be linked to, an identifiable consumer;
+11 (4) "Direct-to-consumer genetic testing company," an entity that:
+12 (a) Offers genetic testing products or services directly to consumers; or
+13 (b) Analyzes, collects, or uses genetic data collected via a direct-to-consumer
+14 genetic testing product or service that is provided to the company by the
+15 consumer;
+16 (5) "Express consent," an affirmative written response, which may be presented and
+17 captured electronically;
+18 (6) "Genetic data," data other than de-identified data, regardless of format, which
+19 concerns a consumer's genetic characteristics; and
+20 (7) "Service provider," a person that:
+21 (a) Is involved in the collection, transportation, or analysis of, or any other
+22 service in connection with, a consumer's biological sample or genetic data,
+23 on behalf of a direct-to-consumer genetic testing company;
+24 (b) Collects, uses, maintains, or discloses biological samples or genetic data,
+25 collected or derived from a direct-to-consumer genetic testing product or
+26 service, or directly provided by the consumer; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+49A 2 49
+1 (c) Delivers the results of the analysis of a biological sample or genetic data.
+2 Section 2. That a NEW SECTION be added to chapter 37-24:
+3 To safeguard the confidentiality, integrity, privacy, and security of a consumer's
+4 genetic data, a direct-to-consumer genetic testing company shall:
+5 (1) Make available to the consumer in plain language:
+6 (a) A privacy policy that includes basic, essential information about the
+7 company's collection, disclosure, and use of genetic data; and
+8 (b) A prominent, publicly available privacy notice that includes information
+9 about the company's access, consent, data collection, deletion, disclosure,
+10 maintenance, retention, security, and transfer practices; and how the
+11 company uses genetic data;
+12 (2) Provide a clear and complete notice to the consumer that the consumer's de-
+13 identified data may be shared with or disclosed to a third party for research
+14 purposes, in accordance with 45 C.F.R. part 46 (November 25, 2025);
+15 (3) Obtain the consumer's express consent to collect, disclose, or use the consumer's
+16 genetic data, including:
+17 (a) Initial express consent that describes the uses of genetic data collected
+18 through a genetic testing product or service and specifies who has access
+19 to the test results and how the genetic data may be shared;
+20 (b) Separate express consent, which must include the name of the person
+21 receiving the information, for each transfer or disclosure of the consumer's
+22 genetic data or biological sample to any person other than the company's
+23 vendors and service providers;
+24 (c) Separate express consent for each use of the consumer's genetic data or
+25 the biological sample beyond the primary purpose of the genetic testing
+26 product or service;
+27 (d) Separate express consent to retain any biological sample provided by the
+28 consumer following completion of the initial testing service requested by the
+29 consumer;
+30 (e) Informed consent, in compliance with federal policy for the protection of
+31 human research subjects under 45 C.F.R. part 46 (November 25, 2025), to
+32 transfer or disclose the consumer's genetic data to a third-party for research
+33 purposes, or for research conducted under the control of the company for
+34 publication or generalizable knowledge purposes; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+49A 3 49
+1 (f) Separate express consent for marketing by the direct-to-consumer genetic
+2 testing company, to another consumer, based on the consumer's genetic
+3 data, or by a third party, to another consumer, based on the consumer
+4 having ordered or purchased a genetic testing product or service;
+5 (4) Develop, implement, and maintain a security program to protect the consumer's
+6 genetic data against unauthorized access, disclosure, or use;
+7 (5) Provide a process for the consumer to:
+8 (a) Access the consumer's genetic data;
+9 (b) Delete the consumer's account and genetic data; and
+10 (c) Request and obtain the destruction of the consumer's biological sample;
+11 and
+12 (6) Provide mechanisms, without any unnecessary steps, for the consumer to revoke
+13 any consent of the consumer. At least one mechanism must utilize the primary
+14 medium through which the company communicates to the consumer.
+15 Section 3. That a NEW SECTION be added to chapter 37-24:
+16 If a consumer revokes consent pursuant to section 2 of this Act, the company must
+17 honor the consumer's revocation of consent within thirty days. If a consumer revokes
+18 consent to store the consumer's biological sample, the company must destroy the
+19 consumer's biological sample within thirty days of receiving the consumer's revocation of
+20 consent.
+21 Section 4. That a NEW SECTION be added to chapter 37-24:
+22 A service provider under contract with a direct-to-consumer genetic testing
+23 company is subject to the same confidentiality obligations as the direct-to-consumer
+24 genetic testing company, as set forth in section 2 of this Act, with respect to all biological
+25 samples, genetic data, and information regarding the identity of any consumer that is in
+26 the service provider's possession.
+27 Section 5. That a NEW SECTION be added to chapter 37-24:
+28 The attorney general may impose a civil penalty against a person for violating
+29 section 2 of this Act, section 3 of this Act, or section 4 of this Act. The amount of the civil
+30 penalty may not exceed five thousand dollars per violation.
+31 Section 6. That a NEW SECTION be added to chapter 37-24:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+49A 4 49
+1 The provisions of sections 2 to 5, inclusive, of this Act do not apply to:
+2 (1) Protected health information collected by a covered entity or business associate,
+3 as those terms are defined in 45 C.F.R. § 160.103 (November 25, 2025);
+4 (2) A biological sample that is obtained or genetic data that is generated for the
+5 purpose of a consumer's medical screening, diagnosis, or treatment;
+6 (3) A public or private institution of higher education;
+7 (4) An entity owned or operated by a public or private institution of higher education;
+8 (5) A forensic laboratory that is operated by, associated with, or under contract with,
+9 a law enforcement agency, when performing forensic analysis or related services
+10 as part of a criminal investigation; or
+11 (6) An entity that analyzes, collects, or uses genetic data or biological samples only in
+12 the context of research, as defined in 24 C.F.R. § 164.501 (November 25, 2025),
+13 in a manner that complies with the federal policy of the protection of human
+14 research subjects under 45 C.F.R. part 46 (November 25, 2025); the Guideline for
+15 Good Clinical Practice issued by the International Council for Harmonisation
+16 (January 6, 2025); or the United States Food and Drug Administration policy for
+17 the protection of human subjects under 21 C.F.R. part 50 (December 4, 2025) and
+18 21 C.F.R. part 56 (December 4, 2025); or
+19 (7) A hospital licensed under chapter 34-12, including any laboratory or health care
+20 facility owned, operated by, or affiliated with the hospital.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 4 U  A aLSSD: E T O A S T ( " a ( " ( " d g d t c r b u t i i ( " ( O ( A g c ( " c ( " c ( " ( I s o ( C c s]
+[DELETED:  2 4 U  ( D S T g ( M ( A p p t i b e i a t c ( A p p a p n t i i a m r s a t p a h t c ( P a c a c n t t c t t c i d m b s w o d t a t p f r p ( O g ( I t t ( S e c w m i t n o t p r g v ( S t p ( S c c ( I h t p p]
+[DELETED:  3 4 U  ( S t d h ( D g ( P ( A ( D ( R a ( P a m S I h c t s t c b s t c m d t c c S A s p u c w a d g t c i s t t s c o a t d g s t S T s p S]
+[DELETED:  4 4 U  T ( P a ( A b s t i o o g d t i g f t p ( A ( A ( A a a ( A t i a m t c w t f p o t p o h r G C P i b t I C f H ( t 2 ( A f]
+
+
+================================================================================
+
+Raw Text:
+49A 101st Legislative Session 49
+2026 South Dakota Legislature
+Senate Bill 49
+AMENDM ENT 49A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on Judiciary at the request of the Attorney General
+1 An Act to safeguard the integrity, privacy, and security of genetic data and provide
+2 a civil penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in this Act mean:
+6 (1) "Biological sample," any part of a human that is known to contain deoxyribonucleic
+7 acid;
+8 (2) "Consumer," an individual who is a resident of this state;
+9 (3) "De-identified data," genetic data that cannot reasonably be used to infer
+10 information about, or otherwise be linked to, an identifiable consumer;
+11 (4) "Direct-to-consumer genetic testing company," an entity that:
+12 (a) Offers genetic testing products or services directly to consumers; or
+13 (b) Analyzes, collects, or uses genetic data collected via a direct-to-consumer
+14 genetic testing product or service that is provided to the company by the
+15 consumer;
+16 (5) "Express consent," an affirmative written response, which may be presented and
+17 captured electronically;
+18 (6) "Genetic data," data other than de-identified data, regardless of format, which
+19 concerns a consumer's genetic characteristics; and
+20 (7) "Service provider," a person that:
+21 (a) Is involved in the collection, transportation, or analysis of, or any other
+22 service in connection with, a consumer's biological sample or genetic data,
+23 on behalf of a direct-to-consumer genetic testing company;
+24 (b) Collects, uses, maintains, or discloses biological samples or genetic data,
+25 collected or derived from a direct-to-consumer genetic testing product or
+26 service, or directly provided by the consumer; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+49A 2 49
+1 (c) Delivers the results of the analysis of a biological sample or genetic data.
+2 Section 2. That a NEW SECTION be added to chapter 37-24:
+3 To safeguard the confidentiality, integrity, privacy, and security of a consumer's
+4 genetic data, a direct-to-consumer genetic testing company shall:
+5 (1) Make available to the consumer in plain language:
+6 (a) A privacy policy that includes basic, essential information about the
+7 company's collection, disclosure, and use of genetic data; and
+8 (b) A prominent, publicly available privacy notice that includes information
+9 about the company's access, consent, data collection, deletion, disclosure,
+10 maintenance, retention, security, and transfer practices; and how the
+11 company uses genetic data;
+12 (2) Provide a clear and complete notice to the consumer that the consumer's de-
+13 identified data may be shared with or disclosed to a third party for research
+14 purposes, in accordance with 45 C.F.R. part 46 (November 25, 2025);
+15 (3) Obtain the consumer's express consent to collect, disclose, or use the consumer's
+16 genetic data, including:
+17 (a) Initial express consent that describes the uses of genetic data collected
+18 through a genetic testing product or service and specifies who has access
+19 to the test results and how the genetic data may be shared;
+20 (b) Separate express consent, which must include the name of the person
+21 receiving the information, for each transfer or disclosure of the consumer's
+22 genetic data or biological sample to any person other than the company's
+23 vendors and service providers;
+24 (c) Separate express consent for each use of the consumer's genetic data or
+25 the biological sample beyond the primary purpose of the genetic testing
+26 product or service;
+27 (d) Separate express consent to retain any biological sample provided by the
+28 consumer following completion of the initial testing service requested by the
+29 consumer;
+30 (e) Informed consent, in compliance with federal policy for the protection of
+31 human research subjects under 45 C.F.R. part 46 (November 25, 2025), to
+32 transfer or disclose the consumer's genetic data to a third-party for research
+33 purposes, or for research conducted under the control of the company for
+34 publication or generalizable knowledge purposes; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+49A 3 49
+1 (f) Separate express consent for marketing by the direct-to-consumer genetic
+2 testing company, to another consumer, based on the consumer's genetic
+3 data, or by a third party, to another consumer, based on the consumer
+4 having ordered or purchased a genetic testing product or service;
+5 (4) Develop, implement, and maintain a security program to protect the consumer's
+6 genetic data against unauthorized access, disclosure, or use;
+7 (5) Provide a process for the consumer to:
+8 (a) Access the consumer's genetic data;
+9 (b) Delete the consumer's account and genetic data; and
+10 (c) Request and obtain the destruction of the consumer's biological sample;
+11 and
+12 (6) Provide mechanisms, without any unnecessary steps, for the consumer to revoke
+13 any consent of the consumer. At least one mechanism must utilize the primary
+14 medium through which the company communicates to the consumer.
+15 Section 3. That a NEW SECTION be added to chapter 37-24:
+16 If a consumer revokes consent pursuant to section 2 of this Act, the company must
+17 honor the consumer's revocation of consent within thirty days. If a consumer revokes
+18 consent to store the consumer's biological sample, the company must destroy the
+19 consumer's biological sample within thirty days of receiving the consumer's revocation of
+20 consent.
+21 Section 4. That a NEW SECTION be added to chapter 37-24:
+22 A service provider under contract with a direct-to-consumer genetic testing
+23 company is subject to the same confidentiality obligations as the direct-to-consumer
+24 genetic testing company, as set forth in section 2 of this Act, with respect to all biological
+25 samples, genetic data, and information regarding the identity of any consumer that is in
+26 the service provider's possession.
+27 Section 5. That a NEW SECTION be added to chapter 37-24:
+28 The attorney general may impose a civil penalty against a person for violating
+29 section 2 of this Act, section 3 of this Act, or section 4 of this Act. The amount of the civil
+30 penalty may not exceed five thousand dollars per violation.
+31 Section 6. That a NEW SECTION be added to chapter 37-24:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+49A 4 49
+1 The provisions of sections 2 to 5, inclusive, of this Act do not apply to:
+2 (1) Protected health information collected by a covered entity or business associate,
+3 as those terms are defined in 45 C.F.R. § 160.103 (November 25, 2025);
+4 (2) A biological sample that is obtained or genetic data that is generated for the
+5 purpose of a consumer's medical screening, diagnosis, or treatment;
+6 (3) A public or private institution of higher education;
+7 (4) An entity owned or operated by a public or private institution of higher education;
+8 (5) A forensic laboratory that is operated by, associated with, or under contract with,
+9 a law enforcement agency, when performing forensic analysis or related services
+10 as part of a criminal investigation; or
+11 (6) An entity that analyzes, collects, or uses genetic data or biological samples only in
+12 the context of research, as defined in 24 C.F.R. § 164.501 (November 25, 2025),
+13 in a manner that complies with the federal policy of the protection of human
+14 research subjects under 45 C.F.R. part 46 (November 25, 2025); the Guideline for
+15 Good Clinical Practice issued by the International Council for Harmonisation
+16 (January 6, 2025); or the United States Food and Drug Administration policy for
+17 the protection of human subjects under 21 C.F.R. part 50 (December 4, 2025) and
+18 21 C.F.R. part 56 (December 4, 2025); or
+19 (7) A hospital licensed under chapter 34-12, including any laboratory or health care
+20 facility owned, operated by, or affiliated with the hospital.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 4 U  A aLSSD: E T O A S T ( " a ( " ( " d g d t c r b u t i i ( " ( O ( A g c ( " c ( " c ( " ( I s o ( C c s]
+[DELETED:  2 4 U  ( D S T g ( M ( A p p t i b e i a t c ( A p p a p n t i i a m r s a t p a h t c ( P a c a c n t t c t t c i d m b s w o d t a t p f r p ( O g ( I t t ( S e c w m i t n o t p r g v ( S t p ( S c c ( I h t p p]
+[DELETED:  3 4 U  ( S t d h ( D g ( P ( A ( D ( R a ( P a m S I h c t s t c b s t c m d t c c S A s p u c w a d g t c i s t t s c o a t d g s t S T s p S]
+[DELETED:  4 4 U  T ( P a ( A b s t i o o g d t i g f t p ( A ( A ( A a a ( A t i a m t c w t f p o t p o h r G C P i b t I C f H ( t 2 ( A f]

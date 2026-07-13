@@ -1,0 +1,55 @@
+Title: House Bill 1172
+Official Title: House Bill 1172
+Number of Sections: 1
+Source: versions - 1172A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1172A 101st Legislative Session 1172
+2026 South Dakota Legislature
+AMENDME NT 1172A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Novstrup
+1 An Act to terminate certain school district excess tax levies.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. An excess tax levy approved by a school district pursuant to § 10-12-43 or 10-
+4 12-43.1, prior to July 1, 2002, may not be imposed in 2026 or any year thereafter an amount
+5 not exceeding:
+6 (1) For taxes payable in 2027, one hundred percent of the original excess tax levy
+7 amount approved by the district;
+8 (2) For taxes payable in 2028, fifty percent of the original excess tax levy amount
+9 approved by the district; and
+10 (3) For taxes payable in 2029 and each year thereafter, zero percent of the original
+11 excess tax levy amount approved by the district.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 1 n ( F a ( F a ( F e]
+
+
+================================================================================
+
+Raw Text:
+1172A 101st Legislative Session 1172
+2026 South Dakota Legislature
+House Bill 1172
+AMENDME NT 1172A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Novstrup
+1 An Act to terminate certain school district excess tax levies.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. An excess tax levy approved by a school district pursuant to § 10-12-43 or 10-
+4 12-43.1, prior to July 1, 2002, may not be imposed in 2026 or any year thereafter an amount
+5 not exceeding:
+6 (1) For taxes payable in 2027, one hundred percent of the original excess tax levy
+7 amount approved by the district;
+8 (2) For taxes payable in 2028, fifty percent of the original excess tax levy amount
+9 approved by the district; and
+10 (3) For taxes payable in 2029 and each year thereafter, zero percent of the original
+11 excess tax levy amount approved by the district.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 1 n ( F a ( F a ( F e]

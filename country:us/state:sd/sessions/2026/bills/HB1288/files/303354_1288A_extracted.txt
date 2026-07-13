@@ -1,0 +1,181 @@
+Title: House Bill 1288
+Official Title: House Bill 1288
+Number of Sections: 1
+Source: versions - 1288A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1288A 101st Legislative Session 1288
+2026 South Dakota Legislature
+AMENDME NT 1288A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jorgenson
+1 An Act to modify the authority of a political subdivision to adopt mining ordinances.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 45-6-65 be AMENDED:
+4 45-6-65. An operator shall obtain a license to mine:
+5 (1) Sand;
+6 (2) Gravel;
+7 (3) Rock to be crushed and used in construction;
+8 (4) Pegmatite minerals;
+9 (5) Limestone; and
+10 (6) Iron ore, gypsum, shale, pozzolan, and other materials used in the process of
+11 making cement or lime.
+12 The operator shall comply with the requirements of §§ 45-6-68, 45-6-69, 45-6-71,
+13 and 45-6-72, and section 2 of this Act, for each site to be mined. Failure to comply with
+14 these requirements for each site mined constitutes mining without a license.
+15 The fee for the license is one hundred dollars annually, for each mine site
+16 authorized under the license. The department shall forward any fees collected under this
+17 section to the state treasurer for deposit in the environment and natural resources fee
+18 fund established in § 1-41-23.
+19 Section 2. That a NEW SECTION be added to chapter 45-6:
+20 Any county or first or second class municipality, which has adopted a
+21 comprehensive plan, may adopt ordinances or requirements that govern sand, gravel, and
+22 aggregate mining operations and are not inconsistent or in conflict with applicable state
+23 laws or administrative rules.
+24 A county or first or second class municipality may not require additional bonds or
+25 sureties, if the same are required by state law or administrative rule. The Board of Minerals
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1288A 2 1288
+1 and Environment may not grant a permit for a mining operation unless the applicant has
+2 complied with all county or city ordinances and requirements and obtained necessary
+3 county or city permits.
+4 If the applicant has substantially complied with the procedure for obtaining any
+5 necessary county or city permits but has not obtained permits due to administrative delay,
+6 the Board of Minerals and Environment may grant a mining permit that is conditioned
+7 upon the issuance of all necessary county or city permits within sixty days of the date of
+8 the board's issuance of the conditioned mining permit.
+9 If a county or municipality has adopted an ordinance governing mining operations,
+10 any proceedings of and any action taken by the county or municipality with regard to the
+11 proposed mining operation may be considered by the Board of Minerals and Environment
+12 before the issuance or denial of a permit pursuant to this chapter, including a permit
+13 conditioned upon the issuance of all necessary county or city permits.
+14 No mining operations may be commenced under a permit conditioned upon the
+15 issuance of all necessary county or city permits until the Board of Minerals and
+16 Environment is notified by the applicant in writing that the required county or city permits
+17 have been obtained by the applicant.
+18 Section 3. That § 45-6B-4 be AMENDED:
+19 45-6B-4. Any county or first or second class municipality which has adopted a
+20 comprehensive plan and zoning ordinances may adopt ordinances or requirements
+21 governing mining operations which are not inconsistent or in conflict with applicable state
+22 laws or administrative rules. However, such a county or municipality may not require
+23 additional bonds or sureties if the same are required by state law or administrative rule.
+24 The Board of Minerals and Environment may not grant a permit for a mining operation
+25 unless the applicant has complied with all county or city ordinances and requirements and
+26 obtained necessary county or city permits. However, if the applicant has substantially
+27 complied with the procedure for obtaining any necessary county or city permits but has
+28 not obtained such permits due to administrative delay, the Board of Minerals and
+29 Environment may grant a mining permit which is conditioned upon the issuance of all
+30 necessary county or city permits within sixty days of the date of the board's issuance of
+31 the conditioned mining permit. If a county or municipality has adopted an ordinance
+32 governing mining operations, any proceedings of and any action taken by the county or
+33 municipality with regard to the proposed mining operation may be considered by the Board
+34 of Minerals and Environment before the issuance or denial of a permit pursuant to this
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1288A 3 1288
+1 chapter, including a permit conditioned upon the issuance of all necessary county or city
+2 permits.
+3 No mining operations may be commenced under a permit conditioned upon the
+4 issuance of all necessary county or city permits until the Board of Minerals and
+5 Environment is notified by the applicant in writing that the required county or city permits
+6 have been obtained by the applicant.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 4 ( S ( G ( R ( P ( L ( I m T a t T f f t l i o h d a f e m s a s f S A c o f o s c m w h a a c a l A s]
+[DELETED:  2 1 U  a c c I n t u t I a p b c N i o a n c o c p u t B o M a E h S 4 c p a z o m a o o r g l a T u o c n o s p d t a d t B o M a E n t c m p I c o m a a o g m o]
+[DELETED:  3 1 U  c p N i o a n c o c p u t B o M a E h]
+
+
+================================================================================
+
+Raw Text:
+1288A 101st Legislative Session 1288
+2026 South Dakota Legislature
+House Bill 1288
+AMENDME NT 1288A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jorgenson
+1 An Act to modify the authority of a political subdivision to adopt mining ordinances.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 45-6-65 be AMENDED:
+4 45-6-65. An operator shall obtain a license to mine:
+5 (1) Sand;
+6 (2) Gravel;
+7 (3) Rock to be crushed and used in construction;
+8 (4) Pegmatite minerals;
+9 (5) Limestone; and
+10 (6) Iron ore, gypsum, shale, pozzolan, and other materials used in the process of
+11 making cement or lime.
+12 The operator shall comply with the requirements of §§ 45-6-68, 45-6-69, 45-6-71,
+13 and 45-6-72, and section 2 of this Act, for each site to be mined. Failure to comply with
+14 these requirements for each site mined constitutes mining without a license.
+15 The fee for the license is one hundred dollars annually, for each mine site
+16 authorized under the license. The department shall forward any fees collected under this
+17 section to the state treasurer for deposit in the environment and natural resources fee
+18 fund established in § 1-41-23.
+19 Section 2. That a NEW SECTION be added to chapter 45-6:
+20 Any county or first or second class municipality, which has adopted a
+21 comprehensive plan, may adopt ordinances or requirements that govern sand, gravel, and
+22 aggregate mining operations and are not inconsistent or in conflict with applicable state
+23 laws or administrative rules.
+24 A county or first or second class municipality may not require additional bonds or
+25 sureties, if the same are required by state law or administrative rule. The Board of Minerals
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1288A 2 1288
+1 and Environment may not grant a permit for a mining operation unless the applicant has
+2 complied with all county or city ordinances and requirements and obtained necessary
+3 county or city permits.
+4 If the applicant has substantially complied with the procedure for obtaining any
+5 necessary county or city permits but has not obtained permits due to administrative delay,
+6 the Board of Minerals and Environment may grant a mining permit that is conditioned
+7 upon the issuance of all necessary county or city permits within sixty days of the date of
+8 the board's issuance of the conditioned mining permit.
+9 If a county or municipality has adopted an ordinance governing mining operations,
+10 any proceedings of and any action taken by the county or municipality with regard to the
+11 proposed mining operation may be considered by the Board of Minerals and Environment
+12 before the issuance or denial of a permit pursuant to this chapter, including a permit
+13 conditioned upon the issuance of all necessary county or city permits.
+14 No mining operations may be commenced under a permit conditioned upon the
+15 issuance of all necessary county or city permits until the Board of Minerals and
+16 Environment is notified by the applicant in writing that the required county or city permits
+17 have been obtained by the applicant.
+18 Section 3. That § 45-6B-4 be AMENDED:
+19 45-6B-4. Any county or first or second class municipality which has adopted a
+20 comprehensive plan and zoning ordinances may adopt ordinances or requirements
+21 governing mining operations which are not inconsistent or in conflict with applicable state
+22 laws or administrative rules. However, such a county or municipality may not require
+23 additional bonds or sureties if the same are required by state law or administrative rule.
+24 The Board of Minerals and Environment may not grant a permit for a mining operation
+25 unless the applicant has complied with all county or city ordinances and requirements and
+26 obtained necessary county or city permits. However, if the applicant has substantially
+27 complied with the procedure for obtaining any necessary county or city permits but has
+28 not obtained such permits due to administrative delay, the Board of Minerals and
+29 Environment may grant a mining permit which is conditioned upon the issuance of all
+30 necessary county or city permits within sixty days of the date of the board's issuance of
+31 the conditioned mining permit. If a county or municipality has adopted an ordinance
+32 governing mining operations, any proceedings of and any action taken by the county or
+33 municipality with regard to the proposed mining operation may be considered by the Board
+34 of Minerals and Environment before the issuance or denial of a permit pursuant to this
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1288A 3 1288
+1 chapter, including a permit conditioned upon the issuance of all necessary county or city
+2 permits.
+3 No mining operations may be commenced under a permit conditioned upon the
+4 issuance of all necessary county or city permits until the Board of Minerals and
+5 Environment is notified by the applicant in writing that the required county or city permits
+6 have been obtained by the applicant.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 4 ( S ( G ( R ( P ( L ( I m T a t T f f t l i o h d a f e m s a s f S A c o f o s c m w h a a c a l A s]
+[DELETED:  2 1 U  a c c I n t u t I a p b c N i o a n c o c p u t B o M a E h S 4 c p a z o m a o o r g l a T u o c n o s p d t a d t B o M a E n t c m p I c o m a a o g m o]
+[DELETED:  3 1 U  c p N i o a n c o c p u t B o M a E h]

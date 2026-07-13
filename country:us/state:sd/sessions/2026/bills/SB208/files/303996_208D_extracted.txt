@@ -1,0 +1,124 @@
+Title: Senate Bill 208
+Official Title: Senate Bill 208
+Number of Sections: 1
+Source: versions - 208D
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+208D 101st Legislative Session 208
+2026 South Dakota Legislature
+AMENDME NT 208D
+FOR THE SENATE JUDICIARY ENGROSSED BILL
+Introduced by: Senator Hulse
+1 An Act to require the award of certain disbursements to prevailing owners and
+2 taxpayers in appeals of property classifications or assessments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-11-45.1 be AMENDED:
+5 10-11-45.1. The If an aggrieved owner or taxpayer does not prevail in an action
+6 relative to the classification or amount of assessment of property, brought to circuit court
+7 pursuant to this chapter, the circuit court may must award disbursements, including
+8 reasonable attorneys' attorney fees, in an action brought to circuit court pursuant to this
+9 chapter by any appellant relative to the classification or amount of assessment of property,
+10 if the appellant does not prevail in its the appeal of the property classification or amount
+11 of assessment to the county.
+12 If an aggrieved owner or taxpayer prevails in the reclassification of the property or
+13 obtains an assessment resulting in a reduction of the appealed assessment by at least
+14 twenty percent, the court must award disbursements and reasonable attorney fees to the
+15 owner or taxpayer.
+16 If an aggrieved owner or taxpayer obtains an assessment resulting in a reduction
+17 of the appealed assessment by less than twenty percent, the court may award
+18 disbursements and reasonable attorney fees to the owner or taxpayer.
+19 Section 2. That § 10-11-78 be AMENDED:
+20 10-11-78. On motion, the Supreme Court may award reasonable attorneys' fees
+21 in In an action brought to the Supreme Court of South Dakota, pursuant to this chapter,
+22 against any appellant relative to the classification or amount of assessment of property,
+23 the court, upon motion:
+24 (1) May Must award disbursements, including reasonable attorney fees, to the county,
+25 if the appellant aggrieved owner or taxpayer does not prevail in its appeal of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+208D 2 208
+1 reclassification of the property or obtain an assessment. The motion shall be
+2 accompanied by counsel's that is lower than the appealed assessment; or
+3 (2) Must award disbursements, including reasonable attorney fees, to an appellant
+4 aggrieved owner or taxpayer that prevails in the reclassification of the property or
+5 obtains an assessment resulting in a reduction of the appealed assessment by at
+6 least twenty percent; or
+7 (3) May award disbursements, including reasonable attorney fees, to an aggrieved
+8 owner or taxpayer that obtains an assessment resulting in a reduction of the
+9 appealed assessment by less than twenty percent.
+10 The attorney for the moving party shall file a verified, itemized statement of costs
+11 incurred, and legal services rendered, with the motion under this section.
+12 Section 3. That a NEW SECTION be added to chapter 10-11:
+13 Disbursements may not be awarded to an aggrieved owner or taxpayer pursuant
+14 to § 10-11-45.1 or 10-11-78 if the incorrect classification or property assessment value
+15 was a result of the aggrieved owner or taxpayer hindering the ability of the director of
+16 equalization to properly assess the property.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A A t r t a o c d t p o a tLSSD: E T O A S 1 r p t t c t c c m m a d i r c i o I o t o I o t a a b l t t p t c m a d S 1 i a t ( M i]
+[DELETED:  2 2 U  r o t p o o a a T m s b a ( M a o l ( M o o t t o a a r i a r o t a T i S D t w e]
+
+
+================================================================================
+
+Raw Text:
+208D 101st Legislative Session 208
+2026 South Dakota Legislature
+Senate Bill 208
+AMENDME NT 208D
+FOR THE SENATE JUDICIARY ENGROSSED BILL
+Introduced by: Senator Hulse
+1 An Act to require the award of certain disbursements to prevailing owners and
+2 taxpayers in appeals of property classifications or assessments.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-11-45.1 be AMENDED:
+5 10-11-45.1. The If an aggrieved owner or taxpayer does not prevail in an action
+6 relative to the classification or amount of assessment of property, brought to circuit court
+7 pursuant to this chapter, the circuit court may must award disbursements, including
+8 reasonable attorneys' attorney fees, in an action brought to circuit court pursuant to this
+9 chapter by any appellant relative to the classification or amount of assessment of property,
+10 if the appellant does not prevail in its the appeal of the property classification or amount
+11 of assessment to the county.
+12 If an aggrieved owner or taxpayer prevails in the reclassification of the property or
+13 obtains an assessment resulting in a reduction of the appealed assessment by at least
+14 twenty percent, the court must award disbursements and reasonable attorney fees to the
+15 owner or taxpayer.
+16 If an aggrieved owner or taxpayer obtains an assessment resulting in a reduction
+17 of the appealed assessment by less than twenty percent, the court may award
+18 disbursements and reasonable attorney fees to the owner or taxpayer.
+19 Section 2. That § 10-11-78 be AMENDED:
+20 10-11-78. On motion, the Supreme Court may award reasonable attorneys' fees
+21 in In an action brought to the Supreme Court of South Dakota, pursuant to this chapter,
+22 against any appellant relative to the classification or amount of assessment of property,
+23 the court, upon motion:
+24 (1) May Must award disbursements, including reasonable attorney fees, to the county,
+25 if the appellant aggrieved owner or taxpayer does not prevail in its appeal of the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+208D 2 208
+1 reclassification of the property or obtain an assessment. The motion shall be
+2 accompanied by counsel's that is lower than the appealed assessment; or
+3 (2) Must award disbursements, including reasonable attorney fees, to an appellant
+4 aggrieved owner or taxpayer that prevails in the reclassification of the property or
+5 obtains an assessment resulting in a reduction of the appealed assessment by at
+6 least twenty percent; or
+7 (3) May award disbursements, including reasonable attorney fees, to an aggrieved
+8 owner or taxpayer that obtains an assessment resulting in a reduction of the
+9 appealed assessment by less than twenty percent.
+10 The attorney for the moving party shall file a verified, itemized statement of costs
+11 incurred, and legal services rendered, with the motion under this section.
+12 Section 3. That a NEW SECTION be added to chapter 10-11:
+13 Disbursements may not be awarded to an aggrieved owner or taxpayer pursuant
+14 to § 10-11-45.1 or 10-11-78 if the incorrect classification or property assessment value
+15 was a result of the aggrieved owner or taxpayer hindering the ability of the director of
+16 equalization to properly assess the property.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A A t r t a o c d t p o a tLSSD: E T O A S 1 r p t t c t c c m m a d i r c i o I o t o I o t a a b l t t p t c m a d S 1 i a t ( M i]
+[DELETED:  2 2 U  r o t p o o a a T m s b a ( M a o l ( M o o t t o a a r i a r o t a T i S D t w e]

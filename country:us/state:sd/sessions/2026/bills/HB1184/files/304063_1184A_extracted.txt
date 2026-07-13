@@ -1,0 +1,623 @@
+Title: House Bill 1184
+Official Title: House Bill 1184
+Number of Sections: 1
+Source: versions - 1184A
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1184A 101st Legislative Session 1184
+2026 South Dakota Legislature
+AMENDME NT 1184A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hansen
+1 An Act to define man and woman throughout the state and prohibit funding for
+2 anything to the contrary.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 2-14-2 be AMENDED:
+5 2-14-2. Terms used throughout the code of laws, as enacted by § 2-16-13, mean:
+6 (1) "According to usage," that which is usual and customary;
+7 (2) "Adult," any person who is not a minor, as defined in chapter 26-1;
+8 (3) "Boy," a minor human male;
+9 (4) "Children" includes children by birth and by adoption;
+10 (4)(5) "Compound interest," interest added to the principal as the interest becomes due,
+11 and thereafter made to bear interest;
+12 (5)(6) "Corporate surety," a corporation acting as surety for a principal obligor, and which
+13 corporation is duly authorized under the laws of this state to transact business
+14 which that involves acting as such the surety;
+15 (6)(7) "Creditor," except as defined and used in chapters 54-1 and 54-9, everyone to
+16 whom is any person owed the performance of an obligation;
+17 (7)(8) "Day," the period from midnight to midnight;
+18 (8)(9) "Debtor," except as defined and used in chapters 54-1 and 54-9, everyone who
+19 any person that owes to another the performance of an obligation;
+20 (9)(10) "Decree," the same meaning as the word "judgment";
+21 (10)(11) "Depose," every mode of written statement under oath or affirmation;
+22 (11)(12) "Father," a male parent;
+23 (13) "Female," an individual who naturally has, had, will have, or would have, but for a
+24 congenital anomaly or intentional or unintentional disruption, the reproductive
+25 system that produces, transports, and utilizes eggs for fertilization;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 2 1184
+1 (14) "Folio," one hundred words, counting every series of figures necessarily used, as a
+2 word; and any portion of a folio when in the whole draft or paper there shall not
+3 be is not a complete folio and when there shall be is any excess of the last folio;
+4 (12)(15) "Full-time equivalent" or "FTE," a number that designates staffing level where
+5 one full-time equivalent position is equal to the number of days, Monday through
+6 Friday, in a fiscal year, multiplied by eight hours per day. The term excludes: paid,
+7 including, for purposes of salary computation, a nine month or more per year full-
+8 time teaching or research faculty person, or the equivalent thereof, at the
+9 institutions under the jurisdiction of the Board of Regents, and excluding:
+10 (a) Paid overtime hours; hours
+11 (b) Hours paid to an employee assigned to a light duty position as approved by
+12 the commissioner of human resources and administration due to a
+13 temporary partial disability as defined in subdivision 62-1-1(8); hours § 62-
+14 1-1;
+15 (c) Hours paid for accumulated annual leave and sick leave upon employee
+16 termination; hours
+17 (d) Hours paid to patient employees of the institutions under the control of the
+18 Department of Human Services or the Department of Social Services and
+19 the Department of Veterans Affairs; hours
+20 (e) Hours paid to work-study students enrolled in postsecondary educational
+21 institutions or postsecondary students employed through internships in the
+22 legislative branch, judicial branch, or the executive branch; hours
+23 (f) Hours paid to students enrolled in and employed by postsecondary
+24 educational institutions; and hours
+25 (g) Hours paid to members of boards and commissions pursuant to § 4-7-10.4.
+26 For purposes of salary computation a nine month or more per year full-time
+27 teaching or research faculty person, or the equivalent thereof, at the
+28 institutions under the jurisdiction of the Board of Regents shall be
+29 considered one full-time equivalent;
+30 (13)(16) "Girl," a minor human female;
+31 (17) "Good faith," an honest intention to abstain from taking any unconscientious
+32 advantage of another, even through the forms or technicalities of law, together
+33 with an absence of all information or belief of facts which that would render the
+34 transaction unconscientious;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 3 1184
+1 (14)(18) "Indian tribe," any government of any Indian tribe which that is located either
+2 wholly or partially within the State of South Dakota and which state, has a
+3 constitution or a charter approved by the secretary of the United States
+4 Department of the Interior, and which possesses the powers of self-government;
+5 (15)(19) "Male," an individual who naturally has, had, will have, or would have, but for
+6 a congenital anomaly or intentional or unintentional disruption, the reproductive
+7 system that produces, transports, and utilizes sperm for fertilization;
+8 (20) "Man," an adult human male;
+9 (21) "Month," a calendar month;
+10 (16)(22) "Mother," a female parent;
+11 (23) "Municipality," any municipality organized as provided in Title title 9;
+12 (17)(24) "Oath" includes affirmation;
+13 (18)(25) "Person" includes natural persons, partnerships, associations, cooperative
+14 corporations, limited liability companies, and corporations;
+15 (19)(26) "Personal property" includes money, goods, chattels, things in action, and
+16 evidences of debt;
+17 (20)(27) "Population," the number of inhabitants as determined by the last preceding
+18 federal census;
+19 (21)(28) "Property" includes property, real and personal;
+20 (22)(29) "Real property" is coextensive with lands, tenements, and hereditaments;
+21 (23)(30) "Seal" includes an impression of the seal upon the paper alone, as well as upon
+22 wax or a wafer affixed to the paper, and also the word "seal" written or printed on
+23 such the paper;
+24 (24)(31) "Several," in relation to number, two or more;
+25 (25)(32) "Sex," except as used in chapters 22-24A and 22-24B, an individual's biological
+26 sex, either male or female;
+27 (33) "Signature or subscription" includes mark, if the person cannot write, the person's
+28 name being written near such the mark, and written by a person who writes the
+29 person's own name as a witness;
+30 (26)(34) "State," the State of South Dakota;
+31 (27)(35) "Testify," every mode of oral statement under oath or affirmation;
+32 (28)(36) "Third persons" includes all who are not parties to the obligation or transaction
+33 concerning which the phrase is used;
+34 (29)(37) "Township boards board," the board of supervisors of any organized township;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 4 1184
+1 (30)(38) "Usual and customary," according to usage; usage is a reasonable and lawful
+2 public custom concerning transactions of the same nature as those which are to be
+3 affected thereby, existing at the place where the obligation is to be performed, and
+4 either known to the parties, or so well established, general, and uniform, that they
+5 must be presumed to have acted with reference thereto;
+6 (31)(39) "Valuable consideration," value, or a thing of value parted with, or a new
+7 obligation assumed at the time of obtaining the thing, which is a substantial
+8 compensation for that which is obtained thereby. It is also called simply "value";
+9 (32)(40) "Verdict" includes not only the verdict of a jury, but also the finding upon the
+10 facts of a judge, or of a referee appointed to determine the issues in a cause;
+11 (33)(41) "Voter," a person duly registered to vote or one who is performing the act of
+12 voting;
+13 (34)(42) "Will" includes a codicil or codicils;
+14 (35)(43) "Woman," an adult human female;
+15 (44) "Writing" and "written" include typewriting and typewritten, printing and printed,
+16 words, except in the case of signatures, and where the words are used by way of
+17 contrast to typewriting and printing. Writing, and which may be made in any
+18 manner, except that when a person entitled to require the execution of a writing
+19 demands that it be made with ink, it must be so made; and
+20 (36)(45) "Year," a calendar year.
+21 Section 2. That a NEW SECTION be added to chapter 2-14:
+22 The definitions of "boy," "father," "female," "girl," "male," "man," "mother," "sex,"
+23 and "woman," as set forth in § 2-14-2, apply uniformly throughout all administrative rules,
+24 contracts, guidance documents, policies, practices, and statutes of the state and each
+25 political subdivision.
+26 Section 3. That a NEW SECTION be added to chapter 2-14:
+27 Each state agency, department, board, commission, institution, political
+28 subdivision, and any other entity exercising state authority shall, in the execution of
+29 applicable duties, strictly adhere to the definitions of "boy," "father," "female," "girl,"
+30 "male," "man," "mother," "sex," and "woman," as set forth in § 2-14-2.
+31 Section 4. That a NEW SECTION be added to chapter 2-14:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 5 1184
+1 A state entity may not:
+2 (1) Adopt, enforce, or give effect to any contract, guidance, interpretation, policy, or rule that
+3 conflicts with the definitions or requirements of sections 2 to 5, inclusive, of this Act; or
+4 (2) Expend public moneys for any activity, initiative, policy, or program that is contrary to or
+5 inconsistent with the definitions of "boy," "father," "female," "girl," "male," "man," "mother,"
+6 "sex," and "woman," as set forth in § 2-14-2.
+7 Section 5. That a NEW SECTION be added to chapter 2-14:
+8 Sections 2 to 4, inclusive, of this Act must be liberally construed.
+9 Section 4. That § 2-14-3 be AMENDED:
+10 2-14-3. Notwithstanding the provisions of subdivision 2-14-2(23) § 2-14-2, a
+11 promissory note shall in no case be deemed or is not considered a sealed instrument
+12 where the word "seal" is printed thereon.
+13 Section 5. That § 4-7-13.1 be AMENDED:
+14 4-7-13.1. The financial plan adopted by the Legislature as prescribed in § 4-7-13
+15 shall must separate the appropriations for full-time equivalent positions as defined in
+16 subdivision 2-14-2(12) § 2-14-2.
+17 Section 6. That § 9-2-7 be AMENDED:
+18 9-2-7. For the purpose of dividing a municipality into wards, the number of
+19 inhabitants is determined by subdivision 2-14-2(20) population, as defined in § 2-14-2.
+20 The governing body may, by resolution, authorize the finance officer to determine the
+21 number of inhabitants by filing a certificate showing the number of persons individuals
+22 registered to vote in each ward of the municipality. That number multiplied by two
+23 constitutes the number of inhabitants until the next federal census is completed.
+24 Section 7. That § 13-49-14.11 be AMENDED:
+25 13-49-14.11. There is hereby created within the Board of Regents the FTE
+26 demand pool. For the purposes of this section, "FTE" means full-time equivalent as defined
+27 in subdivision 2-14-2(12) § 2-14-2. The initial balance of the FTE demand pool shall be is
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 6 1184
+1 established by the Legislature and may be replenished each year through the general
+2 appropriations act. Subject to the approval of the board, the universities may draw upon
+3 the pool for FTEs necessary to staff nonstate funded programs. The board shall administer
+4 the pool in such a way so that any unfunded FTEs are returned to the pool so as to be and
+5 available to be drawn for other programs.
+6 Section 8. That § 29A-5-102 be AMENDED:
+7 29A-5-102. Terms used in this chapter mean:
+8 (1) "Absentee," any individual who has disappeared, who has been forcibly detained
+9 either illegally or by a foreign power, or who is otherwise located in a foreign
+10 country and is unable to return;
+11 (2) "Conservator," one appointed by the court to be responsible for managing the
+12 estate and financial affairs of a minor or protected person;
+13 (3) "Court representative," any individual appointed by the court to make
+14 investigations and recommendations as provided in this chapter or as otherwise
+15 ordered by the court;
+16 (4) "Guardian," one appointed by the court to be responsible for the personal affairs
+17 of a minor or protected person, but excludes one who is merely a guardian ad
+18 litem;
+19 (5) "Interested person," any individual who is the subject of a guardianship or
+20 conservatorship proceeding, and any entity, public agency, or other individual with
+21 an interest in the proceeding, either generally or as to a particular matter;
+22 (6) "Limited conservator," one appointed by the court who has only those
+23 responsibilities for managing the estate and financial affairs of a minor or protected
+24 person as are specified in the order of appointment;
+25 (7) "Limited guardian," one appointed by the court who has only those responsibilities
+26 for the personal affairs of a minor or protected person as are specified in the order
+27 of appointment;
+28 (8) "Minor," any individual under eighteen years of age;
+29 (9) "Person alleged to need protection," any individual for whom the appointment of a
+30 guardian or conservator is being sought other than for reasons of minority;
+31 (10) "Protected person," any individual for whom a guardian or conservator has been
+32 appointed other than for reasons of minority.
+33 Unless the context otherwise requires, anyAny reference to a "guardian" includes
+34 a "limited guardian," and any reference to a "conservator" includes a "limited
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 7 1184
+1 conservator." Any reference to a "conservator" also includes," or a guardian with authority
+2 to manage the estate and financial affairs of a minor or protected person who was
+3 appointed prior to July 1, 1993. Any reference to a "person" refers to either an "interested
+4 person," a "person alleged to need protection," or a "protected person," as the context
+5 requires, and but does not refer to a "person" as defined in § 2-14-2(18).
+6 Section 9. That § 32-5-2 be AMENDED:
+7 32-5-2. Every owner, or with written authorization, any other person, as defined
+8 by subdivision 2-14-2(18) in § 2-14-2, on behalf of and as the agent for the owner, of a
+9 motor vehicle, motorcycle, truck tractor, road tractor, trailer or semitrailer, or recreational
+10 vehicle or trailer, which is operated or driven upon the public highways of this state, shall,
+11 except as otherwise expressly provided, present to the county treasurer of the owner's
+12 county, or, in case of a nonresident of this state, the treasurer of any county, application
+13 for the registration of that vehicle. The application form shall must be furnished by the
+14 department and shall contain but not be limited to at least the following information:
+15 (1) The number of cylinders or the bore and stroke of each cylinder;
+16 (2) The manufacturer's weight;
+17 (3) Whether the vehicle operates on diesel fuel, liquified petroleum gas, gasoline, or
+18 any other special fuel;
+19 (4) The make, model, body, year, color, and vehicle identification number of the
+20 vehicle;
+21 (5) The odometer reading; and
+22 (6) The purchase price and the name and address of the seller, buyer, and any
+23 lienholder, if any.
+24 Any person who fails to provide the above information to the county treasurer or
+25 the department is guilty of a Class 2 misdemeanor. The department or the county
+26 treasurer may not accept an incomplete application form or an application form which that
+27 the department considers erroneous.
+28 Section 10. That § 32-5-27 be AMENDED:
+29 32-5-27. Any person, firm, corporation, or limited liability company, except a
+30 licensed vehicle dealer, that which brings into the state or purchases any used or
+31 secondhand out-of-state motor vehicles vehicle that is not currently licensed in this state
+32 for the purpose of sale or resale, except vehicles a vehicle receiving a junking certificate,
+33 a motor vehicles vehicle with a gross vehicle weight rating of over twenty-six thousand
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 8 1184
+1 pounds, or a semitrailer with a manufacturer's shipping weight of nine thousand pounds
+2 or more, shall, within forty-five days from the date of purchase or entry of the motor
+3 vehicle into the limits of this state, title the motor vehicle pursuant to chapter 32-3 and
+4 pay the excise tax pursuant to chapter 32-5B but, provided that the person is not required
+5 to license the vehicle. Any licensed motor vehicle dealer titling a motor vehicle pursuant
+6 to this section is exempt from paying the excise tax imposed by § 32-5B-1 on the vehicle.
+7 A The department shall issue a title for a vehicle titled by a licensed motor vehicle dealer
+8 pursuant to this section shall be issued a title indicating, which indicates that no excise
+9 tax has been paid. Upon transfer of the title to a subsequent purchaser of the motor
+10 vehicle, the excise tax shall must be paid by the purchaser or by any other person as
+11 defined by subdivision 2-14-2(18) in § 2-14-2, on behalf of and as the agent for the
+12 purchaser. A violation of this section is a Class 2 misdemeanor.
+13 The provisions of this section do not apply to any motor vehicle titled and licensed
+14 in another jurisdiction that, which is sold in this state through a dealer's car auction agency
+15 licensed under the provisions of chapter 32-6B.
+16 Section 11. That § 32-5B-9 be AMENDED:
+17 32-5B-9. The Except as otherwise provided, a new owner of a motor vehicle, or
+18 with written authorization, any other person, as defined by subdivision 2-14-2(18) in § 2-
+19 14-2, on behalf of and as the agent for the new owner, shall present to the county
+20 treasurer in the county of the new owner's residence the manufacturer's or importer's
+21 statement or certificate of origin or the assigned certificate of title and a properly endorsed
+22 motor vehicle purchaser's certificate. The motor vehicle purchaser's certificate shall must
+23 be on a form to be furnished by the Department of Revenue department through the
+24 county treasurer's office. The certificate shall must contain a complete description of the
+25 motor vehicle, the owner's name and address, the previous owner's name and address,
+26 the full purchase price, as defined by in § 32-5B-4, and how computed together with the
+27 method of computing the price, the trade-in allowance and description of the trade, if any,
+28 and any other relevant information the Department of Revenue department may require.
+29 However, for For a motor vehicle licensed and registered pursuant to chapter 32-10, the
+30 owner must present to the department the manufacturer's or importer's statement or
+31 certificate of origin or an assigned certificate of title and a properly endorsed motor vehicle
+32 purchaser's certificate shall be presented to the Department of Revenue. Any person who
+33 intentionally falsifies information on the certificate is guilty of a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1184A 9 1184
+1 Section 12. That § 33A-1-29 be AMENDED:
+2 33A-1-29. An Indian tribe, as defined in subdivision 2-14-2(14) § 2-14-2, may
+3 appoint a veterans' service officer who shall to serve under the same terms and conditions
+4 as a county veterans' service officer, as provided for in §§ 33A-1-22 to 33A-1-28,
+5 inclusive, or may contract with the Department of Veterans Affairs to provide the services
+6 of a veterans' service officer pursuant to § 33A-1-24. Such officers shall be known as Any
+7 officer appointed or contracted with pursuant to this section is a tribal veterans' service
+8 officers officer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A aLSSD: E T O A S 2 ( " ( " ( " ( " ( a ( c w ( w ( ( a ( " ( " ( " ( " c a o i o u d t r s]
+[DELETED:  2 1 U  ( " w b ( " o F i t t o r f p o t e t a t i ( P ( H t c o h r a a d t a t 1 ( H t ( H D t ( H i l ( H p t s e i a e b p e ( H F t o r f p o t e t a t i u t j o t B o R s b c ( " ( " f a h i t a f t a u a w t]
+[DELETED:  3 1 U  ( " w o p w t S o S D a w s h a c o a c a b t s o t U S D ( " a s ( " ( " ( " ( " ( " ( " i n p p a c c ( " p i m g c t i a a e ( " f ( " ( " ( " w s ( " ( " s ( " n p ( " ( " ( " c ( "]
+[DELETED:  4 1 U  ( " p a e m ( " c v o a t o v p w o a n o a a t t o o t t w i a s c ( " f ( " v ( " ( " ( " w c t t a p W a w m b m i a m d ( " S T a c p S E s a d b c i p s a a o e e s a s t e o a s " S]
+[DELETED:  5 1 U  A ( c ( i " S S S 2 N t p o s 2 § a p w S 4 s f s S 9 F t p o d a m i w t n o i T n r t v i e w o t m T n m b t c S 1 T i h c w t B o R t F d i]
+[DELETED:  6 1 U  e a t t a S 2 ( " e c ( " e ( " r a i a b t c t m i o ( " o l ( " p a i w i t s o a g o c a ( " c o a b t c w h o t r p ( " f o ( " ( " g ( " a U a " g a a r t a " i a "]
+[DELETED:  7 1 U  c t m t e a f a o a m o p p w w a p r S 3 b m v e c f d ( T ( T ( W a ( T m m b y c a v i n o t v ( T ( T p p a t n a a o t s b a a l A t d i g o a C 2 m T d o t c t t S 3 f c o l l a l v d t w b i t s o p a u o s f a]
+[DELETED:  8 1 U  p o v p t t A p t v d 2 p T i l S 3 w 1 o b o a a t a f t n o s p t t c t s m b c m t m a H o c p i]
+[DELETED:  9 1 U  S 3 a a a c v s o a p f i § t 3 i o o o]
+
+
+================================================================================
+
+Raw Text:
+1184A 101st Legislative Session 1184
+2026 South Dakota Legislature
+House Bill 1184
+AMENDME NT 1184A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hansen
+1 An Act to define man and woman throughout the state and prohibit funding for
+2 anything to the contrary.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 2-14-2 be AMENDED:
+5 2-14-2. Terms used throughout the code of laws, as enacted by § 2-16-13, mean:
+6 (1) "According to usage," that which is usual and customary;
+7 (2) "Adult," any person who is not a minor, as defined in chapter 26-1;
+8 (3) "Boy," a minor human male;
+9 (4) "Children" includes children by birth and by adoption;
+10 (4)(5) "Compound interest," interest added to the principal as the interest becomes due,
+11 and thereafter made to bear interest;
+12 (5)(6) "Corporate surety," a corporation acting as surety for a principal obligor, and which
+13 corporation is duly authorized under the laws of this state to transact business
+14 which that involves acting as such the surety;
+15 (6)(7) "Creditor," except as defined and used in chapters 54-1 and 54-9, everyone to
+16 whom is any person owed the performance of an obligation;
+17 (7)(8) "Day," the period from midnight to midnight;
+18 (8)(9) "Debtor," except as defined and used in chapters 54-1 and 54-9, everyone who
+19 any person that owes to another the performance of an obligation;
+20 (9)(10) "Decree," the same meaning as the word "judgment";
+21 (10)(11) "Depose," every mode of written statement under oath or affirmation;
+22 (11)(12) "Father," a male parent;
+23 (13) "Female," an individual who naturally has, had, will have, or would have, but for a
+24 congenital anomaly or intentional or unintentional disruption, the reproductive
+25 system that produces, transports, and utilizes eggs for fertilization;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 2 1184
+1 (14) "Folio," one hundred words, counting every series of figures necessarily used, as a
+2 word; and any portion of a folio when in the whole draft or paper there shall not
+3 be is not a complete folio and when there shall be is any excess of the last folio;
+4 (12)(15) "Full-time equivalent" or "FTE," a number that designates staffing level where
+5 one full-time equivalent position is equal to the number of days, Monday through
+6 Friday, in a fiscal year, multiplied by eight hours per day. The term excludes: paid,
+7 including, for purposes of salary computation, a nine month or more per year full-
+8 time teaching or research faculty person, or the equivalent thereof, at the
+9 institutions under the jurisdiction of the Board of Regents, and excluding:
+10 (a) Paid overtime hours; hours
+11 (b) Hours paid to an employee assigned to a light duty position as approved by
+12 the commissioner of human resources and administration due to a
+13 temporary partial disability as defined in subdivision 62-1-1(8); hours § 62-
+14 1-1;
+15 (c) Hours paid for accumulated annual leave and sick leave upon employee
+16 termination; hours
+17 (d) Hours paid to patient employees of the institutions under the control of the
+18 Department of Human Services or the Department of Social Services and
+19 the Department of Veterans Affairs; hours
+20 (e) Hours paid to work-study students enrolled in postsecondary educational
+21 institutions or postsecondary students employed through internships in the
+22 legislative branch, judicial branch, or the executive branch; hours
+23 (f) Hours paid to students enrolled in and employed by postsecondary
+24 educational institutions; and hours
+25 (g) Hours paid to members of boards and commissions pursuant to § 4-7-10.4.
+26 For purposes of salary computation a nine month or more per year full-time
+27 teaching or research faculty person, or the equivalent thereof, at the
+28 institutions under the jurisdiction of the Board of Regents shall be
+29 considered one full-time equivalent;
+30 (13)(16) "Girl," a minor human female;
+31 (17) "Good faith," an honest intention to abstain from taking any unconscientious
+32 advantage of another, even through the forms or technicalities of law, together
+33 with an absence of all information or belief of facts which that would render the
+34 transaction unconscientious;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 3 1184
+1 (14)(18) "Indian tribe," any government of any Indian tribe which that is located either
+2 wholly or partially within the State of South Dakota and which state, has a
+3 constitution or a charter approved by the secretary of the United States
+4 Department of the Interior, and which possesses the powers of self-government;
+5 (15)(19) "Male," an individual who naturally has, had, will have, or would have, but for
+6 a congenital anomaly or intentional or unintentional disruption, the reproductive
+7 system that produces, transports, and utilizes sperm for fertilization;
+8 (20) "Man," an adult human male;
+9 (21) "Month," a calendar month;
+10 (16)(22) "Mother," a female parent;
+11 (23) "Municipality," any municipality organized as provided in Title title 9;
+12 (17)(24) "Oath" includes affirmation;
+13 (18)(25) "Person" includes natural persons, partnerships, associations, cooperative
+14 corporations, limited liability companies, and corporations;
+15 (19)(26) "Personal property" includes money, goods, chattels, things in action, and
+16 evidences of debt;
+17 (20)(27) "Population," the number of inhabitants as determined by the last preceding
+18 federal census;
+19 (21)(28) "Property" includes property, real and personal;
+20 (22)(29) "Real property" is coextensive with lands, tenements, and hereditaments;
+21 (23)(30) "Seal" includes an impression of the seal upon the paper alone, as well as upon
+22 wax or a wafer affixed to the paper, and also the word "seal" written or printed on
+23 such the paper;
+24 (24)(31) "Several," in relation to number, two or more;
+25 (25)(32) "Sex," except as used in chapters 22-24A and 22-24B, an individual's biological
+26 sex, either male or female;
+27 (33) "Signature or subscription" includes mark, if the person cannot write, the person's
+28 name being written near such the mark, and written by a person who writes the
+29 person's own name as a witness;
+30 (26)(34) "State," the State of South Dakota;
+31 (27)(35) "Testify," every mode of oral statement under oath or affirmation;
+32 (28)(36) "Third persons" includes all who are not parties to the obligation or transaction
+33 concerning which the phrase is used;
+34 (29)(37) "Township boards board," the board of supervisors of any organized township;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 4 1184
+1 (30)(38) "Usual and customary," according to usage; usage is a reasonable and lawful
+2 public custom concerning transactions of the same nature as those which are to be
+3 affected thereby, existing at the place where the obligation is to be performed, and
+4 either known to the parties, or so well established, general, and uniform, that they
+5 must be presumed to have acted with reference thereto;
+6 (31)(39) "Valuable consideration," value, or a thing of value parted with, or a new
+7 obligation assumed at the time of obtaining the thing, which is a substantial
+8 compensation for that which is obtained thereby. It is also called simply "value";
+9 (32)(40) "Verdict" includes not only the verdict of a jury, but also the finding upon the
+10 facts of a judge, or of a referee appointed to determine the issues in a cause;
+11 (33)(41) "Voter," a person duly registered to vote or one who is performing the act of
+12 voting;
+13 (34)(42) "Will" includes a codicil or codicils;
+14 (35)(43) "Woman," an adult human female;
+15 (44) "Writing" and "written" include typewriting and typewritten, printing and printed,
+16 words, except in the case of signatures, and where the words are used by way of
+17 contrast to typewriting and printing. Writing, and which may be made in any
+18 manner, except that when a person entitled to require the execution of a writing
+19 demands that it be made with ink, it must be so made; and
+20 (36)(45) "Year," a calendar year.
+21 Section 2. That a NEW SECTION be added to chapter 2-14:
+22 The definitions of "boy," "father," "female," "girl," "male," "man," "mother," "sex,"
+23 and "woman," as set forth in § 2-14-2, apply uniformly throughout all administrative rules,
+24 contracts, guidance documents, policies, practices, and statutes of the state and each
+25 political subdivision.
+26 Section 3. That a NEW SECTION be added to chapter 2-14:
+27 Each state agency, department, board, commission, institution, political
+28 subdivision, and any other entity exercising state authority shall, in the execution of
+29 applicable duties, strictly adhere to the definitions of "boy," "father," "female," "girl,"
+30 "male," "man," "mother," "sex," and "woman," as set forth in § 2-14-2.
+31 Section 4. That a NEW SECTION be added to chapter 2-14:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 5 1184
+1 A state entity may not:
+2 (1) Adopt, enforce, or give effect to any contract, guidance, interpretation, policy, or rule that
+3 conflicts with the definitions or requirements of sections 2 to 5, inclusive, of this Act; or
+4 (2) Expend public moneys for any activity, initiative, policy, or program that is contrary to or
+5 inconsistent with the definitions of "boy," "father," "female," "girl," "male," "man," "mother,"
+6 "sex," and "woman," as set forth in § 2-14-2.
+7 Section 5. That a NEW SECTION be added to chapter 2-14:
+8 Sections 2 to 4, inclusive, of this Act must be liberally construed.
+9 Section 4. That § 2-14-3 be AMENDED:
+10 2-14-3. Notwithstanding the provisions of subdivision 2-14-2(23) § 2-14-2, a
+11 promissory note shall in no case be deemed or is not considered a sealed instrument
+12 where the word "seal" is printed thereon.
+13 Section 5. That § 4-7-13.1 be AMENDED:
+14 4-7-13.1. The financial plan adopted by the Legislature as prescribed in § 4-7-13
+15 shall must separate the appropriations for full-time equivalent positions as defined in
+16 subdivision 2-14-2(12) § 2-14-2.
+17 Section 6. That § 9-2-7 be AMENDED:
+18 9-2-7. For the purpose of dividing a municipality into wards, the number of
+19 inhabitants is determined by subdivision 2-14-2(20) population, as defined in § 2-14-2.
+20 The governing body may, by resolution, authorize the finance officer to determine the
+21 number of inhabitants by filing a certificate showing the number of persons individuals
+22 registered to vote in each ward of the municipality. That number multiplied by two
+23 constitutes the number of inhabitants until the next federal census is completed.
+24 Section 7. That § 13-49-14.11 be AMENDED:
+25 13-49-14.11. There is hereby created within the Board of Regents the FTE
+26 demand pool. For the purposes of this section, "FTE" means full-time equivalent as defined
+27 in subdivision 2-14-2(12) § 2-14-2. The initial balance of the FTE demand pool shall be is
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 6 1184
+1 established by the Legislature and may be replenished each year through the general
+2 appropriations act. Subject to the approval of the board, the universities may draw upon
+3 the pool for FTEs necessary to staff nonstate funded programs. The board shall administer
+4 the pool in such a way so that any unfunded FTEs are returned to the pool so as to be and
+5 available to be drawn for other programs.
+6 Section 8. That § 29A-5-102 be AMENDED:
+7 29A-5-102. Terms used in this chapter mean:
+8 (1) "Absentee," any individual who has disappeared, who has been forcibly detained
+9 either illegally or by a foreign power, or who is otherwise located in a foreign
+10 country and is unable to return;
+11 (2) "Conservator," one appointed by the court to be responsible for managing the
+12 estate and financial affairs of a minor or protected person;
+13 (3) "Court representative," any individual appointed by the court to make
+14 investigations and recommendations as provided in this chapter or as otherwise
+15 ordered by the court;
+16 (4) "Guardian," one appointed by the court to be responsible for the personal affairs
+17 of a minor or protected person, but excludes one who is merely a guardian ad
+18 litem;
+19 (5) "Interested person," any individual who is the subject of a guardianship or
+20 conservatorship proceeding, and any entity, public agency, or other individual with
+21 an interest in the proceeding, either generally or as to a particular matter;
+22 (6) "Limited conservator," one appointed by the court who has only those
+23 responsibilities for managing the estate and financial affairs of a minor or protected
+24 person as are specified in the order of appointment;
+25 (7) "Limited guardian," one appointed by the court who has only those responsibilities
+26 for the personal affairs of a minor or protected person as are specified in the order
+27 of appointment;
+28 (8) "Minor," any individual under eighteen years of age;
+29 (9) "Person alleged to need protection," any individual for whom the appointment of a
+30 guardian or conservator is being sought other than for reasons of minority;
+31 (10) "Protected person," any individual for whom a guardian or conservator has been
+32 appointed other than for reasons of minority.
+33 Unless the context otherwise requires, anyAny reference to a "guardian" includes
+34 a "limited guardian," and any reference to a "conservator" includes a "limited
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 7 1184
+1 conservator." Any reference to a "conservator" also includes," or a guardian with authority
+2 to manage the estate and financial affairs of a minor or protected person who was
+3 appointed prior to July 1, 1993. Any reference to a "person" refers to either an "interested
+4 person," a "person alleged to need protection," or a "protected person," as the context
+5 requires, and but does not refer to a "person" as defined in § 2-14-2(18).
+6 Section 9. That § 32-5-2 be AMENDED:
+7 32-5-2. Every owner, or with written authorization, any other person, as defined
+8 by subdivision 2-14-2(18) in § 2-14-2, on behalf of and as the agent for the owner, of a
+9 motor vehicle, motorcycle, truck tractor, road tractor, trailer or semitrailer, or recreational
+10 vehicle or trailer, which is operated or driven upon the public highways of this state, shall,
+11 except as otherwise expressly provided, present to the county treasurer of the owner's
+12 county, or, in case of a nonresident of this state, the treasurer of any county, application
+13 for the registration of that vehicle. The application form shall must be furnished by the
+14 department and shall contain but not be limited to at least the following information:
+15 (1) The number of cylinders or the bore and stroke of each cylinder;
+16 (2) The manufacturer's weight;
+17 (3) Whether the vehicle operates on diesel fuel, liquified petroleum gas, gasoline, or
+18 any other special fuel;
+19 (4) The make, model, body, year, color, and vehicle identification number of the
+20 vehicle;
+21 (5) The odometer reading; and
+22 (6) The purchase price and the name and address of the seller, buyer, and any
+23 lienholder, if any.
+24 Any person who fails to provide the above information to the county treasurer or
+25 the department is guilty of a Class 2 misdemeanor. The department or the county
+26 treasurer may not accept an incomplete application form or an application form which that
+27 the department considers erroneous.
+28 Section 10. That § 32-5-27 be AMENDED:
+29 32-5-27. Any person, firm, corporation, or limited liability company, except a
+30 licensed vehicle dealer, that which brings into the state or purchases any used or
+31 secondhand out-of-state motor vehicles vehicle that is not currently licensed in this state
+32 for the purpose of sale or resale, except vehicles a vehicle receiving a junking certificate,
+33 a motor vehicles vehicle with a gross vehicle weight rating of over twenty-six thousand
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 8 1184
+1 pounds, or a semitrailer with a manufacturer's shipping weight of nine thousand pounds
+2 or more, shall, within forty-five days from the date of purchase or entry of the motor
+3 vehicle into the limits of this state, title the motor vehicle pursuant to chapter 32-3 and
+4 pay the excise tax pursuant to chapter 32-5B but, provided that the person is not required
+5 to license the vehicle. Any licensed motor vehicle dealer titling a motor vehicle pursuant
+6 to this section is exempt from paying the excise tax imposed by § 32-5B-1 on the vehicle.
+7 A The department shall issue a title for a vehicle titled by a licensed motor vehicle dealer
+8 pursuant to this section shall be issued a title indicating, which indicates that no excise
+9 tax has been paid. Upon transfer of the title to a subsequent purchaser of the motor
+10 vehicle, the excise tax shall must be paid by the purchaser or by any other person as
+11 defined by subdivision 2-14-2(18) in § 2-14-2, on behalf of and as the agent for the
+12 purchaser. A violation of this section is a Class 2 misdemeanor.
+13 The provisions of this section do not apply to any motor vehicle titled and licensed
+14 in another jurisdiction that, which is sold in this state through a dealer's car auction agency
+15 licensed under the provisions of chapter 32-6B.
+16 Section 11. That § 32-5B-9 be AMENDED:
+17 32-5B-9. The Except as otherwise provided, a new owner of a motor vehicle, or
+18 with written authorization, any other person, as defined by subdivision 2-14-2(18) in § 2-
+19 14-2, on behalf of and as the agent for the new owner, shall present to the county
+20 treasurer in the county of the new owner's residence the manufacturer's or importer's
+21 statement or certificate of origin or the assigned certificate of title and a properly endorsed
+22 motor vehicle purchaser's certificate. The motor vehicle purchaser's certificate shall must
+23 be on a form to be furnished by the Department of Revenue department through the
+24 county treasurer's office. The certificate shall must contain a complete description of the
+25 motor vehicle, the owner's name and address, the previous owner's name and address,
+26 the full purchase price, as defined by in § 32-5B-4, and how computed together with the
+27 method of computing the price, the trade-in allowance and description of the trade, if any,
+28 and any other relevant information the Department of Revenue department may require.
+29 However, for For a motor vehicle licensed and registered pursuant to chapter 32-10, the
+30 owner must present to the department the manufacturer's or importer's statement or
+31 certificate of origin or an assigned certificate of title and a properly endorsed motor vehicle
+32 purchaser's certificate shall be presented to the Department of Revenue. Any person who
+33 intentionally falsifies information on the certificate is guilty of a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1184A 9 1184
+1 Section 12. That § 33A-1-29 be AMENDED:
+2 33A-1-29. An Indian tribe, as defined in subdivision 2-14-2(14) § 2-14-2, may
+3 appoint a veterans' service officer who shall to serve under the same terms and conditions
+4 as a county veterans' service officer, as provided for in §§ 33A-1-22 to 33A-1-28,
+5 inclusive, or may contract with the Department of Veterans Affairs to provide the services
+6 of a veterans' service officer pursuant to § 33A-1-24. Such officers shall be known as Any
+7 officer appointed or contracted with pursuant to this section is a tribal veterans' service
+8 officers officer.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A aLSSD: E T O A S 2 ( " ( " ( " ( " ( a ( c w ( w ( ( a ( " ( " ( " ( " c a o i o u d t r s]
+[DELETED:  2 1 U  ( " w b ( " o F i t t o r f p o t e t a t i ( P ( H t c o h r a a d t a t 1 ( H t ( H D t ( H i l ( H p t s e i a e b p e ( H F t o r f p o t e t a t i u t j o t B o R s b c ( " ( " f a h i t a f t a u a w t]
+[DELETED:  3 1 U  ( " w o p w t S o S D a w s h a c o a c a b t s o t U S D ( " a s ( " ( " ( " ( " ( " ( " i n p p a c c ( " p i m g c t i a a e ( " f ( " ( " ( " w s ( " ( " s ( " n p ( " ( " ( " c ( "]
+[DELETED:  4 1 U  ( " p a e m ( " c v o a t o v p w o a n o a a t t o o t t w i a s c ( " f ( " v ( " ( " ( " w c t t a p W a w m b m i a m d ( " S T a c p S E s a d b c i p s a a o e e s a s t e o a s " S]
+[DELETED:  5 1 U  A ( c ( i " S S S 2 N t p o s 2 § a p w S 4 s f s S 9 F t p o d a m i w t n o i T n r t v i e w o t m T n m b t c S 1 T i h c w t B o R t F d i]
+[DELETED:  6 1 U  e a t t a S 2 ( " e c ( " e ( " r a i a b t c t m i o ( " o l ( " p a i w i t s o a g o c a ( " c o a b t c w h o t r p ( " f o ( " ( " g ( " a U a " g a a r t a " i a "]
+[DELETED:  7 1 U  c t m t e a f a o a m o p p w w a p r S 3 b m v e c f d ( T ( T ( W a ( T m m b y c a v i n o t v ( T ( T p p a t n a a o t s b a a l A t d i g o a C 2 m T d o t c t t S 3 f c o l l a l v d t w b i t s o p a u o s f a]
+[DELETED:  8 1 U  p o v p t t A p t v d 2 p T i l S 3 w 1 o b o a a t a f t n o s p t t c t s m b c m t m a H o c p i]
+[DELETED:  9 1 U  S 3 a a a c v s o a p f i § t 3 i o o o]

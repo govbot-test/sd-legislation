@@ -1,0 +1,59 @@
+Title: Senate Bill 177
+Official Title: Senate Bill 177
+Number of Sections: 1
+Source: versions - 177C
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+177C 101st Legislative Session 177
+2026 South Dakota Legislature
+AMENDME NT 177C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Blanc
+1 An Act to require that a voter use a black ink pen when marking an optical scan
+2 ballot clarify the requirements for marking an optical scan ballot.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-18-16.1 be AMENDED:
+5 12-18-16.1. If an optical scan ballot is used, the voter may use a pencil or other
+6 marking instrument provided must use a black ink ballpoint pen to mark the voter's choice
+7 on the ballot person in charge of the election must:
+8 (1) Provide a black ink pen for each in-person voter to mark the voter's choice on the
+9 ballot; and
+10 (2) Provide instructions to each voter who applies to vote by absentee ballot that the
+11 voter use a black ink pen to mark the voter's choice on the ballot.
+12 The person in charge of the election may not disqualify any ballot marked by a
+13 writing instrument other than a black ink pen.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A bLSSD: E T O A S 1 m o ( P b ( P v T w]
+
+
+================================================================================
+
+Raw Text:
+177C 101st Legislative Session 177
+2026 South Dakota Legislature
+Senate Bill 177
+AMENDME NT 177C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Blanc
+1 An Act to require that a voter use a black ink pen when marking an optical scan
+2 ballot clarify the requirements for marking an optical scan ballot.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-18-16.1 be AMENDED:
+5 12-18-16.1. If an optical scan ballot is used, the voter may use a pencil or other
+6 marking instrument provided must use a black ink ballpoint pen to mark the voter's choice
+7 on the ballot person in charge of the election must:
+8 (1) Provide a black ink pen for each in-person voter to mark the voter's choice on the
+9 ballot; and
+10 (2) Provide instructions to each voter who applies to vote by absentee ballot that the
+11 voter use a black ink pen to mark the voter's choice on the ballot.
+12 The person in charge of the election may not disqualify any ballot marked by a
+13 writing instrument other than a black ink pen.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A bLSSD: E T O A S 1 m o ( P b ( P v T w]

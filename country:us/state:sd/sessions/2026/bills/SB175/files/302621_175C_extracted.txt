@@ -1,0 +1,272 @@
+Title: Senate Bill 175
+Official Title: Senate Bill 175
+Number of Sections: 1
+Source: versions - 175C
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+175C 101st Legislative Session 175
+2026 South Dakota Legislature
+AMENDME NT 175C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to require that an individual provide proof of citizenship when registering to
+2 vote using the voter registration form prescribed by the State Board of
+3 Elections and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 12-4-1 be AMENDED:
+6 12-4-1. An individual who is a resident of this state, as defined in § 12-1-4, and
+7 has or will have the qualifications of a voter prescribed by § 12-3-1 or 12-3-1.1 at the
+8 next ensuing municipal, primary, general, or school district election, is entitled to be
+9 registered as a voter in the election precinct in which the person maintains residenceAn
+10 individual is entitled to register as a voter of this state if the individual:
+11 (1) Is a citizen of the United States and has provided sufficient evidence, as set forth
+12 in section 2 of this Act, to demonstrate the individual's citizenship;
+13 (2) Is a resident, as defined in § 12-1-4, of the precinct in which the individual is
+14 registering as a voter;
+15 (3) On or before the next election, is at least eighteen years of age; and
+16 (4) Is not otherwise disqualified from voting.
+17 An individual eligible to vote may vote only in the election precinct where the
+18 person maintains residence the individual is a resident.
+19 An individual who is a resident of a place that is within the boundaries of this state,
+20 which has been ceded to or acquired by the federal government, may not be denied the
+21 right to vote in any election held in the precinct where the individual is a resident if the
+22 individual is otherwise qualified to vote in the election.
+23 Section 2. That § 12-4-1.3 be AMENDED:
+24 12-4-1.3. If an individual applies to register as a voter of this state or to vote by
+25 absentee ballot, using only the address of a commercial mail receiving agency, mail
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+175C 2 175
+1 forwarding service, or other post office box as the individual's residence address, without
+2 providing a description of the location of the individual's habitation, the individual does
+3 not meet the requirements to be a resident of this state for the purposes of this title, and
+4 may be registered only as a federal voter. If an individual who does not meet the
+5 requirements to be a resident of this state is eligible to vote pursuant to this section, the
+6 county auditor must indicate that the individual is eligible to vote only as a federal voter.A
+7 county auditor must designate an individual as a federal voter if:
+8 (1) At the time the individual applies to register as a voter or to vote by absentee
+9 ballot, the individual provides only the address of a commercial mail receiving
+10 agency, mail forwarding service, or other post office box as the address where the
+11 individual is a resident, without providing a description of the location of the
+12 individual's habitation; or
+13 (2) The individual applies to register as a voter and does not provide any
+14 documentation demonstrating that the individual is a United States citizen,
+15 provided that the individual is not already registered as a voter of another county
+16 of this state.
+17 The county auditor shall prepare a ballot that lists only the names of the candidates
+18 for United States senator, United States representative, and president and vice president
+19 of the United States, as certified by the secretary of state pursuant to § 12-8-8, and the
+20 names of the presidential electors designated for each candidate. The county auditor or
+21 member of the precinct election board shall provide the ballot to any individual who has
+22 been designated as a federal voter, by the county auditor.
+23 For the purposes of this section, "federal voter" means an individual who is eligible
+24 to vote in elections for presidential electors, United States senator, or United States
+25 representative at a primary, runoff, special, or general election.
+26 Section 3. That a NEW SECTION be added to chapter 12-4:
+27 Any individual applying to register as a voter shall provide documentation, along
+28 with the application, to demonstrate that the individual is a United States citizen. The
+29 individual shall present:
+30 (1) The individual's South Dakota driver license or nondriver identification card,
+31 provided that the license or identification card was issued after July 1, 2025, and
+32 indicates that the individual has provided sufficient documentation to demonstrate
+33 that the individual is a United States citizen;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+175C 3 175
+1 (2) A valid driver license or nondriver identification card issued by any other state or
+2 territory of the United States, provided that the license or identification card
+3 indicates that the individual has provided sufficient documentation to demonstrate
+4 that the individual is a United States citizen;
+5 (3) The individual's tribal identification card; or
+6 (4) A legible photocopy of:
+7 (a) The individual's birth certificate;
+8 (b) The pages of the individual's United States passport, which identify the
+9 applicant and show the individual's passport number; or
+10 (c) A consular report of birth abroad issued by the United States Department
+11 of State for the individual;
+12 (d) The individual's certificate of naturalization; or
+13 (e) Any other type of acceptable documentary evidence of citizenship permitted
+14 under 42 C.F.R. § 436.407 (January 1, 2026).
+15 If an individual provides a copy of the individual's certificate of naturalization, the
+16 county auditor must verify the number of the certificate of naturalization with the United
+17 States Immigration and Naturalization Service.
+18 Section 4. That a NEW SECTION be added to chapter 12-4:
+19 Except as otherwise provided by this section, any individual is deemed to have
+20 provided satisfactory documentation demonstrating the individual's citizenship and is not
+21 required to resubmit documentation demonstrating the individual's citizenship if the
+22 individual is registered as a voter on or before July 1, 2026.
+23 If an individual who is registered as a voter of this state registers as a voter of
+24 another county within this state, the individual must provide documentation
+25 demonstrating the individual's citizenship.
+26 Section 4. That § 34-10-7 be AMENDED:
+27 34-10-7. Any person qualified as an elector under § 12-3-1 and resident of the
+28 proposed hospital district shall be entitled to vote.An individual is entitled to vote at an
+29 election conducted in a proposed hospital district if the individual is registered as a voter,
+30 pursuant to chapter 12-4, and is a resident of the proposed hospital district.
+31 Section 5. That § 12-3-1 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+175C 4 175
+1 An individual may vote at an election in this state only if, at the time of the election,
+2 the individual:
+3 (1) Is a citizen of the United States;
+4 (2) Maintains residence in this state, as defined in § 12-1-4;
+5 (3) Is at least eighteen years of age;
+6 (4) Is not otherwise disqualified; and
+7 (5) Complies with the law regarding the registration of voters, pursuant to chapter 12-
+8 4.
+9 Section 6. That § 12-3-1.1 be REPEALED.
+10 No person residing on an area within the boundaries of this state which has been
+11 ceded to, or acquired by, the federal government shall be denied the right to vote in
+12 elections of this state or of the county, municipality, school district, or special district
+13 wherein such area lies if such person is otherwise qualified to vote in such election or
+14 elections.
+15 Section 7. Whereas, this Act is necessary for the immediate preservation of the public peace,
+16 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+17 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A v u t v r f p b t S B o ELSSD: E T O A S 1 h n e m g s d e i t b r i ( I i ( I r ( O ( I A w p A w r i S 1 a b u o t a o a c m r a m]
+[DELETED:  2 1 U  f p n m b r o a a f v I a i w d n m t r c c ( A b a i i a r w p a d o t l o t i ( T i a t r a a v a d n p a d d t t i i a U S c p o T f o n m b F t v i e f p e U S s o U S r S A w i ( T i S D d l o n i c p i t]
+[DELETED:  3 1 U  ( A t o t U S p t t l o i c i t ( T ( A ( T ( T a ( A o ( T ( A u I c S S E p r t r d d t i c i t i I a c w t s t i m p d d S 3 p e p S]
+[DELETED:  4 1 U  A t ( I ( M ( I ( I ( C 4 S N c e w e S h a]
+
+
+================================================================================
+
+Raw Text:
+175C 101st Legislative Session 175
+2026 South Dakota Legislature
+Senate Bill 175
+AMENDME NT 175C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to require that an individual provide proof of citizenship when registering to
+2 vote using the voter registration form prescribed by the State Board of
+3 Elections and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 12-4-1 be AMENDED:
+6 12-4-1. An individual who is a resident of this state, as defined in § 12-1-4, and
+7 has or will have the qualifications of a voter prescribed by § 12-3-1 or 12-3-1.1 at the
+8 next ensuing municipal, primary, general, or school district election, is entitled to be
+9 registered as a voter in the election precinct in which the person maintains residenceAn
+10 individual is entitled to register as a voter of this state if the individual:
+11 (1) Is a citizen of the United States and has provided sufficient evidence, as set forth
+12 in section 2 of this Act, to demonstrate the individual's citizenship;
+13 (2) Is a resident, as defined in § 12-1-4, of the precinct in which the individual is
+14 registering as a voter;
+15 (3) On or before the next election, is at least eighteen years of age; and
+16 (4) Is not otherwise disqualified from voting.
+17 An individual eligible to vote may vote only in the election precinct where the
+18 person maintains residence the individual is a resident.
+19 An individual who is a resident of a place that is within the boundaries of this state,
+20 which has been ceded to or acquired by the federal government, may not be denied the
+21 right to vote in any election held in the precinct where the individual is a resident if the
+22 individual is otherwise qualified to vote in the election.
+23 Section 2. That § 12-4-1.3 be AMENDED:
+24 12-4-1.3. If an individual applies to register as a voter of this state or to vote by
+25 absentee ballot, using only the address of a commercial mail receiving agency, mail
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+175C 2 175
+1 forwarding service, or other post office box as the individual's residence address, without
+2 providing a description of the location of the individual's habitation, the individual does
+3 not meet the requirements to be a resident of this state for the purposes of this title, and
+4 may be registered only as a federal voter. If an individual who does not meet the
+5 requirements to be a resident of this state is eligible to vote pursuant to this section, the
+6 county auditor must indicate that the individual is eligible to vote only as a federal voter.A
+7 county auditor must designate an individual as a federal voter if:
+8 (1) At the time the individual applies to register as a voter or to vote by absentee
+9 ballot, the individual provides only the address of a commercial mail receiving
+10 agency, mail forwarding service, or other post office box as the address where the
+11 individual is a resident, without providing a description of the location of the
+12 individual's habitation; or
+13 (2) The individual applies to register as a voter and does not provide any
+14 documentation demonstrating that the individual is a United States citizen,
+15 provided that the individual is not already registered as a voter of another county
+16 of this state.
+17 The county auditor shall prepare a ballot that lists only the names of the candidates
+18 for United States senator, United States representative, and president and vice president
+19 of the United States, as certified by the secretary of state pursuant to § 12-8-8, and the
+20 names of the presidential electors designated for each candidate. The county auditor or
+21 member of the precinct election board shall provide the ballot to any individual who has
+22 been designated as a federal voter, by the county auditor.
+23 For the purposes of this section, "federal voter" means an individual who is eligible
+24 to vote in elections for presidential electors, United States senator, or United States
+25 representative at a primary, runoff, special, or general election.
+26 Section 3. That a NEW SECTION be added to chapter 12-4:
+27 Any individual applying to register as a voter shall provide documentation, along
+28 with the application, to demonstrate that the individual is a United States citizen. The
+29 individual shall present:
+30 (1) The individual's South Dakota driver license or nondriver identification card,
+31 provided that the license or identification card was issued after July 1, 2025, and
+32 indicates that the individual has provided sufficient documentation to demonstrate
+33 that the individual is a United States citizen;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+175C 3 175
+1 (2) A valid driver license or nondriver identification card issued by any other state or
+2 territory of the United States, provided that the license or identification card
+3 indicates that the individual has provided sufficient documentation to demonstrate
+4 that the individual is a United States citizen;
+5 (3) The individual's tribal identification card; or
+6 (4) A legible photocopy of:
+7 (a) The individual's birth certificate;
+8 (b) The pages of the individual's United States passport, which identify the
+9 applicant and show the individual's passport number; or
+10 (c) A consular report of birth abroad issued by the United States Department
+11 of State for the individual;
+12 (d) The individual's certificate of naturalization; or
+13 (e) Any other type of acceptable documentary evidence of citizenship permitted
+14 under 42 C.F.R. § 436.407 (January 1, 2026).
+15 If an individual provides a copy of the individual's certificate of naturalization, the
+16 county auditor must verify the number of the certificate of naturalization with the United
+17 States Immigration and Naturalization Service.
+18 Section 4. That a NEW SECTION be added to chapter 12-4:
+19 Except as otherwise provided by this section, any individual is deemed to have
+20 provided satisfactory documentation demonstrating the individual's citizenship and is not
+21 required to resubmit documentation demonstrating the individual's citizenship if the
+22 individual is registered as a voter on or before July 1, 2026.
+23 If an individual who is registered as a voter of this state registers as a voter of
+24 another county within this state, the individual must provide documentation
+25 demonstrating the individual's citizenship.
+26 Section 4. That § 34-10-7 be AMENDED:
+27 34-10-7. Any person qualified as an elector under § 12-3-1 and resident of the
+28 proposed hospital district shall be entitled to vote.An individual is entitled to vote at an
+29 election conducted in a proposed hospital district if the individual is registered as a voter,
+30 pursuant to chapter 12-4, and is a resident of the proposed hospital district.
+31 Section 5. That § 12-3-1 be REPEALED.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+175C 4 175
+1 An individual may vote at an election in this state only if, at the time of the election,
+2 the individual:
+3 (1) Is a citizen of the United States;
+4 (2) Maintains residence in this state, as defined in § 12-1-4;
+5 (3) Is at least eighteen years of age;
+6 (4) Is not otherwise disqualified; and
+7 (5) Complies with the law regarding the registration of voters, pursuant to chapter 12-
+8 4.
+9 Section 6. That § 12-3-1.1 be REPEALED.
+10 No person residing on an area within the boundaries of this state which has been
+11 ceded to, or acquired by, the federal government shall be denied the right to vote in
+12 elections of this state or of the county, municipality, school district, or special district
+13 wherein such area lies if such person is otherwise qualified to vote in such election or
+14 elections.
+15 Section 7. Whereas, this Act is necessary for the immediate preservation of the public peace,
+16 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+17 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A v u t v r f p b t S B o ELSSD: E T O A S 1 h n e m g s d e i t b r i ( I i ( I r ( O ( I A w p A w r i S 1 a b u o t a o a c m r a m]
+[DELETED:  2 1 U  f p n m b r o a a f v I a i w d n m t r c c ( A b a i i a r w p a d o t l o t i ( T i a t r a a v a d n p a d d t t i i a U S c p o T f o n m b F t v i e f p e U S s o U S r S A w i ( T i S D d l o n i c p i t]
+[DELETED:  3 1 U  ( A t o t U S p t t l o i c i t ( T ( A ( T ( T a ( A o ( T ( A u I c S S E p r t r d d t i c i t i I a c w t s t i m p d d S 3 p e p S]
+[DELETED:  4 1 U  A t ( I ( M ( I ( I ( C 4 S N c e w e S h a]

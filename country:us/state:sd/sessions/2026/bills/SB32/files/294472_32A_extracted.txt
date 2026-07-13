@@ -1,0 +1,126 @@
+Title: Senate Bill 32
+Official Title: Senate Bill 32
+Number of Sections: 1
+Source: versions - 32A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+32A 101st Legislative Session 32
+2026 South Dakota Legislature
+AMENDM ENT 32A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to amend and repeal provisions pertaining to the ballot requirements for
+2 certain elections and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-5-8 be AMENDED:
+5 12-5-8. At the time of printing the official primary election ballots, the county
+6 auditor shall also have printed in like number, and for each political party, separate ballots
+7 upon which party voters may vote for precinct committeeman and for precinct
+8 committeewoman of their political party. These ballots shall be furnished to any election
+9 precinct having a contest for such position at the same time with the other election
+10 supplies. The form of these ballots shall be prescribed by the State Board of Elections.
+11 The county auditor shall include on the official ballot for a primary election the
+12 name of each candidate for precinct committeeman or precinct committeewoman, in the
+13 manner prescribed by the State Board of Elections.
+14 Section 2. That § 12-9-12 be AMENDED:
+15 12-9-12. At all primary elections at which candidates for judicial office are to be
+16 nominated and a primary is required there shall be prepared and furnished by the several
+17 county auditors, separate ballots upon which shall be placed the names of the candidates
+18 for such offices, which ballots shall be entitled "nonpolitical judiciary ballot" and shall
+19 contain no other designation. The names of all candidates shall be placed thereon without
+20 any party designation in the order designated by the secretary of state.
+21 In a primary election at which candidates for judicial office are to be nominated,
+22 the name of each candidate must be placed on the official primary election ballot, as
+23 prescribed by the State Board of Elections, in the order designated by the secretary of
+24 state, without any party designation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+32A 2 32
+1 Section 3. That § 12-13-11 be AMENDED:
+2 12-13-11. The title, explanation, recitation, place for voting, and statement as required by
+3 this chapter shall must be printed on the ballot in lieu of the for each law, measure,
+4 constitutional amendment, or and other question to be submitted to a vote of the people. All
+5 proposed constitutional amendments to be submitted at an election shall be placed on one
+6 ballot and all initiated measures or referred laws upon a separate ballot.
+7 Section 3. That § 12-9-13 be REPEALED.
+8 The form of the nonpolitical judiciary ballot shall be prescribed by the State Board
+9 of Elections.
+10 Section 4. That § 12-13-11 be REPEALED.
+11 The title, explanation, recitation, place for voting, and statement as required by
+12 this chapter shall be printed on the ballot in lieu of the law, measure, constitutional
+13 amendment, or other question to be submitted to a vote of the people. All proposed
+14 constitutional amendments to be submitted at an election shall be placed on one ballot
+15 and all initiated measures or referred laws upon a separate ballot.
+16 Section 5. Whereas, this Act is necessary for the immediate preservation of the public peace,
+17 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+18 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 3 U  A cLSSD: E T O A S 1 a u w p v m v f p c a f p c p h a c f s p a t s t w t o e s T n m S 1 n c f c a I t p s]
+[DELETED:  2 3 U  S 1 t c s m b p o t b i l o t f e l m c p b S T o S T t c s b p o t b i l o t l m c a c a S h a]
+
+
+================================================================================
+
+Raw Text:
+32A 101st Legislative Session 32
+2026 South Dakota Legislature
+Senate Bill 32
+AMENDM ENT 32A
+FOR THE INTRODUCED BILL
+Introduced by: The Chair of the Committee on State Affairs at the request of the Secretary of State
+1 An Act to amend and repeal provisions pertaining to the ballot requirements for
+2 certain elections and to declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-5-8 be AMENDED:
+5 12-5-8. At the time of printing the official primary election ballots, the county
+6 auditor shall also have printed in like number, and for each political party, separate ballots
+7 upon which party voters may vote for precinct committeeman and for precinct
+8 committeewoman of their political party. These ballots shall be furnished to any election
+9 precinct having a contest for such position at the same time with the other election
+10 supplies. The form of these ballots shall be prescribed by the State Board of Elections.
+11 The county auditor shall include on the official ballot for a primary election the
+12 name of each candidate for precinct committeeman or precinct committeewoman, in the
+13 manner prescribed by the State Board of Elections.
+14 Section 2. That § 12-9-12 be AMENDED:
+15 12-9-12. At all primary elections at which candidates for judicial office are to be
+16 nominated and a primary is required there shall be prepared and furnished by the several
+17 county auditors, separate ballots upon which shall be placed the names of the candidates
+18 for such offices, which ballots shall be entitled "nonpolitical judiciary ballot" and shall
+19 contain no other designation. The names of all candidates shall be placed thereon without
+20 any party designation in the order designated by the secretary of state.
+21 In a primary election at which candidates for judicial office are to be nominated,
+22 the name of each candidate must be placed on the official primary election ballot, as
+23 prescribed by the State Board of Elections, in the order designated by the secretary of
+24 state, without any party designation.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+32A 2 32
+1 Section 3. That § 12-13-11 be AMENDED:
+2 12-13-11. The title, explanation, recitation, place for voting, and statement as required by
+3 this chapter shall must be printed on the ballot in lieu of the for each law, measure,
+4 constitutional amendment, or and other question to be submitted to a vote of the people. All
+5 proposed constitutional amendments to be submitted at an election shall be placed on one
+6 ballot and all initiated measures or referred laws upon a separate ballot.
+7 Section 3. That § 12-9-13 be REPEALED.
+8 The form of the nonpolitical judiciary ballot shall be prescribed by the State Board
+9 of Elections.
+10 Section 4. That § 12-13-11 be REPEALED.
+11 The title, explanation, recitation, place for voting, and statement as required by
+12 this chapter shall be printed on the ballot in lieu of the law, measure, constitutional
+13 amendment, or other question to be submitted to a vote of the people. All proposed
+14 constitutional amendments to be submitted at an election shall be placed on one ballot
+15 and all initiated measures or referred laws upon a separate ballot.
+16 Section 5. Whereas, this Act is necessary for the immediate preservation of the public peace,
+17 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+18 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 3 U  A cLSSD: E T O A S 1 a u w p v m v f p c a f p c p h a c f s p a t s t w t o e s T n m S 1 n c f c a I t p s]
+[DELETED:  2 3 U  S 1 t c s m b p o t b i l o t f e l m c p b S T o S T t c s b p o t b i l o t l m c a c a S h a]

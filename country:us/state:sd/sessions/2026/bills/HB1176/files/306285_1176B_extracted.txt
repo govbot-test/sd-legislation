@@ -1,0 +1,94 @@
+Title: House Bill 1176
+Official Title: House Bill 1176
+Number of Sections: 1
+Source: versions - 1176B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1176B 101st Legislative Session 1176
+2026 South Dakota Legislature
+AMENDME NT 1176B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Pourier
+1 An Act to clarify bond or pre-trial release upon sobriety program participation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-11-18 be AMENDED:
+4 1-11-18. There is hereby established in the state treasury the 24/7 sobriety fund.
+5 The fund shall be maintained and administered by the Office of the Attorney General to
+6 defray costs of operating the 24/7 sobriety program, including purchasing and maintaining
+7 equipment and funding support services, and to reimburse counties for the cost and
+8 expenses of the program if a court does not find a defendant has the present and
+9 continued ability to pay according to section 2 of this Act. The Office of the Attorney
+10 General may accept for deposit in the fund money from donations, gifts, grants,
+11 participation fees, and user fees or payments. Expenditures from the fund shall be
+12 budgeted through the normal budget process. Unexpended funds and interest shall remain
+13 in the fund.
+14 Section 2. That § 1-11-20 be AMENDED:
+15 1-11-20. The court may condition any bond or pre-trial release upon participation
+16 in the 24/7 sobriety program and payment of associated costs and expenses. No defendant
+17 may be jailed, nor a defendant's bond or pre-trial release revoked, for failure to pay the
+18 costs and expenses of the program, unless the court finds the defendant has the present
+19 and continued ability to pay the costs and expenses of the program. The defendant has
+20 the burden of proof to establish to the reasonable satisfaction of the court that the
+21 defendant did not willfully fail to pay, or did make a bona fide effort to pay, the costs and
+22 expenses of the program.
+23 Any costs and expenses of the program not paid by the defendant prior to the
+24 disposition of the defendant's criminal case may be imposed upon disposition of the case,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1176B 2 1176
+1 if the court finds the defendant has the ability to pay the costs and expenses of the
+2 program.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 1 T d e a f s s a t r c f t c a e o t p i a c d n f a d h t p a c G m a f d i t f m f d g g p f a u f o p E f t f s b b i S 1 i m c a t b o p t e t t r s o t c t t d e A d]
+[DELETED:  2 1 U  i p]
+
+
+================================================================================
+
+Raw Text:
+1176B 101st Legislative Session 1176
+2026 South Dakota Legislature
+House Bill 1176
+AMENDME NT 1176B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Pourier
+1 An Act to clarify bond or pre-trial release upon sobriety program participation.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 1-11-18 be AMENDED:
+4 1-11-18. There is hereby established in the state treasury the 24/7 sobriety fund.
+5 The fund shall be maintained and administered by the Office of the Attorney General to
+6 defray costs of operating the 24/7 sobriety program, including purchasing and maintaining
+7 equipment and funding support services, and to reimburse counties for the cost and
+8 expenses of the program if a court does not find a defendant has the present and
+9 continued ability to pay according to section 2 of this Act. The Office of the Attorney
+10 General may accept for deposit in the fund money from donations, gifts, grants,
+11 participation fees, and user fees or payments. Expenditures from the fund shall be
+12 budgeted through the normal budget process. Unexpended funds and interest shall remain
+13 in the fund.
+14 Section 2. That § 1-11-20 be AMENDED:
+15 1-11-20. The court may condition any bond or pre-trial release upon participation
+16 in the 24/7 sobriety program and payment of associated costs and expenses. No defendant
+17 may be jailed, nor a defendant's bond or pre-trial release revoked, for failure to pay the
+18 costs and expenses of the program, unless the court finds the defendant has the present
+19 and continued ability to pay the costs and expenses of the program. The defendant has
+20 the burden of proof to establish to the reasonable satisfaction of the court that the
+21 defendant did not willfully fail to pay, or did make a bona fide effort to pay, the costs and
+22 expenses of the program.
+23 Any costs and expenses of the program not paid by the defendant prior to the
+24 disposition of the defendant's criminal case may be imposed upon disposition of the case,
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1176B 2 1176
+1 if the court finds the defendant has the ability to pay the costs and expenses of the
+2 program.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 1 T d e a f s s a t r c f t c a e o t p i a c d n f a d h t p a c G m a f d i t f m f d g g p f a u f o p E f t f s b b i S 1 i m c a t b o p t e t t r s o t c t t d e A d]
+[DELETED:  2 1 U  i p]

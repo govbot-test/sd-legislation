@@ -1,0 +1,485 @@
+Title: Senate Bill 98
+Official Title: Senate Bill 98
+Number of Sections: 1
+Source: versions - 98C
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+98C 101st Legislative Session 98
+2026 South Dakota Legislature
+AMENDM ENT 98C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Kolbeck (Steve)
+1 An Act to prevent virtual currency kiosk fraud.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+4 Terms used in this chapter mean:
+5 (1) "Charges," fees charged to a user for a virtual currency transaction, plus the
+6 difference between the market price of virtual currency at the time of the
+7 transaction and the price charged to the user;
+8 (2) "Distributed ledgers," a digital system maintained across multiple computers for
+9 recording virtual currency transactions using blockchain technology, as defined in
+10 § 53-12-1, or substantially similar technology;
+11 (3) "Licensee," a person that:
+12 (a) Is licensed pursuant to chapter 51A-17; and
+13 (b) Operates a virtual currency kiosk in this state;
+14 (4) "User," a person that uses a virtual currency kiosk for a virtual currency
+15 transaction;
+16 (5) "Virtual currency," a natively electronic asset that confers access, economic, or
+17 proprietary powers or rights and is recorded using cryptographically secured
+18 distributed ledgers, or substantially similar technology; and
+19 (6) "Virtual currency kiosk," an:
+20 (a) Application or product that directs a user to remit payment in person,
+21 including through a clerk or other intermediary, for the purpose of
+22 completing a virtual currency transaction; or
+23 (b) Electronic terminal operated by or on behalf of a licensee engaged in virtual
+24 currency business activities, or a person acting on behalf of a licensee
+25 engaged in virtual currency business activities, whether or not the licensee
+26 owns the kiosk or provides custodial services, provided the terminal
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 2 98
+1 facilitates the exchange of virtual currency for bank credit, money, or other
+2 virtual currency by:
+3 (i) Connecting to a virtual currency exchange that performs a virtual
+4 currency transaction; or
+5 (ii) Drawing upon virtual currency or funds maintained by the licensee;
+6 and
+7 (7) "Virtual currency transaction," a form of money transmission in which a person, in
+8 whole or in part, through a virtual currency kiosk or by other electronic means,
+9 exchanges, purchases, sells, or transfers virtual currency.
+10 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+11 Any operator of a virtual currency kiosk in this state must be licensed pursuant to
+12 chapter 51A-17. The provisions of this Act are in addition to those in chapter 51A-17.
+13 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+14 In addition to the requirements of § 51A-17-70, the renewal report of a licensee
+15 must contain:
+16 (1) The number, dollar amount of, and gross revenue attributable to, virtual currency
+17 transactions conducted via each of the licensee's virtual currency kiosks located in
+18 this state;
+19 (2) A copy of any complaint filed by a user against the licensee with the Better Business
+20 Bureau or any state or federal agency, together with a description of the outcome,
+21 if any;
+22 (3) The number and dollar amount of refunds requested by users, together with the
+23 number of requests granted, the number of requests denied, and the dollar amount
+24 of refunds issued by the licensee;
+25 (4) The contact details of the licensee's compliance officer;
+26 (5) The number of physical locations in which the licensee operates a kiosk; and
+27 (6) The number and dollar amount of suspicious activity reports filed by the licensee
+28 pursuant to the Bank Secrecy Act.
+29 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+30 In addition to the requirements of § 51-17-84, the report of condition submitted
+31 by a licensee must contain:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 3 98
+1 (1) The licensee's legal name and any fictitious or trade name;
+2 (2) The licensee's physical address and the location of each virtual currency kiosk being
+3 operated in this state, at the time of the report, by the licensee;
+4 (3) The date operation began for each kiosk being operated in this state, at the time
+5 of the report, by the licensee;
+6 (4) The date operation ceased for any kiosk operated in this state, during the reported
+7 quarter, by the licensee;
+8 (5) For each kiosk operated by the licensee in this state, any alphanumeric identifier
+9 used by the licensee, which:
+10 (a) Is associated with a software application or other mechanism that provides
+11 the means to access or transfer virtual currency; and
+12 (b) Identifies the location to which virtual currency is sent; and
+13 (6) The number of virtual currency transactions declined due to a suspicion of
+14 fraudulent activity.
+15 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+16 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+17 licensee shall provide a user with a receipt that:
+18 (1) Complies with the requirements of § 51A-17-96;
+19 (2) Is available to the user both electronically and in paper form; and
+20 (3) Contains:
+21 (a) A description of the type, value, and precise time of the transaction;
+22 (b) A list of each applicable virtual currency address, together with any unique
+23 identifiers used to permanently reference transactions on distributed
+24 ledgers;
+25 (c) The exchange rate, to United States dollars; and
+26 (d) A statement of the refund policy pursuant to section 7 of this Act; and
+27 (e) A full listing of all fees and charges applied to the transaction.
+28 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+30 licensee shall provide a user a disclosure that:
+31 (1) Is written in a clear, conspicuous, and easily readable manner;
+32 (2) Is in the chosen language of the user;
+33 (3) Describes the material risks associated with the transaction, including that:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 4 98
+1 (a) Virtual currency is not issued or backed by the United States government
+2 and is not legal tender;
+3 (b) Virtual currency is not subject to protections by the Federal Deposit
+4 Insurance Corporation, National Credit Union Administration, or Securities
+5 Investor Protection Corporation; and
+6 (c) The value of the virtual currency relative to the United States dollar may
+7 fluctuate significantly;
+8 (4) States the name, address, and telephone number of the licensee and the days and
+9 times a user may contact the licensee for assistance; and
+10 (5) Contains a prominent warning in bold type, provided separately from the other
+11 disclosure provisions, which states that:
+12 (a) This technology may be used to defraud a user;
+13 (b) If the user is asked to deposit money at the kiosk by someone who claims
+14 to be a friend or family member in a telephone call or electronic message,
+15 a government agent, a computer software representative, a bill collector, a
+16 law enforcement officer, or anyone not known personally by the user, the
+17 transaction should be stopped immediately and local law enforcement and
+18 the kiosk operator should be notified; and
+19 (c) The user should not send money to anyone not known personally by the
+20 user; and
+21 (6) Provides a full listing of all fees and charges applied to the transaction.
+22 The licensee shall cause contact information for any relevant state and local law
+23 enforcement and government agencies for reporting fraud to be displayed on the kiosk,
+24 at the location of the kiosk, or on the kiosk's first screen that is visible to the user.
+25 Any time a user engages with a kiosk, the user must acknowledge receipt of all
+26 disclosures required pursuant to this section and must confirm the user's consent to use
+27 the kiosk, and the kiosk must transmit notice of the user's acknowledgment and
+28 confirmation to the licensee. Acknowledgment of the disclosures required by this section
+29 does not affect or prevent a fraud victim's eligibility for a refund pursuant to section 7 of
+30 this Act.
+31 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+32 A licensee shall issue a full refund to any user that:
+33 (1) Is the victim of a fraudulent virtual currency transaction involving a virtual currency
+34 kiosk operated by the licensee;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 5 98
+1 (2) Within ninety days after the last occurrence of fraud or of becoming aware of the
+2 fraud, informs the licensee of all fraudulent transactions at issue; and
+3 (3) Within one hundred twenty days after contacting the licensee, submits to the
+4 licensee a copy of any police report or government agency report or a sworn
+5 statement detailing all known fraudulent activity.
+6 Within seventy-two hours of the user's satisfaction of all conditions in this section,
+7 the licensee must issue a full refund to the user, including all charges paid by the user in
+8 connection with the fraudulent transaction.
+9 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+10 A licensee shall establish:
+11 (1) A daily transaction limit not exceeding one thousand dollars, or the equivalent in
+12 virtual currency, for any user; and
+13 (2) A thirty-day virtual currency transaction limit not exceeding ten thousand dollars,
+14 or the equivalent in virtual currency, for any user.
+15 The transaction limits and protections provided for in this chapter apply to all
+16 products and services offered through the licensee's virtual currency kiosk. Any alternative
+17 product or service of the licensee, including affiliated kiosks, online portals for purchases,
+18 and over-the-counter transactions, may not be used to circumvent or exceed the
+19 prescribed limits.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+21 A licensee may not collect charges from a user related to a single virtual currency
+22 transaction, whether directly or indirectly, exceeding three twenty-five percent of the
+23 amount of the transaction.
+24 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+25 At a minimum, a licensee shall provide live customer service during the hours
+26 between 8:00 a.m. to 10:00 p.m. local time. A toll-free telephone number must be
+27 displayed on the virtual currency kiosk or the kiosk's screen.
+28 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 A licensee shall provide a dedicated telephone line or email address for facilitating
+30 law enforcement and regulatory agency communications in the event of a report of fraud
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 6 98
+1 from a user. The licensee must ensure the telephone line or email address is monitored
+2 frequently.
+3 Upon request from a law enforcement or regulatory agency, the licensee must
+4 provide relevant findings and grant the requestor assistance in any investigation related
+5 to potential fraud.
+6 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+7 A licensee shall take reasonable steps to detect and prevent fraud and money
+8 laundering, including establishing and maintaining a written anti-fraud policy and
+9 complying with the requirements of the Bank Secrecy Act, 31 U.S.C. §§ 5311 to 5336,
+10 inclusive (January 1, 2026).
+11 The policy must include:
+12 (1) Mechanisms to identify and assess risks associated with fraud and money
+13 laundering;
+14 (2) Controls and procedures to protect against identified risks;
+15 (3) An allocation of responsibility for monitoring risks; and
+16 (4) Procedures for the periodic evaluation and revision of the policy's procedures,
+17 controls, monitoring, and other mechanisms.
+18 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+19 A licensee shall employ software that analyzes data from publicly accessible
+20 distributed ledgers and traces addresses capable of sending or receiving virtual currency
+21 to identify risk indicators, including any address used to access or transfer virtual currency
+22 for fraudulent or other illicit purposes.
+23 The software must prevent the initiation of any transaction if, at the time of the
+24 transaction, the destination address is reasonably likely or known to be connected to
+25 fraudulent activity.
+26 The licensee shall block transfers to addresses associated with overseas platforms
+27 that do not permit access by users in the United States.
+28 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+30 licensee shall verify the identity of a user prior to accepting payment from the user. The
+31 licensee shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+98C 7 98
+1 (1) Obtain a copy of a government-issued identification card that identifies the user;
+2 and
+3 (2) Collect additional user information, including the user's full legal name, date of
+4 birth, telephone number, mailing and physical addresses, and email address, prior
+5 to accepting a payment from a user.
+6 The licensee may not allow a user to engage in a transaction at the kiosk using any
+7 name, account, or identity that does not belong to the user.
+8 The licensee is strictly liable for any violation of this section.
+9 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+10 On an annual basis, a licensee shall provide external virtual currency kiosk staff
+11 with training materials that describe ways users may be exploited in virtual currency
+12 transactions involving kiosks, including indicators that a user may be the victim of fraud.
+13 The licensee may not prohibit or prevent staff at the location of the kiosk from
+14 educating users about fraud.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 9 U  ALSSD: E T O A S T ( " f c t a u f a v c t p t d b t m p o v c a t t o t t ( " r § ( " ( I ( O ( " a p t u a v c k f a v c t ( " p p o r a i r u c s d ( " ( A o p t d a u t r p i p i t a c o o i f t p o c ( E c b a o a p a o b o a l e o t k o p c s p t t]
+[DELETED:  2 9 U  f v ( C c ( D a ( " w e S A c S I m ( T t t ( A B i ( T n o ( T ( T ( T p S I b]
+[DELETED:  3 9 U  ( T ( T o ( T o ( T q ( F u ( I t ( I ( T n o v c t d d t a s o f S F l ( C ( I ( C ( A ( A i u t p r t o d l ( T ( A ( A S F l ( I ( I ( D]
+[DELETED:  4 9 U  ( V a ( V c i n s t p b t F D I I ( T f ( S t ( C d ( T ( I t a l t t ( T u ( P T e a A d t k a t k m t n o t u a a c d t S A ( I k]
+[DELETED:  5 9 U  ( W f ( W o h t d a c t l s t t l a c o a p r o g a r o a s s W t c S A ( A v ( A o T t l a p p f i t c a a p p a o t m n b u t c o e t p S A t a S A b 8 a t 1 p l t A t t n m b d S A l]
+[DELETED:  6 9 U  f f U p t S A l i e a m a w a p a c i T ( M t i a a r a w f a m l ( C ( A ( P f t p e a r o t p p c S A l s e s t a d f p a d t f T t f T t S F l l]
+[DELETED:  7 9 U  ( O a ( C b t T n T S O w w t T e]
+
+
+================================================================================
+
+Raw Text:
+98C 101st Legislative Session 98
+2026 South Dakota Legislature
+Senate Bill 98
+AMENDM ENT 98C
+FOR THE INTRODUCED BILL
+Introduced by: Senator Kolbeck (Steve)
+1 An Act to prevent virtual currency kiosk fraud.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+4 Terms used in this chapter mean:
+5 (1) "Charges," fees charged to a user for a virtual currency transaction, plus the
+6 difference between the market price of virtual currency at the time of the
+7 transaction and the price charged to the user;
+8 (2) "Distributed ledgers," a digital system maintained across multiple computers for
+9 recording virtual currency transactions using blockchain technology, as defined in
+10 § 53-12-1, or substantially similar technology;
+11 (3) "Licensee," a person that:
+12 (a) Is licensed pursuant to chapter 51A-17; and
+13 (b) Operates a virtual currency kiosk in this state;
+14 (4) "User," a person that uses a virtual currency kiosk for a virtual currency
+15 transaction;
+16 (5) "Virtual currency," a natively electronic asset that confers access, economic, or
+17 proprietary powers or rights and is recorded using cryptographically secured
+18 distributed ledgers, or substantially similar technology; and
+19 (6) "Virtual currency kiosk," an:
+20 (a) Application or product that directs a user to remit payment in person,
+21 including through a clerk or other intermediary, for the purpose of
+22 completing a virtual currency transaction; or
+23 (b) Electronic terminal operated by or on behalf of a licensee engaged in virtual
+24 currency business activities, or a person acting on behalf of a licensee
+25 engaged in virtual currency business activities, whether or not the licensee
+26 owns the kiosk or provides custodial services, provided the terminal
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 2 98
+1 facilitates the exchange of virtual currency for bank credit, money, or other
+2 virtual currency by:
+3 (i) Connecting to a virtual currency exchange that performs a virtual
+4 currency transaction; or
+5 (ii) Drawing upon virtual currency or funds maintained by the licensee;
+6 and
+7 (7) "Virtual currency transaction," a form of money transmission in which a person, in
+8 whole or in part, through a virtual currency kiosk or by other electronic means,
+9 exchanges, purchases, sells, or transfers virtual currency.
+10 Section 2. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+11 Any operator of a virtual currency kiosk in this state must be licensed pursuant to
+12 chapter 51A-17. The provisions of this Act are in addition to those in chapter 51A-17.
+13 Section 3. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+14 In addition to the requirements of § 51A-17-70, the renewal report of a licensee
+15 must contain:
+16 (1) The number, dollar amount of, and gross revenue attributable to, virtual currency
+17 transactions conducted via each of the licensee's virtual currency kiosks located in
+18 this state;
+19 (2) A copy of any complaint filed by a user against the licensee with the Better Business
+20 Bureau or any state or federal agency, together with a description of the outcome,
+21 if any;
+22 (3) The number and dollar amount of refunds requested by users, together with the
+23 number of requests granted, the number of requests denied, and the dollar amount
+24 of refunds issued by the licensee;
+25 (4) The contact details of the licensee's compliance officer;
+26 (5) The number of physical locations in which the licensee operates a kiosk; and
+27 (6) The number and dollar amount of suspicious activity reports filed by the licensee
+28 pursuant to the Bank Secrecy Act.
+29 Section 4. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+30 In addition to the requirements of § 51-17-84, the report of condition submitted
+31 by a licensee must contain:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 3 98
+1 (1) The licensee's legal name and any fictitious or trade name;
+2 (2) The licensee's physical address and the location of each virtual currency kiosk being
+3 operated in this state, at the time of the report, by the licensee;
+4 (3) The date operation began for each kiosk being operated in this state, at the time
+5 of the report, by the licensee;
+6 (4) The date operation ceased for any kiosk operated in this state, during the reported
+7 quarter, by the licensee;
+8 (5) For each kiosk operated by the licensee in this state, any alphanumeric identifier
+9 used by the licensee, which:
+10 (a) Is associated with a software application or other mechanism that provides
+11 the means to access or transfer virtual currency; and
+12 (b) Identifies the location to which virtual currency is sent; and
+13 (6) The number of virtual currency transactions declined due to a suspicion of
+14 fraudulent activity.
+15 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+16 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+17 licensee shall provide a user with a receipt that:
+18 (1) Complies with the requirements of § 51A-17-96;
+19 (2) Is available to the user both electronically and in paper form; and
+20 (3) Contains:
+21 (a) A description of the type, value, and precise time of the transaction;
+22 (b) A list of each applicable virtual currency address, together with any unique
+23 identifiers used to permanently reference transactions on distributed
+24 ledgers;
+25 (c) The exchange rate, to United States dollars; and
+26 (d) A statement of the refund policy pursuant to section 7 of this Act; and
+27 (e) A full listing of all fees and charges applied to the transaction.
+28 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+30 licensee shall provide a user a disclosure that:
+31 (1) Is written in a clear, conspicuous, and easily readable manner;
+32 (2) Is in the chosen language of the user;
+33 (3) Describes the material risks associated with the transaction, including that:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 4 98
+1 (a) Virtual currency is not issued or backed by the United States government
+2 and is not legal tender;
+3 (b) Virtual currency is not subject to protections by the Federal Deposit
+4 Insurance Corporation, National Credit Union Administration, or Securities
+5 Investor Protection Corporation; and
+6 (c) The value of the virtual currency relative to the United States dollar may
+7 fluctuate significantly;
+8 (4) States the name, address, and telephone number of the licensee and the days and
+9 times a user may contact the licensee for assistance; and
+10 (5) Contains a prominent warning in bold type, provided separately from the other
+11 disclosure provisions, which states that:
+12 (a) This technology may be used to defraud a user;
+13 (b) If the user is asked to deposit money at the kiosk by someone who claims
+14 to be a friend or family member in a telephone call or electronic message,
+15 a government agent, a computer software representative, a bill collector, a
+16 law enforcement officer, or anyone not known personally by the user, the
+17 transaction should be stopped immediately and local law enforcement and
+18 the kiosk operator should be notified; and
+19 (c) The user should not send money to anyone not known personally by the
+20 user; and
+21 (6) Provides a full listing of all fees and charges applied to the transaction.
+22 The licensee shall cause contact information for any relevant state and local law
+23 enforcement and government agencies for reporting fraud to be displayed on the kiosk,
+24 at the location of the kiosk, or on the kiosk's first screen that is visible to the user.
+25 Any time a user engages with a kiosk, the user must acknowledge receipt of all
+26 disclosures required pursuant to this section and must confirm the user's consent to use
+27 the kiosk, and the kiosk must transmit notice of the user's acknowledgment and
+28 confirmation to the licensee. Acknowledgment of the disclosures required by this section
+29 does not affect or prevent a fraud victim's eligibility for a refund pursuant to section 7 of
+30 this Act.
+31 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+32 A licensee shall issue a full refund to any user that:
+33 (1) Is the victim of a fraudulent virtual currency transaction involving a virtual currency
+34 kiosk operated by the licensee;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 5 98
+1 (2) Within ninety days after the last occurrence of fraud or of becoming aware of the
+2 fraud, informs the licensee of all fraudulent transactions at issue; and
+3 (3) Within one hundred twenty days after contacting the licensee, submits to the
+4 licensee a copy of any police report or government agency report or a sworn
+5 statement detailing all known fraudulent activity.
+6 Within seventy-two hours of the user's satisfaction of all conditions in this section,
+7 the licensee must issue a full refund to the user, including all charges paid by the user in
+8 connection with the fraudulent transaction.
+9 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+10 A licensee shall establish:
+11 (1) A daily transaction limit not exceeding one thousand dollars, or the equivalent in
+12 virtual currency, for any user; and
+13 (2) A thirty-day virtual currency transaction limit not exceeding ten thousand dollars,
+14 or the equivalent in virtual currency, for any user.
+15 The transaction limits and protections provided for in this chapter apply to all
+16 products and services offered through the licensee's virtual currency kiosk. Any alternative
+17 product or service of the licensee, including affiliated kiosks, online portals for purchases,
+18 and over-the-counter transactions, may not be used to circumvent or exceed the
+19 prescribed limits.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+21 A licensee may not collect charges from a user related to a single virtual currency
+22 transaction, whether directly or indirectly, exceeding three twenty-five percent of the
+23 amount of the transaction.
+24 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+25 At a minimum, a licensee shall provide live customer service during the hours
+26 between 8:00 a.m. to 10:00 p.m. local time. A toll-free telephone number must be
+27 displayed on the virtual currency kiosk or the kiosk's screen.
+28 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 A licensee shall provide a dedicated telephone line or email address for facilitating
+30 law enforcement and regulatory agency communications in the event of a report of fraud
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 6 98
+1 from a user. The licensee must ensure the telephone line or email address is monitored
+2 frequently.
+3 Upon request from a law enforcement or regulatory agency, the licensee must
+4 provide relevant findings and grant the requestor assistance in any investigation related
+5 to potential fraud.
+6 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+7 A licensee shall take reasonable steps to detect and prevent fraud and money
+8 laundering, including establishing and maintaining a written anti-fraud policy and
+9 complying with the requirements of the Bank Secrecy Act, 31 U.S.C. §§ 5311 to 5336,
+10 inclusive (January 1, 2026).
+11 The policy must include:
+12 (1) Mechanisms to identify and assess risks associated with fraud and money
+13 laundering;
+14 (2) Controls and procedures to protect against identified risks;
+15 (3) An allocation of responsibility for monitoring risks; and
+16 (4) Procedures for the periodic evaluation and revision of the policy's procedures,
+17 controls, monitoring, and other mechanisms.
+18 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+19 A licensee shall employ software that analyzes data from publicly accessible
+20 distributed ledgers and traces addresses capable of sending or receiving virtual currency
+21 to identify risk indicators, including any address used to access or transfer virtual currency
+22 for fraudulent or other illicit purposes.
+23 The software must prevent the initiation of any transaction if, at the time of the
+24 transaction, the destination address is reasonably likely or known to be connected to
+25 fraudulent activity.
+26 The licensee shall block transfers to addresses associated with overseas platforms
+27 that do not permit access by users in the United States.
+28 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+29 For each virtual currency transaction at a licensee's virtual currency kiosk, the
+30 licensee shall verify the identity of a user prior to accepting payment from the user. The
+31 licensee shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+98C 7 98
+1 (1) Obtain a copy of a government-issued identification card that identifies the user;
+2 and
+3 (2) Collect additional user information, including the user's full legal name, date of
+4 birth, telephone number, mailing and physical addresses, and email address, prior
+5 to accepting a payment from a user.
+6 The licensee may not allow a user to engage in a transaction at the kiosk using any
+7 name, account, or identity that does not belong to the user.
+8 The licensee is strictly liable for any violation of this section.
+9 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 51A:
+10 On an annual basis, a licensee shall provide external virtual currency kiosk staff
+11 with training materials that describe ways users may be exploited in virtual currency
+12 transactions involving kiosks, including indicators that a user may be the victim of fraud.
+13 The licensee may not prohibit or prevent staff at the location of the kiosk from
+14 educating users about fraud.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 9 U  ALSSD: E T O A S T ( " f c t a u f a v c t p t d b t m p o v c a t t o t t ( " r § ( " ( I ( O ( " a p t u a v c k f a v c t ( " p p o r a i r u c s d ( " ( A o p t d a u t r p i p i t a c o o i f t p o c ( E c b a o a p a o b o a l e o t k o p c s p t t]
+[DELETED:  2 9 U  f v ( C c ( D a ( " w e S A c S I m ( T t t ( A B i ( T n o ( T ( T ( T p S I b]
+[DELETED:  3 9 U  ( T ( T o ( T o ( T q ( F u ( I t ( I ( T n o v c t d d t a s o f S F l ( C ( I ( C ( A ( A i u t p r t o d l ( T ( A ( A S F l ( I ( I ( D]
+[DELETED:  4 9 U  ( V a ( V c i n s t p b t F D I I ( T f ( S t ( C d ( T ( I t a l t t ( T u ( P T e a A d t k a t k m t n o t u a a c d t S A ( I k]
+[DELETED:  5 9 U  ( W f ( W o h t d a c t l s t t l a c o a p r o g a r o a s s W t c S A ( A v ( A o T t l a p p f i t c a a p p a o t m n b u t c o e t p S A t a S A b 8 a t 1 p l t A t t n m b d S A l]
+[DELETED:  6 9 U  f f U p t S A l i e a m a w a p a c i T ( M t i a a r a w f a m l ( C ( A ( P f t p e a r o t p p c S A l s e s t a d f p a d t f T t f T t S F l l]
+[DELETED:  7 9 U  ( O a ( C b t T n T S O w w t T e]

@@ -1,0 +1,71 @@
+Title: House Bill 1102
+Official Title: House Bill 1102
+Number of Sections: 1
+Source: versions - 1102C
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1102C 101st Legislative Session 1102
+2026 South Dakota Legislature
+AMENDME NT 1102C
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Baxter
+1 An Act to reschedule the annual report filing date for a limited liability company and
+2 a limited liability partnership.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 59-11-25 be AMENDED:
+5 59-11-25. The Except as otherwise provided in this section, the first annual
+6 reportshall of a filing entity or qualified foreign entity must be delivered to the Office of
+7 the Secretary of State before the first day of the second month of the year following the
+8 year in which a the filing entity or qualified foreign entity, except a bank organized
+9 pursuant to § 51A-3-1.1 and limited partnership organized pursuant to chapter 48-7, was
+10 authorized to transact business. The Each subsequent annual report shall must be
+11 delivered to the Office of the Secretary of State by the same date each subsequent year.
+12 The first annual report of a limited liability company or a limited liability
+13 partnership, authorized to transact business during the month of January, must be
+14 delivered to the Office of the Secretary of State on or before January thirty-first of the
+15 ensuing year following the year in which the. In all other cases, the annual report required
+16 of a limited liability company or a limited liability partnership was authorized to transact
+17 business, and each January thirty-first thereafter must be delivered to the Office of the
+18 Secretary of State on or before January thirty-first of each year.
+19 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A aLSSD: E T O A S 5 T E a o p i t s t f a r t y i w a t f e o q f e e a b o p a t t b T E s a r s m b d T f a r o a l l c o a l l p a t t b d t m o J m b d e o b S S]
+
+
+================================================================================
+
+Raw Text:
+1102C 101st Legislative Session 1102
+2026 South Dakota Legislature
+House Bill 1102
+AMENDME NT 1102C
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Baxter
+1 An Act to reschedule the annual report filing date for a limited liability company and
+2 a limited liability partnership.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 59-11-25 be AMENDED:
+5 59-11-25. The Except as otherwise provided in this section, the first annual
+6 reportshall of a filing entity or qualified foreign entity must be delivered to the Office of
+7 the Secretary of State before the first day of the second month of the year following the
+8 year in which a the filing entity or qualified foreign entity, except a bank organized
+9 pursuant to § 51A-3-1.1 and limited partnership organized pursuant to chapter 48-7, was
+10 authorized to transact business. The Each subsequent annual report shall must be
+11 delivered to the Office of the Secretary of State by the same date each subsequent year.
+12 The first annual report of a limited liability company or a limited liability
+13 partnership, authorized to transact business during the month of January, must be
+14 delivered to the Office of the Secretary of State on or before January thirty-first of the
+15 ensuing year following the year in which the. In all other cases, the annual report required
+16 of a limited liability company or a limited liability partnership was authorized to transact
+17 business, and each January thirty-first thereafter must be delivered to the Office of the
+18 Secretary of State on or before January thirty-first of each year.
+19 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A aLSSD: E T O A S 5 T E a o p i t s t f a r t y i w a t f e o q f e e a b o p a t t b T E s a r s m b d T f a r o a l l c o a l l p a t t b d t m o J m b d e o b S S]

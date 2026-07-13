@@ -1,0 +1,126 @@
+Title: Senate Bill 76
+Official Title: Senate Bill 76
+Number of Sections: 1
+Source: versions - 76B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+76B 101st Legislative Session 76
+2026 South Dakota Legislature
+AMENDM ENT 76B
+FOR THE SENATE COMMERCE AND ENERGY ENGROSSED
+BILL
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Governor
+1 An Act to authorize loans from the South Dakota housing infrastructure fund for
+2 airport infrastructure.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-15-6 be AMENDED:
+5 11-15-6. The authority shall promulgate rules, pursuant to chapter 1-26,
+6 specifying the criteria and process for the application, approval, and disbursement of:
+7 (1) Loans and grants provided in accordance with §§ 11-15-1 to 11-15-5, inclusive,
+8 and § 11-15-7; and
+9 (2) Loans provided in accordance with § 11-15-8; and
+10 (3) Loans provided in accordance with section 2 of this Act.
+11 Section 2. That a NEW SECTION be added to chapter 11-15:
+12 In addition to any other loan authorized in § 11-15-2, the authority may provide
+13 loans from the South Dakota housing infrastructure fund, created in § 11-15-2, to the
+14 owner or operator of an airport with scheduled air service located in this state and in a
+15 metropolitan statistical area with an estimated annual resident population of at least one
+16 hundred twenty-five thousand, determined as of July 1, 2024, by the United States Census
+17 Bureau.
+18 Loans provided under this section:
+19 (1) Are for the purpose of improving or maintaining airport infrastructure;
+20 (2) May not exceed fifteen million dollars per recipient; and
+21 (3) Are subject to the terms set forth in section 3 of this Act.
+22 The authority shall consider, and authorize or deny, any loan requested pursuant
+23 to this section at a public meeting held pursuant to chapter 1-25.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+76B 2 76
+1 All moneys received by the authority in repayment of a loan made pursuant to this
+2 section must be deposited in the South Dakota housing infrastructure fund and used for
+3 making new loans pursuant to § 11-15-2.
+4 Section 3. That a NEW SECTION be added to chapter 11-15:
+5 A loan made pursuant to section 2 of this Act must:
+6 (1) Bear interest payable at the rate of zero two percent per year;
+7 (2) Be unsecured;
+8 (3) Require equal annual payments based on a twenty-year amortization;
+9 (4) Require that the first payment be due one year from the date of the funding of the
+10 loan; and
+11 (5) Be closed and funded on or before June 30, 2030.
+12 Section 4. That a NEW SECTION be added to chapter 11-15:
+13 A loan made pursuant to section 2 of this Act to a municipality is exempt from the
+14 provisions of chapters 6-8B and 9-25, but the loan is subject to the constitutional
+15 limitations of municipal indebtedness.
+16 A loan made pursuant to section 2 of this Act to a regional airport authority, created
+17 pursuant to chapter 50-6A, is exempt from the provisions of §§ 50-6A-29 to 50-6A-37,
+18 inclusive.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 7 U  A aLSSD: E T O A S 1 T a s p r p t c 1 s ( L a ( L ( L S I l o m h B L ( A ( M ( A T t]
+[DELETED:  2 7 U  A s m S A ( B ( B ( R ( R l ( B S A p o c 6 a 9 b t l i s t t c l A p i]
+
+
+================================================================================
+
+Raw Text:
+76B 101st Legislative Session 76
+2026 South Dakota Legislature
+Senate Bill 76
+AMENDM ENT 76B
+FOR THE SENATE COMMERCE AND ENERGY ENGROSSED
+BILL
+Introduced by: The Chair of the Committee on Commerce and Energy at the request of the Governor
+1 An Act to authorize loans from the South Dakota housing infrastructure fund for
+2 airport infrastructure.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-15-6 be AMENDED:
+5 11-15-6. The authority shall promulgate rules, pursuant to chapter 1-26,
+6 specifying the criteria and process for the application, approval, and disbursement of:
+7 (1) Loans and grants provided in accordance with §§ 11-15-1 to 11-15-5, inclusive,
+8 and § 11-15-7; and
+9 (2) Loans provided in accordance with § 11-15-8; and
+10 (3) Loans provided in accordance with section 2 of this Act.
+11 Section 2. That a NEW SECTION be added to chapter 11-15:
+12 In addition to any other loan authorized in § 11-15-2, the authority may provide
+13 loans from the South Dakota housing infrastructure fund, created in § 11-15-2, to the
+14 owner or operator of an airport with scheduled air service located in this state and in a
+15 metropolitan statistical area with an estimated annual resident population of at least one
+16 hundred twenty-five thousand, determined as of July 1, 2024, by the United States Census
+17 Bureau.
+18 Loans provided under this section:
+19 (1) Are for the purpose of improving or maintaining airport infrastructure;
+20 (2) May not exceed fifteen million dollars per recipient; and
+21 (3) Are subject to the terms set forth in section 3 of this Act.
+22 The authority shall consider, and authorize or deny, any loan requested pursuant
+23 to this section at a public meeting held pursuant to chapter 1-25.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+76B 2 76
+1 All moneys received by the authority in repayment of a loan made pursuant to this
+2 section must be deposited in the South Dakota housing infrastructure fund and used for
+3 making new loans pursuant to § 11-15-2.
+4 Section 3. That a NEW SECTION be added to chapter 11-15:
+5 A loan made pursuant to section 2 of this Act must:
+6 (1) Bear interest payable at the rate of zero two percent per year;
+7 (2) Be unsecured;
+8 (3) Require equal annual payments based on a twenty-year amortization;
+9 (4) Require that the first payment be due one year from the date of the funding of the
+10 loan; and
+11 (5) Be closed and funded on or before June 30, 2030.
+12 Section 4. That a NEW SECTION be added to chapter 11-15:
+13 A loan made pursuant to section 2 of this Act to a municipality is exempt from the
+14 provisions of chapters 6-8B and 9-25, but the loan is subject to the constitutional
+15 limitations of municipal indebtedness.
+16 A loan made pursuant to section 2 of this Act to a regional airport authority, created
+17 pursuant to chapter 50-6A, is exempt from the provisions of §§ 50-6A-29 to 50-6A-37,
+18 inclusive.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 7 U  A aLSSD: E T O A S 1 T a s p r p t c 1 s ( L a ( L ( L S I l o m h B L ( A ( M ( A T t]
+[DELETED:  2 7 U  A s m S A ( B ( B ( R ( R l ( B S A p o c 6 a 9 b t l i s t t c l A p i]

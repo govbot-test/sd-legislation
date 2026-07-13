@@ -1,0 +1,165 @@
+Title: House Bill 1023
+Official Title: House Bill 1023
+Number of Sections: 1
+Source: versions - 1023A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1023A 101st Legislative Session 1023
+2026 South Dakota Legislature
+AMENDME NT 1023A
+FOR THE INTRODUCED BILL
+Introduced by: Representatives Walburg, Emery, Garcia, Hunt, and Kull and Senators Grove, Jensen (Kevin),
+Reed, and Voight at the request of the Study Committee on Emergency Medical Services
+1 An Act to establish requirements and liability protection for registered nurses and
+2 licensed practical nurses serving on ambulance crews.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-11-2 be AMENDED:
+5 34-11-2. Terms used in this chapter mean:
+6 (1) "Ambulance," a vehicle that has a driver compartment and a patient compartment,
+7 and carries the equipment and supplies needed for the provision of emergency
+8 care, by personnel licensed or certified in accordance with chapter 36-4B, or
+9 authorized by section 4 3 of this Act, at the scene of and enroute from an
+10 emergency;
+11 (2) "Ambulance service," any person or organization that is licensed by the department
+12 to provide:
+13 (a) Emergency medical services at the scene of and enroute from an
+14 emergency;
+15 (b) Transportation of a patient from a medical facility to another medical
+16 facility;
+17 (c) Transportation of a patient from a medical facility to a non-medical facility;
+18 and
+19 (d) Transportation of a patient from a non-medical facility to a medical facility;
+20 (3) "Department," the Department of Health;
+21 (4) "Medical director," a physician licensed pursuant to chapter 36-4 who is responsible
+22 for providing medical supervision and direction to an ambulance service; and
+23 (5) "Program director," a physician assistant licensed pursuant to chapter 36-4A, or a
+24 nurse practitioner licensed pursuant to chapter 36-9A, who is authorized by § 34-
+25 11-12.2 and is responsible for providing supervision and direction to an ambulance
+26 service in place of a medical director.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1023A 2 1023
+1 Section 2. That § 34-11-12 be AMENDED:
+2 34-11-12. Each Except as otherwise provided for in section 3 of this Act, each
+3 ambulance run must include:
+4 (1) One emergency:
+5 (a) Emergency medical technician or one advanced, licensed pursuant to
+6 chapter 36-4B;
+7 (b) Advanced life support personnel, licensed pursuant to chapter 36-4B; or
+8 (c) Licensed practical nurse or registered nurse, authorized by section 3 of this
+9 Act; and
+10 (2) One ambulance operator certified in accordance with chapter 36-4B.
+11 Section 3. That a NEW SECTION be added to chapter 34-11:
+12 If an ambulance service has been granted a hardship exemption in accordance with § 34-11-
+13 12.2, each ambulance run must include the personnel required in § 34-11-12 or:
+14 (1) One emergency medical responder, licensed pursuant to chapter 36-4B, and one
+15 registered nurse, authorized by section 4 of this Act; and
+16 (2) One ambulance operator certified in accordance with chapter 36-4B.
+17 Section 3. That a NEW SECTION be added to chapter 34-11:
+18 A registered nurse or licensed practical nurse, licensed pursuant to chapter 36-9,
+19 may be employed by or serve as a volunteer for an ambulance service, provided that the
+20 nurse demonstrates competence in the skills, equipment, and medications used in the
+21 provision of emergency care, as determined and approved by the medical or program
+22 director.
+23 Care provided by a registered nurse or a licensed practical nurse, employed by or
+24 volunteering for an ambulance service, must be within the scope of the nurse's license
+25 and under the direction and supervision of the medical or program director.
+26 Section 4. That a NEW SECTION be added to chapter 34-11:
+27 A registered nurse or licensed practical nurse, authorized by section 4 3 of this Act,
+28 is not liable for civil damages for any act or omission in connection with care provided on
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1023A 3 1023
+1 an ambulance run, unless the act or omission is inconsistent with the nurse's training, or
+2 the act or omission was the result of gross negligence or willful misconduct.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A lLSSD: E T O A S 3 ( " a c b p l o c i a w c 3 o a b s 4 3 o t A a t s o a e f a e ( " t ( E m s a t s o a e f a e ( T o a p f a m f t a m f ( T a ( T ( " ( " f ( " n 1 s]
+[DELETED:  2 1 U  S 3 a ( O ( E m t o o a l p t c ( A ( L A ( O S I 1 ( e m r l p t c 3 a o r ( S A m n p d C v a S A i]
+[DELETED:  3 1 U  a t]
+
+
+================================================================================
+
+Raw Text:
+1023A 101st Legislative Session 1023
+2026 South Dakota Legislature
+House Bill 1023
+AMENDME NT 1023A
+FOR THE INTRODUCED BILL
+Introduced by: Representatives Walburg, Emery, Garcia, Hunt, and Kull and Senators Grove, Jensen (Kevin),
+Reed, and Voight at the request of the Study Committee on Emergency Medical Services
+1 An Act to establish requirements and liability protection for registered nurses and
+2 licensed practical nurses serving on ambulance crews.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 34-11-2 be AMENDED:
+5 34-11-2. Terms used in this chapter mean:
+6 (1) "Ambulance," a vehicle that has a driver compartment and a patient compartment,
+7 and carries the equipment and supplies needed for the provision of emergency
+8 care, by personnel licensed or certified in accordance with chapter 36-4B, or
+9 authorized by section 4 3 of this Act, at the scene of and enroute from an
+10 emergency;
+11 (2) "Ambulance service," any person or organization that is licensed by the department
+12 to provide:
+13 (a) Emergency medical services at the scene of and enroute from an
+14 emergency;
+15 (b) Transportation of a patient from a medical facility to another medical
+16 facility;
+17 (c) Transportation of a patient from a medical facility to a non-medical facility;
+18 and
+19 (d) Transportation of a patient from a non-medical facility to a medical facility;
+20 (3) "Department," the Department of Health;
+21 (4) "Medical director," a physician licensed pursuant to chapter 36-4 who is responsible
+22 for providing medical supervision and direction to an ambulance service; and
+23 (5) "Program director," a physician assistant licensed pursuant to chapter 36-4A, or a
+24 nurse practitioner licensed pursuant to chapter 36-9A, who is authorized by § 34-
+25 11-12.2 and is responsible for providing supervision and direction to an ambulance
+26 service in place of a medical director.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1023A 2 1023
+1 Section 2. That § 34-11-12 be AMENDED:
+2 34-11-12. Each Except as otherwise provided for in section 3 of this Act, each
+3 ambulance run must include:
+4 (1) One emergency:
+5 (a) Emergency medical technician or one advanced, licensed pursuant to
+6 chapter 36-4B;
+7 (b) Advanced life support personnel, licensed pursuant to chapter 36-4B; or
+8 (c) Licensed practical nurse or registered nurse, authorized by section 3 of this
+9 Act; and
+10 (2) One ambulance operator certified in accordance with chapter 36-4B.
+11 Section 3. That a NEW SECTION be added to chapter 34-11:
+12 If an ambulance service has been granted a hardship exemption in accordance with § 34-11-
+13 12.2, each ambulance run must include the personnel required in § 34-11-12 or:
+14 (1) One emergency medical responder, licensed pursuant to chapter 36-4B, and one
+15 registered nurse, authorized by section 4 of this Act; and
+16 (2) One ambulance operator certified in accordance with chapter 36-4B.
+17 Section 3. That a NEW SECTION be added to chapter 34-11:
+18 A registered nurse or licensed practical nurse, licensed pursuant to chapter 36-9,
+19 may be employed by or serve as a volunteer for an ambulance service, provided that the
+20 nurse demonstrates competence in the skills, equipment, and medications used in the
+21 provision of emergency care, as determined and approved by the medical or program
+22 director.
+23 Care provided by a registered nurse or a licensed practical nurse, employed by or
+24 volunteering for an ambulance service, must be within the scope of the nurse's license
+25 and under the direction and supervision of the medical or program director.
+26 Section 4. That a NEW SECTION be added to chapter 34-11:
+27 A registered nurse or licensed practical nurse, authorized by section 4 3 of this Act,
+28 is not liable for civil damages for any act or omission in connection with care provided on
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1023A 3 1023
+1 an ambulance run, unless the act or omission is inconsistent with the nurse's training, or
+2 the act or omission was the result of gross negligence or willful misconduct.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A lLSSD: E T O A S 3 ( " a c b p l o c i a w c 3 o a b s 4 3 o t A a t s o a e f a e ( " t ( E m s a t s o a e f a e ( T o a p f a m f t a m f ( T a ( T ( " ( " f ( " n 1 s]
+[DELETED:  2 1 U  S 3 a ( O ( E m t o o a l p t c ( A ( L A ( O S I 1 ( e m r l p t c 3 a o r ( S A m n p d C v a S A i]
+[DELETED:  3 1 U  a t]

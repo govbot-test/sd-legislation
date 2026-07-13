@@ -1,0 +1,195 @@
+Title: Senate Bill 85
+Official Title: Senate Bill 85
+Number of Sections: 1
+Source: versions - 85B
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+85B 101st Legislative Session 85
+2026 South Dakota Legislature
+AMENDM ENT 85B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Peterson (Sue)
+1 An Act to require an election for an excess tax levy of a school district.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-12-43 be AMENDED:
+4 10-12-43. The governing body of the school district may raise additional revenues
+5 for general fund purposes only, from property tax through the imposition of an excess tax
+6 levy. The governing body of a school district may impose the excess tax levy with an
+7 affirmative two-thirds vote of the governing body on or before July fifteenth of the year
+8 prior to the year the taxes are payable. On any excess tax levy approved after July 1,
+9 2002, the The governing body of the taxing district shall specify in the resolution the year
+10 or number of years the excess tax levy will is to be applied and the total maximum dollar
+11 amount of taxes payable over the full term of the excess tax levy.
+12 The requirements for an announcement made pursuant to this section are as
+13 follows:
+14 (1) The decision of the governing body to originally impose or subsequently increase
+15 an excess tax levy shall must be first published within ten days of the decision;
+16 (2) Publication shall must be made at least twice in the legal newspaper designated
+17 pursuant to § 13-8-10, with no fewer than five days between publication dates,
+18 before the opt out takes effect;
+19 (3) The announcement shall must be at least three newspaper columns in width and
+20 four inches in length or at least one-sixth of a page in size, whichever size is
+21 greater; and
+22 (4) The announcement shall must be headed with the following statement in a typeface
+23 no less than eighteen point eighteen-point type: "ATTENTION TAXPAYERS: NOTICE
+24 OF PROPERTY TAX INCREASE OF $(fill in amount)." The remainder of the
+25 announcement shall must consist of a reproduction of the "Resolution for Opt Out,"
+26 including the amount that property taxes will are to be increased annually by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+85B 2 85
+1 proposed opt out and, the number of years that the excess tax levy is to be applied
+2 and the total maximum dollar amount of taxes payable over the full term of the
+3 excess tax levy, a statement of the right to refer the decision of the board to a vote
+4 of the people as provided in this section, and the date of the referral election.
+5 The secretary of revenue the Department of Revenue, in rules promulgated
+6 pursuant to chapter 1-26, shall prescribe a uniform form to be used by the school district
+7 for notification of taxpayers as required by this section.
+8 However, the The requirements of subdivisions (3) and (4) shall be of this section
+9 are waived if:
+10 (A) The the opt out is for less than fifteen thousand dollars; or.
+11 (B) A The requirements of subdivisions (3) and (4) of this section are waived if a
+12 copy of the resolution for opt out is mailed to every property taxpayer in the local
+13 governmental unit, by first class mail or bulk mail, within twenty days of the decision to
+14 opt out;, and
+15 (C) A copy of the resolution for opt out is printed in each official newspaper in the
+16 local governmental unit's boundaries.
+17 For the purposes of subsections (A), (B), and (C) this section, the first publication
+18 is not deemed to have occurred until three days after the mailing is sent or the resolution
+19 is delivered to the official newspaper.
+20 The opt out decision may must be referred to a vote of the people upon a resolution
+21 of the governing body of the school district or by a petition signed by at least five percent
+22 of the registered voters in the school district and filed with the governing body within
+23 twenty days of the first publication of the decision. The ballot used for an excess tax levy
+24 election must clearly state the number of years the excess tax levy is to be applied and
+25 the total maximum dollar amount of taxes payable over the full term of the excess tax
+26 levy. The election must be conducted in the same manner as other special elections a
+27 special election conducted by the school district. The pursuant to § 13-16-6.4, except that
+28 the referendum election shall must be held on or before October first of the year prior to
+29 the time year the taxes are payable.
+30 Section 2. That § 10-12-43.1 be AMENDED:
+31 10-12-43.1. A school district may raise additional revenues for capital outlay fund
+32 purposes through the imposition of an excess tax levy. A school district seeking to impose
+33 an excess tax levy pursuant to this section is subject to the same opt out procedures and
+34 requirements as provided in § 10-12-43. The ballot used for an excess tax levy election
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+85B 3 85
+1 must clearly state the number of years the excess tax levy is to be applied and the total
+2 maximum dollar amount of taxes payable over the full term of the excess tax levy. The
+3 opt out decision may must be referred to a vote of the people in the same manner as
+4 provided in § 10-12-43.
+5 A school district imposing an excess tax levy pursuant to this section shall exclude
+6 any additional revenue generated by the excess tax levy from the total tax revenues
+7 deposited in the capital outlay fund when calculating the maximum allowable transfer to
+8 the school district's general fund authorized under § 13-16-6. Any additional Additional
+9 revenue generated by the excess tax levy may only be used for capital outlay fund
+10 purposes pursuant to § 13-16-6.
+11 In no year may the annual tax levy for capital outlay fund purposes exceed the
+12 levy authorized under § 13-16-7.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 8 U  ALSSD: E T O A S 1 f l a p 2 o a T r f a a m p t t s a a f ( T a ( P p b ( T f g ( T n O P T I O $ i a T r o t a i]
+[DELETED:  2 8 U  p a e o T s o r t D o R i r p p f H a ( ( c o t r f o o i m t e p t i t l g o ( l F i i T o o t e t l s t t S 1 p a r]
+[DELETED:  3 8 U  m m o p A a d t r g b t e t l m o b u f c o f p I l]
+
+
+================================================================================
+
+Raw Text:
+85B 101st Legislative Session 85
+2026 South Dakota Legislature
+Senate Bill 85
+AMENDM ENT 85B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Peterson (Sue)
+1 An Act to require an election for an excess tax levy of a school district.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 10-12-43 be AMENDED:
+4 10-12-43. The governing body of the school district may raise additional revenues
+5 for general fund purposes only, from property tax through the imposition of an excess tax
+6 levy. The governing body of a school district may impose the excess tax levy with an
+7 affirmative two-thirds vote of the governing body on or before July fifteenth of the year
+8 prior to the year the taxes are payable. On any excess tax levy approved after July 1,
+9 2002, the The governing body of the taxing district shall specify in the resolution the year
+10 or number of years the excess tax levy will is to be applied and the total maximum dollar
+11 amount of taxes payable over the full term of the excess tax levy.
+12 The requirements for an announcement made pursuant to this section are as
+13 follows:
+14 (1) The decision of the governing body to originally impose or subsequently increase
+15 an excess tax levy shall must be first published within ten days of the decision;
+16 (2) Publication shall must be made at least twice in the legal newspaper designated
+17 pursuant to § 13-8-10, with no fewer than five days between publication dates,
+18 before the opt out takes effect;
+19 (3) The announcement shall must be at least three newspaper columns in width and
+20 four inches in length or at least one-sixth of a page in size, whichever size is
+21 greater; and
+22 (4) The announcement shall must be headed with the following statement in a typeface
+23 no less than eighteen point eighteen-point type: "ATTENTION TAXPAYERS: NOTICE
+24 OF PROPERTY TAX INCREASE OF $(fill in amount)." The remainder of the
+25 announcement shall must consist of a reproduction of the "Resolution for Opt Out,"
+26 including the amount that property taxes will are to be increased annually by the
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+85B 2 85
+1 proposed opt out and, the number of years that the excess tax levy is to be applied
+2 and the total maximum dollar amount of taxes payable over the full term of the
+3 excess tax levy, a statement of the right to refer the decision of the board to a vote
+4 of the people as provided in this section, and the date of the referral election.
+5 The secretary of revenue the Department of Revenue, in rules promulgated
+6 pursuant to chapter 1-26, shall prescribe a uniform form to be used by the school district
+7 for notification of taxpayers as required by this section.
+8 However, the The requirements of subdivisions (3) and (4) shall be of this section
+9 are waived if:
+10 (A) The the opt out is for less than fifteen thousand dollars; or.
+11 (B) A The requirements of subdivisions (3) and (4) of this section are waived if a
+12 copy of the resolution for opt out is mailed to every property taxpayer in the local
+13 governmental unit, by first class mail or bulk mail, within twenty days of the decision to
+14 opt out;, and
+15 (C) A copy of the resolution for opt out is printed in each official newspaper in the
+16 local governmental unit's boundaries.
+17 For the purposes of subsections (A), (B), and (C) this section, the first publication
+18 is not deemed to have occurred until three days after the mailing is sent or the resolution
+19 is delivered to the official newspaper.
+20 The opt out decision may must be referred to a vote of the people upon a resolution
+21 of the governing body of the school district or by a petition signed by at least five percent
+22 of the registered voters in the school district and filed with the governing body within
+23 twenty days of the first publication of the decision. The ballot used for an excess tax levy
+24 election must clearly state the number of years the excess tax levy is to be applied and
+25 the total maximum dollar amount of taxes payable over the full term of the excess tax
+26 levy. The election must be conducted in the same manner as other special elections a
+27 special election conducted by the school district. The pursuant to § 13-16-6.4, except that
+28 the referendum election shall must be held on or before October first of the year prior to
+29 the time year the taxes are payable.
+30 Section 2. That § 10-12-43.1 be AMENDED:
+31 10-12-43.1. A school district may raise additional revenues for capital outlay fund
+32 purposes through the imposition of an excess tax levy. A school district seeking to impose
+33 an excess tax levy pursuant to this section is subject to the same opt out procedures and
+34 requirements as provided in § 10-12-43. The ballot used for an excess tax levy election
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+85B 3 85
+1 must clearly state the number of years the excess tax levy is to be applied and the total
+2 maximum dollar amount of taxes payable over the full term of the excess tax levy. The
+3 opt out decision may must be referred to a vote of the people in the same manner as
+4 provided in § 10-12-43.
+5 A school district imposing an excess tax levy pursuant to this section shall exclude
+6 any additional revenue generated by the excess tax levy from the total tax revenues
+7 deposited in the capital outlay fund when calculating the maximum allowable transfer to
+8 the school district's general fund authorized under § 13-16-6. Any additional Additional
+9 revenue generated by the excess tax levy may only be used for capital outlay fund
+10 purposes pursuant to § 13-16-6.
+11 In no year may the annual tax levy for capital outlay fund purposes exceed the
+12 levy authorized under § 13-16-7.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 8 U  ALSSD: E T O A S 1 f l a p 2 o a T r f a a m p t t s a a f ( T a ( P p b ( T f g ( T n O P T I O $ i a T r o t a i]
+[DELETED:  2 8 U  p a e o T s o r t D o R i r p p f H a ( ( c o t r f o o i m t e p t i t l g o ( l F i i T o o t e t l s t t S 1 p a r]
+[DELETED:  3 8 U  m m o p A a d t r g b t e t l m o b u f c o f p I l]

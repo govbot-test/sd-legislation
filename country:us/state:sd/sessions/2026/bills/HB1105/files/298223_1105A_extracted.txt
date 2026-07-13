@@ -1,0 +1,108 @@
+Title: House Bill 1105
+Official Title: House Bill 1105
+Number of Sections: 1
+Source: versions - 1105A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1105A 101st Legislative Session 1105
+2026 South Dakota Legislature
+AMENDME NT 1105A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Overweg
+1 An Act to restrict contracts and declarations that prohibit the use of commercial or
+2 residential property for any healthcare service in municipalities and
+3 townships with populations of less than three thousand, in medically
+4 underserved areas or communities, or in areas with a medically underserved
+5 population under federal law.
+6 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+7 Section 1. That § 11-5-3 be AMENDED:
+8 11-5-3. After the execution, recording, and filing of any declaration or contract
+9 executed contract or declaration pursuant to §§ 11-5-1 and 11-5-2, the terms and
+10 conditions of the same contract or declaration may be enforced by an action at law or by
+11 a suit in equity brought by any:
+12 (1) Any person possessing any interest in the land affected by such declaration or
+13 contract or in any part of such land, or such action or suit may be maintained by
+14 the affected real property; or
+15 (2) The first or second class municipality within which such land the property is
+16 situated.
+17 A contract or declaration in violation of section 2 of this Act is not enforceable.
+18 Section 2. That a NEW SECTION be added to chapter 11-5:
+19 Notwithstanding the provisions of § 11-5-1, an owner of real property zoned for
+20 commercial or residential use may not impose, by contract or declaration as set forth in
+21 § 11-5-2, any regulation or restriction that prohibits use of the real property for a
+22 healthcare service, if the real property is located in:
+23 (1) A municipality or township with a population of less than three thousand, as
+24 determined by the last preceding federal census; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1105A 2 1105
+1 (2) A geographic area that is designated either as a medically underserved area or
+2 as having a medically underserved population a medically underserved area, a medically
+3 underserved community, or a county with a medically underserved population, as
+4 designated by the Department of Health in accordance with the Public Health Service Act,
+5 42 U.S.C. ch. 6A (January 1, 2026).
+6 For purposes of this section, "healthcare service" means any service provided by
+7 an accredited, certified, or licensed facility or practitioner for the purpose of curing,
+8 diagnosing, preventing, relieving, or treating any health-related condition, disease,
+9 emergency, illness, or injury.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A r p f a h s i m a t w p o l t t t i m u pLSSD: E T O A S 1 e c o d p t § a 1 t t a c a ( A c t ( T f o s c m w w s l t p i s A S N c § a r o r t p u o t r p f a h ( d]
+[DELETED:  2 1 U  ( a u c o a c w a m u p a d 4 F a a c o l f o p f t p o c d p r o t a h c d e]
+
+
+================================================================================
+
+Raw Text:
+1105A 101st Legislative Session 1105
+2026 South Dakota Legislature
+House Bill 1105
+AMENDME NT 1105A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Overweg
+1 An Act to restrict contracts and declarations that prohibit the use of commercial or
+2 residential property for any healthcare service in municipalities and
+3 townships with populations of less than three thousand, in medically
+4 underserved areas or communities, or in areas with a medically underserved
+5 population under federal law.
+6 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+7 Section 1. That § 11-5-3 be AMENDED:
+8 11-5-3. After the execution, recording, and filing of any declaration or contract
+9 executed contract or declaration pursuant to §§ 11-5-1 and 11-5-2, the terms and
+10 conditions of the same contract or declaration may be enforced by an action at law or by
+11 a suit in equity brought by any:
+12 (1) Any person possessing any interest in the land affected by such declaration or
+13 contract or in any part of such land, or such action or suit may be maintained by
+14 the affected real property; or
+15 (2) The first or second class municipality within which such land the property is
+16 situated.
+17 A contract or declaration in violation of section 2 of this Act is not enforceable.
+18 Section 2. That a NEW SECTION be added to chapter 11-5:
+19 Notwithstanding the provisions of § 11-5-1, an owner of real property zoned for
+20 commercial or residential use may not impose, by contract or declaration as set forth in
+21 § 11-5-2, any regulation or restriction that prohibits use of the real property for a
+22 healthcare service, if the real property is located in:
+23 (1) A municipality or township with a population of less than three thousand, as
+24 determined by the last preceding federal census; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1105A 2 1105
+1 (2) A geographic area that is designated either as a medically underserved area or
+2 as having a medically underserved population a medically underserved area, a medically
+3 underserved community, or a county with a medically underserved population, as
+4 designated by the Department of Health in accordance with the Public Health Service Act,
+5 42 U.S.C. ch. 6A (January 1, 2026).
+6 For purposes of this section, "healthcare service" means any service provided by
+7 an accredited, certified, or licensed facility or practitioner for the purpose of curing,
+8 diagnosing, preventing, relieving, or treating any health-related condition, disease,
+9 emergency, illness, or injury.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A r p f a h s i m a t w p o l t t t i m u pLSSD: E T O A S 1 e c o d p t § a 1 t t a c a ( A c t ( T f o s c m w w s l t p i s A S N c § a r o r t p u o t r p f a h ( d]
+[DELETED:  2 1 U  ( a u c o a c w a m u p a d 4 F a a c o l f o p f t p o c d p r o t a h c d e]

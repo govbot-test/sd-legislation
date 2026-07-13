@@ -1,0 +1,71 @@
+Title: Senate Bill 198
+Official Title: Senate Bill 198
+Number of Sections: 1
+Source: versions - 198C
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+198C 101st Legislative Session 198
+2026 South Dakota Legislature
+AMENDME NT 198C
+FOR THE SENATE EDUCATION ENGROSSED BILL
+Introduced by: Senator Karr
+1 An Act to restrict the use of a cell phone by a student during the school day.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-32:
+4 Except as otherwise provided in this section, a student may not use a cell phone
+5 during the school day, as set by the board of the school district pursuant to § 13-26-1.
+6 A student may use a cell phone during the school day if the use is:
+7 (1) The use of a cell phone is required or permitted as part of an approved medical or
+8 educational accommodation; or Pre-approved on an individual student basis by an
+9 administrator to manage the student's health care;
+10 (2) The use of a cell phone is required Required or permitted as part of:
+11 (a) A plan under section 504 of the Rehabilitation Act, 20 U.S.C. § 794 (January
+12 1, 2026); or
+13 (b) An individual education program under 20 U.S.C. § 1401 (January 1, 2026);
+14 (3) Permitted by a teacher as part of the implementation of the teacher's lesson plan;
+15 or
+16 (4) Required during an emergency affecting the health, safety, or well-being of a
+17 student or staff member.
+18 The board of each school district shall adopt a policy that sets forth disciplinary
+19 actions for student noncompliance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S E d A ( T e a ( T ( A 1 ( A ( P o ( R d a e a t h s o w o a s T a]
+
+
+================================================================================
+
+Raw Text:
+198C 101st Legislative Session 198
+2026 South Dakota Legislature
+Senate Bill 198
+AMENDME NT 198C
+FOR THE SENATE EDUCATION ENGROSSED BILL
+Introduced by: Senator Karr
+1 An Act to restrict the use of a cell phone by a student during the school day.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That a NEW SECTION be added to chapter 13-32:
+4 Except as otherwise provided in this section, a student may not use a cell phone
+5 during the school day, as set by the board of the school district pursuant to § 13-26-1.
+6 A student may use a cell phone during the school day if the use is:
+7 (1) The use of a cell phone is required or permitted as part of an approved medical or
+8 educational accommodation; or Pre-approved on an individual student basis by an
+9 administrator to manage the student's health care;
+10 (2) The use of a cell phone is required Required or permitted as part of:
+11 (a) A plan under section 504 of the Rehabilitation Act, 20 U.S.C. § 794 (January
+12 1, 2026); or
+13 (b) An individual education program under 20 U.S.C. § 1401 (January 1, 2026);
+14 (3) Permitted by a teacher as part of the implementation of the teacher's lesson plan;
+15 or
+16 (4) Required during an emergency affecting the health, safety, or well-being of a
+17 student or staff member.
+18 The board of each school district shall adopt a policy that sets forth disciplinary
+19 actions for student noncompliance.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S E d A ( T e a ( T ( A 1 ( A ( P o ( R d a e a t h s o w o a s T a]

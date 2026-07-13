@@ -1,0 +1,57 @@
+Title: House Bill 1222
+Official Title: House Bill 1222
+Number of Sections: 1
+Source: versions - 1222D
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1222D 101st Legislative Session 1222
+2026 South Dakota Legislature
+AMENDME NT 1222D
+FOR THE INTRODUCED BILL
+Introduced by: Representative Lems
+1 An Act to prohibit members of the Board of Economic Development from having any
+2 a direct interest in moneys from or approved by the Board of Economic
+3 Development.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 1-16G:
+6 A member of the Board of Economic Development may not have an a direct
+7 ownership interest in, or serve on the board of, any entity receiving an award,
+8 disbursement, expenditure, or grant of public moneys from or approved by the Board of
+9 Economic Development.
+10 For purposes of this section, ownership of stock or another equity interest
+11 purchased on the open market and held as a passive investment, without the ability to
+12 control, influence, or direct the affairs of the entity, does not constitute direct ownership.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A a d i i m f o a b t B o E DLSSD: E T O A S A m o t B o E D m n h a a d o i i o s o t b o a e r a a d E F p o t s o o s o a e i p c]
+
+
+================================================================================
+
+Raw Text:
+1222D 101st Legislative Session 1222
+2026 South Dakota Legislature
+House Bill 1222
+AMENDME NT 1222D
+FOR THE INTRODUCED BILL
+Introduced by: Representative Lems
+1 An Act to prohibit members of the Board of Economic Development from having any
+2 a direct interest in moneys from or approved by the Board of Economic
+3 Development.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That a NEW SECTION be added to chapter 1-16G:
+6 A member of the Board of Economic Development may not have an a direct
+7 ownership interest in, or serve on the board of, any entity receiving an award,
+8 disbursement, expenditure, or grant of public moneys from or approved by the Board of
+9 Economic Development.
+10 For purposes of this section, ownership of stock or another equity interest
+11 purchased on the open market and held as a passive investment, without the ability to
+12 control, influence, or direct the affairs of the entity, does not constitute direct ownership.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A a d i i m f o a b t B o E DLSSD: E T O A S A m o t B o E D m n h a a d o i i o s o t b o a e r a a d E F p o t s o o s o a e i p c]

@@ -1,0 +1,134 @@
+Title: House Bill 1116
+Official Title: House Bill 1116
+Number of Sections: 1
+Source: versions - 1116F
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1116F 101st Legislative Session 1116
+2026 South Dakota Legislature
+AMENDME NT 1116F
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Shubeck
+1 An Act to prohibit a video streaming service from transmitting certain advertising
+2 during children's programming and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in section 2 of this Act mean:
+6 (1) "Children's programming," any content designed or suitable for individuals under
+7 the age of fourteen, which is rated, or meets a rating equivalent to the following:
+8 (a) TV-Y, TV-Y7, TV-G, or TV-PG, as set forth by the TV Parental Guidelines
+9 Monitoring Board; or
+10 (b) G or PG, as set forth by the Motion Picture Association; and
+11 (2) "Video streaming service," an entity that makes either of the following available
+12 directly to the consumer through a distribution method utilizing internet protocol:
+13 (a) Video programming considered comparable to programming provided by a
+14 television broadcast station; or
+15 (b) Video content the service makes available for users to view.
+16 The term does not include a television broadcast station, cable operator, satellite
+17 television operator or its affiliates, or other multichannel video programming
+18 distributor, or an entity that serves video programming or video content without
+19 commercial advertisements.
+20 Section 2. That a NEW SECTION be added to chapter 37-24:
+21 A video streaming service may not transmit during any children's programming
+22 any commercial advertisement that discusses, promotes, or contains imagery related to:
+23 (1) Abortion;
+24 (2) AlcoholThe active consumption of alcohol;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1116F 2 1116
+1 (3) Drugs or pharmaceutical products for the treatment of erectile dysfunction or a
+2 sexually transmitted disease, or for the purpose of male enhancement;
+3 (4) Gambling;
+4 (5) Gender transition; or
+5 (6) Nicotine products; or
+6 (6) A prohibited medical intervention as set forth in § 34-24-34.
+7 Section 3. That a NEW SECTION be added to chapter 37-24:
+8 The attorney general may impose recover a civil penalty against a video streaming
+9 service for violating section 2 of this Act. The amount of the civil penalty may not exceed
+10 five thousand dollars for each violation. The attorney general shall forward any civil
+11 penalty collected under this section to the state treasurer, for deposit in the general fund.
+12 Section 4. That a NEW SECTION be added to chapter 37-24:
+13 If the attorney general has reason to believe that a person is engaging in, has
+14 engaged in, or is about to engage in a violation of section 2 of this Act, the attorney
+15 general may bring an action in the name of the state against the video streaming service
+16 to restrain the video streaming service by temporary or permanent injunction.
+17 An action under this section may be brought in the circuit court for the county in
+18 which the streaming service is located or incorporated, or in the circuit court for Hughes
+19 County, South Dakota. The court may issue a temporary or permanent injunction to
+20 restrain and prevent any violation of section 2 of this Act.
+21 The attorney general, if the prevailing party, may recover reasonable attorney fees
+22 and costs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A dLSSD: E T O A S T ( " t ( T M ( G ( " d ( V t ( V T t o o i a o o m v p d c S A a ( A ( A]
+[DELETED:  2 1 U  ( D s ( G ( G ( N ( A S T s f t d f e v T a g s f a c p S I e g t A w C S D T c m i a t o p i t r T a]
+
+
+================================================================================
+
+Raw Text:
+1116F 101st Legislative Session 1116
+2026 South Dakota Legislature
+House Bill 1116
+AMENDME NT 1116F
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Shubeck
+1 An Act to prohibit a video streaming service from transmitting certain advertising
+2 during children's programming and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 37-24:
+5 Terms used in section 2 of this Act mean:
+6 (1) "Children's programming," any content designed or suitable for individuals under
+7 the age of fourteen, which is rated, or meets a rating equivalent to the following:
+8 (a) TV-Y, TV-Y7, TV-G, or TV-PG, as set forth by the TV Parental Guidelines
+9 Monitoring Board; or
+10 (b) G or PG, as set forth by the Motion Picture Association; and
+11 (2) "Video streaming service," an entity that makes either of the following available
+12 directly to the consumer through a distribution method utilizing internet protocol:
+13 (a) Video programming considered comparable to programming provided by a
+14 television broadcast station; or
+15 (b) Video content the service makes available for users to view.
+16 The term does not include a television broadcast station, cable operator, satellite
+17 television operator or its affiliates, or other multichannel video programming
+18 distributor, or an entity that serves video programming or video content without
+19 commercial advertisements.
+20 Section 2. That a NEW SECTION be added to chapter 37-24:
+21 A video streaming service may not transmit during any children's programming
+22 any commercial advertisement that discusses, promotes, or contains imagery related to:
+23 (1) Abortion;
+24 (2) AlcoholThe active consumption of alcohol;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1116F 2 1116
+1 (3) Drugs or pharmaceutical products for the treatment of erectile dysfunction or a
+2 sexually transmitted disease, or for the purpose of male enhancement;
+3 (4) Gambling;
+4 (5) Gender transition; or
+5 (6) Nicotine products; or
+6 (6) A prohibited medical intervention as set forth in § 34-24-34.
+7 Section 3. That a NEW SECTION be added to chapter 37-24:
+8 The attorney general may impose recover a civil penalty against a video streaming
+9 service for violating section 2 of this Act. The amount of the civil penalty may not exceed
+10 five thousand dollars for each violation. The attorney general shall forward any civil
+11 penalty collected under this section to the state treasurer, for deposit in the general fund.
+12 Section 4. That a NEW SECTION be added to chapter 37-24:
+13 If the attorney general has reason to believe that a person is engaging in, has
+14 engaged in, or is about to engage in a violation of section 2 of this Act, the attorney
+15 general may bring an action in the name of the state against the video streaming service
+16 to restrain the video streaming service by temporary or permanent injunction.
+17 An action under this section may be brought in the circuit court for the county in
+18 which the streaming service is located or incorporated, or in the circuit court for Hughes
+19 County, South Dakota. The court may issue a temporary or permanent injunction to
+20 restrain and prevent any violation of section 2 of this Act.
+21 The attorney general, if the prevailing party, may recover reasonable attorney fees
+22 and costs.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A dLSSD: E T O A S T ( " t ( T M ( G ( " d ( V t ( V T t o o i a o o m v p d c S A a ( A ( A]
+[DELETED:  2 1 U  ( D s ( G ( G ( N ( A S T s f t d f e v T a g s f a c p S I e g t A w C S D T c m i a t o p i t r T a]

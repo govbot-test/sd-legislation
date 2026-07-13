@@ -1,0 +1,171 @@
+Title: Senate Bill 188
+Official Title: Senate Bill 188
+Number of Sections: 1
+Source: versions - 188A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+188A 101st Legislative Session 188
+2026 South Dakota Legislature
+AMENDME NT 188A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to revise public notice requirements for new sand, gravel, and construction
+2 aggregate mines.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 45-6-68 be AMENDED:
+5 45-6-68. The operator shall must publish notice of each mine mining operation
+6 once in a newspaper of general circulation in the locality of the operation, at least fourteen
+7 days before the commencement of mining, if the operation will affect an area of ten acres
+8 or less, or will annually extract less than twenty-five thousand tons of material.
+9 If the operation will affect an area greater than ten acres, or annually extract at
+10 least twenty-five thousand tons of material, the operator must publish notice of each mine
+11 operation at least three times in a newspaper of general circulation in the locality of the
+12 operation. The first notice must be published no sooner than one hundred eighty days
+13 before the commencement of the mining operation. The second notice must be published
+14 at least ninety days before the commencement of the mining operation. The third notice
+15 must be published at least thirty days before the commencement of the mining operation.
+16 The notice shall contain the must:
+17 (1) State the identity and address of the operator and resident agent, the;
+18 (2) State the location of the mining operation, whether;
+19 (3) State whether the mineral to be mined is sand, gravel, or rock to be crushed and
+20 used in construction, the ;
+21 (4) State whether the mining operation is to involve the use of explosives;
+22 (5) Include any plans to mitigate dust, stormwater runoff, and noise from the
+23 operation;
+24 (6) State the dates of commencement and completion of the operation, the;
+25 (7) Describe any proposed future use of the affected land; and the location
+26 (8) Indicate where additional information about the operation may be obtained.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+188A 2 188
+1 Section 2. That § 45-6-69 be AMENDED:
+2 45-6-69. The operator of a mining operation that affects an area of ten acres or
+3 less, or extracts less than twenty-five thousand tons of material, shall submit notification,
+4 consisting of forward all information required in § 45-6-68, together with a map of the
+5 affected area and the information required in the newspaper notice to the South Dakota,
+6 to the persons listed in this section at least fourteen days before the commencement of
+7 mining.
+8 The operator of a mining operation that affects an area greater than ten acres, or
+9 annually extracts at least twenty-five thousand tons of material, shall forward all
+10 information required in § 45-6-68, together with a map of the affected area, to the persons
+11 listed in this section at least ninety one hundred eighty days before the commencement
+12 of mining. The information must be forwarded to:
+13 (1) The Department of Agriculture and Natural Resources, the South Dakota;
+14 (2) The Department of Game, Fish and Parks, the South Dakota;
+15 (3) The Department of Education, and the local conservation district, of the operator's
+16 intent to commence mining at a new mine site at least thirty days before beginning
+17 mining operations;
+18 (4) The conservation district within which the mining site is located;
+19 (5) Any individual who lives within a two-mile radius of the center of the mine site and
+20 who can be reached by direct mail;
+21 (6) The board of commissioners for the county in which the proposed mining operation
+22 is located;
+23 (7) The governing board of any municipality located within ten miles of the site of the
+24 proposed mining operation;
+25 (8) Any broadcast media located in the county where the proposed mining operation
+26 is located; and
+27 (9) Any statewide public notice website maintained by a media organization in this
+28 state.
+29 Section 3. That § 45-6-70 be AMENDED:
+30 45-6-70. When an emergency situation exists and when in the public interest, the
+31 secretary of agriculture and natural resources may waive the minimum fourteen-day
+32 advertising requirements and thirty-day notice requirement of §§ time period applicable
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+188A 3 188
+1 to the publication of notices under § 45-6-68 and the dissemination of information under
+2 § 45-6-69.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A aLSSD: E T O A S 4 o d o I l o o b a m T ( S ( S ( S u ( S ( I a p t m d s r a n f t o ( S ( D ( I]
+[DELETED:  2 1 U  S 4 l c a t m T a e a l t t t o m s f a i l o ( T ( T ( T i m ( T ( A w ( T i ( T p ( A i ( A s S 4 s o a a n r m w t m f a]
+[DELETED:  3 1 U  t §]
+
+
+================================================================================
+
+Raw Text:
+188A 101st Legislative Session 188
+2026 South Dakota Legislature
+Senate Bill 188
+AMENDME NT 188A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to revise public notice requirements for new sand, gravel, and construction
+2 aggregate mines.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 45-6-68 be AMENDED:
+5 45-6-68. The operator shall must publish notice of each mine mining operation
+6 once in a newspaper of general circulation in the locality of the operation, at least fourteen
+7 days before the commencement of mining, if the operation will affect an area of ten acres
+8 or less, or will annually extract less than twenty-five thousand tons of material.
+9 If the operation will affect an area greater than ten acres, or annually extract at
+10 least twenty-five thousand tons of material, the operator must publish notice of each mine
+11 operation at least three times in a newspaper of general circulation in the locality of the
+12 operation. The first notice must be published no sooner than one hundred eighty days
+13 before the commencement of the mining operation. The second notice must be published
+14 at least ninety days before the commencement of the mining operation. The third notice
+15 must be published at least thirty days before the commencement of the mining operation.
+16 The notice shall contain the must:
+17 (1) State the identity and address of the operator and resident agent, the;
+18 (2) State the location of the mining operation, whether;
+19 (3) State whether the mineral to be mined is sand, gravel, or rock to be crushed and
+20 used in construction, the ;
+21 (4) State whether the mining operation is to involve the use of explosives;
+22 (5) Include any plans to mitigate dust, stormwater runoff, and noise from the
+23 operation;
+24 (6) State the dates of commencement and completion of the operation, the;
+25 (7) Describe any proposed future use of the affected land; and the location
+26 (8) Indicate where additional information about the operation may be obtained.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+188A 2 188
+1 Section 2. That § 45-6-69 be AMENDED:
+2 45-6-69. The operator of a mining operation that affects an area of ten acres or
+3 less, or extracts less than twenty-five thousand tons of material, shall submit notification,
+4 consisting of forward all information required in § 45-6-68, together with a map of the
+5 affected area and the information required in the newspaper notice to the South Dakota,
+6 to the persons listed in this section at least fourteen days before the commencement of
+7 mining.
+8 The operator of a mining operation that affects an area greater than ten acres, or
+9 annually extracts at least twenty-five thousand tons of material, shall forward all
+10 information required in § 45-6-68, together with a map of the affected area, to the persons
+11 listed in this section at least ninety one hundred eighty days before the commencement
+12 of mining. The information must be forwarded to:
+13 (1) The Department of Agriculture and Natural Resources, the South Dakota;
+14 (2) The Department of Game, Fish and Parks, the South Dakota;
+15 (3) The Department of Education, and the local conservation district, of the operator's
+16 intent to commence mining at a new mine site at least thirty days before beginning
+17 mining operations;
+18 (4) The conservation district within which the mining site is located;
+19 (5) Any individual who lives within a two-mile radius of the center of the mine site and
+20 who can be reached by direct mail;
+21 (6) The board of commissioners for the county in which the proposed mining operation
+22 is located;
+23 (7) The governing board of any municipality located within ten miles of the site of the
+24 proposed mining operation;
+25 (8) Any broadcast media located in the county where the proposed mining operation
+26 is located; and
+27 (9) Any statewide public notice website maintained by a media organization in this
+28 state.
+29 Section 3. That § 45-6-70 be AMENDED:
+30 45-6-70. When an emergency situation exists and when in the public interest, the
+31 secretary of agriculture and natural resources may waive the minimum fourteen-day
+32 advertising requirements and thirty-day notice requirement of §§ time period applicable
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+188A 3 188
+1 to the publication of notices under § 45-6-68 and the dissemination of information under
+2 § 45-6-69.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A aLSSD: E T O A S 4 o d o I l o o b a m T ( S ( S ( S u ( S ( I a p t m d s r a n f t o ( S ( D ( I]
+[DELETED:  2 1 U  S 4 l c a t m T a e a l t t t o m s f a i l o ( T ( T ( T i m ( T ( A w ( T i ( T p ( A i ( A s S 4 s o a a n r m w t m f a]
+[DELETED:  3 1 U  t §]
