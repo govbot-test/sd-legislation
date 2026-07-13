@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for sd
+========================================
+
+Total bills:                 666
+Processed:                   666
+Successful:                  666
+Errors:                      0
+Skipped (already processed): 0
