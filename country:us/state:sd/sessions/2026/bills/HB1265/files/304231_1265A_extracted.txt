@@ -1,0 +1,73 @@
+Title: House Bill 1265
+Official Title: House Bill 1265
+Number of Sections: 1
+Source: versions - 1265A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1265A 101st Legislative Session 1265
+2026 South Dakota Legislature
+AMENDME NT 1265A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jordan
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to establish an avian special purposeauthorize the salvage permit of certain
+2 bird eggs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 41-11-7 be AMENDED:
+5 41-11-7. Except as permitted by statute, no person otherwise provided in this
+6 section, an individual may not take or, have in possession, or intentionally break or destroy
+7 any nest or the eggs of the kinds of birds, the taking or killing of which is at any time or
+8 at all times prohibited. A violation of this section is a Class 2 misdemeanor.
+9 Nothing in this section prohibits any egg salvage activity if:
+10 (1) The individual holds a migratory bird special purpose salvage permit, issued by the
+11 United States Fish and Wildlife Service, in accordance with 50 C.F.R § 21.95
+12 (January 1, 2026); and
+13 (2) The salvage activity does not involve the eggs of birds, the taking or killing of which
+14 is at all times prohibited.
+15
+16
+17
+18
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A bLSSD: E T O A S 4 s a a N ( T U S F a W S i a w 5 C § 2 ( ( T i    ]
+
+
+================================================================================
+
+Raw Text:
+1265A 101st Legislative Session 1265
+2026 South Dakota Legislature
+House Bill 1265
+AMENDME NT 1265A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Jordan
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to establish an avian special purposeauthorize the salvage permit of certain
+2 bird eggs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 41-11-7 be AMENDED:
+5 41-11-7. Except as permitted by statute, no person otherwise provided in this
+6 section, an individual may not take or, have in possession, or intentionally break or destroy
+7 any nest or the eggs of the kinds of birds, the taking or killing of which is at any time or
+8 at all times prohibited. A violation of this section is a Class 2 misdemeanor.
+9 Nothing in this section prohibits any egg salvage activity if:
+10 (1) The individual holds a migratory bird special purpose salvage permit, issued by the
+11 United States Fish and Wildlife Service, in accordance with 50 C.F.R § 21.95
+12 (January 1, 2026); and
+13 (2) The salvage activity does not involve the eggs of birds, the taking or killing of which
+14 is at all times prohibited.
+15
+16
+17
+18
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A bLSSD: E T O A S 4 s a a N ( T U S F a W S i a w 5 C § 2 ( ( T i    ]

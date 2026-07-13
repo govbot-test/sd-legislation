@@ -1,0 +1,77 @@
+Title: House Bill 1062
+Official Title: House Bill 1062
+Number of Sections: 1
+Source: versions - 1062A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1062A 101st Legislative Session 1062
+2026 South Dakota Legislature
+AMENDME NT 1062A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Kull
+1 An Act to revise a provision related to aggravated assault.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-18-1.1 be AMENDED:
+4 22-18-1.1. Any person whoNo person may:
+5 (1) Attempts Cause or attempt to cause serious bodily injury to another, or causes
+6 such injury, under circumstances manifesting extreme indifference to the value of
+7 human life;
+8 (2) Attempts Attempt to cause, or knowingly causes cause, bodily injury to another
+9 with a dangerous weapon;
+10 (3) Deleted by SL 2005, ch 120, § 2;
+11 (4) Assaults Assault another with intent to commit bodily injury, which results in
+12 serious bodily injury;
+13 (5)(4) AttemptsAttempt by physical menace with a deadly weapon or a physical object
+14 realistically simulating a deadly weapon to put another in fear of imminent serious
+15 bodily harm; or
+16 (6) Deleted by SL 2005, ch 120, § 2;
+17 (7) Deleted by SL 2012, ch 123, § 4;
+18 (8)(5) AttemptsAttempt to induce a fear of death or imminent serious bodily harm by
+19 impeding the normal breathing or circulation of the blood of another person by
+20 applying pressure on the throat or neck, or by blocking the nose and mouth;.
+21 A person who violates this section is guilty of aggravated assault. Aggravated
+22 assault is a Class 3 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 2 ( A s h ( A w ( D ( A A a w i t c b i w r i s ( r b ( D ( D ( i a A p w v t i o a a a]
+
+
+================================================================================
+
+Raw Text:
+1062A 101st Legislative Session 1062
+2026 South Dakota Legislature
+House Bill 1062
+AMENDME NT 1062A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Kull
+1 An Act to revise a provision related to aggravated assault.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 22-18-1.1 be AMENDED:
+4 22-18-1.1. Any person whoNo person may:
+5 (1) Attempts Cause or attempt to cause serious bodily injury to another, or causes
+6 such injury, under circumstances manifesting extreme indifference to the value of
+7 human life;
+8 (2) Attempts Attempt to cause, or knowingly causes cause, bodily injury to another
+9 with a dangerous weapon;
+10 (3) Deleted by SL 2005, ch 120, § 2;
+11 (4) Assaults Assault another with intent to commit bodily injury, which results in
+12 serious bodily injury;
+13 (5)(4) AttemptsAttempt by physical menace with a deadly weapon or a physical object
+14 realistically simulating a deadly weapon to put another in fear of imminent serious
+15 bodily harm; or
+16 (6) Deleted by SL 2005, ch 120, § 2;
+17 (7) Deleted by SL 2012, ch 123, § 4;
+18 (8)(5) AttemptsAttempt to induce a fear of death or imminent serious bodily harm by
+19 impeding the normal breathing or circulation of the blood of another person by
+20 applying pressure on the throat or neck, or by blocking the nose and mouth;.
+21 A person who violates this section is guilty of aggravated assault. Aggravated
+22 assault is a Class 3 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 2 ( A s h ( A w ( D ( A A a w i t c b i w r i s ( r b ( D ( D ( i a A p w v t i o a a a]

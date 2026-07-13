@@ -1,0 +1,227 @@
+Title: House Bill 1084
+Official Title: House Bill 1084
+Number of Sections: 1
+Source: versions - 1084A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1084A 101st Legislative Session 1084
+2026 South Dakota Legislature
+AMENDME NT 1084A
+FOR THE INTRODUCED BILL
+Introduced by: The Committee on Judiciary at the request of the Governor
+1 An Act to amend provisions pertaining to the public availability of information
+2 contained in certain records.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-4-2 be AMENDED:
+5 12-4-2. The county auditor has complete charge of maintaining and safeguarding
+6 the voter registration records in the county. The county auditor shall retain all voter
+7 registration records in the auditor's office in paper or electronic form. All such records
+8 shall be open to public inspection at all times during office hours, except pursuant to
+9 Except as provided in §§ 12-4-9, 12-4-9.2, and 12-4-9.3, the records must be open to
+10 public inspection at all times during office hours.
+11 Voter registration shall must be conducted by each county auditor and municipal
+12 finance officer. Voter registration shall forms must be available at the secretary of state's
+13 office and at those locations which provide driver licenses; food stamps; temporary
+14 assistance for needy families; women, infants, and children nutrition program; medicaid;
+15 military recruitment; and assistance to the disabled as provided by the Department of
+16 Human Services any location that:
+17 (1) Issues driver licenses;
+18 (2) Engages in military recruitment;
+19 (3) Assists disabled individuals under programs of the Department of Human Services;
+20 or
+21 (4) Allows for an individual to apply for:
+22 (a) Supplemental nutrition assistance program benefits;
+23 (b) Temporary assistance for needy families;
+24 (c) Benefits under the women, infants, and children supplemental nutrition
+25 program; or
+26 (d) Medicaid benefits.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1084A 2 1084
+1 Section 2. That § 12-4-9 be AMENDED:
+2 12-4-9. The county auditor shall maintain and safeguard a digital master
+3 registration file that contains:
+4 (1) The information from the voter registration card of each individual registered to
+5 vote in the county;
+6 (2) The date of the last election at which the individual has voted;
+7 (3) The date when the individual's voter information was last updated; and
+8 (4) Any application made by an individual to vote by absentee ballot, including:
+9 (a) The mailing address listed on the absentee ballot application form;
+10 (b) The absentee ballot requested on the application;
+11 (c) The date the absentee ballot was requested;
+12 (d) The date that the absentee ballot was returned; and
+13 (e) The method of absentee voting employed by the individual.
+14 The Except as otherwise provided in this section, § 12-4-9.2, or 12-4-9.3, the
+15 master registration file must be open to public inspection, free of charge. An individual's
+16 social security number, driver license number, South Dakota nondriver identification
+17 number, or month and day of birth is not open to public inspection.
+18 The county auditor shall produce a record of all the information contained in the
+19 master registration file the day before any primary or general election scheduled within
+20 the county by 11:59 p.m. The county auditor shall maintain a rolling five-year archive of
+21 historical information from the master registration file.
+22 The county auditor shall keep a voter registration form for a purged or unregistered
+23 voter twenty-two months. No purged or unregistered voter may be included in the master
+24 registration file.
+25 Section 3. That § 12-4-9.3 be AMENDED:
+26 12-4-9.3. Home address information on the voter registration record for a
+27 magistrate judge, circuit court judge, or justice of the Supreme Court eligible to vote under
+28 § 12-4-1 is not open to public inspection. The Unified Judicial System shall provide a list
+29 of judicial officers to the secretary of state Any personally identifiable information
+30 contained in the statewide or county master registration file is not available to the public
+31 if the information pertains to:
+32 (1) An individual elected or appointed to statewide or legislative office;
+33 (2) An individual elected or appointed to a federal office;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1084A 3 1084
+1 (3) A current or retired state or federal court judge or justice; and
+2 (4)(2) A law enforcement officer, as defined in § 22-1-2.
+3 The Unified Judicial System shall coordinate with the United States Eighth Circuit
+4 Court of Appeals and the United States District Court for the District of South Dakota to
+5 provide the secretary of state with a list of individuals whose personally identifiable
+6 information is not open to public inspection, pursuant to subdivision (3) (1). The director
+7 of the Division of Criminal Investigation shall provide the secretary of state with a list of
+8 the law enforcement officers for purposes of subdivision (4) (2).
+9 For purposes of this section, "personally identifiable information" means any home
+10 address, home or personal telephone number, or personal e-mail address. The city and
+11 county where the official is a resident is a public record.
+12 A violation of this section does not create a private right of action.
+13 Section 4. That § 12-4-37.1 be AMENDED:
+14 12-4-37.1. The secretary of state shall establish and maintain a rolling five-year
+15 historical archive of the complete statewide voter registration file, including the weekly
+16 updates published by the secretary pursuant to this section.
+17 The information contained in the historical archive of the statewide voter
+18 registration file must be made available free of charge.
+19 An individual's social security number, driver license number, South Dakota
+20 nondriver identification number, and month and day of birth contained in the historical
+21 archive of the statewide voter registration file are not open to public inspection. Any home
+22 address, home or personal telephone number, or the personal e-mail address contained
+23 in the historical archive of the statewide voter registration file is not open to public
+24 inspection if the information is for:
+25 (1) An individual elected or appointed to statewide or legislative office;
+26 (2) An individual elected or appointed to a federal office;
+27 (3) A current or retired state or federal court judge or justice; and
+28 (4)(2) A law enforcement officer, as defined in § 22-1-2.
+29 The city and county where the official is a resident is a public record.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A A t a p p t t p a o i cLSSD: E T O A S 1 t v r r t c T c s r a v r s E p V f o a a t l w p d l f s t a m H ( I ( E ( A o ( A ( S ( T ( B u t w i a c s n p ( M]
+[DELETED:  2 1 U  S 1 T c a s m a s a d m r ( T v ( T ( T ( A ( T ( T ( T ( T ( T T m s s n d l n S D n i n T m t h T v r S 1 H a i o t v r r f a m § o j o t t s o s A p i i c i ( A ( A]
+[DELETED:  3 1 U  ( A ( T C p t s o s w a l o i w p i i o t F a c A S 1 h u T i c i t h a o t s v r A i s s n d l n S D n a a i t h a o t s v r f i n o t p i ( A ( A ( A ( T]
+
+
+================================================================================
+
+Raw Text:
+1084A 101st Legislative Session 1084
+2026 South Dakota Legislature
+House Bill 1084
+AMENDME NT 1084A
+FOR THE INTRODUCED BILL
+Introduced by: The Committee on Judiciary at the request of the Governor
+1 An Act to amend provisions pertaining to the public availability of information
+2 contained in certain records.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 12-4-2 be AMENDED:
+5 12-4-2. The county auditor has complete charge of maintaining and safeguarding
+6 the voter registration records in the county. The county auditor shall retain all voter
+7 registration records in the auditor's office in paper or electronic form. All such records
+8 shall be open to public inspection at all times during office hours, except pursuant to
+9 Except as provided in §§ 12-4-9, 12-4-9.2, and 12-4-9.3, the records must be open to
+10 public inspection at all times during office hours.
+11 Voter registration shall must be conducted by each county auditor and municipal
+12 finance officer. Voter registration shall forms must be available at the secretary of state's
+13 office and at those locations which provide driver licenses; food stamps; temporary
+14 assistance for needy families; women, infants, and children nutrition program; medicaid;
+15 military recruitment; and assistance to the disabled as provided by the Department of
+16 Human Services any location that:
+17 (1) Issues driver licenses;
+18 (2) Engages in military recruitment;
+19 (3) Assists disabled individuals under programs of the Department of Human Services;
+20 or
+21 (4) Allows for an individual to apply for:
+22 (a) Supplemental nutrition assistance program benefits;
+23 (b) Temporary assistance for needy families;
+24 (c) Benefits under the women, infants, and children supplemental nutrition
+25 program; or
+26 (d) Medicaid benefits.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1084A 2 1084
+1 Section 2. That § 12-4-9 be AMENDED:
+2 12-4-9. The county auditor shall maintain and safeguard a digital master
+3 registration file that contains:
+4 (1) The information from the voter registration card of each individual registered to
+5 vote in the county;
+6 (2) The date of the last election at which the individual has voted;
+7 (3) The date when the individual's voter information was last updated; and
+8 (4) Any application made by an individual to vote by absentee ballot, including:
+9 (a) The mailing address listed on the absentee ballot application form;
+10 (b) The absentee ballot requested on the application;
+11 (c) The date the absentee ballot was requested;
+12 (d) The date that the absentee ballot was returned; and
+13 (e) The method of absentee voting employed by the individual.
+14 The Except as otherwise provided in this section, § 12-4-9.2, or 12-4-9.3, the
+15 master registration file must be open to public inspection, free of charge. An individual's
+16 social security number, driver license number, South Dakota nondriver identification
+17 number, or month and day of birth is not open to public inspection.
+18 The county auditor shall produce a record of all the information contained in the
+19 master registration file the day before any primary or general election scheduled within
+20 the county by 11:59 p.m. The county auditor shall maintain a rolling five-year archive of
+21 historical information from the master registration file.
+22 The county auditor shall keep a voter registration form for a purged or unregistered
+23 voter twenty-two months. No purged or unregistered voter may be included in the master
+24 registration file.
+25 Section 3. That § 12-4-9.3 be AMENDED:
+26 12-4-9.3. Home address information on the voter registration record for a
+27 magistrate judge, circuit court judge, or justice of the Supreme Court eligible to vote under
+28 § 12-4-1 is not open to public inspection. The Unified Judicial System shall provide a list
+29 of judicial officers to the secretary of state Any personally identifiable information
+30 contained in the statewide or county master registration file is not available to the public
+31 if the information pertains to:
+32 (1) An individual elected or appointed to statewide or legislative office;
+33 (2) An individual elected or appointed to a federal office;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1084A 3 1084
+1 (3) A current or retired state or federal court judge or justice; and
+2 (4)(2) A law enforcement officer, as defined in § 22-1-2.
+3 The Unified Judicial System shall coordinate with the United States Eighth Circuit
+4 Court of Appeals and the United States District Court for the District of South Dakota to
+5 provide the secretary of state with a list of individuals whose personally identifiable
+6 information is not open to public inspection, pursuant to subdivision (3) (1). The director
+7 of the Division of Criminal Investigation shall provide the secretary of state with a list of
+8 the law enforcement officers for purposes of subdivision (4) (2).
+9 For purposes of this section, "personally identifiable information" means any home
+10 address, home or personal telephone number, or personal e-mail address. The city and
+11 county where the official is a resident is a public record.
+12 A violation of this section does not create a private right of action.
+13 Section 4. That § 12-4-37.1 be AMENDED:
+14 12-4-37.1. The secretary of state shall establish and maintain a rolling five-year
+15 historical archive of the complete statewide voter registration file, including the weekly
+16 updates published by the secretary pursuant to this section.
+17 The information contained in the historical archive of the statewide voter
+18 registration file must be made available free of charge.
+19 An individual's social security number, driver license number, South Dakota
+20 nondriver identification number, and month and day of birth contained in the historical
+21 archive of the statewide voter registration file are not open to public inspection. Any home
+22 address, home or personal telephone number, or the personal e-mail address contained
+23 in the historical archive of the statewide voter registration file is not open to public
+24 inspection if the information is for:
+25 (1) An individual elected or appointed to statewide or legislative office;
+26 (2) An individual elected or appointed to a federal office;
+27 (3) A current or retired state or federal court judge or justice; and
+28 (4)(2) A law enforcement officer, as defined in § 22-1-2.
+29 The city and county where the official is a resident is a public record.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A A t a p p t t p a o i cLSSD: E T O A S 1 t v r r t c T c s r a v r s E p V f o a a t l w p d l f s t a m H ( I ( E ( A o ( A ( S ( T ( B u t w i a c s n p ( M]
+[DELETED:  2 1 U  S 1 T c a s m a s a d m r ( T v ( T ( T ( A ( T ( T ( T ( T ( T T m s s n d l n S D n i n T m t h T v r S 1 H a i o t v r r f a m § o j o t t s o s A p i i c i ( A ( A]
+[DELETED:  3 1 U  ( A ( T C p t s o s w a l o i w p i i o t F a c A S 1 h u T i c i t h a o t s v r A i s s n d l n S D n a a i t h a o t s v r f i n o t p i ( A ( A ( A ( T]

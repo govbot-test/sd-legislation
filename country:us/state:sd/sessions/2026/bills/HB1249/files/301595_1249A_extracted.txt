@@ -1,0 +1,270 @@
+Title: House Bill 1249
+Official Title: House Bill 1249
+Number of Sections: 1
+Source: versions - 1249A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1249A 101st Legislative Session 1249
+2026 South Dakota Legislature
+AMENDME NT 1249A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Kassin
+1 An Act to amend provisions pertaining to the School Finance Accountability Board,
+2 and the process by which a recommendation of the board is approved.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-45-38 be AMENDED:
+5 1-45-38. There is hereby created the School Finance Accountability Board within
+6 the Department of Education. The board shall consist consists of five members appointed
+7 by the Governor. The members shall serve a term of four years.
+8 The board may recommend that the provisions of § 13-13-73.5 be waived for a
+9 school district if the district can demonstrate that its lowest monthly general cash fund
+10 cash balance percentage is the result of special circumstances.
+11 The board may recommend that a penalty against a school district imposed under
+12 § 13-13-73.9 be waived, in whole or in part, if the district can demonstrate that its failure
+13 to comply with § 13-13-73.6 or 13-13-73.8 is due to special circumstances. The board
+14 may recommend the Department of Education review the accreditation of a school district
+15 that is found not to be complying with §§ 13-13-73.5, 13-13-73.6, or 13-13-73.8.
+16 The School Finance Accountability Board shall promulgate rules pursuant to chapter
+17 1-26 to establish the appeals process provided for in § 13-13-73.9, and to establish the
+18 factors that may be considered in considering a waiver requested by a school district,
+19 which shall include the impact of retirements.
+20 The Joint Committee on Appropriations or the Interim Committee on Appropriations
+21 shall review any waivers of § 13-13-73.5, 13-13-73.6, or 13-13-73.8 recommended by
+22 the School Finance Accountability Board. For a waiver recommended by the board under
+23 this section, the committee may provide any suggested change to the waiver. Not more
+24 than thirty days following receipt of a suggested change from the committee, the board
+25 may amend the recommended waiver in accordance with the suggested change and shall
+26 resubmit the recommended waiver. The Joint Committee on Appropriations or the Interim
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1249A 2 1249
+1 Committee on Appropriations shall approve, amend, or deny any waiver recommended by
+2 the board
+3 A school district may request that the School Finance Accountability Board waive
+4 any reduction to the district's state aid for general education, imposed under § 13-13-
+5 73.5, or the penalty imposed upon a school district, pursuant to § 13-13-73.9.
+6 The board may:
+7 (1) Reduce a school district's state aid for general education, as provided in § 13-13-
+8 73.5;
+9 (2) Impose the penalty, as provided in § 13-13-73.9, upon a school district for failing
+10 to comply with § 13-13-73.6 or 13-13-73.8;
+11 (3) Require a review of the school district's accreditation if:
+12 (a) The district's lowest general fund monthly cash balance exceeds the
+13 district's allowable general fund cash balance; or
+14 (b) The district has failed to comply with § 13-13-73.6 or 13-13-73.8; or
+15 (4) Waive, in whole or in part:
+16 (a) The reduction to a school district's state aid for general education required
+17 under § 13-13-73.5, if the district demonstrates that the lowest monthly
+18 general cash fund balance exceeded the allowable general fund cash
+19 balance as the result of special circumstances; or
+20 (b) A penalty imposed upon a school district by § 13-13-73.9, if the district
+21 demonstrates that the district's failure to comply with § 13-13-73.6 or 13-
+22 13-73.8 was the result of special circumstances.
+23 The board may condition any waiver granted to a school district pursuant to
+24 subsection (4)(a) upon the school district's annual lowest general fund monthly cash
+25 balance equaling an amount less than the district's allowable general fund cash balance,
+26 for at least three years. If the school district's lowest general fund monthly cash balance
+27 exceeds the district's allowable general fund cash balance at any point during the three
+28 years, the board may rescind the waiver and impose the penalty required under § 13-13-
+29 73.5.
+30 The board may condition any waiver granted to a school district pursuant to
+31 subsection (4)(b) upon the school district increasing the district's average teacher
+32 compensation in accordance with § 13-13-73.6 and paying each full-time equivalent
+33 teacher a salary equal to the state minimum salary, as defined in § 13-13-73.8, for at
+34 least three years. If a school district fails to increase the district's average teacher
+35 compensation or fails to pay each full-time equivalent teacher a salary equal to the state
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1249A 3 1249
+1 minimum salary at any point during the three years, the board may rescind the waiver
+2 and impose the penalty required under § 13-13-73.9.
+3 The School Finance Accountability Board shall promulgate rules, pursuant to
+4 chapter 1-26, to establish the process by which a school district may request a waiver,
+5 pursuant to this section, and the factors that the board may consider in granting a waiver
+6 request from a school district. The factors must address the impact of employee
+7 retirements on the district.
+8 The Department of Education shall annually report to the Governor and the
+9 Legislature the information collected pursuant to §§ 13-8-47 and 13-13-73.6.
+10 Section 2. That a NEW SECTION be added to chapter 1-45:
+11 The School Finance Accountability Board shall promulgate rules, pursuant to
+12 chapter 1-26, to establish:
+13 (1) The process by which a school district may request a waiver, pursuant to § 13-13-
+14 73.5 or 13-13-73.9;
+15 (2) The documentation that a school district must present in order to demonstrate that
+16 the district's failure to comply with § 13-13-73.5, 13-13-73.6, or 13-13-73.8 was
+17 the result of special circumstances; and
+18 (3) The factors that the board may use in determining whether a district's failure to
+19 comply with § 13-13-73.5, 13-13-73.6, or 13-13-73.8 was the result of special
+20 circumstances.
+21 Any factors established by the board pursuant to subdivision (3) must include the
+22 impact of the retirement of school district personnel on the district's general fund monthly
+23 cash balance and average teacher salary.
+24 Section 2. That § 13-13-73.5 be AMENDED:
+25 13-13-73.5. Beginning on July 1, 2018, a If a school district's lowest general fund
+26 monthly cash balance exceeds the district's allowable general fund cash balance, the
+27 Department of Education shall reduce a school district's state aid for general education,
+28 as calculated pursuant to § 13-13-73 shall be reduced, by subtracting an amount equal to
+29 the difference of the district's allowable general fund cash balance subtracted from the
+30 district's lowest general fund monthly cash balance. If the result difference is less than
+31 zero, the reduction equals to the district's state aid for general education is zero.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1249A 4 1249
+1 A school district created or reorganized after July 1, 2016, is exempt from the
+2 reduction provided by this section for a period of three years immediately following its
+3 creation.
+4 Section 3. That § 13-13-73.9 be AMENDED:
+5 13-13-73.9. The Department of Education must decrease state aid to general
+6 education funding to the school district in the following fiscal year by five hundred dollars
+7 for each full-time equivalent teacher employed in the school district if:
+8 (1) The school district does not increase the school district's average teacher
+9 compensation in accordance with § 13-13-73.6; or
+10 (2) The school district does not pay each full-time equivalent teacher a salary at least
+11 equal to the state minimum salary as defined in § 13-13-73.8.
+12 A school district may request a waiver from any penalty imposed under this section
+13 from the School Finance Accountability Board.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A aLSSD: E T O A S 1 t b T s c T § t m t T 1 f w T s t t t m r]
+[DELETED:  2 1 U  C t A a 7 T ( R 7 ( I t ( R ( T d l g f m c b e t d ( T ( W ( T u g c f b e t a g f c b ( A d 1 T b m c a w g t a s d p t s ( u t s d l g f m b f e y 7 T b m c a w g t a s d p t s ( u t s d i t d a t c i a w § a p e f e t l t y I a s d f t i t d a t c]
+[DELETED:  3 1 U  m a T S F A B s p r p t c p r f a s d T f m a t i o e r T D o E s a r t t G a t L S T S F A B s p r p t c ( T 7 ( T t t ( T c c A i c S 1 m b e d g f c b D a t d z]
+[DELETED:  4 1 U  A r c S 1 e f ( T s d d n i t s d a t c ( T e A f]
+
+
+================================================================================
+
+Raw Text:
+1249A 101st Legislative Session 1249
+2026 South Dakota Legislature
+House Bill 1249
+AMENDME NT 1249A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Kassin
+1 An Act to amend provisions pertaining to the School Finance Accountability Board,
+2 and the process by which a recommendation of the board is approved.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-45-38 be AMENDED:
+5 1-45-38. There is hereby created the School Finance Accountability Board within
+6 the Department of Education. The board shall consist consists of five members appointed
+7 by the Governor. The members shall serve a term of four years.
+8 The board may recommend that the provisions of § 13-13-73.5 be waived for a
+9 school district if the district can demonstrate that its lowest monthly general cash fund
+10 cash balance percentage is the result of special circumstances.
+11 The board may recommend that a penalty against a school district imposed under
+12 § 13-13-73.9 be waived, in whole or in part, if the district can demonstrate that its failure
+13 to comply with § 13-13-73.6 or 13-13-73.8 is due to special circumstances. The board
+14 may recommend the Department of Education review the accreditation of a school district
+15 that is found not to be complying with §§ 13-13-73.5, 13-13-73.6, or 13-13-73.8.
+16 The School Finance Accountability Board shall promulgate rules pursuant to chapter
+17 1-26 to establish the appeals process provided for in § 13-13-73.9, and to establish the
+18 factors that may be considered in considering a waiver requested by a school district,
+19 which shall include the impact of retirements.
+20 The Joint Committee on Appropriations or the Interim Committee on Appropriations
+21 shall review any waivers of § 13-13-73.5, 13-13-73.6, or 13-13-73.8 recommended by
+22 the School Finance Accountability Board. For a waiver recommended by the board under
+23 this section, the committee may provide any suggested change to the waiver. Not more
+24 than thirty days following receipt of a suggested change from the committee, the board
+25 may amend the recommended waiver in accordance with the suggested change and shall
+26 resubmit the recommended waiver. The Joint Committee on Appropriations or the Interim
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1249A 2 1249
+1 Committee on Appropriations shall approve, amend, or deny any waiver recommended by
+2 the board
+3 A school district may request that the School Finance Accountability Board waive
+4 any reduction to the district's state aid for general education, imposed under § 13-13-
+5 73.5, or the penalty imposed upon a school district, pursuant to § 13-13-73.9.
+6 The board may:
+7 (1) Reduce a school district's state aid for general education, as provided in § 13-13-
+8 73.5;
+9 (2) Impose the penalty, as provided in § 13-13-73.9, upon a school district for failing
+10 to comply with § 13-13-73.6 or 13-13-73.8;
+11 (3) Require a review of the school district's accreditation if:
+12 (a) The district's lowest general fund monthly cash balance exceeds the
+13 district's allowable general fund cash balance; or
+14 (b) The district has failed to comply with § 13-13-73.6 or 13-13-73.8; or
+15 (4) Waive, in whole or in part:
+16 (a) The reduction to a school district's state aid for general education required
+17 under § 13-13-73.5, if the district demonstrates that the lowest monthly
+18 general cash fund balance exceeded the allowable general fund cash
+19 balance as the result of special circumstances; or
+20 (b) A penalty imposed upon a school district by § 13-13-73.9, if the district
+21 demonstrates that the district's failure to comply with § 13-13-73.6 or 13-
+22 13-73.8 was the result of special circumstances.
+23 The board may condition any waiver granted to a school district pursuant to
+24 subsection (4)(a) upon the school district's annual lowest general fund monthly cash
+25 balance equaling an amount less than the district's allowable general fund cash balance,
+26 for at least three years. If the school district's lowest general fund monthly cash balance
+27 exceeds the district's allowable general fund cash balance at any point during the three
+28 years, the board may rescind the waiver and impose the penalty required under § 13-13-
+29 73.5.
+30 The board may condition any waiver granted to a school district pursuant to
+31 subsection (4)(b) upon the school district increasing the district's average teacher
+32 compensation in accordance with § 13-13-73.6 and paying each full-time equivalent
+33 teacher a salary equal to the state minimum salary, as defined in § 13-13-73.8, for at
+34 least three years. If a school district fails to increase the district's average teacher
+35 compensation or fails to pay each full-time equivalent teacher a salary equal to the state
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1249A 3 1249
+1 minimum salary at any point during the three years, the board may rescind the waiver
+2 and impose the penalty required under § 13-13-73.9.
+3 The School Finance Accountability Board shall promulgate rules, pursuant to
+4 chapter 1-26, to establish the process by which a school district may request a waiver,
+5 pursuant to this section, and the factors that the board may consider in granting a waiver
+6 request from a school district. The factors must address the impact of employee
+7 retirements on the district.
+8 The Department of Education shall annually report to the Governor and the
+9 Legislature the information collected pursuant to §§ 13-8-47 and 13-13-73.6.
+10 Section 2. That a NEW SECTION be added to chapter 1-45:
+11 The School Finance Accountability Board shall promulgate rules, pursuant to
+12 chapter 1-26, to establish:
+13 (1) The process by which a school district may request a waiver, pursuant to § 13-13-
+14 73.5 or 13-13-73.9;
+15 (2) The documentation that a school district must present in order to demonstrate that
+16 the district's failure to comply with § 13-13-73.5, 13-13-73.6, or 13-13-73.8 was
+17 the result of special circumstances; and
+18 (3) The factors that the board may use in determining whether a district's failure to
+19 comply with § 13-13-73.5, 13-13-73.6, or 13-13-73.8 was the result of special
+20 circumstances.
+21 Any factors established by the board pursuant to subdivision (3) must include the
+22 impact of the retirement of school district personnel on the district's general fund monthly
+23 cash balance and average teacher salary.
+24 Section 2. That § 13-13-73.5 be AMENDED:
+25 13-13-73.5. Beginning on July 1, 2018, a If a school district's lowest general fund
+26 monthly cash balance exceeds the district's allowable general fund cash balance, the
+27 Department of Education shall reduce a school district's state aid for general education,
+28 as calculated pursuant to § 13-13-73 shall be reduced, by subtracting an amount equal to
+29 the difference of the district's allowable general fund cash balance subtracted from the
+30 district's lowest general fund monthly cash balance. If the result difference is less than
+31 zero, the reduction equals to the district's state aid for general education is zero.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1249A 4 1249
+1 A school district created or reorganized after July 1, 2016, is exempt from the
+2 reduction provided by this section for a period of three years immediately following its
+3 creation.
+4 Section 3. That § 13-13-73.9 be AMENDED:
+5 13-13-73.9. The Department of Education must decrease state aid to general
+6 education funding to the school district in the following fiscal year by five hundred dollars
+7 for each full-time equivalent teacher employed in the school district if:
+8 (1) The school district does not increase the school district's average teacher
+9 compensation in accordance with § 13-13-73.6; or
+10 (2) The school district does not pay each full-time equivalent teacher a salary at least
+11 equal to the state minimum salary as defined in § 13-13-73.8.
+12 A school district may request a waiver from any penalty imposed under this section
+13 from the School Finance Accountability Board.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A aLSSD: E T O A S 1 t b T s c T § t m t T 1 f w T s t t t m r]
+[DELETED:  2 1 U  C t A a 7 T ( R 7 ( I t ( R ( T d l g f m c b e t d ( T ( W ( T u g c f b e t a g f c b ( A d 1 T b m c a w g t a s d p t s ( u t s d l g f m b f e y 7 T b m c a w g t a s d p t s ( u t s d i t d a t c i a w § a p e f e t l t y I a s d f t i t d a t c]
+[DELETED:  3 1 U  m a T S F A B s p r p t c p r f a s d T f m a t i o e r T D o E s a r t t G a t L S T S F A B s p r p t c ( T 7 ( T t t ( T c c A i c S 1 m b e d g f c b D a t d z]
+[DELETED:  4 1 U  A r c S 1 e f ( T s d d n i t s d a t c ( T e A f]

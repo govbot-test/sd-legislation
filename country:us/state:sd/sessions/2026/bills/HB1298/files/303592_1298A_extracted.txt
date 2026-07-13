@@ -1,0 +1,59 @@
+Title: House Bill 1298
+Official Title: House Bill 1298
+Number of Sections: 1
+Source: versions - 1298A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1298A 101st Legislative Session 1298
+2026 South Dakota Legislature
+AMENDME NT 1298A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Roby
+1 An Act to prohibit the electronic publication of certain information about a judicial
+2 officer or law enforcement officer and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-11:
+5 No person may publish, by electronic means, the home address, date of birth, or
+6 social security number of a judicial officer or law enforcement officer:
+7 (1) Without the officer's consent; and
+8 (2) With the intent to:
+9 (a) Place place the officer or the officer's immediate family in reasonable fear of death
+10 or great bodily injury; or
+11 (b) Cause the officer to reasonably fear for the officer's safety or the safety of the
+12 officer's immediate family.
+13 A violation of this section is a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A oLSSD: E T O A S N s ( W ( W ( P o ( C o A]
+
+
+================================================================================
+
+Raw Text:
+1298A 101st Legislative Session 1298
+2026 South Dakota Legislature
+House Bill 1298
+AMENDME NT 1298A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Roby
+1 An Act to prohibit the electronic publication of certain information about a judicial
+2 officer or law enforcement officer and provide a penalty therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-11:
+5 No person may publish, by electronic means, the home address, date of birth, or
+6 social security number of a judicial officer or law enforcement officer:
+7 (1) Without the officer's consent; and
+8 (2) With the intent to:
+9 (a) Place place the officer or the officer's immediate family in reasonable fear of death
+10 or great bodily injury; or
+11 (b) Cause the officer to reasonably fear for the officer's safety or the safety of the
+12 officer's immediate family.
+13 A violation of this section is a Class 6 felony.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A oLSSD: E T O A S N s ( W ( W ( P o ( C o A]

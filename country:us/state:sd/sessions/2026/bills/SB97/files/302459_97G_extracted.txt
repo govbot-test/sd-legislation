@@ -1,0 +1,237 @@
+Title: Senate Bill 97
+Official Title: Senate Bill 97
+Number of Sections: 1
+Source: versions - 97G
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+97G 101st Legislative Session 97
+2026 South Dakota Legislature
+AMENDM ENT 97G
+FOR THE INTRODUCED BILL
+Introduced by: Senator Deibert
+1 An Act to adjust a limit on the percentage increase in revenue payable from on new
+2 growth allowed in the calculation of property taxes.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-13-35 be AMENDED:
+5 10-13-35. This section does not apply to school districts. The total amount of
+6 revenue payable from taxes on real property within a taxing district, excluding the levy
+7 pursuant to § 10-13-36, may increase no more than the lesser of three percent or the
+8 index factor, as defined in § 10-13-38, over the amount of revenue payable from taxes
+9 on real property in the preceding year, excluding the amount of taxes levied pursuant to
+10 § 10-13-36.
+11 After applying the index factor, a taxing district may increase the revenue payable
+12 from taxes on real property above the limitations provided by this section by the
+13 percentage increase of value resulting from any improvements or change in use of real
+14 property, annexation, minor boundary changes, and any adjustments in taxation of
+15 property separately classified and subject to statutory adjustments and reductions under
+16 chapters 10-4, 10-6, 10-6A, and 10-6B, except § 10-6-113, only if assessed the same as
+17 property of equal value growth factor. For taxes payable in 2027, 2028, 2029, 2030, and
+18 2031, an increase in revenue payable to a taxing district allowed under this paragraph
+19 may not exceed three five percent:
+20 (1) For a taxing district where the growth factor is no greater than three percent, the
+21 percentage increase in revenue payable to the taxing district allowed under this
+22 paragraph is equal to the growth factor;
+23 (2) For a taxing district where the growth factor is greater than three percent, the
+24 percentage increase in revenue payable to the taxing district allowed under this
+25 paragraph is equal to the sum of:
+26 (a) Three percent; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+97G 2 97
+1 (b) Sixty percent of the amount of the growth factor in excess of three percent.
+2 A taxing district may increase the revenue it receives from taxes on real property
+3 above the limit provided by this section for taxes levied to pay the principal, interest, and
+4 redemption charges on any bonds which are subject to referendum, scheduled payment
+5 increases on bonds, for a levy directed by the order of a court for the purpose of paying a
+6 judgment against the taxing district, upon the termination of a tax increment financing
+7 district pursuant to § 11-9-46, or upon the application of any discretionary formula to real
+8 property pursuant to § 10-6-137. Any taxing district created after the effective date of
+9 this section is exempt from the limitation provided by this section for a period of two years
+10 immediately following its creation.
+11 For purposes of this section, an increase in value resulting from an improvement
+12 made to an owner-occupied single-family dwelling does not include additions to, or
+13 improvements of, existing structures affixed to land that result in an increase in value of
+14 forty percent or less to the owner-occupied single-family dwelling.
+15 For purposes of this section, "growth factor" means the percentage increase of
+16 value resulting from any improvements or change in use of real property, annexation,
+17 minor boundary changes, and any adjustments in taxation of property separately classified
+18 and subject to statutory adjustments and reductions under chapters 10-4, 10-6, 10-6A,
+19 and 10-6B, except § 10-6-113, only if assessed the same as property of equal value.
+20 Section 2. That § 13-16-7 be AMENDED:
+21 13-16-7. The school board of any school district of this state may at the board's
+22 discretion authorize an annual levy of a tax not to exceed three dollars per thousand
+23 dollars of taxable valuation on the taxable valuation of the district for the capital outlay
+24 fund for assets as defined by § 13-16-6 or for the district's obligations under a resolution,
+25 lease-purchase agreement, capital outlay certificate, or other arrangement with the Health
+26 and Educational Facilities Authority. Taxes collected pursuant to the levy may be
+27 irrevocably pledged by the school board to the payment of principal of and interest on
+28 installment purchase contracts or capital outlay certificates entered into or issued pursuant
+29 to § 13-16-6 or 13-16-6.2 or lease-purchase agreements or other arrangement with the
+30 Health and Educational Facilities Authority and, so long as any capital outlay certificates
+31 are outstanding, installment agreement payments, lease-purchase agreements, or other
+32 arrangements are unpaid, the school board of any district may be compelled by mandamus
+33 or other appropriate remedy to levy an annual tax sufficient to pay principal and interest
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+97G 3 97
+1 thereon, but not to exceed the three dollars per thousand dollars of taxable valuation in
+2 any year authorized to be levied hereby.
+3 The total amount of revenue payable from the levy provided in this section may
+4 not increase annually by more than the lesser of three percent or the index factor, as
+5 defined in § 10-13-38, over the maximum amount of revenue that could have been
+6 generated from the taxes payable in 2016. Starting with taxes payable in 2021, the total
+7 amount of revenue payable from the levy provided in this section may not increase
+8 annually by more than three percent over the amount of revenue that could have been
+9 raised in the prior year.
+10 After applying three percent, a school district may increase the revenue payable
+11 from taxes on real property above the limitations provided by this section by the
+12 percentage increase of value resulting from any improvements or change in use of real
+13 property, annexation, minor boundary changes, and any adjustments in taxation of real
+14 property separately classified and subject to statutory adjustments and reductions under
+15 chapters 10-4, 10-6, 10-6A, and 10-6B, except § 10-6-113, only if assessed the same as
+16 property of equal value. For taxes payable in 2027, 2028, 2029, 2030, and 2031, an
+17 increase in revenue payable to a school district allowed under this paragraph may not
+18 exceed three five percent.
+19 A school district may increase the revenue the district receives from taxes on real
+20 property above the limit provided by this section for taxes levied to pay the principal,
+21 interest, and redemption charges on any bonds issued after January 1, 2009, which are
+22 subject to referendum, scheduled payment increases on bonds, for a levy directed by the
+23 order of a court for the purpose of paying a judgment against the school district, upon the
+24 termination of a tax increment financing district pursuant to § 11-9-46, or upon the
+25 application of any discretionary formula to real property pursuant to § 10-6-137. Any
+26 school district created or reorganized after January 1, 2016, is exempt from the limitation
+27 provided by this section for a period of two years immediately following the district's
+28 creation.
+29 In no year may the annual tax levy provided in this section exceed three dollars
+30 per thousand dollars of taxable valuation of the school district for the current year.
+31 For purposes of this section, an increase in value resulting from an improvement
+32 made to an owner-occupied single-family dwelling does not include additions to, or
+33 improvements of, existing structures affixed to land that result in an increase in value of
+34 forty percent or less to the owner-occupied single-family dwelling.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 9 U  A gLSSD: E T O A S 1 r p i o § A f t o r p a t l p b t s b t p p a m b c a a a i t o p c p 2 m ( F p p ( F p p ( T]
+[DELETED:  2 9 U  ( S A a r i j d p t i F m t a o s d d n i a t o i f F v m a a S 1 d d f l a E F A T c p t t l m b i i t H a a o]
+[DELETED:  3 9 U  t a T n d i § o t m a o r t c h b g a o r p f t l p i t s m n i a r A f t o r p a t l p b t s b t p p p c p i e A p i s o t o a t i f d p t § o u t a s p c I p F m t a o s d d n i a t o i f]
+
+
+================================================================================
+
+Raw Text:
+97G 101st Legislative Session 97
+2026 South Dakota Legislature
+Senate Bill 97
+AMENDM ENT 97G
+FOR THE INTRODUCED BILL
+Introduced by: Senator Deibert
+1 An Act to adjust a limit on the percentage increase in revenue payable from on new
+2 growth allowed in the calculation of property taxes.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-13-35 be AMENDED:
+5 10-13-35. This section does not apply to school districts. The total amount of
+6 revenue payable from taxes on real property within a taxing district, excluding the levy
+7 pursuant to § 10-13-36, may increase no more than the lesser of three percent or the
+8 index factor, as defined in § 10-13-38, over the amount of revenue payable from taxes
+9 on real property in the preceding year, excluding the amount of taxes levied pursuant to
+10 § 10-13-36.
+11 After applying the index factor, a taxing district may increase the revenue payable
+12 from taxes on real property above the limitations provided by this section by the
+13 percentage increase of value resulting from any improvements or change in use of real
+14 property, annexation, minor boundary changes, and any adjustments in taxation of
+15 property separately classified and subject to statutory adjustments and reductions under
+16 chapters 10-4, 10-6, 10-6A, and 10-6B, except § 10-6-113, only if assessed the same as
+17 property of equal value growth factor. For taxes payable in 2027, 2028, 2029, 2030, and
+18 2031, an increase in revenue payable to a taxing district allowed under this paragraph
+19 may not exceed three five percent:
+20 (1) For a taxing district where the growth factor is no greater than three percent, the
+21 percentage increase in revenue payable to the taxing district allowed under this
+22 paragraph is equal to the growth factor;
+23 (2) For a taxing district where the growth factor is greater than three percent, the
+24 percentage increase in revenue payable to the taxing district allowed under this
+25 paragraph is equal to the sum of:
+26 (a) Three percent; and
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+97G 2 97
+1 (b) Sixty percent of the amount of the growth factor in excess of three percent.
+2 A taxing district may increase the revenue it receives from taxes on real property
+3 above the limit provided by this section for taxes levied to pay the principal, interest, and
+4 redemption charges on any bonds which are subject to referendum, scheduled payment
+5 increases on bonds, for a levy directed by the order of a court for the purpose of paying a
+6 judgment against the taxing district, upon the termination of a tax increment financing
+7 district pursuant to § 11-9-46, or upon the application of any discretionary formula to real
+8 property pursuant to § 10-6-137. Any taxing district created after the effective date of
+9 this section is exempt from the limitation provided by this section for a period of two years
+10 immediately following its creation.
+11 For purposes of this section, an increase in value resulting from an improvement
+12 made to an owner-occupied single-family dwelling does not include additions to, or
+13 improvements of, existing structures affixed to land that result in an increase in value of
+14 forty percent or less to the owner-occupied single-family dwelling.
+15 For purposes of this section, "growth factor" means the percentage increase of
+16 value resulting from any improvements or change in use of real property, annexation,
+17 minor boundary changes, and any adjustments in taxation of property separately classified
+18 and subject to statutory adjustments and reductions under chapters 10-4, 10-6, 10-6A,
+19 and 10-6B, except § 10-6-113, only if assessed the same as property of equal value.
+20 Section 2. That § 13-16-7 be AMENDED:
+21 13-16-7. The school board of any school district of this state may at the board's
+22 discretion authorize an annual levy of a tax not to exceed three dollars per thousand
+23 dollars of taxable valuation on the taxable valuation of the district for the capital outlay
+24 fund for assets as defined by § 13-16-6 or for the district's obligations under a resolution,
+25 lease-purchase agreement, capital outlay certificate, or other arrangement with the Health
+26 and Educational Facilities Authority. Taxes collected pursuant to the levy may be
+27 irrevocably pledged by the school board to the payment of principal of and interest on
+28 installment purchase contracts or capital outlay certificates entered into or issued pursuant
+29 to § 13-16-6 or 13-16-6.2 or lease-purchase agreements or other arrangement with the
+30 Health and Educational Facilities Authority and, so long as any capital outlay certificates
+31 are outstanding, installment agreement payments, lease-purchase agreements, or other
+32 arrangements are unpaid, the school board of any district may be compelled by mandamus
+33 or other appropriate remedy to levy an annual tax sufficient to pay principal and interest
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+97G 3 97
+1 thereon, but not to exceed the three dollars per thousand dollars of taxable valuation in
+2 any year authorized to be levied hereby.
+3 The total amount of revenue payable from the levy provided in this section may
+4 not increase annually by more than the lesser of three percent or the index factor, as
+5 defined in § 10-13-38, over the maximum amount of revenue that could have been
+6 generated from the taxes payable in 2016. Starting with taxes payable in 2021, the total
+7 amount of revenue payable from the levy provided in this section may not increase
+8 annually by more than three percent over the amount of revenue that could have been
+9 raised in the prior year.
+10 After applying three percent, a school district may increase the revenue payable
+11 from taxes on real property above the limitations provided by this section by the
+12 percentage increase of value resulting from any improvements or change in use of real
+13 property, annexation, minor boundary changes, and any adjustments in taxation of real
+14 property separately classified and subject to statutory adjustments and reductions under
+15 chapters 10-4, 10-6, 10-6A, and 10-6B, except § 10-6-113, only if assessed the same as
+16 property of equal value. For taxes payable in 2027, 2028, 2029, 2030, and 2031, an
+17 increase in revenue payable to a school district allowed under this paragraph may not
+18 exceed three five percent.
+19 A school district may increase the revenue the district receives from taxes on real
+20 property above the limit provided by this section for taxes levied to pay the principal,
+21 interest, and redemption charges on any bonds issued after January 1, 2009, which are
+22 subject to referendum, scheduled payment increases on bonds, for a levy directed by the
+23 order of a court for the purpose of paying a judgment against the school district, upon the
+24 termination of a tax increment financing district pursuant to § 11-9-46, or upon the
+25 application of any discretionary formula to real property pursuant to § 10-6-137. Any
+26 school district created or reorganized after January 1, 2016, is exempt from the limitation
+27 provided by this section for a period of two years immediately following the district's
+28 creation.
+29 In no year may the annual tax levy provided in this section exceed three dollars
+30 per thousand dollars of taxable valuation of the school district for the current year.
+31 For purposes of this section, an increase in value resulting from an improvement
+32 made to an owner-occupied single-family dwelling does not include additions to, or
+33 improvements of, existing structures affixed to land that result in an increase in value of
+34 forty percent or less to the owner-occupied single-family dwelling.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 9 U  A gLSSD: E T O A S 1 r p i o § A f t o r p a t l p b t s b t p p a m b c a a a i t o p c p 2 m ( F p p ( F p p ( T]
+[DELETED:  2 9 U  ( S A a r i j d p t i F m t a o s d d n i a t o i f F v m a a S 1 d d f l a E F A T c p t t l m b i i t H a a o]
+[DELETED:  3 9 U  t a T n d i § o t m a o r t c h b g a o r p f t l p i t s m n i a r A f t o r p a t l p b t s b t p p p c p i e A p i s o t o a t i f d p t § o u t a s p c I p F m t a o s d d n i a t o i f]

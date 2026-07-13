@@ -1,0 +1,339 @@
+Title: Senate Bill 96
+Official Title: Senate Bill 96
+Number of Sections: 1
+Source: versions - 96D
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+96D 101st Legislative Session 96
+2026 South Dakota Legislature
+AMENDM ENT 96D
+FOR THE INTRODUCED BILL
+Introduced by: The Committee on Taxation at the request of the Governor
+1 An Act to authorize the imposition of a county option gross receipts tax to reduce
+2 owner-occupied property taxes.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-21-1.1 be AMENDED:
+5 10-21-1.1. The treasurer shall mail or transmit electronically a written tax bill to
+6 each taxpayer against whom a property tax has been assessed. The property tax bill sent
+7 to each taxpayer may reflect the breakdown of the tax by tax levies. However, the
+8 property tax bill shall at least provide a tax total for each taxing district. A definition shall
+9 be provided for any abbreviation used to describe any entity imposing a tax or special
+10 assessment. The property tax bill shall also separately state the amount of any taxes due
+11 as a result of a local decision to exceed the tax increase limits set forth in § 10-13-36 or
+12 10-12-43 and shall be marked by an asterisk. The notice shall include the statement:
+13 "INDICATES A LOCAL DECISION TO OPT OUT OF THE TAX LIMITATION." If the local vote
+14 to increase taxes had not passed, the taxes would not have included the items marked
+15 with an asterisk (*). If the treasurer does not mail the property tax receipts described in
+16 § 10-21-14, the treasurer shall indicate in the property tax bill or a notice enclosed with
+17 the bill that the treasurer does not intend to send a receipt unless requested by the
+18 taxpayer. If the tax levy breakdown is not shown on the tax bill, the treasurer on the
+19 taxpayer's request shall provide a tax levy sheet to the taxpayer. The tax levy sheet shall
+20 contain an example of the computation of the total tax for an individual. The secretary of
+21 revenue shall prescribe a uniform form which shall be used by the treasurer for notification
+22 of taxpayers as required by this section.
+23 For taxes payable in 2028, and each year thereafter, the written tax bill must also
+24 state the amount of any property tax credit applied to the property, if any, due to the
+25 imposition of a gross receipts tax by the county pursuant to section 5 of this Act.
+26 Section 2. That § 10-46A-12 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+96D 2 96
+1 10-46A-12. A contractor may list the contractor's excise tax and any use tax
+2 imposed under chapter 10-45, 10-46, or 10-52, or sections 5 to 16, inclusive, of this Act,
+3 as a separate line item on all contracts and bills, both for public and private entities. The
+4 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+5 from all entities, both public and private.
+6 Section 3. That § 10-46B-10 be AMENDED:
+7 10-46B-10. A contractor may list the contractor's excise tax and any use tax
+8 imposed under chapter 10-45, 10-46, or 10-52, or sections 5 to 16, inclusive, of this Act,
+9 as a separate line item on all contracts and bills, both for public and private entities. The
+10 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+11 from all entities, both public and private.
+12 Section 4. That § 10-52-1.1 be AMENDED:
+13 10-52-1.1. Notwithstanding any other provision of law, gross receipts as defined
+14 in this chapter do not include any tax imposed by this chapter and chapters 10-45, 10-
+15 45D, and 10-52A, and sections 5 to 16, inclusive, of this Act, that is separately stated on
+16 the invoice, bill of sale, or similar document given to the purchaser.
+17 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+18 A county may impose a gross receipts tax not to exceed one-half percent on the
+19 gross receipts of all sales of tangible personal property, any product transferred
+20 electronically, and services, that are taxable pursuant to chapters 10-45 and 10-46 in the
+21 county. The tax must conform in all respects to the state sales and use tax, with the
+22 exception of the tax rate.
+23 For purposes of this chapter, "gross receipts" have the same meaning as defined
+24 and used in chapter 10-45.
+25 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+26 All proceeds from the tax imposed by a county pursuant to section 5 of this Act
+27 must be deposited into a property tax reduction fund of the county, to be used only as
+28 provided in section 7 of this Act.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+96D 3 96
+1 The governing body of a county shall allocate all moneys in the county's property
+2 tax reduction fund as a credit against the county property tax levy on all property classified
+3 as owner-occupied, as defined in § 10-13-39, in an equal percentage.
+4 All additional moneys in the fund after one hundred percent of the county property
+5 tax levy on owner-occupied property is supplanted must be used to provide a credit
+6 against the county property tax levy on all property classified as agricultural and
+7 nonagricultural in an equal percentage.
+8 Notwithstanding the provisions of this section, the governing body may allocate
+9 moneys in the county's property tax reduction fund in an amount necessary to implement
+10 the requirements of this chapter, not to exceed two percent of all moneys deposited in
+11 the fund during the first year in which the county imposes a gross receipts tax and not to
+12 exceed twenty thousand dollars in each year thereafter.
+13 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+14 To impose a gross receipts tax pursuant to section 5 of this Act, the governing
+15 body of a county shall adopt an ordinance pursuant to chapter 7-18A. The ordinance must
+16 specify the governing body will provide property tax relief on the county property tax levy
+17 to all property classified as owner-occupied, as defined in § 10-13-39, in the county and
+18 must direct the creation of the property tax reduction fund to be administered in
+19 accordance with this chapter.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+21 An ordinance adopted by a governing body of a county pursuant to section 8 of
+22 this Act may be referred to a vote of the people for approval or disapproval in the same
+23 manner as provided in chapter 7-18A.
+24 An ordinance adopted pursuant to this chapter does not constitute an action
+25 necessary for the immediate preservation of the public peace, health, or safety, or for the
+26 support of the county government and its existing public institutions.
+27 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+28 An initiated ordinance to impose a gross receipts tax pursuant to section 5 of this
+29 Act may be brought by the registered voters in the county in the same manner as provided
+30 in chapter 7-18A.
+31 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+96D 4 96
+1 Notwithstanding any other provision of law, gross receipts, as defined in this
+2 chapter, do not include any tax imposed by this chapter and chapters 10-45, 10-45D, 10-
+3 52, and 10-52A, which is separately stated on the invoice, bill of sale, or similar document
+4 given to a purchaser.
+5 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+6 The Department of Revenue shall administer any gross receipts tax imposed
+7 pursuant to this chapter. The department may prescribe forms and promulgate rules
+8 pursuant to chapter 1-26 for the making of returns and for the ascertainment, assessment,
+9 and collection of the tax. The department shall keep full and accurate records of all moneys
+10 received and distributed pursuant to this chapter.
+11 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+12 All moneys received and collected on behalf of a particular county by the
+13 Department of Revenue pursuant to this chapter must be credited to a special county
+14 gross receipts tax fund, which is hereby established in the state treasury.
+15 After deducting the amount of refunds made, the amounts necessary to defray the
+16 cost of collecting the tax, and the administrative expenses incident thereto, the moneys
+17 must be paid, within thirty days after collection, to the county entitled thereto. Any
+18 moneys remitted to a county must be deposited in the county's property tax reduction
+19 fund, to be used in accordance with the provisions of this chapter.
+20 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+21 Notwithstanding any other provision of law, any new ordinance, or amendment to
+22 an ordinance, enacted pursuant to this chapter, and any tax rate affected thereby, may
+23 go into effect only on January first or July first of a calendar year. The ordinance or
+24 amendment must be effective on the earlier of January first or July first following at least
+25 ninety days' notification by the governing body of the county to the secretary of the
+26 Department of Revenue that the ordinance or amendment has been enacted, unless the
+27 ordinance or amendment is suspended by operation of a referendum.
+28 If an ordinance or amendment enacted under this chapter is referred and the
+29 referred ordinance or amendment is approved, the effective date is the earlier of January
+30 first or July first following at least ninety days' notification by the county to the secretary
+31 of revenue that the ordinance or amendment has been approved.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+96D 5 96
+1 Notification of the enactment or approval of the ordinance must be in writing and
+2 mailed, along with a copy of the ordinance or amendment, by registered or certified mail
+3 to the secretary.
+4 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+5 Any person subject to the gross receipts tax imposed by this chapter shall file a
+6 return and pay any tax due in accordance with the provisions of chapter 10-45.
+7 Section 16. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+8 No gross receipts tax imposed or increased pursuant to this chapter may be levied
+9 on materials incorporated in construction work related to construction contracts bid or
+10 entered into on or before the effective date of the tax imposition or tax increase.
+11 Section 17. That § 10-59-1 be AMENDED:
+12 10-59-1. The provisions of this chapter may only apply to proceedings commenced
+13 under this chapter concerning the taxes, the fees, the surcharges, or the persons subject
+14 to the taxes, fees, or surcharges imposed by, or any civil or criminal investigation
+15 authorized by, chapters 10-33A, 10-39, 10-39A, 10-39B, 10-43, 10-45, 10-45D, 10-46,
+16 10-46A, 10-46B, 10-46E, 10-47B, 10-50C, 10-52, 10-52A, 10-62, 32-3, 32-3A, 32-5, 32-
+17 5B, 32-6B, 32-9, 32-10, 34-45, and 34A-13, and §§ 10-50-61, 49-31-51, and 50-4-13 to
+18 50-4-17, inclusive, and sections 5 to 16, inclusive, of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 9 U  A oLSSD: E T O A S 1 e t e t m r t b o t t b t l H t p b a a 1 " t w § t t t c r o F s i S]
+[DELETED:  2 9 U  1 i a l f S 1 i a l f S 1 i 4 t S A g r o a s o t p p a p t e c e F a S A m p S]
+[DELETED:  3 9 U  T t a A t l o o p i s m b u t p a c a t c p t l o a p c a a a n N m t t e S T b s t m d t c o t p t r f t b a i a S A t m A o a p t t c d n c a a n s S A A i S]
+[DELETED:  4 9 U  N a o p o l g r a d i t c 5 g S T D o R s a a g r t i p t t d m p f a p r p a r S A m r a c o b o a p c b t D g A c m b p w t d a c t t c e t A m f S N a g c y o a n D o I o o a e u t i a t r f o]
+[DELETED:  5 9 U  N m t S A r S N o e S 1 u t t t f o s i b o a c o c i a 1 5 5]
+
+
+================================================================================
+
+Raw Text:
+96D 101st Legislative Session 96
+2026 South Dakota Legislature
+Senate Bill 96
+AMENDM ENT 96D
+FOR THE INTRODUCED BILL
+Introduced by: The Committee on Taxation at the request of the Governor
+1 An Act to authorize the imposition of a county option gross receipts tax to reduce
+2 owner-occupied property taxes.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 10-21-1.1 be AMENDED:
+5 10-21-1.1. The treasurer shall mail or transmit electronically a written tax bill to
+6 each taxpayer against whom a property tax has been assessed. The property tax bill sent
+7 to each taxpayer may reflect the breakdown of the tax by tax levies. However, the
+8 property tax bill shall at least provide a tax total for each taxing district. A definition shall
+9 be provided for any abbreviation used to describe any entity imposing a tax or special
+10 assessment. The property tax bill shall also separately state the amount of any taxes due
+11 as a result of a local decision to exceed the tax increase limits set forth in § 10-13-36 or
+12 10-12-43 and shall be marked by an asterisk. The notice shall include the statement:
+13 "INDICATES A LOCAL DECISION TO OPT OUT OF THE TAX LIMITATION." If the local vote
+14 to increase taxes had not passed, the taxes would not have included the items marked
+15 with an asterisk (*). If the treasurer does not mail the property tax receipts described in
+16 § 10-21-14, the treasurer shall indicate in the property tax bill or a notice enclosed with
+17 the bill that the treasurer does not intend to send a receipt unless requested by the
+18 taxpayer. If the tax levy breakdown is not shown on the tax bill, the treasurer on the
+19 taxpayer's request shall provide a tax levy sheet to the taxpayer. The tax levy sheet shall
+20 contain an example of the computation of the total tax for an individual. The secretary of
+21 revenue shall prescribe a uniform form which shall be used by the treasurer for notification
+22 of taxpayers as required by this section.
+23 For taxes payable in 2028, and each year thereafter, the written tax bill must also
+24 state the amount of any property tax credit applied to the property, if any, due to the
+25 imposition of a gross receipts tax by the county pursuant to section 5 of this Act.
+26 Section 2. That § 10-46A-12 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+96D 2 96
+1 10-46A-12. A contractor may list the contractor's excise tax and any use tax
+2 imposed under chapter 10-45, 10-46, or 10-52, or sections 5 to 16, inclusive, of this Act,
+3 as a separate line item on all contracts and bills, both for public and private entities. The
+4 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+5 from all entities, both public and private.
+6 Section 3. That § 10-46B-10 be AMENDED:
+7 10-46B-10. A contractor may list the contractor's excise tax and any use tax
+8 imposed under chapter 10-45, 10-46, or 10-52, or sections 5 to 16, inclusive, of this Act,
+9 as a separate line item on all contracts and bills, both for public and private entities. The
+10 line item for excise and use taxes is a part of the contractor's total bill and is collectible
+11 from all entities, both public and private.
+12 Section 4. That § 10-52-1.1 be AMENDED:
+13 10-52-1.1. Notwithstanding any other provision of law, gross receipts as defined
+14 in this chapter do not include any tax imposed by this chapter and chapters 10-45, 10-
+15 45D, and 10-52A, and sections 5 to 16, inclusive, of this Act, that is separately stated on
+16 the invoice, bill of sale, or similar document given to the purchaser.
+17 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+18 A county may impose a gross receipts tax not to exceed one-half percent on the
+19 gross receipts of all sales of tangible personal property, any product transferred
+20 electronically, and services, that are taxable pursuant to chapters 10-45 and 10-46 in the
+21 county. The tax must conform in all respects to the state sales and use tax, with the
+22 exception of the tax rate.
+23 For purposes of this chapter, "gross receipts" have the same meaning as defined
+24 and used in chapter 10-45.
+25 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+26 All proceeds from the tax imposed by a county pursuant to section 5 of this Act
+27 must be deposited into a property tax reduction fund of the county, to be used only as
+28 provided in section 7 of this Act.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+96D 3 96
+1 The governing body of a county shall allocate all moneys in the county's property
+2 tax reduction fund as a credit against the county property tax levy on all property classified
+3 as owner-occupied, as defined in § 10-13-39, in an equal percentage.
+4 All additional moneys in the fund after one hundred percent of the county property
+5 tax levy on owner-occupied property is supplanted must be used to provide a credit
+6 against the county property tax levy on all property classified as agricultural and
+7 nonagricultural in an equal percentage.
+8 Notwithstanding the provisions of this section, the governing body may allocate
+9 moneys in the county's property tax reduction fund in an amount necessary to implement
+10 the requirements of this chapter, not to exceed two percent of all moneys deposited in
+11 the fund during the first year in which the county imposes a gross receipts tax and not to
+12 exceed twenty thousand dollars in each year thereafter.
+13 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+14 To impose a gross receipts tax pursuant to section 5 of this Act, the governing
+15 body of a county shall adopt an ordinance pursuant to chapter 7-18A. The ordinance must
+16 specify the governing body will provide property tax relief on the county property tax levy
+17 to all property classified as owner-occupied, as defined in § 10-13-39, in the county and
+18 must direct the creation of the property tax reduction fund to be administered in
+19 accordance with this chapter.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+21 An ordinance adopted by a governing body of a county pursuant to section 8 of
+22 this Act may be referred to a vote of the people for approval or disapproval in the same
+23 manner as provided in chapter 7-18A.
+24 An ordinance adopted pursuant to this chapter does not constitute an action
+25 necessary for the immediate preservation of the public peace, health, or safety, or for the
+26 support of the county government and its existing public institutions.
+27 Section 10. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+28 An initiated ordinance to impose a gross receipts tax pursuant to section 5 of this
+29 Act may be brought by the registered voters in the county in the same manner as provided
+30 in chapter 7-18A.
+31 Section 11. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+96D 4 96
+1 Notwithstanding any other provision of law, gross receipts, as defined in this
+2 chapter, do not include any tax imposed by this chapter and chapters 10-45, 10-45D, 10-
+3 52, and 10-52A, which is separately stated on the invoice, bill of sale, or similar document
+4 given to a purchaser.
+5 Section 12. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+6 The Department of Revenue shall administer any gross receipts tax imposed
+7 pursuant to this chapter. The department may prescribe forms and promulgate rules
+8 pursuant to chapter 1-26 for the making of returns and for the ascertainment, assessment,
+9 and collection of the tax. The department shall keep full and accurate records of all moneys
+10 received and distributed pursuant to this chapter.
+11 Section 13. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+12 All moneys received and collected on behalf of a particular county by the
+13 Department of Revenue pursuant to this chapter must be credited to a special county
+14 gross receipts tax fund, which is hereby established in the state treasury.
+15 After deducting the amount of refunds made, the amounts necessary to defray the
+16 cost of collecting the tax, and the administrative expenses incident thereto, the moneys
+17 must be paid, within thirty days after collection, to the county entitled thereto. Any
+18 moneys remitted to a county must be deposited in the county's property tax reduction
+19 fund, to be used in accordance with the provisions of this chapter.
+20 Section 14. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+21 Notwithstanding any other provision of law, any new ordinance, or amendment to
+22 an ordinance, enacted pursuant to this chapter, and any tax rate affected thereby, may
+23 go into effect only on January first or July first of a calendar year. The ordinance or
+24 amendment must be effective on the earlier of January first or July first following at least
+25 ninety days' notification by the governing body of the county to the secretary of the
+26 Department of Revenue that the ordinance or amendment has been enacted, unless the
+27 ordinance or amendment is suspended by operation of a referendum.
+28 If an ordinance or amendment enacted under this chapter is referred and the
+29 referred ordinance or amendment is approved, the effective date is the earlier of January
+30 first or July first following at least ninety days' notification by the county to the secretary
+31 of revenue that the ordinance or amendment has been approved.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+96D 5 96
+1 Notification of the enactment or approval of the ordinance must be in writing and
+2 mailed, along with a copy of the ordinance or amendment, by registered or certified mail
+3 to the secretary.
+4 Section 15. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+5 Any person subject to the gross receipts tax imposed by this chapter shall file a
+6 return and pay any tax due in accordance with the provisions of chapter 10-45.
+7 Section 16. That a NEW SECTION be added to a NEW CHAPTER in title 10:
+8 No gross receipts tax imposed or increased pursuant to this chapter may be levied
+9 on materials incorporated in construction work related to construction contracts bid or
+10 entered into on or before the effective date of the tax imposition or tax increase.
+11 Section 17. That § 10-59-1 be AMENDED:
+12 10-59-1. The provisions of this chapter may only apply to proceedings commenced
+13 under this chapter concerning the taxes, the fees, the surcharges, or the persons subject
+14 to the taxes, fees, or surcharges imposed by, or any civil or criminal investigation
+15 authorized by, chapters 10-33A, 10-39, 10-39A, 10-39B, 10-43, 10-45, 10-45D, 10-46,
+16 10-46A, 10-46B, 10-46E, 10-47B, 10-50C, 10-52, 10-52A, 10-62, 32-3, 32-3A, 32-5, 32-
+17 5B, 32-6B, 32-9, 32-10, 34-45, and 34A-13, and §§ 10-50-61, 49-31-51, and 50-4-13 to
+18 50-4-17, inclusive, and sections 5 to 16, inclusive, of this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 9 U  A oLSSD: E T O A S 1 e t e t m r t b o t t b t l H t p b a a 1 " t w § t t t c r o F s i S]
+[DELETED:  2 9 U  1 i a l f S 1 i a l f S 1 i 4 t S A g r o a s o t p p a p t e c e F a S A m p S]
+[DELETED:  3 9 U  T t a A t l o o p i s m b u t p a c a t c p t l o a p c a a a n N m t t e S T b s t m d t c o t p t r f t b a i a S A t m A o a p t t c d n c a a n s S A A i S]
+[DELETED:  4 9 U  N a o p o l g r a d i t c 5 g S T D o R s a a g r t i p t t d m p f a p r p a r S A m r a c o b o a p c b t D g A c m b p w t d a c t t c e t A m f S N a g c y o a n D o I o o a e u t i a t r f o]
+[DELETED:  5 9 U  N m t S A r S N o e S 1 u t t t f o s i b o a c o c i a 1 5 5]

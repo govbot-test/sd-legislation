@@ -1,0 +1,67 @@
+Title: Senate Bill 103
+Official Title: Senate Bill 103
+Number of Sections: 1
+Source: versions - 103A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+103A 101st Legislative Session 103
+2026 South Dakota Legislature
+AMENDME NT 103A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to address the assumption of risk by an individual present at a shooting
+2 range.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 20-9:
+5 An individual present at a shooting range assumes all associated risks, to the extent
+6 the risks are obvious and inherent. Those risks include injuries that may result from:
+7 (1) Noise;
+8 (2) The discharge of any projectile or shot;
+9 (3) A malfunction of shooting equipment not owned by the sport shooting range;
+10 (4) Natural variations in terrain;
+11 (5) Surface or subsurface snow or ice conditions; and
+12 (6) Bare spots, rocks, trees, and other forms of natural growth or debris.
+13 For purposes of this section, a "shooting range" means an area designed and
+14 operated for the use of pistols, rifles, or shotguns, as a means of silhouette, skeet, trap,
+15 black powder, or other shooting, and archery. A shooting range may be located on public
+16 or private land, and may be operated by a public or a private entity, and includes. The
+17 term does not include a law enforcement shooting range.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A rLSSD: E T O A S A t ( N ( T ( A ( N ( S ( B F p o s a " r m a d a o b o t]
+
+
+================================================================================
+
+Raw Text:
+103A 101st Legislative Session 103
+2026 South Dakota Legislature
+Senate Bill 103
+AMENDME NT 103A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to address the assumption of risk by an individual present at a shooting
+2 range.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 20-9:
+5 An individual present at a shooting range assumes all associated risks, to the extent
+6 the risks are obvious and inherent. Those risks include injuries that may result from:
+7 (1) Noise;
+8 (2) The discharge of any projectile or shot;
+9 (3) A malfunction of shooting equipment not owned by the sport shooting range;
+10 (4) Natural variations in terrain;
+11 (5) Surface or subsurface snow or ice conditions; and
+12 (6) Bare spots, rocks, trees, and other forms of natural growth or debris.
+13 For purposes of this section, a "shooting range" means an area designed and
+14 operated for the use of pistols, rifles, or shotguns, as a means of silhouette, skeet, trap,
+15 black powder, or other shooting, and archery. A shooting range may be located on public
+16 or private land, and may be operated by a public or a private entity, and includes. The
+17 term does not include a law enforcement shooting range.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A rLSSD: E T O A S A t ( N ( T ( A ( N ( S ( B F p o s a " r m a d a o b o t]

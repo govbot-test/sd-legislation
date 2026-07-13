@@ -1,0 +1,195 @@
+Title: Senate Bill 57
+Official Title: Senate Bill 57
+Number of Sections: 1
+Source: versions - 57A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+57A 101st Legislative Session 57
+2026 South Dakota Legislature
+AMENDM ENT 57A
+FOR THE INTRODUCED BILL
+Introduced by: Senators Howard and Larson and Representatives Hansen, DeGroot, and Muckey at the request
+of the Interim Rules Review Committee
+1 An Act to clarify when agency financial resource information must be filed in the
+2 permanent administrative rulemaking process.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-26-4 be AMENDED:
+5 1-26-4. The following notice, service, and public hearing procedure must be used
+6 to adopt, amend, or repeal a permanent rule:
+7 (1) An agency shall serve a copy of a proposed rule and any publication described in
+8 § 1-26-6.6 upon the departmental secretary, bureau commissioner, public utilities
+9 commissioner, or constitutional officer to which it is attached for the secretary's,
+10 commissioner's, or officer's written approval to proceed;
+11 (2) After receiving the written approval of the secretary, commissioner, or officer to
+12 proceed, the agency shall serve code counsel with a copy of: the proposed rule;
+13 any publication described in § 1-26-6.6; the fiscal note required by § 1-26-4.2; the
+14 impact statement on small business required by § 1-26-2.1; any housing cost
+15 impact statement required by § 1-26-2.3; the agency financial resource
+16 information required by § 1-26-4.8; and the notice of hearing required by § 1-26-
+17 4.1. The copy of these documents must be served at least twenty days before the
+18 public hearing to adopt the proposed rule. Any publication described in § 1-26-6.6
+19 must be returned to the agency upon completion of the code counsel's review and
+20 retained by the agency. Twenty days before the public hearing, the agency shall
+21 serve the commissioner of the Bureau of Finance and Management with a copy of:
+22 the proposed rule; the fiscal note required by § 1-26-4.2; the impact statement on
+23 small business required by § 1-26-2.1; any housing cost impact statement required
+24 by § 1-26-2.3; the agency financial resource information required by § 1-26-4.8;
+25 and the notice of hearing required by § 1-26-4.1;
+26 (3) At least twenty days before the public hearing, the agency shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+57A 2 57
+1 (a) Publish the notice of hearing in the manner prescribed by § 1-26-4.1; and
+2 (b) Publish, on the agency's website, any housing cost impact statement
+3 required by § 1-26-2.3;
+4 (4) After reviewing the proposed rule pursuant to § 1-26-6.5, code counsel shall advise
+5 the agency of any recommended corrections to the proposed rule. If the agency
+6 does not concur with any recommendation of code counsel, the agency may appeal
+7 the recommended correction to the Interim Rules Review Committee for
+8 appropriate action;
+9 (5) The agency shall afford all interested persons reasonable opportunity to submit
+10 amendments, data, opinions, or arguments at a public hearing held to adopt the
+11 rule. The hearing may be continued from time to time. The agency shall keep
+12 minutes of the hearing. A majority of the members of any board or commission
+13 authorized to pass rules must be present during the course of the public hearing;
+14 (6) If the authority promulgating the rule is a secretary, commissioner, or officer, the
+15 agency shall accept written comments regarding the proposed rule for a period of
+16 ten days after the public hearing. If the authority promulgating the rule is a board,
+17 commission, committee, or task force, each interested person shall must submit
+18 written comments at least seventy-two hours before the public hearing. The
+19 seventy-two hours does not include the day of the public hearing. The written
+20 comments may be submitted by mail or email. The record of written comments
+21 may be closed at the conclusion of the public hearing. The hearing may be
+22 continued for the purpose of taking additional comments;
+23 (7) After the written comment period, the agency shall consider all amendments, data,
+24 opinions, or arguments regarding the proposed rule. A proposed rule may be
+25 modified or amended at this time to include or exclude matters that were described
+26 in the notice of hearing; and
+27 (8) The agency shall serve the minutes of the hearing, a complete record of written
+28 comments, the impact statement on small business, any housing cost impact
+29 statement, the fiscal note, the agency financial resource information required by
+30 § 1-26-4.8, and a corrected copy of the rule on the members of the Interim Rules
+31 Review Committee and on code counsel at least seven days before the agency
+32 appears before the committee to present the rules.
+33 The time periods specified in this section may be extended by the agency. The
+34 requirement to serve the committee and code counsel within the time limit specified in
+35 subdivision (8) may be waived by the committee chair, if the agency presents sufficient
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+57A 3 57
+1 reasons to the committee chair that the agency is unable to comply with the time limit.
+2 The waiver may not be granted solely for the convenience of the agency.
+3 Section 2. That § 1-26-4.8 be AMENDED:
+4 1-26-4.8. If an agency proposes a rule to increase a fee, the agency shall provide
+5 information to the Interim Rules Review Committee and code counsel, pursuant to § 1-
+6 26-4, about the financial resources available to the agency. This information consists of
+7 the agency's beginning fund balance, receipts, disbursements, and ending fund balance
+8 for each of the last two fiscal years and consists of, as well as the agency's beginning fund
+9 balance, projected receipts, projected disbursements, and ending balance for the current
+10 fiscal year and the next fiscal year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 5 U  A pLSSD: E T O A S 1 t ( A § c c ( A p a i s o s b r b § a c i s r b § t a f r i 4 p m r s t s b a ( A]
+[DELETED:  2 5 U  ( P ( P o t a w a h c i s r ( A t d t r c t t I R R C f a ( T a r m a ( I a t c w c a l s h b t p h T s c m b c a t c o t p h T h m b c ( A o o a r t p r A p r m b m i ( T c t i s o s b a h c i s § R a T r s]
+[DELETED:  3 5 U  r T S 1 i 2 t f b f]
+
+
+================================================================================
+
+Raw Text:
+57A 101st Legislative Session 57
+2026 South Dakota Legislature
+Senate Bill 57
+AMENDM ENT 57A
+FOR THE INTRODUCED BILL
+Introduced by: Senators Howard and Larson and Representatives Hansen, DeGroot, and Muckey at the request
+of the Interim Rules Review Committee
+1 An Act to clarify when agency financial resource information must be filed in the
+2 permanent administrative rulemaking process.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 1-26-4 be AMENDED:
+5 1-26-4. The following notice, service, and public hearing procedure must be used
+6 to adopt, amend, or repeal a permanent rule:
+7 (1) An agency shall serve a copy of a proposed rule and any publication described in
+8 § 1-26-6.6 upon the departmental secretary, bureau commissioner, public utilities
+9 commissioner, or constitutional officer to which it is attached for the secretary's,
+10 commissioner's, or officer's written approval to proceed;
+11 (2) After receiving the written approval of the secretary, commissioner, or officer to
+12 proceed, the agency shall serve code counsel with a copy of: the proposed rule;
+13 any publication described in § 1-26-6.6; the fiscal note required by § 1-26-4.2; the
+14 impact statement on small business required by § 1-26-2.1; any housing cost
+15 impact statement required by § 1-26-2.3; the agency financial resource
+16 information required by § 1-26-4.8; and the notice of hearing required by § 1-26-
+17 4.1. The copy of these documents must be served at least twenty days before the
+18 public hearing to adopt the proposed rule. Any publication described in § 1-26-6.6
+19 must be returned to the agency upon completion of the code counsel's review and
+20 retained by the agency. Twenty days before the public hearing, the agency shall
+21 serve the commissioner of the Bureau of Finance and Management with a copy of:
+22 the proposed rule; the fiscal note required by § 1-26-4.2; the impact statement on
+23 small business required by § 1-26-2.1; any housing cost impact statement required
+24 by § 1-26-2.3; the agency financial resource information required by § 1-26-4.8;
+25 and the notice of hearing required by § 1-26-4.1;
+26 (3) At least twenty days before the public hearing, the agency shall:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+57A 2 57
+1 (a) Publish the notice of hearing in the manner prescribed by § 1-26-4.1; and
+2 (b) Publish, on the agency's website, any housing cost impact statement
+3 required by § 1-26-2.3;
+4 (4) After reviewing the proposed rule pursuant to § 1-26-6.5, code counsel shall advise
+5 the agency of any recommended corrections to the proposed rule. If the agency
+6 does not concur with any recommendation of code counsel, the agency may appeal
+7 the recommended correction to the Interim Rules Review Committee for
+8 appropriate action;
+9 (5) The agency shall afford all interested persons reasonable opportunity to submit
+10 amendments, data, opinions, or arguments at a public hearing held to adopt the
+11 rule. The hearing may be continued from time to time. The agency shall keep
+12 minutes of the hearing. A majority of the members of any board or commission
+13 authorized to pass rules must be present during the course of the public hearing;
+14 (6) If the authority promulgating the rule is a secretary, commissioner, or officer, the
+15 agency shall accept written comments regarding the proposed rule for a period of
+16 ten days after the public hearing. If the authority promulgating the rule is a board,
+17 commission, committee, or task force, each interested person shall must submit
+18 written comments at least seventy-two hours before the public hearing. The
+19 seventy-two hours does not include the day of the public hearing. The written
+20 comments may be submitted by mail or email. The record of written comments
+21 may be closed at the conclusion of the public hearing. The hearing may be
+22 continued for the purpose of taking additional comments;
+23 (7) After the written comment period, the agency shall consider all amendments, data,
+24 opinions, or arguments regarding the proposed rule. A proposed rule may be
+25 modified or amended at this time to include or exclude matters that were described
+26 in the notice of hearing; and
+27 (8) The agency shall serve the minutes of the hearing, a complete record of written
+28 comments, the impact statement on small business, any housing cost impact
+29 statement, the fiscal note, the agency financial resource information required by
+30 § 1-26-4.8, and a corrected copy of the rule on the members of the Interim Rules
+31 Review Committee and on code counsel at least seven days before the agency
+32 appears before the committee to present the rules.
+33 The time periods specified in this section may be extended by the agency. The
+34 requirement to serve the committee and code counsel within the time limit specified in
+35 subdivision (8) may be waived by the committee chair, if the agency presents sufficient
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+57A 3 57
+1 reasons to the committee chair that the agency is unable to comply with the time limit.
+2 The waiver may not be granted solely for the convenience of the agency.
+3 Section 2. That § 1-26-4.8 be AMENDED:
+4 1-26-4.8. If an agency proposes a rule to increase a fee, the agency shall provide
+5 information to the Interim Rules Review Committee and code counsel, pursuant to § 1-
+6 26-4, about the financial resources available to the agency. This information consists of
+7 the agency's beginning fund balance, receipts, disbursements, and ending fund balance
+8 for each of the last two fiscal years and consists of, as well as the agency's beginning fund
+9 balance, projected receipts, projected disbursements, and ending balance for the current
+10 fiscal year and the next fiscal year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 5 U  A pLSSD: E T O A S 1 t ( A § c c ( A p a i s o s b r b § a c i s r b § t a f r i 4 p m r s t s b a ( A]
+[DELETED:  2 5 U  ( P ( P o t a w a h c i s r ( A t d t r c t t I R R C f a ( T a r m a ( I a t c w c a l s h b t p h T s c m b c a t c o t p h T h m b c ( A o o a r t p r A p r m b m i ( T c t i s o s b a h c i s § R a T r s]
+[DELETED:  3 5 U  r T S 1 i 2 t f b f]

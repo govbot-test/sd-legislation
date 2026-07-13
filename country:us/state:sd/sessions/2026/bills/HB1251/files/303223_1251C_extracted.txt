@@ -1,0 +1,183 @@
+Title: House Bill 1251
+Official Title: House Bill 1251
+Number of Sections: 1
+Source: versions - 1251C
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1251C 101st Legislative Session 1251
+2026 South Dakota Legislature
+AMENDME NT 1251C
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mulder
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to create the community-based providers methodology supplement fund,
+2 create the target teacher salary supplement fund, and provide for the transfer
+3 of certain unobligated cash balances to the funds.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 4-7-31 be AMENDED:
+6 4-7-31. There is hereby established within the state treasury the budget reserve
+7 fund. Expenditures from the fund may occur only by special appropriation of the
+8 Legislature and may redress only unforeseen expenditure obligations or unforeseen
+9 revenue shortfalls, as may constitute an emergency pursuant to S.D. Const., Art. III, § 1.
+10 Section 2. That § 4-7-32 be AMENDED:
+11 4-7-32. The transfer of all prior year unobligated cash must occur in accordance
+12 with this section:
+13 (1) On July first of each fiscal year or at such the time that the prior fiscal year general
+14 fund ending unobligated cash balance is determined, the commissioner of the
+15 Bureau of Finance and Management shall transfer all prior year unobligated cash,
+16 up to an amount equal to equaling ten percent of the general fund appropriations
+17 from the general appropriation act for the prior fiscal year, into the budget reserve
+18 fund. In no event shall the The cash balance in the budget reserve fund be greater
+19 than may not exceed ten percent of the general fund appropriations from the
+20 general appropriation act for the prior fiscal year.
+21 Expenditures out of the budget reserve fund shall only be by special appropriation of the
+22 Legislature and shall only redress such unforeseen expenditure obligations or such
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1251C 2 1251
+1 unforeseen revenue shortfalls as may constitute an emergency pursuant to S.D.
+2 Const., Art. III, § 1.; and
+3 (2) If any unobligated cash balance remains after the requirements of subdivision (1)
+4 are met, the commissioner must transfer:
+5 (a) Thirty percent of the remaining balance to the community-based providers
+6 methodology supplement fund, created in section 4 of this Act;
+7 (b) Thirty percent of the remaining balance to the target teacher salary
+8 supplement fund, created in section 3 of this Act; and
+9 (c) Forty percent of the remaining balance to the general revenue replacement
+10 fund, created in § 4-7-45.
+11 Section 3. That a NEW SECTION be added to chapter 13-13:
+12 There is created in the state treasury the target teacher salary supplement fund.
+13 The fund consists of moneys specified for deposit in the fund pursuant to § 4-7-32. The
+14 Department of Education shall administer the fund. The purpose of the fund is to enable
+15 an increase to the target teacher salary, as set forth in § 13-13-10.1.
+16 The department, as part of the annual budget submission, in accordance with § 4-
+17 7-7, shall submit a budget request utilizing money from the fund to provide an increase
+18 in the target teacher salary, as set forth in § 13-13-10.1.
+19 Interest on moneys credited to the fund must remain in the fund.
+20 Expenditures from the fund must be budgeted through the general appropriation
+21 bill.
+22 Section 4. That a NEW SECTION be added to chapter 28-22:
+23 There is created in the state treasury the community-based providers methodology
+24 supplement fund. The fund consists of moneys specified for deposit in the fund pursuant
+25 to § 4-7-32. The Department of Human Services and the Department of Social Services
+26 shall each administer that portion of the fund to be used by the agency for the purpose of
+27 enabling an increase in the rates payable to the types of community-based providers listed
+28 in § 28-22-6, in order for the rate methodology of each provider to be closer to one
+29 hundred percent of the methodology established in chapter 28-22.
+30 Each department, as part of the annual budget submission, in accordance with § 4-
+31 7-7, shall submit a budget request utilizing money from the fund to provide a uniform
+32 increase in rates for community-based providers and specify the percentage of
+33 methodology each community-based provider is to be at with the change.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1251C 3 1251
+1 Interest on moneys credited to the fund must remain in the fund.
+2 Expenditures from the fund must be budgeted through the general appropriation
+3 bill.
+4 Section 5. That § 4-7-39 be REPEALED.
+5 The commissioner of the Bureau of Finance and Management shall transfer any
+6 unobligated cash remaining after the transfer into the budget reserve fund as required by
+7 § 4-7-32 into the general revenue replacement fund if the amount in the general revenue
+8 replacement fund does not exceed fifteen percent of the general fund appropriations in
+9 the General Appropriations Act for the previous fiscal year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A c oLSSD: E T O A S 4 f E f t f m o o b s a o t L a m r o u e o o u r S 4 w ( O f e u c b i d t c o t B u f f t m e t p o g f a f t g E L]
+[DELETED:  2 1 U  u C ( I a ( T m ( T p o t r b t t t t s s ( F f S T T D a T 7 i I E b S T s t s e i h E 7 i i r f c p a s t p o m]
+[DELETED:  3 1 U  I E b S T u § r t]
+
+
+================================================================================
+
+Raw Text:
+1251C 101st Legislative Session 1251
+2026 South Dakota Legislature
+House Bill 1251
+AMENDME NT 1251C
+FOR THE INTRODUCED BILL
+Introduced by: Representative Mulder
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to create the community-based providers methodology supplement fund,
+2 create the target teacher salary supplement fund, and provide for the transfer
+3 of certain unobligated cash balances to the funds.
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+5 Section 1. That § 4-7-31 be AMENDED:
+6 4-7-31. There is hereby established within the state treasury the budget reserve
+7 fund. Expenditures from the fund may occur only by special appropriation of the
+8 Legislature and may redress only unforeseen expenditure obligations or unforeseen
+9 revenue shortfalls, as may constitute an emergency pursuant to S.D. Const., Art. III, § 1.
+10 Section 2. That § 4-7-32 be AMENDED:
+11 4-7-32. The transfer of all prior year unobligated cash must occur in accordance
+12 with this section:
+13 (1) On July first of each fiscal year or at such the time that the prior fiscal year general
+14 fund ending unobligated cash balance is determined, the commissioner of the
+15 Bureau of Finance and Management shall transfer all prior year unobligated cash,
+16 up to an amount equal to equaling ten percent of the general fund appropriations
+17 from the general appropriation act for the prior fiscal year, into the budget reserve
+18 fund. In no event shall the The cash balance in the budget reserve fund be greater
+19 than may not exceed ten percent of the general fund appropriations from the
+20 general appropriation act for the prior fiscal year.
+21 Expenditures out of the budget reserve fund shall only be by special appropriation of the
+22 Legislature and shall only redress such unforeseen expenditure obligations or such
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1251C 2 1251
+1 unforeseen revenue shortfalls as may constitute an emergency pursuant to S.D.
+2 Const., Art. III, § 1.; and
+3 (2) If any unobligated cash balance remains after the requirements of subdivision (1)
+4 are met, the commissioner must transfer:
+5 (a) Thirty percent of the remaining balance to the community-based providers
+6 methodology supplement fund, created in section 4 of this Act;
+7 (b) Thirty percent of the remaining balance to the target teacher salary
+8 supplement fund, created in section 3 of this Act; and
+9 (c) Forty percent of the remaining balance to the general revenue replacement
+10 fund, created in § 4-7-45.
+11 Section 3. That a NEW SECTION be added to chapter 13-13:
+12 There is created in the state treasury the target teacher salary supplement fund.
+13 The fund consists of moneys specified for deposit in the fund pursuant to § 4-7-32. The
+14 Department of Education shall administer the fund. The purpose of the fund is to enable
+15 an increase to the target teacher salary, as set forth in § 13-13-10.1.
+16 The department, as part of the annual budget submission, in accordance with § 4-
+17 7-7, shall submit a budget request utilizing money from the fund to provide an increase
+18 in the target teacher salary, as set forth in § 13-13-10.1.
+19 Interest on moneys credited to the fund must remain in the fund.
+20 Expenditures from the fund must be budgeted through the general appropriation
+21 bill.
+22 Section 4. That a NEW SECTION be added to chapter 28-22:
+23 There is created in the state treasury the community-based providers methodology
+24 supplement fund. The fund consists of moneys specified for deposit in the fund pursuant
+25 to § 4-7-32. The Department of Human Services and the Department of Social Services
+26 shall each administer that portion of the fund to be used by the agency for the purpose of
+27 enabling an increase in the rates payable to the types of community-based providers listed
+28 in § 28-22-6, in order for the rate methodology of each provider to be closer to one
+29 hundred percent of the methodology established in chapter 28-22.
+30 Each department, as part of the annual budget submission, in accordance with § 4-
+31 7-7, shall submit a budget request utilizing money from the fund to provide a uniform
+32 increase in rates for community-based providers and specify the percentage of
+33 methodology each community-based provider is to be at with the change.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1251C 3 1251
+1 Interest on moneys credited to the fund must remain in the fund.
+2 Expenditures from the fund must be budgeted through the general appropriation
+3 bill.
+4 Section 5. That § 4-7-39 be REPEALED.
+5 The commissioner of the Bureau of Finance and Management shall transfer any
+6 unobligated cash remaining after the transfer into the budget reserve fund as required by
+7 § 4-7-32 into the general revenue replacement fund if the amount in the general revenue
+8 replacement fund does not exceed fifteen percent of the general fund appropriations in
+9 the General Appropriations Act for the previous fiscal year.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A c oLSSD: E T O A S 4 f E f t f m o o b s a o t L a m r o u e o o u r S 4 w ( O f e u c b i d t c o t B u f f t m e t p o g f a f t g E L]
+[DELETED:  2 1 U  u C ( I a ( T m ( T p o t r b t t t t s s ( F f S T T D a T 7 i I E b S T s t s e i h E 7 i i r f c p a s t p o m]
+[DELETED:  3 1 U  I E b S T u § r t]

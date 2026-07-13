@@ -1,0 +1,67 @@
+Title: Senate Bill 91
+Official Title: Senate Bill 91
+Number of Sections: 1
+Source: versions - 91B
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+91B 101st Legislative Session 91
+2026 South Dakota Legislature
+AMENDM ENT 91B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Nelson
+1 An Act to clarify the procedure for petitioning a board of county commissioners for
+2 a change to the comprehensive plan or zoning ordinances.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-2-28.2 be AMENDED:
+5 11-2-28.2. Following receipt of any A petition as provided in pursuant to § 11-2-
+6 28 or 11-2-28.1, the board must be filed with the office of the county auditor, who. The
+7 county auditor shall present forward the petition to the board commission, or a person
+8 designated by the commission, for consideration at its next regular or special meeting and
+9 provide a copy to the board, or a person designated by the board. Within forty-five days
+10 of the presentation, the commission shall hold a public hearing on the petition, subject to
+11 the requirements of § 11-2-19, and take action upon the petitioned request. Within
+12 forty-five days of receipt by the board of any such petition, the county planning
+13 commission shall consider the requested action and § 11-2-29, and make a
+14 recommendation thereon on the petitioned request to the board.
+15 Upon receipt of the commission's recommendation, the board must hold a public
+16 hearing, subject to the requirements of § 11-2-19, and take action upon the petitioned
+17 request, pursuant to § 11-2-30.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 9 U  A aLSSD: E T O A S 1 2 c d p o t r o § a t a u t p r W f d o r b t b o a s p t c p c s c t r a a § a m a r U h r]
+
+
+================================================================================
+
+Raw Text:
+91B 101st Legislative Session 91
+2026 South Dakota Legislature
+Senate Bill 91
+AMENDM ENT 91B
+FOR THE INTRODUCED BILL
+Introduced by: Senator Nelson
+1 An Act to clarify the procedure for petitioning a board of county commissioners for
+2 a change to the comprehensive plan or zoning ordinances.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 11-2-28.2 be AMENDED:
+5 11-2-28.2. Following receipt of any A petition as provided in pursuant to § 11-2-
+6 28 or 11-2-28.1, the board must be filed with the office of the county auditor, who. The
+7 county auditor shall present forward the petition to the board commission, or a person
+8 designated by the commission, for consideration at its next regular or special meeting and
+9 provide a copy to the board, or a person designated by the board. Within forty-five days
+10 of the presentation, the commission shall hold a public hearing on the petition, subject to
+11 the requirements of § 11-2-19, and take action upon the petitioned request. Within
+12 forty-five days of receipt by the board of any such petition, the county planning
+13 commission shall consider the requested action and § 11-2-29, and make a
+14 recommendation thereon on the petitioned request to the board.
+15 Upon receipt of the commission's recommendation, the board must hold a public
+16 hearing, subject to the requirements of § 11-2-19, and take action upon the petitioned
+17 request, pursuant to § 11-2-30.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 9 U  A aLSSD: E T O A S 1 2 c d p o t r o § a t a u t p r W f d o r b t b o a s p t c p c s c t r a a § a m a r U h r]

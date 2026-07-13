@@ -1,0 +1,79 @@
+Title: Senate Bill 106
+Official Title: Senate Bill 106
+Number of Sections: 1
+Source: versions - 106A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+106A 101st Legislative Session 106
+2026 South Dakota Legislature
+AMENDME NT 106A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Sauder
+1 An Act to modify the amount required to be set aside for extraordinary expenses
+2 incurred in providing special education programs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-37-40 be AMENDED:
+5 13-37-40. Subject to the limitation limitations provided below and in § 13-37-42,
+6 the secretary of the Department of Education shall, for school fiscal year 2014 and each
+7 year thereafter beginning July 1, 2026, set aside four five million dollars of the state aid
+8 to districts for special education appropriation for extraordinary expenses incurred in
+9 providing special education programs or services to one or more children with disabilities,
+10 with expenditures to be made as recommended by an oversight board and approved by
+11 the secretary of the Department of Education provided in § 13-37-60. Beginning July 1,
+12 2027, and each year thereafter, the amount that the secretary shall set aside for
+13 extraordinary expenses increases by the index factor, as defined in § 13-37-35.1.
+14 Any funds not expended or obligated pursuant to this section shall are not be
+15 subject to reversion pursuant to § 4-8-19. The total amount set aside for extraordinary
+16 expenses each fiscal year plus the total amount not reverted from previous fiscal years
+17 may, provided that the total amount reserved each year for extraordinary expenses does
+18 not exceed five million five hundred thousand dollars.
+19 The amount appropriated for extraordinary expenses shall be recalculated at the
+20 same time as the amount of the allocations for disability levels as provided in § 13-37-
+21 35.2. Beginning July 1, 2027, and each year thereafter, the maximum amount that may
+22 be reserved for extraordinary expenses increases by the index factor, as defined in § 13-
+23 37-35.1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A iLSSD: E T O A S 1 t y t d f s e a f e e i i p w t 2 a e y t t a t t s s s a f e A s e m n T s 3 b 3]
+
+
+================================================================================
+
+Raw Text:
+106A 101st Legislative Session 106
+2026 South Dakota Legislature
+Senate Bill 106
+AMENDME NT 106A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Sauder
+1 An Act to modify the amount required to be set aside for extraordinary expenses
+2 incurred in providing special education programs.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 13-37-40 be AMENDED:
+5 13-37-40. Subject to the limitation limitations provided below and in § 13-37-42,
+6 the secretary of the Department of Education shall, for school fiscal year 2014 and each
+7 year thereafter beginning July 1, 2026, set aside four five million dollars of the state aid
+8 to districts for special education appropriation for extraordinary expenses incurred in
+9 providing special education programs or services to one or more children with disabilities,
+10 with expenditures to be made as recommended by an oversight board and approved by
+11 the secretary of the Department of Education provided in § 13-37-60. Beginning July 1,
+12 2027, and each year thereafter, the amount that the secretary shall set aside for
+13 extraordinary expenses increases by the index factor, as defined in § 13-37-35.1.
+14 Any funds not expended or obligated pursuant to this section shall are not be
+15 subject to reversion pursuant to § 4-8-19. The total amount set aside for extraordinary
+16 expenses each fiscal year plus the total amount not reverted from previous fiscal years
+17 may, provided that the total amount reserved each year for extraordinary expenses does
+18 not exceed five million five hundred thousand dollars.
+19 The amount appropriated for extraordinary expenses shall be recalculated at the
+20 same time as the amount of the allocations for disability levels as provided in § 13-37-
+21 35.2. Beginning July 1, 2027, and each year thereafter, the maximum amount that may
+22 be reserved for extraordinary expenses increases by the index factor, as defined in § 13-
+23 37-35.1.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A iLSSD: E T O A S 1 t y t d f s e a f e e i i p w t 2 a e y t t a t t s s s a f e A s e m n T s 3 b 3]

@@ -1,0 +1,110 @@
+Title: House Bill 1295
+Official Title: House Bill 1295
+Number of Sections: 1
+Source: versions - 1295A
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1295A 101st Legislative Session 1295
+2026 South Dakota Legislature
+AMENDME NT 1295A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hunt
+1 An Act to revise provisions for the acquisition of highway easements and rights of
+2 way by gift or purchase.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 31-19-1 be AMENDED:
+5 31-19-1. The land or material for a right-of-way and borrow pit may be acquired
+6 for the state by good faith negotiations by the Department of Transportation, either by
+7 gift, or purchase, or condemnation. If said the land or material is to be acquired by
+8 condemnation, the proceedings shall must be as provided by § 31-19-3.
+9 Section 2. That a NEW SECTION be added to chapter 31-19:
+10 The land or material for from a borrow pit may be acquired for the state by good
+11 faith negotiations by the Department of Transportation, either by gift, or purchase, or
+12 condemnation. If the land or material is acquired by condemnation, the proceedings must
+13 be as provided by § 31-19-3.
+14 Section 3. That a NEW SECTION be added to chapter 31-19:
+15 If the Department of Transportation is to acquire an easement or right of way for
+16 a borrow pit, the department must file a notice with the landowner and the register of
+17 deeds for the county in which the easement or right of way is located. The notice must
+18 state the purpose for the easement or right of way and state that just compensation must
+19 be paid to the landowner, as negotiated.
+20 The notice must include the department's plans for the easement or right of way,
+21 and a detailed description of the property through, or over which, the proposed
+22 improvement is to be constructed.
+23 All persons having an interest in, or a lien upon the property must be provided with
+24 a copy of the notice, insofar as those persons may be known at the time of the filing.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1295A 2 1295
+1 Upon agreement between a landowner and the department for the purchase of the
+2 easement and finalization of the sale, the county register of deeds shall record the
+3 easement or right of way. If negotiations fail, the requirements for condemnation, as set
+4 forth in §§ 31-19-2 to 31-19-19, inclusive, initiating condemnation pursuant to § 31-19-
+5 3, apply.
+6 Section 4. That § 31-19-2 be AMENDED:
+7 31-19-2. Before acquiring land or material by gift, purchase, or condemnation,
+8 the Department of Transportation shall, by resolution, declare the necessity for acquiring
+9 the land or material and file a copy of the resolution with the office of right-of-way in the
+10 department.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A wLSSD: E T O A S 3 f g o p c t l o m i t b a b c S T f c b S I a d s b T a a d d o t p t o o w t p i A a]
+[DELETED:  2 1 U  U e a f o t s t c r o d s r t e f 3 S 3 t t d]
+
+
+================================================================================
+
+Raw Text:
+1295A 101st Legislative Session 1295
+2026 South Dakota Legislature
+House Bill 1295
+AMENDME NT 1295A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Hunt
+1 An Act to revise provisions for the acquisition of highway easements and rights of
+2 way by gift or purchase.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 31-19-1 be AMENDED:
+5 31-19-1. The land or material for a right-of-way and borrow pit may be acquired
+6 for the state by good faith negotiations by the Department of Transportation, either by
+7 gift, or purchase, or condemnation. If said the land or material is to be acquired by
+8 condemnation, the proceedings shall must be as provided by § 31-19-3.
+9 Section 2. That a NEW SECTION be added to chapter 31-19:
+10 The land or material for from a borrow pit may be acquired for the state by good
+11 faith negotiations by the Department of Transportation, either by gift, or purchase, or
+12 condemnation. If the land or material is acquired by condemnation, the proceedings must
+13 be as provided by § 31-19-3.
+14 Section 3. That a NEW SECTION be added to chapter 31-19:
+15 If the Department of Transportation is to acquire an easement or right of way for
+16 a borrow pit, the department must file a notice with the landowner and the register of
+17 deeds for the county in which the easement or right of way is located. The notice must
+18 state the purpose for the easement or right of way and state that just compensation must
+19 be paid to the landowner, as negotiated.
+20 The notice must include the department's plans for the easement or right of way,
+21 and a detailed description of the property through, or over which, the proposed
+22 improvement is to be constructed.
+23 All persons having an interest in, or a lien upon the property must be provided with
+24 a copy of the notice, insofar as those persons may be known at the time of the filing.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1295A 2 1295
+1 Upon agreement between a landowner and the department for the purchase of the
+2 easement and finalization of the sale, the county register of deeds shall record the
+3 easement or right of way. If negotiations fail, the requirements for condemnation, as set
+4 forth in §§ 31-19-2 to 31-19-19, inclusive, initiating condemnation pursuant to § 31-19-
+5 3, apply.
+6 Section 4. That § 31-19-2 be AMENDED:
+7 31-19-2. Before acquiring land or material by gift, purchase, or condemnation,
+8 the Department of Transportation shall, by resolution, declare the necessity for acquiring
+9 the land or material and file a copy of the resolution with the office of right-of-way in the
+10 department.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A wLSSD: E T O A S 3 f g o p c t l o m i t b a b c S T f c b S I a d s b T a a d d o t p t o o w t p i A a]
+[DELETED:  2 1 U  U e a f o t s t c r o d s r t e f 3 S 3 t t d]

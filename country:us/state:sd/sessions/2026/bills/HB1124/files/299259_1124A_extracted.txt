@@ -1,0 +1,67 @@
+Title: House Bill 1124
+Official Title: House Bill 1124
+Number of Sections: 1
+Source: versions - 1124A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1124A 101st Legislative Session 1124
+2026 South Dakota Legislature
+AMENDME NT 1124A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Schaefbauer
+1 An Act to establish the crime of trespass upon a place of worship, provide a penalty
+2 therefor, and declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-35:
+5 No person may enter or remain on the premises of any place of worship, or within
+6 one thousand fifty feet of any egress of any place of worship, one hour before or after a
+7 worship service, with the intent to disrupt worship services at the place of worship, menace
+8 or harass congregants or employees of the place of worship, or for the purpose of political
+9 intimidation of or the incitement of fear of violence in those attending the place of worship.
+10 A violation of this section is a Class 5 felony.
+11 For purposes of this section, "place of worship" means a structure where people
+12 regularly assemble for worship, ceremonies, rituals, and education relating to a particular
+13 form or religious belief, and which a reasonable person would conclude is a place of
+14 worship by reason of design, signs, or architectural or other features.
+15 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+16 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+17 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A tLSSD: E T O A S N o w o i A F r f o r w a r p w c i p o w S h a]
+
+
+================================================================================
+
+Raw Text:
+1124A 101st Legislative Session 1124
+2026 South Dakota Legislature
+House Bill 1124
+AMENDME NT 1124A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Schaefbauer
+1 An Act to establish the crime of trespass upon a place of worship, provide a penalty
+2 therefor, and declare an emergency.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 22-35:
+5 No person may enter or remain on the premises of any place of worship, or within
+6 one thousand fifty feet of any egress of any place of worship, one hour before or after a
+7 worship service, with the intent to disrupt worship services at the place of worship, menace
+8 or harass congregants or employees of the place of worship, or for the purpose of political
+9 intimidation of or the incitement of fear of violence in those attending the place of worship.
+10 A violation of this section is a Class 5 felony.
+11 For purposes of this section, "place of worship" means a structure where people
+12 regularly assemble for worship, ceremonies, rituals, and education relating to a particular
+13 form or religious belief, and which a reasonable person would conclude is a place of
+14 worship by reason of design, signs, or architectural or other features.
+15 Section 2. Whereas, this Act is necessary for the immediate preservation of the public peace,
+16 health, or safety, an emergency is hereby declared to exist, and this Act shall be in full force
+17 and effect from and after its passage and approval.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A tLSSD: E T O A S N o w o i A F r f o r w a r p w c i p o w S h a]

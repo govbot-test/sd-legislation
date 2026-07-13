@@ -1,0 +1,53 @@
+Title: Senate Bill 233
+Official Title: Senate Bill 233
+Number of Sections: 1
+Source: versions - 233A
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+233A 101st Legislative Session 233
+2026 South Dakota Legislature
+AMENDME NT 233A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Davis
+1 An Act to prohibit the assessment of certain administrative fees or penalties related
+2 to the provision of care by an out-of-network provider.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 58-17F:
+5 A health carrier may not, through contract or otherwise, assess or impose upon a
+6 participating health care provider an administrative fee or, penalty, or payment reduction,
+7 related to any provision of care to a patient that, member, or enrollee, which involved an
+8 out-of-network provider.
+9 For purposes of this section, an "out-of-network provider," means a provider, of
+10 any item or service, who is not a participating provider.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A tLSSD: E T O A S A p r o F a]
+
+
+================================================================================
+
+Raw Text:
+233A 101st Legislative Session 233
+2026 South Dakota Legislature
+Senate Bill 233
+AMENDME NT 233A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Davis
+1 An Act to prohibit the assessment of certain administrative fees or penalties related
+2 to the provision of care by an out-of-network provider.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 58-17F:
+5 A health carrier may not, through contract or otherwise, assess or impose upon a
+6 participating health care provider an administrative fee or, penalty, or payment reduction,
+7 related to any provision of care to a patient that, member, or enrollee, which involved an
+8 out-of-network provider.
+9 For purposes of this section, an "out-of-network provider," means a provider, of
+10 any item or service, who is not a participating provider.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A tLSSD: E T O A S A p r o F a]

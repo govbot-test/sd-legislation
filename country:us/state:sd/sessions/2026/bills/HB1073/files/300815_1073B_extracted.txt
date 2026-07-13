@@ -1,0 +1,177 @@
+Title: House Bill 1073
+Official Title: House Bill 1073
+Number of Sections: 1
+Source: versions - 1073B
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1073B 101st Legislative Session 1073
+2026 South Dakota Legislature
+AMENDME NT 1073B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heermann
+1 An Act to provide for the creation of a cardiac emergency plan in every school and
+2 to make an appropriation therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-33A:
+5 Each board of a school district and governing board of an accredited nonpublic
+6 school shall provide for the implementation of a cardiac emergency response plan in every
+7 school under its control.
+8 Each plan must be developed in collaboration with local emergency service
+9 providers, using nationally recognized core elements related to cardiac emergency
+10 response. The plan must provide for:
+11 (1) The creation of a cardiac emergency response team able to respond to incidents of
+12 sudden cardiac arrest or similar life-threatening emergencies on school grounds;
+13 (2) The placement of automated external defibrillators in clearly marked, unlocked,
+14 accessible locations on school grounds and at each athletic venue where practices
+15 or competitions are held;
+16 (3) The provision of staff training in cardiopulmonary resuscitation and the use of an
+17 automated external defibrillator; and
+18 (4) The procedures for responding to incidents of sudden cardiac arrest or similar life-
+19 threatening emergencies at all school-sanctioned or school-sponsored activities on
+20 school grounds.
+21 The board of each school district and the governing board of each accredited
+22 nonpublic school shall review the cardiac emergency response plan for every school under
+23 its control and shall provide for the annual testing and any required maintenance of each
+24 automated external defibrillator.
+25 The board of each school district and the governing board of each accredited
+26 nonpublic school shall conduct, at each school under its control, an annual drill responding
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1073B 2 1073
+1 to incidents of sudden cardiac arrest or similar life-threatening emergencies, as provided
+2 in the school's cardiac emergency response plan.
+3 Section 2. That a NEW SECTION be added to chapter 13-33A:
+4 Every public and accredited nonpublic school shall arrange for annual training in
+5 cardiopulmonary resuscitation, first-aid, and the use of an automated external defibrillator
+6 for each employee serving as:
+7 (1) An athletic trainer, licensed pursuant to chapter 36-29;
+8 (2) A coach participating in a school-sanctioned or school-sponsored athletic activity;
+9 (3) A school nurse; and
+10 (4) A member of the school's cardiac emergency response team, pursuant to section
+11 1 of this Act.
+12 Every public and accredited nonpublic school shall arrange for annual training in
+13 cardiopulmonary resuscitation, first-aid, and the use of an automated external defibrillator
+14 for each employee serving as a member of the school's cardiac emergency response team,
+15 pursuant to section 1 of this Act.
+16 Training must consist of at least three hours of instruction, be provided by an
+17 emergency medical services provider, or an organization approved by the Department of
+18 Health, and follow evidence-based guidelines on emergency cardiovascular care set forth
+19 by a nationally recognized organization. Training may occur in-person or online, as set
+20 forth in each school's cardiac emergency response plan.
+21 Section 3. That a NEW SECTION be added to chapter 13-33A:
+22 Except in the case of gross negligence, a school district, the board of a district, and
+23 any employee, student, or volunteer of a district are immune from any civil or criminal
+24 liability resulting from an act or omission related to a cardiac emergency response plan
+25 developed in accordance with this Act.
+26 Except in the case of gross negligence, an accredited nonpublic school, the
+27 governing board of an accredited nonpublic school, and any employee, student, or
+28 volunteer of a nonpublic school are immune from any civil or criminal liability resulting
+29 from an act or omission related to a cardiac emergency response plan developed in
+30 accordance with this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1073B 3 1073
+1 Section 4. There is appropriated $150,000 from the general fund, to the Department of
+2 Health, for grants to school districts and accredited nonpublic schools for the purchase of
+3 automated external defibrillators.
+4 Section 5. The secretary of the Department of Health shall approve vouchers and the state
+5 auditor hall draw warrants to pay expenditures authorized in this Act.
+6 Section 6. Any amounts appropriated in this Act not lawfully expended or obligated shall
+7 revert in accordance with the procedures described in chapter 4-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A tLSSD: E T O A S E s s E p m b d i c w l e s p u n r c e r t c e r ( T s ( T a o ( T a ( T t s T b o e s d a t g b o e a n i a T b o e s d a t g b o e a n]
+[DELETED:  2 1 U  t i S E c f ( A ( A ( A ( A 1 E c f p T e H b f S E a l d E i t c o g n a a n s t g b o a a n s a a e s o v f a a o o r t a c e r p d i a]
+[DELETED:  3 1 U  S H a S a S r]
+
+
+================================================================================
+
+Raw Text:
+1073B 101st Legislative Session 1073
+2026 South Dakota Legislature
+House Bill 1073
+AMENDME NT 1073B
+FOR THE INTRODUCED BILL
+Introduced by: Representative Heermann
+1 An Act to provide for the creation of a cardiac emergency plan in every school and
+2 to make an appropriation therefor.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That a NEW SECTION be added to chapter 13-33A:
+5 Each board of a school district and governing board of an accredited nonpublic
+6 school shall provide for the implementation of a cardiac emergency response plan in every
+7 school under its control.
+8 Each plan must be developed in collaboration with local emergency service
+9 providers, using nationally recognized core elements related to cardiac emergency
+10 response. The plan must provide for:
+11 (1) The creation of a cardiac emergency response team able to respond to incidents of
+12 sudden cardiac arrest or similar life-threatening emergencies on school grounds;
+13 (2) The placement of automated external defibrillators in clearly marked, unlocked,
+14 accessible locations on school grounds and at each athletic venue where practices
+15 or competitions are held;
+16 (3) The provision of staff training in cardiopulmonary resuscitation and the use of an
+17 automated external defibrillator; and
+18 (4) The procedures for responding to incidents of sudden cardiac arrest or similar life-
+19 threatening emergencies at all school-sanctioned or school-sponsored activities on
+20 school grounds.
+21 The board of each school district and the governing board of each accredited
+22 nonpublic school shall review the cardiac emergency response plan for every school under
+23 its control and shall provide for the annual testing and any required maintenance of each
+24 automated external defibrillator.
+25 The board of each school district and the governing board of each accredited
+26 nonpublic school shall conduct, at each school under its control, an annual drill responding
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1073B 2 1073
+1 to incidents of sudden cardiac arrest or similar life-threatening emergencies, as provided
+2 in the school's cardiac emergency response plan.
+3 Section 2. That a NEW SECTION be added to chapter 13-33A:
+4 Every public and accredited nonpublic school shall arrange for annual training in
+5 cardiopulmonary resuscitation, first-aid, and the use of an automated external defibrillator
+6 for each employee serving as:
+7 (1) An athletic trainer, licensed pursuant to chapter 36-29;
+8 (2) A coach participating in a school-sanctioned or school-sponsored athletic activity;
+9 (3) A school nurse; and
+10 (4) A member of the school's cardiac emergency response team, pursuant to section
+11 1 of this Act.
+12 Every public and accredited nonpublic school shall arrange for annual training in
+13 cardiopulmonary resuscitation, first-aid, and the use of an automated external defibrillator
+14 for each employee serving as a member of the school's cardiac emergency response team,
+15 pursuant to section 1 of this Act.
+16 Training must consist of at least three hours of instruction, be provided by an
+17 emergency medical services provider, or an organization approved by the Department of
+18 Health, and follow evidence-based guidelines on emergency cardiovascular care set forth
+19 by a nationally recognized organization. Training may occur in-person or online, as set
+20 forth in each school's cardiac emergency response plan.
+21 Section 3. That a NEW SECTION be added to chapter 13-33A:
+22 Except in the case of gross negligence, a school district, the board of a district, and
+23 any employee, student, or volunteer of a district are immune from any civil or criminal
+24 liability resulting from an act or omission related to a cardiac emergency response plan
+25 developed in accordance with this Act.
+26 Except in the case of gross negligence, an accredited nonpublic school, the
+27 governing board of an accredited nonpublic school, and any employee, student, or
+28 volunteer of a nonpublic school are immune from any civil or criminal liability resulting
+29 from an act or omission related to a cardiac emergency response plan developed in
+30 accordance with this Act.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1073B 3 1073
+1 Section 4. There is appropriated $150,000 from the general fund, to the Department of
+2 Health, for grants to school districts and accredited nonpublic schools for the purchase of
+3 automated external defibrillators.
+4 Section 5. The secretary of the Department of Health shall approve vouchers and the state
+5 auditor hall draw warrants to pay expenditures authorized in this Act.
+6 Section 6. Any amounts appropriated in this Act not lawfully expended or obligated shall
+7 revert in accordance with the procedures described in chapter 4-8.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A tLSSD: E T O A S E s s E p m b d i c w l e s p u n r c e r t c e r ( T s ( T a o ( T a ( T t s T b o e s d a t g b o e a n i a T b o e s d a t g b o e a n]
+[DELETED:  2 1 U  t i S E c f ( A ( A ( A ( A 1 E c f p T e H b f S E a l d E i t c o g n a a n s t g b o a a n s a a e s o v f a a o o r t a c e r p d i a]
+[DELETED:  3 1 U  S H a S a S r]

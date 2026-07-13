@@ -1,0 +1,260 @@
+Title: Senate Bill 61
+Official Title: Senate Bill 61
+Number of Sections: 1
+Source: versions - 61A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+61A 101st Legislative Session 61
+2026 South Dakota Legislature
+AMENDM ENT 61A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to ban hemp-derived intoxicants not for medical purposes.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-20B-118 be AMENDED:
+4 34-20B-118. No Except as otherwise provided in this section, no person or entity
+5 may:
+6 (1) Chemically modify or convert industrial hemp as defined in § 38-35-1, or engage
+7 in any process that converts cannabidiol, into delta-8:
+8 (a) Delta-8 tetrahydrocannabinol, delta-9;
+9 (b) Delta-9 tetrahydrocannabinol, delta-10;
+10 (c) Delta-10 tetrahydrocannabinol, or any; or
+11 (d) Any other tetrahydrocannabinol isomer, analog, or derivative; or
+12 (2) Sell or distribute industrial hemp or an industrial hemp product that contains
+13 chemically derived cannabinoids or cannabinoids created by chemically modifying
+14 or converting a hemp extract.; or
+15 (3) Sell, distribute, possess, manufacture, or consume an industrial hemp product
+16 intended for human or animal consumption, or any intermediate hemp-derived
+17 cannabinoid products containing cannabinoids that:
+18 (a) Are not capable of being naturally produced by a cannabis sativa plant;
+19 (b) Are capable of being naturally produced by a cannabis sativa plant but were
+20 synthesized or manufactured outside the plant; or
+21 (c) Are in amounts greater than 0.4 milligrams combined total of any
+22 tetrahydrocannabinol isomer, analog, or derivative, per container.
+23 This section does not apply to medical cannabis or medical cannabis products
+24 regulated by the Department of Health under chapter 34-20G.
+25 A violation of this section is a Class 2 misdemeanor.
+26 Section 2. That § 38-35-1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+61A 2 61
+1 38-35-1. Terms used in this chapter mean:
+2 (1) "Applicant," a person, including the state or any agency or institution thereof, any
+3 municipality, political subdivision, public or private corporation, individual,
+4 partnership, limited liability company, association, or trust; and includes any officer
+5 or governing or managing body of any municipality, political subdivision, or public
+6 or private corporation, or limited liability company, applying for an industrial hemp
+7 grower license, processor license, or both;
+8 (2) "Department," the Department of Agriculture and Natural Resources;
+9 (3)(2) "Chemically derived cannabinoid," a chemical substance created by a chemical
+10 reaction that changes the molecular structure of any chemical substance derived
+11 from the cannabis plant. The term does not include:
+12 (a) Cannabinoids produced by decarboxylation from a naturally occurring
+13 cannabinoid acid without the use of a chemical catalyst;
+14 (b) Non-psychoactive cannabinoids; or
+15 (c)(b) Cannabinoids in a topical cream product;
+16 (3) "Department," the Department of Agriculture and Natural Resources;
+17 (4) "Greenhouse," any indoor structure or enclosed building capable of being used for
+18 continuous cultivation throughout the year, no less than two thousand eight
+19 hundred and eighty square feet, and not part of a residential dwelling. Greenhouses
+20 may contain multiple lots that are separated and identified;
+21 (5) "Hemp" or "industrial hemp," the plant Cannabis sativa L., whether growing or not,
+22 and any part of that plant, including the seeds thereof and all derivatives, extracts,
+23 cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not,
+24 with a total delta-9 tetrahydrocannabinol concentration of not more than three-
+25 tenths of one percent on a dry weight basis;
+26 (6) "Key participant," a sole proprietor, a partner in a partnership, a principal executive
+27 officer for a government entity, or a person with executive managerial control in a
+28 corporation or limited liability company;
+29 (7)(6) "Industrial hemp product," a finished manufactured product, or consumer product
+30 made from industrial hemp with a total delta-9 tetrahydrocannabinol concentration
+31 of not more than three-tenths of one percent, derived from or made by processing
+32 industrial hemp;. This term does not include a product containing chemically
+33 derived cannabinoids, including:
+34 (a) Delta-8 tetrahydrocannabinol, also known as delta-8-THC;
+35 (b) Delta-10 tetrahydrocannabinol, also known as delta-10-THC;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+61A 3 61
+1 (c) Tetrahydrocannabinol acetate, also known as THC-O-acetate or THC-O;
+2 (d) Hexahydrocannabinol, also known as HHC; or
+3 (e) Tetrahydrocannabiphoral, also known as THCP;
+4 (8)(7) "Industrial hemp stalk bale," a bale that contains two main types of fiber, bast or
+5 long fiber found in the bark (skin) and hurd (shive), or short fiber located in the
+6 core of the stem, with a total delta-9 tetrahydrocannabinol concentration of not
+7 more than three-tenths of one percent;
+8 (8) "Key participant," a sole proprietor, a partner in a partnership, a principal executive
+9 officer for a government entity, or a person with executive managerial control in a
+10 corporation or limited liability company;
+11 (9) "Lot," a contiguous area in a field or in a greenhouse containing the same variety
+12 or strain of hemp throughout the area. In addition, "lot" means the terms, "farm,"
+13 "tract," "field," and "subfield" used by the United States Department of Agriculture
+14 Farm Service Agency to mean "lot";
+15 (10) "Measurement of uncertainty," the parameter associated with the result of a
+16 measurement, that characterizes the dispersion of the values that could reasonably
+17 be attributed to the particular quantity subject to measurement;
+18 (11) "Process" or "processing," to render raw industrial hemp plants or plant parts from
+19 their natural or original state to an initial processed form. Typical processing
+20 includes decortication, devitalization, crushing, or extraction;
+21 (12) "Processor," a person that converts raw hemp into an initial processed form;
+22 (13) "Produce" or "producing," to grow, germinate, dry, sort, grade, bale, grind, mill,
+23 pelletize, and harvest hemp plants in the field or in a greenhouse;
+24 (14) "Product in process," the product being processed by a state licensed hemp
+25 processor or the transfer of that product at no higher than one percent total delta-
+26 9 tetrahydrocannabinol between one or more licensed hemp processors during the
+27 process of processing state or federally approved, lab-tested biomass from a
+28 licensed grower into a finished industrial hemp product;
+29 (15) "Remediation," the process of rendering non-compliant cannabis compliant using
+30 methods accepted by the USDA;
+31 (16) "Secretary," the secretary of the Department of Agriculture and Natural Resources;
+32 (17) "Total delta-9 THC or total delta-9 tetrahydrocannabinol," the value determined
+33 after the process of decarboxylation, or the application of a conversion factor if the
+34 testing methodology does not include decarboxylation, that expresses the potential
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+61A 4 61
+1 total delta-9 tetrahydrocannabinol content derived from the sum of the THC and
+2 THCA content and reported on a dry weight basis; and
+3 (18) "Transporter," any person transporting, hauling, or delivering immature or mature
+4 hemp or product in process, but not industrial hemp product or sterilized seeds
+5 that are incapable of beginning germination.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 6 U  ALSSD: E T O A S 3 m ( C i ( D ( D ( D ( A ( S o d i h o a i h p t c c o ( S p m o c a i h p i c ( A ( A s ( A i a g t 0 m c t o a t T s d n a t m c o m c p r A S]
+[DELETED:  2 6 U  3 ( " m p s p o p c i p o o g ( " ( c c c a r f ( C p b d f a n o c ( N ( C ( " ( " c c t t y n l t t t e h m ( " a c w t ( " o c ( m o i h T t d n i a p c c d ( D ( D]
+[DELETED:  3 6 U  ( T ( H ( T ( l c m ( " o c ( " o " F ( " o u t p a w t r o a m b ( " t n o o s t a i p f T p i ( " ( " p ( " i p t p b p b a s l h p 9 p o p s o f a l b f a l ( " m ( " ( " a t]
+[DELETED:  4 6 U  t T ( " h t]
+
+
+================================================================================
+
+Raw Text:
+61A 101st Legislative Session 61
+2026 South Dakota Legislature
+Senate Bill 61
+AMENDM ENT 61A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Carley
+1 An Act to ban hemp-derived intoxicants not for medical purposes.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 34-20B-118 be AMENDED:
+4 34-20B-118. No Except as otherwise provided in this section, no person or entity
+5 may:
+6 (1) Chemically modify or convert industrial hemp as defined in § 38-35-1, or engage
+7 in any process that converts cannabidiol, into delta-8:
+8 (a) Delta-8 tetrahydrocannabinol, delta-9;
+9 (b) Delta-9 tetrahydrocannabinol, delta-10;
+10 (c) Delta-10 tetrahydrocannabinol, or any; or
+11 (d) Any other tetrahydrocannabinol isomer, analog, or derivative; or
+12 (2) Sell or distribute industrial hemp or an industrial hemp product that contains
+13 chemically derived cannabinoids or cannabinoids created by chemically modifying
+14 or converting a hemp extract.; or
+15 (3) Sell, distribute, possess, manufacture, or consume an industrial hemp product
+16 intended for human or animal consumption, or any intermediate hemp-derived
+17 cannabinoid products containing cannabinoids that:
+18 (a) Are not capable of being naturally produced by a cannabis sativa plant;
+19 (b) Are capable of being naturally produced by a cannabis sativa plant but were
+20 synthesized or manufactured outside the plant; or
+21 (c) Are in amounts greater than 0.4 milligrams combined total of any
+22 tetrahydrocannabinol isomer, analog, or derivative, per container.
+23 This section does not apply to medical cannabis or medical cannabis products
+24 regulated by the Department of Health under chapter 34-20G.
+25 A violation of this section is a Class 2 misdemeanor.
+26 Section 2. That § 38-35-1 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+61A 2 61
+1 38-35-1. Terms used in this chapter mean:
+2 (1) "Applicant," a person, including the state or any agency or institution thereof, any
+3 municipality, political subdivision, public or private corporation, individual,
+4 partnership, limited liability company, association, or trust; and includes any officer
+5 or governing or managing body of any municipality, political subdivision, or public
+6 or private corporation, or limited liability company, applying for an industrial hemp
+7 grower license, processor license, or both;
+8 (2) "Department," the Department of Agriculture and Natural Resources;
+9 (3)(2) "Chemically derived cannabinoid," a chemical substance created by a chemical
+10 reaction that changes the molecular structure of any chemical substance derived
+11 from the cannabis plant. The term does not include:
+12 (a) Cannabinoids produced by decarboxylation from a naturally occurring
+13 cannabinoid acid without the use of a chemical catalyst;
+14 (b) Non-psychoactive cannabinoids; or
+15 (c)(b) Cannabinoids in a topical cream product;
+16 (3) "Department," the Department of Agriculture and Natural Resources;
+17 (4) "Greenhouse," any indoor structure or enclosed building capable of being used for
+18 continuous cultivation throughout the year, no less than two thousand eight
+19 hundred and eighty square feet, and not part of a residential dwelling. Greenhouses
+20 may contain multiple lots that are separated and identified;
+21 (5) "Hemp" or "industrial hemp," the plant Cannabis sativa L., whether growing or not,
+22 and any part of that plant, including the seeds thereof and all derivatives, extracts,
+23 cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not,
+24 with a total delta-9 tetrahydrocannabinol concentration of not more than three-
+25 tenths of one percent on a dry weight basis;
+26 (6) "Key participant," a sole proprietor, a partner in a partnership, a principal executive
+27 officer for a government entity, or a person with executive managerial control in a
+28 corporation or limited liability company;
+29 (7)(6) "Industrial hemp product," a finished manufactured product, or consumer product
+30 made from industrial hemp with a total delta-9 tetrahydrocannabinol concentration
+31 of not more than three-tenths of one percent, derived from or made by processing
+32 industrial hemp;. This term does not include a product containing chemically
+33 derived cannabinoids, including:
+34 (a) Delta-8 tetrahydrocannabinol, also known as delta-8-THC;
+35 (b) Delta-10 tetrahydrocannabinol, also known as delta-10-THC;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+61A 3 61
+1 (c) Tetrahydrocannabinol acetate, also known as THC-O-acetate or THC-O;
+2 (d) Hexahydrocannabinol, also known as HHC; or
+3 (e) Tetrahydrocannabiphoral, also known as THCP;
+4 (8)(7) "Industrial hemp stalk bale," a bale that contains two main types of fiber, bast or
+5 long fiber found in the bark (skin) and hurd (shive), or short fiber located in the
+6 core of the stem, with a total delta-9 tetrahydrocannabinol concentration of not
+7 more than three-tenths of one percent;
+8 (8) "Key participant," a sole proprietor, a partner in a partnership, a principal executive
+9 officer for a government entity, or a person with executive managerial control in a
+10 corporation or limited liability company;
+11 (9) "Lot," a contiguous area in a field or in a greenhouse containing the same variety
+12 or strain of hemp throughout the area. In addition, "lot" means the terms, "farm,"
+13 "tract," "field," and "subfield" used by the United States Department of Agriculture
+14 Farm Service Agency to mean "lot";
+15 (10) "Measurement of uncertainty," the parameter associated with the result of a
+16 measurement, that characterizes the dispersion of the values that could reasonably
+17 be attributed to the particular quantity subject to measurement;
+18 (11) "Process" or "processing," to render raw industrial hemp plants or plant parts from
+19 their natural or original state to an initial processed form. Typical processing
+20 includes decortication, devitalization, crushing, or extraction;
+21 (12) "Processor," a person that converts raw hemp into an initial processed form;
+22 (13) "Produce" or "producing," to grow, germinate, dry, sort, grade, bale, grind, mill,
+23 pelletize, and harvest hemp plants in the field or in a greenhouse;
+24 (14) "Product in process," the product being processed by a state licensed hemp
+25 processor or the transfer of that product at no higher than one percent total delta-
+26 9 tetrahydrocannabinol between one or more licensed hemp processors during the
+27 process of processing state or federally approved, lab-tested biomass from a
+28 licensed grower into a finished industrial hemp product;
+29 (15) "Remediation," the process of rendering non-compliant cannabis compliant using
+30 methods accepted by the USDA;
+31 (16) "Secretary," the secretary of the Department of Agriculture and Natural Resources;
+32 (17) "Total delta-9 THC or total delta-9 tetrahydrocannabinol," the value determined
+33 after the process of decarboxylation, or the application of a conversion factor if the
+34 testing methodology does not include decarboxylation, that expresses the potential
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+61A 4 61
+1 total delta-9 tetrahydrocannabinol content derived from the sum of the THC and
+2 THCA content and reported on a dry weight basis; and
+3 (18) "Transporter," any person transporting, hauling, or delivering immature or mature
+4 hemp or product in process, but not industrial hemp product or sterilized seeds
+5 that are incapable of beginning germination.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 6 U  ALSSD: E T O A S 3 m ( C i ( D ( D ( D ( A ( S o d i h o a i h p t c c o ( S p m o c a i h p i c ( A ( A s ( A i a g t 0 m c t o a t T s d n a t m c o m c p r A S]
+[DELETED:  2 6 U  3 ( " m p s p o p c i p o o g ( " ( c c c a r f ( C p b d f a n o c ( N ( C ( " ( " c c t t y n l t t t e h m ( " a c w t ( " o c ( m o i h T t d n i a p c c d ( D ( D]
+[DELETED:  3 6 U  ( T ( H ( T ( l c m ( " o c ( " o " F ( " o u t p a w t r o a m b ( " t n o o s t a i p f T p i ( " ( " p ( " i p t p b p b a s l h p 9 p o p s o f a l b f a l ( " m ( " ( " a t]
+[DELETED:  4 6 U  t T ( " h t]

@@ -1,0 +1,442 @@
+Title: Senate Bill 234
+Official Title: Senate Bill 234
+Number of Sections: 1
+Source: versions - 234A
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+234A 101st Legislative Session 234
+2026 South Dakota Legislature
+AMENDME NT 234A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to modify provisions pertaining to the purchasing of goods and services
+2 related to data center operations, to protect residents from increased utility
+3 costs and utility shortages caused by data centers, and to clarify authority to
+4 regulate data centers.
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+6 Section 1. That § 1-16G-56 be AMENDED:
+7 1-16G-56. Terms used in §§ 1-16G-56 to 1-16G-68, inclusive, mean:
+8 (1) "Board," the Board of Economic Development;
+9 (2) "Commissioner," the commissioner of the Governor's Office of Economic
+10 Development;
+11 (3) "Completed the project" or "completion of the project," the first date when the
+12 project is operational;
+13 (4) "Construction date," the first date earth is excavated or a contractor has initiated
+14 work for the purpose of constructing a new or expanded facility or the first date
+15 new equipment is located on the project site or existing equipment is removed
+16 from the project site for the purpose of equipment upgrades, whichever occurs
+17 first;
+18 (5) "Cryptocurrency," a digital or virtual currency that is not issued by any central
+19 authority, is designed to function as a medium of exchange, and uses encryption
+20 technology to regulate the generation of units of currency, to verify fund transfers,
+21 and to prevent counterfeiting;
+22 (6) "Data center," any facility established for the purpose of processing, storage,
+23 retrieval, or communication of data;
+24 (6)(7) "Department," the Department of Revenue;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+234A 2 234
+1 (8) "Direct payment permit," the permit issued by the department pursuant to § 10-
+2 46-67;
+3 (7)(9) "Equipment upgrades," the installation of new equipment or the replacement or
+4 improvement of existing equipment, which is subject to the sales or use tax
+5 imposed by chapters 10-45 or 10-46 or contractor's excise tax imposed by chapters
+6 10-46A or 10-46B. Equipment upgrades do not include the installation or
+7 replacement of consumable, wear, or maintenance items, or the replacement of
+8 failed equipment or components done on an ad hoc basis;
+9 (8)(10) "GOED," the Governor's Office of Economic Development;
+10 (9)(11) "New or expanded facility," a new building or structure, or the expansion,
+11 renovation, or retrofitting of an existing building or structure, which is subject to
+12 the contractor's excise tax imposed by chapters 10-46A or 10-46B;
+13 (10)(12) "Person," any individual, firm, copartnership, joint venture, association,
+14 cooperative, nonprofit development corporation, limited liability company, limited
+15 liability partnership, corporation, estate, trust, business trust, receiver, or any
+16 group or combination acting as a unit;
+17 (11)(13) "Project," a new or expanded facility with a project cost which exceed twenty
+18 million dollars, or equipment upgrades with a project cost which exceed two million
+19 dollars. A project includes laboratory and testing facilities, manufacturing facilities,
+20 advanced telecommunications capability, data centers, power generation facilities,
+21 power transmission facilities, agricultural processing facilities, wind energy
+22 facilities, and facilities defined by GOED as targeted industries. A project does not
+23 include any building or structure:
+24 (a) Used predominantly for the sale of products at retail, other than the sale of
+25 electricity at retail, or the provision of advanced telecommunications
+26 capability, to individual consumers;
+27 (b) Used predominantly for residential housing or transient lodging;
+28 (c) Used predominantly to provide health care services;
+29 (d) Used predominantly for the transportation or transmission of natural gas,
+30 oil, or crude oil by means of a pipeline; or
+31 (e) That is not subject to ad valorem real property taxation or equivalent taxes
+32 measured by gross receipts;
+33 (12)(14) "Project cost," the amount paid by the project owner in money, credits,
+34 property, or other consideration associated with a project including, without
+35 limitation, land, labor, materials, furniture, equipment, fees, or fixtures. Project
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+234A 3 234
+1 cost does not include any amount paid as part of a new or expanded facility or
+2 equipment upgrades attributable to the processing, storage, retrieval, or
+3 communication of data related to cryptocurrency;
+4 (15) "Reinvestment payment permit," the permit issued pursuant to § 1-16G-60;
+5 (16) "Secretary," the secretary of the Department of Revenue;
+6 (13)(17) "Wind energy facility," any new facility or facility expansion that:
+7 (a) Consists of a commonly managed integrated system of towers, wind turbine
+8 generators with blades, power collection systems, and electric
+9 interconnection systems, that convert wind movement into electricity, and
+10 is subject to the tax imposed by §§ 10-35-18 and 10-35-19; and
+11 (b) The construction of which is subject to contractors' excise tax pursuant to
+12 chapter 10-46A or 10-46B; and
+13 (14)(18) "Advanced telecommunications capability," without regard to any transmission
+14 media or technology, is high-speed, switched, broadband telecommunications
+15 capability that enables users to originate and receive high-quality voice, data,
+16 graphics, and video telecommunications using any technology that provides a
+17 minimum actual download speed of at least twenty-five megabits per second and
+18 actual upload speed of at least three megabits per second.
+19 Section 2. That a NEW SECTION be added to chapter 1-16G:
+20 If the project cost for a new or expanded facility on or after April 1, 2026, exceeds
+21 the amount set pursuant to section 3 of this Act, a person may apply for a reinvestment
+22 payment as provided in § 1-16G-57, subject to the following adjustments to the
+23 procedures in §§ 1-16G-56 to 1-16G-68, inclusive:
+24 (1) The application required in § 1-16G-58 must also include all information required
+25 by the department for a direct payment permit. The commissioner shall share the
+26 relevant portion of the application with the department on a confidential basis. The
+27 department shall review the information as a written application to the secretary
+28 for a direct payment permit;
+29 (2) Prior to the board’s review of the application, the department must provide the
+30 commissioner with a determination of the person’s eligibility for a direct payment
+31 permit. The appeal provisions of § 10-46-67 do not apply to an application qualified
+32 under this section. A person who is not eligible for a direct payment permit may
+33 not receive a reinvestment payment permit on the terms of this section;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+234A 4 234
+1 (3) Following its review pursuant to § 1-16G-59, the board may, by two-thirds
+2 majority, approve a combined reinvestment payment that is equal to or less than
+3 the South Dakota sales and use tax due on the initial project cost of a new or
+4 expanded facility, as well as the project costs of any future equipment upgrades in
+5 that same facility for a term not to exceed thirty years after the construction date;
+6 (4) A reinvestment payment permit issued to a project described in this section also
+7 operates as a direct payment permit for the project applicant;
+8 (5) In addition to the affidavit requirement in § 1-16G-61, the person holding a
+9 reinvestment payment permit must also submit an annual affidavit following
+10 completion of the project detailing the project cost of any equipment upgrades
+11 during that period;
+12 (6) The three-year eligibility period for project costs in § 1-16G-62 is extended to four
+13 years for the initial project cost of a project qualified under this section. In addition,
+14 the project will also have a separate eligibility period for the project cost of any
+15 future equipment upgrades running from completion of the project until expiration
+16 of the reinvestment payment permit;
+17 (7) A reinvestment payment permit extends to a person’s lessee on the same terms
+18 and may also be assigned or transferred, but in each case only if the lessee,
+19 assignee, or transferee also holds a direct payment permit;
+20 (8) The secretary shall relieve a person holding a direct payment permit of its
+21 obligation to accrue and pay the taxes imposed by chapters 10-45 and 10-46, but
+22 only to the extent covered by a reinvestment payment permit. The commissioner
+23 must subtract any relief granted by the secretary from the reinvestment fund
+24 payment to which that person is otherwise entitled under § 1-16G-63; and
+25 (9) Except as provided in this section, all other provisions of §§ 1-16G-56 to 1-16G-
+26 68, inclusive, continue to apply to projects qualified under this section.
+27 Section 3. That a NEW SECTION be added to chapter 1-16G:
+28 The board shall adopt a policy setting the minimum project cost required for a
+29 project to qualify for purposes of section 2 of this Act. The board may adopt a new policy
+30 changing the minimum project cost, but may not do so within two years of setting a
+31 previous policy.
+32 Section 4. That § 1-16G-59 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+234A 5 234
+1 1-16G-59. The Board of Economic Development shall review an a completed
+2 application and make a determination of whether the project is approved or disapproved
+3 within ninety days of receiving the application. The applicant may, by written consent,
+4 extend the deadline provided in this section. The extension must provide a new deadline
+5 for the board’s review and determination. The board shall consider the likelihood that the
+6 project would have occurred without the reinvestment payment. The board may approve
+7 a reinvestment payment that is equal to or less than South Dakota sales and use tax paid
+8 on the project costs.
+9 The board shall consider the following factors when making that determination:
+10 (1) Has the county or municipality adopted a formula to reduce property taxation for
+11 the project for five years under the discretionary formula pursuant to § 10-6-137;
+12 (2) Has the county or municipality approved a tax increment financing district pursuant
+13 to chapter 11-9 for the area where the project will be located;
+14 (3) Has the municipality approved a municipal sales tax refund pursuant § 10-52-10;
+15 (4) Economic activity that may occur in the community, area, and state; and
+16 (5) Criteria established by rules promulgated pursuant to § 1-16G-67.
+17 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+18 For purposes of this chapter, "data center" means a centralized repository for the
+19 dissemination, management, processing, and storage of electronic data and information
+20 with a total design load greater than one hundred megawatts.
+21 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+22 The operator of a data center shall pay for all fair, just, and reasonable costs
+23 associated with the provision of electricity to the data center.
+24 A provider of electricity shall establish and maintain separate terms and conditions
+25 for electric service applicable to a data center. The terms and conditions must require that
+26 the data center reimburse any provider of electricity for all costs fairly attributed to the
+27 data center for service demand and utility consumption, including costs incurred to serve
+28 the data center if the data center departs the system or materially reduces its load.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+30 The state may not preempt or otherwise limit the authority of the governing body
+31 of a county, municipality, or other political subdivision to adopt ordinances and resolutions
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+234A 6 234
+1 limiting, prohibiting, or otherwise regulating the construction, development, or operation
+2 of data centers.
+3 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+4 Prior to commencing operation in this state, the operator of a data center shall
+5 provide notice of projected water consumption to each local water provider in the area in
+6 which the data center is proposed to be located. Each water provider receiving notice
+7 pursuant to this section shall determine whether the data center's projected water
+8 consumption is compatible with the local water supply and issue that determination in
+9 writing to the operator. The operator shall present a copy of each notice and determination
+10 to the Board of Water Management.
+11 If the board receives a determination from each applicable water provider that the
+12 data center's projected water consumption is compatible with the local water supply, the
+13 board must issue, to the operator and the general public, a written statement that the
+14 operator has satisfied the requirements of this section.
+15 Notwithstanding the board's issuance of a written statement pursuant to this
+16 section, the data center may not consume an amount of the local water supply exceeding
+17 limits established by order of the board, after allocation to residential and essential public
+18 services. In establishing allocation limits under this section, the board shall seek to ensure
+19 water availability and prevent disproportionate use of water by data centers.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+21 The operator of a data center that is authorized to operate in this state pursuant
+22 to this chapter, shall, at the time and in the manner prescribed by the Board of Water
+23 Management, submit to the board a semi-annual report regarding the data center's water
+24 use. The report must contain average usage data and certify compliance with this section.
+25 The board shall make the usage data contained in the report available to the public.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 2 U  A p t g a r c rLSSD: E T O A S 1 ( " ( " t c o t G O o E D ( " p ( " w n f f ( " a t a ( " c a f e f t p o p s r (]
+[DELETED:  2 2 U  ( " 4 ( i o e e w i s t t s o u t i 1 o 1 E u d n i t i o r f ( " ( " o e f a n b o s o t e r t ( " a i f c j v a c l p c e t b t r o a g ( " m d a p t f a p f w e f i ( U e a r o t p o a t c ( U ( U ( U o ( T m ( " c t a p b t p o i m c p o o c a w a p i w l]
+[DELETED:  3 2 U  c e u a t t p s r o c ( " ( " ( " ( C g w b p c s a e i i ( T c ( " m o t i h s b t c t e u t o a r h v d g a v t u a t t p a m a S I t p a p i § 1 s t t f a t t p ( T b r d f ( P c p u n]
+[DELETED:  4 2 U  ( F i r p t § 1 t b m b t m t e t ( A o ( I a t t a r i § 1 t p h a r p p m a s a a a f c d ( T y t f o ( A a m b a o t i e c o i l a ( T s s r a p h a d p p o i o o m s a r g b t s f t r f p ( E 6 S T p c p S]
+[DELETED:  5 2 U  1 T B o E D s r a a c a w e f p a o T ( H t ( H t ( H ( E ( C S F d w S T a A f t d t S T o]
+[DELETED:  6 2 U  l o S P p w p t t s s d w t d c p w c w t I d b o N t b i o a w s p t t s l s w S T t M u T]
+
+
+================================================================================
+
+Raw Text:
+234A 101st Legislative Session 234
+2026 South Dakota Legislature
+Senate Bill 234
+AMENDME NT 234A
+FOR THE INTRODUCED BILL
+Introduced by: Senator Crabtree
+This bill has been extensively amended (hoghoused) and may no longer be consistent with the original
+intention of the sponsor.
+1 An Act to modify provisions pertaining to the purchasing of goods and services
+2 related to data center operations, to protect residents from increased utility
+3 costs and utility shortages caused by data centers, and to clarify authority to
+4 regulate data centers.
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+6 Section 1. That § 1-16G-56 be AMENDED:
+7 1-16G-56. Terms used in §§ 1-16G-56 to 1-16G-68, inclusive, mean:
+8 (1) "Board," the Board of Economic Development;
+9 (2) "Commissioner," the commissioner of the Governor's Office of Economic
+10 Development;
+11 (3) "Completed the project" or "completion of the project," the first date when the
+12 project is operational;
+13 (4) "Construction date," the first date earth is excavated or a contractor has initiated
+14 work for the purpose of constructing a new or expanded facility or the first date
+15 new equipment is located on the project site or existing equipment is removed
+16 from the project site for the purpose of equipment upgrades, whichever occurs
+17 first;
+18 (5) "Cryptocurrency," a digital or virtual currency that is not issued by any central
+19 authority, is designed to function as a medium of exchange, and uses encryption
+20 technology to regulate the generation of units of currency, to verify fund transfers,
+21 and to prevent counterfeiting;
+22 (6) "Data center," any facility established for the purpose of processing, storage,
+23 retrieval, or communication of data;
+24 (6)(7) "Department," the Department of Revenue;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+234A 2 234
+1 (8) "Direct payment permit," the permit issued by the department pursuant to § 10-
+2 46-67;
+3 (7)(9) "Equipment upgrades," the installation of new equipment or the replacement or
+4 improvement of existing equipment, which is subject to the sales or use tax
+5 imposed by chapters 10-45 or 10-46 or contractor's excise tax imposed by chapters
+6 10-46A or 10-46B. Equipment upgrades do not include the installation or
+7 replacement of consumable, wear, or maintenance items, or the replacement of
+8 failed equipment or components done on an ad hoc basis;
+9 (8)(10) "GOED," the Governor's Office of Economic Development;
+10 (9)(11) "New or expanded facility," a new building or structure, or the expansion,
+11 renovation, or retrofitting of an existing building or structure, which is subject to
+12 the contractor's excise tax imposed by chapters 10-46A or 10-46B;
+13 (10)(12) "Person," any individual, firm, copartnership, joint venture, association,
+14 cooperative, nonprofit development corporation, limited liability company, limited
+15 liability partnership, corporation, estate, trust, business trust, receiver, or any
+16 group or combination acting as a unit;
+17 (11)(13) "Project," a new or expanded facility with a project cost which exceed twenty
+18 million dollars, or equipment upgrades with a project cost which exceed two million
+19 dollars. A project includes laboratory and testing facilities, manufacturing facilities,
+20 advanced telecommunications capability, data centers, power generation facilities,
+21 power transmission facilities, agricultural processing facilities, wind energy
+22 facilities, and facilities defined by GOED as targeted industries. A project does not
+23 include any building or structure:
+24 (a) Used predominantly for the sale of products at retail, other than the sale of
+25 electricity at retail, or the provision of advanced telecommunications
+26 capability, to individual consumers;
+27 (b) Used predominantly for residential housing or transient lodging;
+28 (c) Used predominantly to provide health care services;
+29 (d) Used predominantly for the transportation or transmission of natural gas,
+30 oil, or crude oil by means of a pipeline; or
+31 (e) That is not subject to ad valorem real property taxation or equivalent taxes
+32 measured by gross receipts;
+33 (12)(14) "Project cost," the amount paid by the project owner in money, credits,
+34 property, or other consideration associated with a project including, without
+35 limitation, land, labor, materials, furniture, equipment, fees, or fixtures. Project
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+234A 3 234
+1 cost does not include any amount paid as part of a new or expanded facility or
+2 equipment upgrades attributable to the processing, storage, retrieval, or
+3 communication of data related to cryptocurrency;
+4 (15) "Reinvestment payment permit," the permit issued pursuant to § 1-16G-60;
+5 (16) "Secretary," the secretary of the Department of Revenue;
+6 (13)(17) "Wind energy facility," any new facility or facility expansion that:
+7 (a) Consists of a commonly managed integrated system of towers, wind turbine
+8 generators with blades, power collection systems, and electric
+9 interconnection systems, that convert wind movement into electricity, and
+10 is subject to the tax imposed by §§ 10-35-18 and 10-35-19; and
+11 (b) The construction of which is subject to contractors' excise tax pursuant to
+12 chapter 10-46A or 10-46B; and
+13 (14)(18) "Advanced telecommunications capability," without regard to any transmission
+14 media or technology, is high-speed, switched, broadband telecommunications
+15 capability that enables users to originate and receive high-quality voice, data,
+16 graphics, and video telecommunications using any technology that provides a
+17 minimum actual download speed of at least twenty-five megabits per second and
+18 actual upload speed of at least three megabits per second.
+19 Section 2. That a NEW SECTION be added to chapter 1-16G:
+20 If the project cost for a new or expanded facility on or after April 1, 2026, exceeds
+21 the amount set pursuant to section 3 of this Act, a person may apply for a reinvestment
+22 payment as provided in § 1-16G-57, subject to the following adjustments to the
+23 procedures in §§ 1-16G-56 to 1-16G-68, inclusive:
+24 (1) The application required in § 1-16G-58 must also include all information required
+25 by the department for a direct payment permit. The commissioner shall share the
+26 relevant portion of the application with the department on a confidential basis. The
+27 department shall review the information as a written application to the secretary
+28 for a direct payment permit;
+29 (2) Prior to the board’s review of the application, the department must provide the
+30 commissioner with a determination of the person’s eligibility for a direct payment
+31 permit. The appeal provisions of § 10-46-67 do not apply to an application qualified
+32 under this section. A person who is not eligible for a direct payment permit may
+33 not receive a reinvestment payment permit on the terms of this section;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+234A 4 234
+1 (3) Following its review pursuant to § 1-16G-59, the board may, by two-thirds
+2 majority, approve a combined reinvestment payment that is equal to or less than
+3 the South Dakota sales and use tax due on the initial project cost of a new or
+4 expanded facility, as well as the project costs of any future equipment upgrades in
+5 that same facility for a term not to exceed thirty years after the construction date;
+6 (4) A reinvestment payment permit issued to a project described in this section also
+7 operates as a direct payment permit for the project applicant;
+8 (5) In addition to the affidavit requirement in § 1-16G-61, the person holding a
+9 reinvestment payment permit must also submit an annual affidavit following
+10 completion of the project detailing the project cost of any equipment upgrades
+11 during that period;
+12 (6) The three-year eligibility period for project costs in § 1-16G-62 is extended to four
+13 years for the initial project cost of a project qualified under this section. In addition,
+14 the project will also have a separate eligibility period for the project cost of any
+15 future equipment upgrades running from completion of the project until expiration
+16 of the reinvestment payment permit;
+17 (7) A reinvestment payment permit extends to a person’s lessee on the same terms
+18 and may also be assigned or transferred, but in each case only if the lessee,
+19 assignee, or transferee also holds a direct payment permit;
+20 (8) The secretary shall relieve a person holding a direct payment permit of its
+21 obligation to accrue and pay the taxes imposed by chapters 10-45 and 10-46, but
+22 only to the extent covered by a reinvestment payment permit. The commissioner
+23 must subtract any relief granted by the secretary from the reinvestment fund
+24 payment to which that person is otherwise entitled under § 1-16G-63; and
+25 (9) Except as provided in this section, all other provisions of §§ 1-16G-56 to 1-16G-
+26 68, inclusive, continue to apply to projects qualified under this section.
+27 Section 3. That a NEW SECTION be added to chapter 1-16G:
+28 The board shall adopt a policy setting the minimum project cost required for a
+29 project to qualify for purposes of section 2 of this Act. The board may adopt a new policy
+30 changing the minimum project cost, but may not do so within two years of setting a
+31 previous policy.
+32 Section 4. That § 1-16G-59 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+234A 5 234
+1 1-16G-59. The Board of Economic Development shall review an a completed
+2 application and make a determination of whether the project is approved or disapproved
+3 within ninety days of receiving the application. The applicant may, by written consent,
+4 extend the deadline provided in this section. The extension must provide a new deadline
+5 for the board’s review and determination. The board shall consider the likelihood that the
+6 project would have occurred without the reinvestment payment. The board may approve
+7 a reinvestment payment that is equal to or less than South Dakota sales and use tax paid
+8 on the project costs.
+9 The board shall consider the following factors when making that determination:
+10 (1) Has the county or municipality adopted a formula to reduce property taxation for
+11 the project for five years under the discretionary formula pursuant to § 10-6-137;
+12 (2) Has the county or municipality approved a tax increment financing district pursuant
+13 to chapter 11-9 for the area where the project will be located;
+14 (3) Has the municipality approved a municipal sales tax refund pursuant § 10-52-10;
+15 (4) Economic activity that may occur in the community, area, and state; and
+16 (5) Criteria established by rules promulgated pursuant to § 1-16G-67.
+17 Section 5. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+18 For purposes of this chapter, "data center" means a centralized repository for the
+19 dissemination, management, processing, and storage of electronic data and information
+20 with a total design load greater than one hundred megawatts.
+21 Section 6. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+22 The operator of a data center shall pay for all fair, just, and reasonable costs
+23 associated with the provision of electricity to the data center.
+24 A provider of electricity shall establish and maintain separate terms and conditions
+25 for electric service applicable to a data center. The terms and conditions must require that
+26 the data center reimburse any provider of electricity for all costs fairly attributed to the
+27 data center for service demand and utility consumption, including costs incurred to serve
+28 the data center if the data center departs the system or materially reduces its load.
+29 Section 7. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+30 The state may not preempt or otherwise limit the authority of the governing body
+31 of a county, municipality, or other political subdivision to adopt ordinances and resolutions
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+234A 6 234
+1 limiting, prohibiting, or otherwise regulating the construction, development, or operation
+2 of data centers.
+3 Section 8. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+4 Prior to commencing operation in this state, the operator of a data center shall
+5 provide notice of projected water consumption to each local water provider in the area in
+6 which the data center is proposed to be located. Each water provider receiving notice
+7 pursuant to this section shall determine whether the data center's projected water
+8 consumption is compatible with the local water supply and issue that determination in
+9 writing to the operator. The operator shall present a copy of each notice and determination
+10 to the Board of Water Management.
+11 If the board receives a determination from each applicable water provider that the
+12 data center's projected water consumption is compatible with the local water supply, the
+13 board must issue, to the operator and the general public, a written statement that the
+14 operator has satisfied the requirements of this section.
+15 Notwithstanding the board's issuance of a written statement pursuant to this
+16 section, the data center may not consume an amount of the local water supply exceeding
+17 limits established by order of the board, after allocation to residential and essential public
+18 services. In establishing allocation limits under this section, the board shall seek to ensure
+19 water availability and prevent disproportionate use of water by data centers.
+20 Section 9. That a NEW SECTION be added to a NEW CHAPTER in title 49:
+21 The operator of a data center that is authorized to operate in this state pursuant
+22 to this chapter, shall, at the time and in the manner prescribed by the Board of Water
+23 Management, submit to the board a semi-annual report regarding the data center's water
+24 use. The report must contain average usage data and certify compliance with this section.
+25 The board shall make the usage data contained in the report available to the public.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 2 U  A p t g a r c rLSSD: E T O A S 1 ( " ( " t c o t G O o E D ( " p ( " w n f f ( " a t a ( " c a f e f t p o p s r (]
+[DELETED:  2 2 U  ( " 4 ( i o e e w i s t t s o u t i 1 o 1 E u d n i t i o r f ( " ( " o e f a n b o s o t e r t ( " a i f c j v a c l p c e t b t r o a g ( " m d a p t f a p f w e f i ( U e a r o t p o a t c ( U ( U ( U o ( T m ( " c t a p b t p o i m c p o o c a w a p i w l]
+[DELETED:  3 2 U  c e u a t t p s r o c ( " ( " ( " ( C g w b p c s a e i i ( T c ( " m o t i h s b t c t e u t o a r h v d g a v t u a t t p a m a S I t p a p i § 1 s t t f a t t p ( T b r d f ( P c p u n]
+[DELETED:  4 2 U  ( F i r p t § 1 t b m b t m t e t ( A o ( I a t t a r i § 1 t p h a r p p m a s a a a f c d ( T y t f o ( A a m b a o t i e c o i l a ( T s s r a p h a d p p o i o o m s a r g b t s f t r f p ( E 6 S T p c p S]
+[DELETED:  5 2 U  1 T B o E D s r a a c a w e f p a o T ( H t ( H t ( H ( E ( C S F d w S T a A f t d t S T o]
+[DELETED:  6 2 U  l o S P p w p t t s s d w t d c p w c w t I d b o N t b i o a w s p t t s l s w S T t M u T]

@@ -1,0 +1,118 @@
+Title: House Bill 1125
+Official Title: House Bill 1125
+Number of Sections: 1
+Source: versions - 1125B
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1125B 101st Legislative Session 1125
+2026 South Dakota Legislature
+AMENDME NT 1125B
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Jorgenson
+1 An Act to create a taskforce to study the impact of artificial intelligence systems on
+2 the state.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is established a taskforce to study the continued technological development
+5 and impact of artificial intelligence systems on the state. The taskforce shall consist of:
+6 (1) The following members, appointed by the Executive Board of the Legislative
+7 Research Council:
+8 (a) Two members of the House of Representatives;
+9 (b) Two members of the Senate;
+10 (c) One member representing the health care industry;
+11 (d) One member representing the banking and finance industry;
+12 (e) One member representing the retail industry;
+13 (f) One member representing the manufacturing industry;
+14 (g) One member representing the technology industry;
+15 (h) One individual employed by a school district as a teacher;
+16 (i) One individual employed by a school district as an administrator;
+17 (j) The auditor of a county with a population of fifteen thousand residents or
+18 more;
+19 (k) The auditor of a county with a population of fewer than fifteen thousand
+20 residents;
+21 (l) An official or employee of a municipality with a population of twenty
+22 thousand residents or more;
+23 (m) An official or employee of a municipality with a population of fewer than
+24 twenty thousand residents; and
+25 (n) The sheriff of a county or police chief of a municipality; and
+26 (2) One member appointed by the Governor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1125B 2 1125
+1 (3) One member appointed by the chief justice of the Supreme Court; and
+2 (4) One member appointed by the Board of Regents.
+3 A vacancy on the taskforce must be filled in the same manner as the original
+4 appointment.
+5 The executive board shall appoint one legislator to serve as the chair and one
+6 legislator, from the opposite chamber, to serve as the vice chair. The Legislative Research
+7 Council shall provide administrative support to the taskforce.
+8 The taskforce shall report its findings and recommendations and any proposed
+9 legislation, including whether the taskforce should be continued, to the executive board,
+10 on or before December 1, 2028. The task force is dissolved upon the delivery of the report
+11 to the executive board.
+12 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A tLSSD: E T O A S a ( T f m a b t E B o t L R ( T ( T ( O ( O ( O ( O ( O ( O ( O ( T m ( T r ( A o o e o a m w a p o t t ( A t ( T ( O]
+[DELETED:  2 1 U  ( O ( O A a T l C T l o t S]
+
+
+================================================================================
+
+Raw Text:
+1125B 101st Legislative Session 1125
+2026 South Dakota Legislature
+House Bill 1125
+AMENDME NT 1125B
+FOR THE HOUSE STATE AFFAIRS ENGROSSED BILL
+Introduced by: Representative Jorgenson
+1 An Act to create a taskforce to study the impact of artificial intelligence systems on
+2 the state.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. There is established a taskforce to study the continued technological development
+5 and impact of artificial intelligence systems on the state. The taskforce shall consist of:
+6 (1) The following members, appointed by the Executive Board of the Legislative
+7 Research Council:
+8 (a) Two members of the House of Representatives;
+9 (b) Two members of the Senate;
+10 (c) One member representing the health care industry;
+11 (d) One member representing the banking and finance industry;
+12 (e) One member representing the retail industry;
+13 (f) One member representing the manufacturing industry;
+14 (g) One member representing the technology industry;
+15 (h) One individual employed by a school district as a teacher;
+16 (i) One individual employed by a school district as an administrator;
+17 (j) The auditor of a county with a population of fifteen thousand residents or
+18 more;
+19 (k) The auditor of a county with a population of fewer than fifteen thousand
+20 residents;
+21 (l) An official or employee of a municipality with a population of twenty
+22 thousand residents or more;
+23 (m) An official or employee of a municipality with a population of fewer than
+24 twenty thousand residents; and
+25 (n) The sheriff of a county or police chief of a municipality; and
+26 (2) One member appointed by the Governor;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1125B 2 1125
+1 (3) One member appointed by the chief justice of the Supreme Court; and
+2 (4) One member appointed by the Board of Regents.
+3 A vacancy on the taskforce must be filled in the same manner as the original
+4 appointment.
+5 The executive board shall appoint one legislator to serve as the chair and one
+6 legislator, from the opposite chamber, to serve as the vice chair. The Legislative Research
+7 Council shall provide administrative support to the taskforce.
+8 The taskforce shall report its findings and recommendations and any proposed
+9 legislation, including whether the taskforce should be continued, to the executive board,
+10 on or before December 1, 2028. The task force is dissolved upon the delivery of the report
+11 to the executive board.
+12 Section 2. This Act is effective beginning January 1, 2027.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A tLSSD: E T O A S a ( T f m a b t E B o t L R ( T ( T ( O ( O ( O ( O ( O ( O ( O ( T m ( T r ( A o o e o a m w a p o t t ( A t ( T ( O]
+[DELETED:  2 1 U  ( O ( O A a T l C T l o t S]

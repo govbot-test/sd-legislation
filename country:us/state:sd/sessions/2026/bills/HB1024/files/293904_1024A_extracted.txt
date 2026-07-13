@@ -1,0 +1,381 @@
+Title: House Bill 1024
+Official Title: House Bill 1024
+Number of Sections: 1
+Source: versions - 1024A
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1024A 101st Legislative Session 1024
+2026 South Dakota Legislature
+AMENDME NT 1024A
+FOR THE INTRODUCED BILL
+Introduced by: Representatives Walburg, Emery, Garcia, Hunt, and Kull and Senators Grove, Reed, and Voight at
+the request of the Study Committee on Emergency Medical Services
+1 An Act to modify requirements for ambulance operators.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-17-42 be AMENDED:
+4 32-17-42. A motor vehicle may be equipped with blue lights if it is:
+5 (1) Authorized by the Department of Transportation;
+6 (2) A tow truck or wrecker as defined in § 32-17-10; or
+7 (3) Operated by:
+8 (a) A member of a fire department or search and rescue unit; or
+9 (b) An ambulance operator certified in accordance with chapter 36-4B who
+10 meets the requirements of section 4 of this Act.
+11 This provision does not relieve the driver of the vehicle from the duty to drive with
+12 due regard for the safety of all persons using the street, nor does it protect the driver
+13 from the consequence of a reckless disregard for the safety of others.
+14 No person may use a blue light unless the person is authorized by this chapter and
+15 is operating a Department of Transportation vehicle or a county highway vehicle in
+16 performance of winter highway maintenance duties, or the person is actually en route to
+17 the scene of a fire or other emergency requiring the person's services and the person has
+18 been authorized in writing to use a blue light. Authorization for use of a blue light in
+19 accordance with this chapter may be given by the Department of Transportation, the
+20 highway patrol, a county highway superintendent, the chief of a fire department, the
+21 coordinator of a search and rescue unit, or the director of an ambulance service, and only
+22 to members of the department or service who are in good standing.
+23 The use of a blue light in violation of this section is a Class 2 misdemeanor.
+24 Section 2. That § 32-31-4 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1024A 2 1024
+1 32-31-4. The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not
+2 apply to any authorized emergency vehicle responding to an emergency call if the driver
+3 sounds an audible siren or air horn, or both, or displays flashing, oscillating, or rotating
+4 beams of red light, or combinations of red, blue, or white light, visible one hundred eighty
+5 degrees to the front of the vehicle. The lights must be capable of warning the public of the
+6 presence of an emergency vehicle under normal atmospheric conditions.
+7 The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not apply to
+8 authorized emergency vehicles operated by law enforcement officers who are measuring
+9 the speed of other vehicles by use of the emergency vehicle speedometer.
+10 An ambulance operator certified pursuant to chapter 36-4B who meets the
+11 requirements of section 4 of this Act may operate an ambulance in excess of the speed
+12 limit without audible signals while operating outside the city limits of a municipality.
+13 Section 3. That § 34-11-12 be AMENDED:
+14 34-11-12. Each ambulance run must include:
+15 (1) One emergency medical technician or one advanced life support personnel,
+16 licensed pursuant to chapter 36-4B; and
+17 (2) One ambulance operator certified in accordance with chapter 36-4B who meets the
+18 requirements of section 4 of this Act.
+19 Section 4. That a NEW SECTION be added to chapter 34-11:
+20 An ambulance operator must be eighteen years or older, possess a driver's license,
+21 and:
+22 (1) Be licensed as emergency medical services personnel in accordance with chapter
+23 36-4B;
+24 (2) Be a firefighter;
+25 (2)(3) Be a law enforcement officer, as defined in § 23-3-27; or
+26 (3)(4) Provide documentation to the ambulance service that the individual:
+27 (a) Has completed training in cardiopulmonary resuscitation offered by a state
+28 or national organization and approved by the medical or program director;
+29 and
+30 (b) Has completed an emergency vehicle operator course, which consists of at
+31 least sixteen six hours of instruction, offered by a state or national
+32 organization, and approved by the medical or program director.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1024A 3 1024
+1 The ambulance service shall maintain the documentation required by this section
+2 and shall provide it to the department, upon request.
+3 Section 5. That § 36-4B-1 be AMENDED:
+4 36-4B-1. Terms used in this chapter mean:
+5 (1) "Advanced life support," a level of emergency care consisting of basic life support
+6 procedures and definitive therapy;
+7 (2) "Advanced life support personnel," a person licensed by the board as:
+8 (a) An emergency medical technician-intermediate/85;
+9 (b) An emergency medical technician-intermediate/99;
+10 (c) An advanced emergency medical technician; or
+11 (d) A paramedic;
+12 (3) "Basic life support personnel," a person licensed by the board as:
+13 (a) Certified by the board as an ambulance operator;
+14 (b) Licensed by the board as an emergency An emergency medical responder;
+15 or
+16 (c)(b) Licensed by the board as an emergency An emergency medical technician;
+17 (4) "Board," the State Board of Medical and Osteopathic Examiners;
+18 (5) "Direct control," real-time communications during an ambulance run between
+19 emergency medical services personnel and a physician, physician assistant, or
+20 nurse practitioner, licensed in this state;
+21 (6) "Emergency medical services," health care provided to a patient by emergency
+22 medical services personnel;
+23 (7) "Emergency medical services personnel," a person licensed by the board as:
+24 (a) An emergency medical responder;
+25 (b) An emergency medical technician;
+26 (c) An emergency medical technician-intermediate/85;
+27 (d) An emergency medical technician-intermediate/99;
+28 (e) An advanced emergency medical technician; or
+29 (f) A paramedic; and
+30 (8) "Indirect control," the establishment and implementation of guidelines, policies, and
+31 protocols approved by a physician, physician assistant, or nurse practitioner,
+32 licensed in this state.
+33 Section 6. That § 36-4B-31 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1024A 4 1024
+1 36-4B-31. The board may deny the issuance or renewal of a license or
+2 certification, and may suspend or revoke a license or certification issued under this
+3 chapter, if the individual:
+4 (1) Procures or attempts to procure a license or certification through fraud, deceit,
+5 misrepresentation, or in violation of the provisions of this chapter and rules
+6 promulgated thereunder;
+7 (2) Is unable to perform the skills for which the individual is licensed;
+8 (3) Has engaged in unprofessional or dishonorable conduct, as defined in § 36-4-30;
+9 (4) Has been convicted of a felony that:
+10 (a) Has a direct bearing upon the individual's ability to serve the public in a
+11 capacity certified or licensed by this chapter; or
+12 (b) Has been convicted of a crime that requires the individual to register as a
+13 sex offender in any state;
+14 (5) Has had the individual's National Registry of Emergency Technicians or other health
+15 care certification or license encumbered for any reason;
+16 (6) Provides emergency medical services without authorization from a physician,
+17 physician assistant, or nurse practitioner; or
+18 (7) Fails to respond to an emergency while on call through willful disregard and not by
+19 a good-faith error or circumstances beyond the individual's control.
+20 Section 7. That § 36-4B-35 be AMENDED:
+21 36-4B-35. The board shall promulgate rules, pursuant to chapter 1-26, to:
+22 (1) Provide for an application form and process for the licensure of emergency medical
+23 services personnel and the certification of ambulance operators;
+24 (2) Set forth Establish criteria for educational and training program approval, including
+25 instructor qualifications, student acceptance, and clinical requirements;
+26 (3) Establish the educational and training requirements, and the National Registry of
+27 Emergency Medical Technicians requirements, for applicants seeking licensure as
+28 emergency medical services personnel;
+29 (4) Provide for the renewal of ambulance operator certification and Establish
+30 continuing education requirements for emergency medical services personnel;
+31 (5) Establish procedures for the administration of the emergency medical services
+32 personnel program;
+33 (6) Regulate the professional conduct of emergency medical services personnel and
+34 ambulance operators;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1024A 5 1024
+1 (7) Establish the educational and training requirements, and conditions for issuance of
+2 a critical care endorsement, as provided for in § 36-4B-18.1;
+3 (8) Establish the:
+4 (a) Educational and training requirements and conditions for issuance of a
+5 community paramedic endorsement; and
+6 (b) Practice protocols and supervisory requirements for a person with a
+7 community paramedic endorsement; and
+8 (9) Establish the allowable skills and techniques performed by emergency medical
+9 services personnel under direct and indirect control.
+10 Section 8. That § 36-4B-42 be AMENDED:
+11 36-4B-42. Any individual licensed or certified in accordance with this chapter must
+12 report any of the following occurrences to the board, within thirty days of the date of the
+13 occurrence:
+14 (1) Conviction or discipline for unprofessional conduct or dishonorable conduct, as
+15 defined in § 36-4-30;
+16 (2) Any encumbrance of the individual's National Registry of Emergency Medical
+17 Technicians or other health care certification or licensure;
+18 (3) Hospital disciplinary action implicating the individual;
+19 (4) Action affecting the individual's privilege to practice;
+20 (5) Judgment or settlement related to the individual's alleged malpractice; and
+21 (6) Change in the individual's:
+22 (a) Home address;
+23 (b) Business address;
+24 (c) Home phone number;
+25 (d) Work phone number;
+26 (e) Email address; or
+27 (f) Other information that is used for communicating with the board.
+28 Failure to report may constitute a basis for disciplinary action against the individual.
+29 Section 9. That § 36-4B-41 be REPEALED.
+30 The board may issue a certification as an ambulance operator to a person who:
+31 (1) Completes an emergency care course approved by the board; and
+32 (2) Applies on a form prescribed by the board.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S 3 ( A ( A ( O ( A ( A a o c i a w c 3 w m T d f N i o a D o T v o a c h v i p t b a h c t T S]
+[DELETED:  2 1 U  3 a s b d p T a t A a o c p t c 3 w m t r l S 3 ( O e m t o o a l s p l ( O r S A a ( B 3 ( B ( ( ( H o a ( H l s s h o i o b a s o n o]
+[DELETED:  3 1 U  T a S 3 ( " p ( " ( A ( A ( A ( A ( " ( C ( L o ( L ( " ( " c r c d a a r b e m s a a p a n ( " m ( " ( A ( A ( A ( A ( A ( A ( " p a b a p p a o n p l S]
+[DELETED:  4 1 U  3 T b m d t i o r o a l o c a m s o r a l o c i u t c ( P m o i v o t p o t c a r p ( I ( H ( H ( H c ( H s ( H c ( P e m s w a f a p p ( F a S 3 ( P s ( S i ( E E e ( P f t r o a o c a E c ( E p f t a o t e m s p ( R a]
+[DELETED:  5 1 U  ( E a ( E ( E a t r a c f i o a c ( P p a s r f a p w a c ( E t a s a t p b e m s S 3 r o ( C o d f u c o d c d ( A e o t i N R o E M T ( H ( A ( J ( C ( H ( B ( H ( W ( E ( O F S T ( C ( A]
+
+
+================================================================================
+
+Raw Text:
+1024A 101st Legislative Session 1024
+2026 South Dakota Legislature
+House Bill 1024
+AMENDME NT 1024A
+FOR THE INTRODUCED BILL
+Introduced by: Representatives Walburg, Emery, Garcia, Hunt, and Kull and Senators Grove, Reed, and Voight at
+the request of the Study Committee on Emergency Medical Services
+1 An Act to modify requirements for ambulance operators.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. That § 32-17-42 be AMENDED:
+4 32-17-42. A motor vehicle may be equipped with blue lights if it is:
+5 (1) Authorized by the Department of Transportation;
+6 (2) A tow truck or wrecker as defined in § 32-17-10; or
+7 (3) Operated by:
+8 (a) A member of a fire department or search and rescue unit; or
+9 (b) An ambulance operator certified in accordance with chapter 36-4B who
+10 meets the requirements of section 4 of this Act.
+11 This provision does not relieve the driver of the vehicle from the duty to drive with
+12 due regard for the safety of all persons using the street, nor does it protect the driver
+13 from the consequence of a reckless disregard for the safety of others.
+14 No person may use a blue light unless the person is authorized by this chapter and
+15 is operating a Department of Transportation vehicle or a county highway vehicle in
+16 performance of winter highway maintenance duties, or the person is actually en route to
+17 the scene of a fire or other emergency requiring the person's services and the person has
+18 been authorized in writing to use a blue light. Authorization for use of a blue light in
+19 accordance with this chapter may be given by the Department of Transportation, the
+20 highway patrol, a county highway superintendent, the chief of a fire department, the
+21 coordinator of a search and rescue unit, or the director of an ambulance service, and only
+22 to members of the department or service who are in good standing.
+23 The use of a blue light in violation of this section is a Class 2 misdemeanor.
+24 Section 2. That § 32-31-4 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1024A 2 1024
+1 32-31-4. The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not
+2 apply to any authorized emergency vehicle responding to an emergency call if the driver
+3 sounds an audible siren or air horn, or both, or displays flashing, oscillating, or rotating
+4 beams of red light, or combinations of red, blue, or white light, visible one hundred eighty
+5 degrees to the front of the vehicle. The lights must be capable of warning the public of the
+6 presence of an emergency vehicle under normal atmospheric conditions.
+7 The speed limits set forth in §§ 32-25-1.1 to 32-25-17, inclusive, do not apply to
+8 authorized emergency vehicles operated by law enforcement officers who are measuring
+9 the speed of other vehicles by use of the emergency vehicle speedometer.
+10 An ambulance operator certified pursuant to chapter 36-4B who meets the
+11 requirements of section 4 of this Act may operate an ambulance in excess of the speed
+12 limit without audible signals while operating outside the city limits of a municipality.
+13 Section 3. That § 34-11-12 be AMENDED:
+14 34-11-12. Each ambulance run must include:
+15 (1) One emergency medical technician or one advanced life support personnel,
+16 licensed pursuant to chapter 36-4B; and
+17 (2) One ambulance operator certified in accordance with chapter 36-4B who meets the
+18 requirements of section 4 of this Act.
+19 Section 4. That a NEW SECTION be added to chapter 34-11:
+20 An ambulance operator must be eighteen years or older, possess a driver's license,
+21 and:
+22 (1) Be licensed as emergency medical services personnel in accordance with chapter
+23 36-4B;
+24 (2) Be a firefighter;
+25 (2)(3) Be a law enforcement officer, as defined in § 23-3-27; or
+26 (3)(4) Provide documentation to the ambulance service that the individual:
+27 (a) Has completed training in cardiopulmonary resuscitation offered by a state
+28 or national organization and approved by the medical or program director;
+29 and
+30 (b) Has completed an emergency vehicle operator course, which consists of at
+31 least sixteen six hours of instruction, offered by a state or national
+32 organization, and approved by the medical or program director.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1024A 3 1024
+1 The ambulance service shall maintain the documentation required by this section
+2 and shall provide it to the department, upon request.
+3 Section 5. That § 36-4B-1 be AMENDED:
+4 36-4B-1. Terms used in this chapter mean:
+5 (1) "Advanced life support," a level of emergency care consisting of basic life support
+6 procedures and definitive therapy;
+7 (2) "Advanced life support personnel," a person licensed by the board as:
+8 (a) An emergency medical technician-intermediate/85;
+9 (b) An emergency medical technician-intermediate/99;
+10 (c) An advanced emergency medical technician; or
+11 (d) A paramedic;
+12 (3) "Basic life support personnel," a person licensed by the board as:
+13 (a) Certified by the board as an ambulance operator;
+14 (b) Licensed by the board as an emergency An emergency medical responder;
+15 or
+16 (c)(b) Licensed by the board as an emergency An emergency medical technician;
+17 (4) "Board," the State Board of Medical and Osteopathic Examiners;
+18 (5) "Direct control," real-time communications during an ambulance run between
+19 emergency medical services personnel and a physician, physician assistant, or
+20 nurse practitioner, licensed in this state;
+21 (6) "Emergency medical services," health care provided to a patient by emergency
+22 medical services personnel;
+23 (7) "Emergency medical services personnel," a person licensed by the board as:
+24 (a) An emergency medical responder;
+25 (b) An emergency medical technician;
+26 (c) An emergency medical technician-intermediate/85;
+27 (d) An emergency medical technician-intermediate/99;
+28 (e) An advanced emergency medical technician; or
+29 (f) A paramedic; and
+30 (8) "Indirect control," the establishment and implementation of guidelines, policies, and
+31 protocols approved by a physician, physician assistant, or nurse practitioner,
+32 licensed in this state.
+33 Section 6. That § 36-4B-31 be AMENDED:
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1024A 4 1024
+1 36-4B-31. The board may deny the issuance or renewal of a license or
+2 certification, and may suspend or revoke a license or certification issued under this
+3 chapter, if the individual:
+4 (1) Procures or attempts to procure a license or certification through fraud, deceit,
+5 misrepresentation, or in violation of the provisions of this chapter and rules
+6 promulgated thereunder;
+7 (2) Is unable to perform the skills for which the individual is licensed;
+8 (3) Has engaged in unprofessional or dishonorable conduct, as defined in § 36-4-30;
+9 (4) Has been convicted of a felony that:
+10 (a) Has a direct bearing upon the individual's ability to serve the public in a
+11 capacity certified or licensed by this chapter; or
+12 (b) Has been convicted of a crime that requires the individual to register as a
+13 sex offender in any state;
+14 (5) Has had the individual's National Registry of Emergency Technicians or other health
+15 care certification or license encumbered for any reason;
+16 (6) Provides emergency medical services without authorization from a physician,
+17 physician assistant, or nurse practitioner; or
+18 (7) Fails to respond to an emergency while on call through willful disregard and not by
+19 a good-faith error or circumstances beyond the individual's control.
+20 Section 7. That § 36-4B-35 be AMENDED:
+21 36-4B-35. The board shall promulgate rules, pursuant to chapter 1-26, to:
+22 (1) Provide for an application form and process for the licensure of emergency medical
+23 services personnel and the certification of ambulance operators;
+24 (2) Set forth Establish criteria for educational and training program approval, including
+25 instructor qualifications, student acceptance, and clinical requirements;
+26 (3) Establish the educational and training requirements, and the National Registry of
+27 Emergency Medical Technicians requirements, for applicants seeking licensure as
+28 emergency medical services personnel;
+29 (4) Provide for the renewal of ambulance operator certification and Establish
+30 continuing education requirements for emergency medical services personnel;
+31 (5) Establish procedures for the administration of the emergency medical services
+32 personnel program;
+33 (6) Regulate the professional conduct of emergency medical services personnel and
+34 ambulance operators;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1024A 5 1024
+1 (7) Establish the educational and training requirements, and conditions for issuance of
+2 a critical care endorsement, as provided for in § 36-4B-18.1;
+3 (8) Establish the:
+4 (a) Educational and training requirements and conditions for issuance of a
+5 community paramedic endorsement; and
+6 (b) Practice protocols and supervisory requirements for a person with a
+7 community paramedic endorsement; and
+8 (9) Establish the allowable skills and techniques performed by emergency medical
+9 services personnel under direct and indirect control.
+10 Section 8. That § 36-4B-42 be AMENDED:
+11 36-4B-42. Any individual licensed or certified in accordance with this chapter must
+12 report any of the following occurrences to the board, within thirty days of the date of the
+13 occurrence:
+14 (1) Conviction or discipline for unprofessional conduct or dishonorable conduct, as
+15 defined in § 36-4-30;
+16 (2) Any encumbrance of the individual's National Registry of Emergency Medical
+17 Technicians or other health care certification or licensure;
+18 (3) Hospital disciplinary action implicating the individual;
+19 (4) Action affecting the individual's privilege to practice;
+20 (5) Judgment or settlement related to the individual's alleged malpractice; and
+21 (6) Change in the individual's:
+22 (a) Home address;
+23 (b) Business address;
+24 (c) Home phone number;
+25 (d) Work phone number;
+26 (e) Email address; or
+27 (f) Other information that is used for communicating with the board.
+28 Failure to report may constitute a basis for disciplinary action against the individual.
+29 Section 9. That § 36-4B-41 be REPEALED.
+30 The board may issue a certification as an ambulance operator to a person who:
+31 (1) Completes an emergency care course approved by the board; and
+32 (2) Applies on a form prescribed by the board.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S 3 ( A ( A ( O ( A ( A a o c i a w c 3 w m T d f N i o a D o T v o a c h v i p t b a h c t T S]
+[DELETED:  2 1 U  3 a s b d p T a t A a o c p t c 3 w m t r l S 3 ( O e m t o o a l s p l ( O r S A a ( B 3 ( B ( ( ( H o a ( H l s s h o i o b a s o n o]
+[DELETED:  3 1 U  T a S 3 ( " p ( " ( A ( A ( A ( A ( " ( C ( L o ( L ( " ( " c r c d a a r b e m s a a p a n ( " m ( " ( A ( A ( A ( A ( A ( A ( " p a b a p p a o n p l S]
+[DELETED:  4 1 U  3 T b m d t i o r o a l o c a m s o r a l o c i u t c ( P m o i v o t p o t c a r p ( I ( H ( H ( H c ( H s ( H c ( P e m s w a f a p p ( F a S 3 ( P s ( S i ( E E e ( P f t r o a o c a E c ( E p f t a o t e m s p ( R a]
+[DELETED:  5 1 U  ( E a ( E ( E a t r a c f i o a c ( P p a s r f a p w a c ( E t a s a t p b e m s S 3 r o ( C o d f u c o d c d ( A e o t i N R o E M T ( H ( A ( J ( C ( H ( B ( H ( W ( E ( O F S T ( C ( A]

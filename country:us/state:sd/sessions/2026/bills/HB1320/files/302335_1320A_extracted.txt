@@ -1,0 +1,274 @@
+Title: House Bill 1320
+Official Title: House Bill 1320
+Number of Sections: 1
+Source: versions - 1320A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1320A 101st Legislative Session 1320
+2026 South Dakota Legislature
+AMENDME NT 1320A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Randolph
+1 An Act to revise provisions a provision related to service of process for counties and
+2 boards of county commissioners.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 7-8-29 be AMENDED:
+5 7-8-29. Such appeal shall be taken within twenty days after the publication of the
+6 decision of the board by serving a written notice on one of the members of the board, as
+7 set forth in subdivision 15-6-4(d)(2)(i) upon any county administrator, commissioner,
+8 executive, treasurer, or any registered agent of the board when the appeal is taken by
+9 any person aggrieved by the decision of the board, and upon the person or persons
+10 affected by the decision of the board when the appeal is taken by the state's attorney;
+11 and the county auditor shall upon.
+12 Upon the filing of the required bond and the payment of his fees, which shall be
+13 the same as allowed registers are equal to those imposed by a register of deeds for like
+14 services, the county auditor shall make out a complete transcript of the proceedings of
+15 the board relating to the matter of its the board's decision and deliver the same transcript
+16 to the clerk of courts.
+17 Section 2. That § 15-6-4(d) be AMENDED:
+18 15-6-4(d). The summons shall be served by delivering a copy thereof. Service in
+19 the following manner shall constitute personal service:
+20 (1) If the action is against a business entity, on the president, partner or other head
+21 of the entity, officer, director, or registered agent thereof. If any of the above
+22 cannot be conveniently found, service may be made by leaving a copy of the
+23 summons and complaint at any office of such business entity within this state, with
+24 the person in charge of such office;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1320A 2 1320
+1 (i) A business entity for purposes of this subdivision shall include, but not be
+2 limited to:
+3 A. Domestic and foreign corporations;
+4 B. Domestic and foreign partnerships;
+5 C. Limited liability companies;
+6 D. Entities with fictitious names; and
+7 E. Any entity required to have a registered agent with the Secretary of
+8 State.
+9 (2) If the action is against a public corporation within this state, service may be made
+10 as follows:
+11 (i) Upon a county, by serving upon any county administrator, auditor,
+12 commissioner, executive, or any registered agent of the county or board of
+13 county commissioners. Any service made pursuant to this section
+14 constitutes service upon the county and the board of county commissioners;
+15 (ii) Upon a first or second class municipality, by serving upon the mayor or any
+16 alderman or commissioner;
+17 (iii) Upon a third class municipality, by serving upon any trustee;
+18 (iv) Upon an organized township, by serving upon any supervisor;
+19 (v) Upon any school district, by serving upon any member of the school board
+20 or board of education; and
+21 (vi) Upon a consumers power district, by serving upon any member of the board
+22 of directors;
+23 (3) If the action is against a minor, upon a parent or person having custody, and if the
+24 minor is over the age of fourteen years, then also upon such minor personally, and
+25 in any event upon the legally appointed guardian, guardian ad litem or conservator,
+26 if there is one;
+27 (4) If the action is against a person judicially declared to be mentally incompetent, or
+28 who is a patient at an institution for persons with mental illnesses or developmental
+29 disabilities or for whom a guardian or conservator has been legally appointed, upon
+30 such guardian or conservator, and upon the administrator or superintendent of
+31 such institutions for persons with mental illnesses or developmental disabilities, or
+32 person having custody, and also upon the person with mental illness or a
+33 developmental disability; provided that if the person with mental illness or a
+34 developmental disability is a patient of an institution for persons with mental
+35 illnesses or developmental disabilities, and the administrator or superintendent
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1320A 3 1320
+1 thereof shall certify in writing that service upon such person personally would be
+2 unavailing or injurious to his physical or mental well-being, and such certificate be
+3 filed, service upon such individual may be dispensed with by order of court;
+4 (5) If the action is against the state or any of its institutions, departments, or agencies,
+5 by service upon such officer or employee as may be designated by the statute
+6 authorizing such action, and upon the attorney general. In all matters involving
+7 title to land owned or held in trust by the state or any of its institutions,
+8 departments, or agencies, upon the commissioner of school and public lands and
+9 the attorney general. In all matters other than those involving title to such lands,
+10 if no officer or employee is designated, then upon the Governor and the attorney
+11 general. Any of such officers or employees referred to in § 15-6-4 may admit
+12 service of the summons with the same legal effect as if it had been personally
+13 served upon them by an officer or elector;
+14 (6) If the action is against a state officer, employee or agent arising out of his office,
+15 employment or agency, a copy of the summons and complaint shall be mailed,
+16 certified mail, postage prepaid to the attorney general together with an admission
+17 of service and a return envelope, postage prepaid, addressed to the sender. The
+18 executed admission of service shall be filed by the sender in accordance with § 15-
+19 6-5(d);
+20 (7) Whenever the manner of service of process is specified in any statute or rule
+21 relating to any action, remedy or special proceedings the manner of service so
+22 specified shall be followed;
+23 (8) In all other cases, to the defendant personally; and
+24 (9) If the action is against a person or business entity in a foreign country, service may
+25 be made as follows:
+26 (i) By an internationally agreed means reasonably calculated to give notice,
+27 such as those means authorized by the Hague Convention on the service
+28 abroad of judicial and extrajudicial documents; or
+29 (ii) If there is no internationally agreed means of service, service reasonably
+30 calculated to give notice may be made:
+31 (A) In the manner prescribed by the law of the foreign country for
+32 service in that country in an action in any of its courts of general
+33 jurisdiction;
+34 (B) As directed by the foreign authority in response to a letter rogatory
+35 or letter request; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+1320A 4 1320
+1 (C) Unless prohibited by the law of the foreign country; by delivery to
+2 the individual personally; upon a corporation, limited liability
+3 company, limited partnership or partnership or association, by
+4 delivery to an officer, or a managing, general or registered agent;
+5 or by any form of mail requiring a signed receipt; or
+6 (iii) As directed by the court.
+7 Service under this subdivision may be made by any person authorized by § 15-6-
+8 4(c), anyone duly authorized to serve lawful summons by the law of the country where
+9 service is to be made, pursuant to the applicable treaty or convention, or by anyone
+10 designated by order of the court or the foreign court. Proof of service may be made as
+11 prescribed in § 15-6-4(g), pursuant to the applicable treaty or convention, by order of the
+12 court, or by law of the foreign country. Proof of service by mail shall include an affidavit
+13 or certificate of addressing and mailing.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  A bLSSD: E T O A S 7 d s e a a b d o t b a u t p o p a a U t s t t S 1 t ( I o c b c f m b m b a c o s t]
+[DELETED:  2 1 U  ( A l A D B D C L D E E A S ( I a ( U a c b s u a c a a c c c A s m p t t s c ( U a ( U ( U ( U o ( U o ( I m i i ( I w d s s p h c a a u t p w m i o a d d p t i t p w m i o a d d i a p o a i f p w m i o s]
+[DELETED:  3 1 U  t u f ( I b a t t l o o h i t b t s o a o i i d t i g o o e r t i § m s s ( I e c o e 6 ( W t m o o i s i a s o r r s ( I ( I b ( B s a ( I c ( I t m p b t l o t f c f s j ( A o]
+[DELETED:  4 1 U  ( U t i p u a c l l c l p o p o a b d o ( A S 4 s d p c o]
+
+
+================================================================================
+
+Raw Text:
+1320A 101st Legislative Session 1320
+2026 South Dakota Legislature
+House Bill 1320
+AMENDME NT 1320A
+FOR THE INTRODUCED BILL
+Introduced by: Representative Randolph
+1 An Act to revise provisions a provision related to service of process for counties and
+2 boards of county commissioners.
+3 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+4 Section 1. That § 7-8-29 be AMENDED:
+5 7-8-29. Such appeal shall be taken within twenty days after the publication of the
+6 decision of the board by serving a written notice on one of the members of the board, as
+7 set forth in subdivision 15-6-4(d)(2)(i) upon any county administrator, commissioner,
+8 executive, treasurer, or any registered agent of the board when the appeal is taken by
+9 any person aggrieved by the decision of the board, and upon the person or persons
+10 affected by the decision of the board when the appeal is taken by the state's attorney;
+11 and the county auditor shall upon.
+12 Upon the filing of the required bond and the payment of his fees, which shall be
+13 the same as allowed registers are equal to those imposed by a register of deeds for like
+14 services, the county auditor shall make out a complete transcript of the proceedings of
+15 the board relating to the matter of its the board's decision and deliver the same transcript
+16 to the clerk of courts.
+17 Section 2. That § 15-6-4(d) be AMENDED:
+18 15-6-4(d). The summons shall be served by delivering a copy thereof. Service in
+19 the following manner shall constitute personal service:
+20 (1) If the action is against a business entity, on the president, partner or other head
+21 of the entity, officer, director, or registered agent thereof. If any of the above
+22 cannot be conveniently found, service may be made by leaving a copy of the
+23 summons and complaint at any office of such business entity within this state, with
+24 the person in charge of such office;
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1320A 2 1320
+1 (i) A business entity for purposes of this subdivision shall include, but not be
+2 limited to:
+3 A. Domestic and foreign corporations;
+4 B. Domestic and foreign partnerships;
+5 C. Limited liability companies;
+6 D. Entities with fictitious names; and
+7 E. Any entity required to have a registered agent with the Secretary of
+8 State.
+9 (2) If the action is against a public corporation within this state, service may be made
+10 as follows:
+11 (i) Upon a county, by serving upon any county administrator, auditor,
+12 commissioner, executive, or any registered agent of the county or board of
+13 county commissioners. Any service made pursuant to this section
+14 constitutes service upon the county and the board of county commissioners;
+15 (ii) Upon a first or second class municipality, by serving upon the mayor or any
+16 alderman or commissioner;
+17 (iii) Upon a third class municipality, by serving upon any trustee;
+18 (iv) Upon an organized township, by serving upon any supervisor;
+19 (v) Upon any school district, by serving upon any member of the school board
+20 or board of education; and
+21 (vi) Upon a consumers power district, by serving upon any member of the board
+22 of directors;
+23 (3) If the action is against a minor, upon a parent or person having custody, and if the
+24 minor is over the age of fourteen years, then also upon such minor personally, and
+25 in any event upon the legally appointed guardian, guardian ad litem or conservator,
+26 if there is one;
+27 (4) If the action is against a person judicially declared to be mentally incompetent, or
+28 who is a patient at an institution for persons with mental illnesses or developmental
+29 disabilities or for whom a guardian or conservator has been legally appointed, upon
+30 such guardian or conservator, and upon the administrator or superintendent of
+31 such institutions for persons with mental illnesses or developmental disabilities, or
+32 person having custody, and also upon the person with mental illness or a
+33 developmental disability; provided that if the person with mental illness or a
+34 developmental disability is a patient of an institution for persons with mental
+35 illnesses or developmental disabilities, and the administrator or superintendent
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1320A 3 1320
+1 thereof shall certify in writing that service upon such person personally would be
+2 unavailing or injurious to his physical or mental well-being, and such certificate be
+3 filed, service upon such individual may be dispensed with by order of court;
+4 (5) If the action is against the state or any of its institutions, departments, or agencies,
+5 by service upon such officer or employee as may be designated by the statute
+6 authorizing such action, and upon the attorney general. In all matters involving
+7 title to land owned or held in trust by the state or any of its institutions,
+8 departments, or agencies, upon the commissioner of school and public lands and
+9 the attorney general. In all matters other than those involving title to such lands,
+10 if no officer or employee is designated, then upon the Governor and the attorney
+11 general. Any of such officers or employees referred to in § 15-6-4 may admit
+12 service of the summons with the same legal effect as if it had been personally
+13 served upon them by an officer or elector;
+14 (6) If the action is against a state officer, employee or agent arising out of his office,
+15 employment or agency, a copy of the summons and complaint shall be mailed,
+16 certified mail, postage prepaid to the attorney general together with an admission
+17 of service and a return envelope, postage prepaid, addressed to the sender. The
+18 executed admission of service shall be filed by the sender in accordance with § 15-
+19 6-5(d);
+20 (7) Whenever the manner of service of process is specified in any statute or rule
+21 relating to any action, remedy or special proceedings the manner of service so
+22 specified shall be followed;
+23 (8) In all other cases, to the defendant personally; and
+24 (9) If the action is against a person or business entity in a foreign country, service may
+25 be made as follows:
+26 (i) By an internationally agreed means reasonably calculated to give notice,
+27 such as those means authorized by the Hague Convention on the service
+28 abroad of judicial and extrajudicial documents; or
+29 (ii) If there is no internationally agreed means of service, service reasonably
+30 calculated to give notice may be made:
+31 (A) In the manner prescribed by the law of the foreign country for
+32 service in that country in an action in any of its courts of general
+33 jurisdiction;
+34 (B) As directed by the foreign authority in response to a letter rogatory
+35 or letter request; or
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+1320A 4 1320
+1 (C) Unless prohibited by the law of the foreign country; by delivery to
+2 the individual personally; upon a corporation, limited liability
+3 company, limited partnership or partnership or association, by
+4 delivery to an officer, or a managing, general or registered agent;
+5 or by any form of mail requiring a signed receipt; or
+6 (iii) As directed by the court.
+7 Service under this subdivision may be made by any person authorized by § 15-6-
+8 4(c), anyone duly authorized to serve lawful summons by the law of the country where
+9 service is to be made, pursuant to the applicable treaty or convention, or by anyone
+10 designated by order of the court or the foreign court. Proof of service may be made as
+11 prescribed in § 15-6-4(g), pursuant to the applicable treaty or convention, by order of the
+12 court, or by law of the foreign country. Proof of service by mail shall include an affidavit
+13 or certificate of addressing and mailing.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  A bLSSD: E T O A S 7 d s e a a b d o t b a u t p o p a a U t s t t S 1 t ( I o c b c f m b m b a c o s t]
+[DELETED:  2 1 U  ( A l A D B D C L D E E A S ( I a ( U a c b s u a c a a c c c A s m p t t s c ( U a ( U ( U ( U o ( U o ( I m i i ( I w d s s p h c a a u t p w m i o a d d p t i t p w m i o a d d i a p o a i f p w m i o s]
+[DELETED:  3 1 U  t u f ( I b a t t l o o h i t b t s o a o i i d t i g o o e r t i § m s s ( I e c o e 6 ( W t m o o i s i a s o r r s ( I ( I b ( B s a ( I c ( I t m p b t l o t f c f s j ( A o]
+[DELETED:  4 1 U  ( U t i p u a c l l c l p o p o a b d o ( A S 4 s d p c o]

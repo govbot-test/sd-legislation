@@ -1,0 +1,57 @@
+Title: Senate Bill 119
+Official Title: Senate Bill 119
+Number of Sections: 1
+Source: versions - 119D
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+119D 101st Legislative Session 119
+2026 South Dakota Legislature
+AMENDME NT 119D
+FOR THE SENATE ENGROSSED BILL
+Introduced by: Senator Otten
+1 An Act to create the capitol restoration fund and to transfer moneys thereto.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. The state treasurer shall transfer $101 $1,100,000 from the general fund public
+4 buildings fund, created in § 5-15-29.2 to the capitol restoration fund, created in section 2 of
+5 this Act.
+6 Section 2. That a NEW SECTION be added to chapter 5-15:
+7 There is created the capitol restoration fund, to be administered by the Bureau of
+8 Human Resources and Administration, for the purpose of restoring, renovating, and
+9 improving the state capitol building.
+10 Expenditures from the fund must be by special appropriation of the Legislature.
+11 Any interest earned on moneys in the fund must remain in the fund.
+12 Section 3. This Act is effective June 29, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+[DELETED:  1 1 U  ALSSD: E T O A S b t S T H R a A f t p o r r a i E A S]
+
+
+================================================================================
+
+Raw Text:
+119D 101st Legislative Session 119
+2026 South Dakota Legislature
+Senate Bill 119
+AMENDME NT 119D
+FOR THE SENATE ENGROSSED BILL
+Introduced by: Senator Otten
+1 An Act to create the capitol restoration fund and to transfer moneys thereto.
+2 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+3 Section 1. The state treasurer shall transfer $101 $1,100,000 from the general fund public
+4 buildings fund, created in § 5-15-29.2 to the capitol restoration fund, created in section 2 of
+5 this Act.
+6 Section 2. That a NEW SECTION be added to chapter 5-15:
+7 There is created the capitol restoration fund, to be administered by the Bureau of
+8 Human Resources and Administration, for the purpose of restoring, renovating, and
+9 improving the state capitol building.
+10 Expenditures from the fund must be by special appropriation of the Legislature.
+11 Any interest earned on moneys in the fund must remain in the fund.
+12 Section 3. This Act is effective June 29, 2026.
+Underscores indicate new language.
+Overstrikes indicate deleted language.
+
+[DELETED:  1 1 U  ALSSD: E T O A S b t S T H R a A f t p o r r a i E A S]
